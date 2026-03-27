@@ -1,5 +1,6 @@
 ---
-repo: "company-graph"
+repo: "twcompany"
+also: "company-graph"
 title: "台灣公司資料"
 date: "2014-01-10"
 updated: "2023-04-21"
