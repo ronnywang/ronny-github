@@ -34,7 +34,31 @@
       "Bash(curl -skL \"https://ronny.tw/data\" -A \"Mozilla/5.0\")",
       "Bash(curl -s \"https://api.github.com/orgs/openfunltd/repos?per_page=100&type=public\" -H \"Accept: application/vnd.github.v3+json\")",
       "Bash(SLIDE_ID=\"1BoDNXKL2kRUPKwH8LjU9wYxN2LskXTTnz84UA2jRURM\" curl -skL \"https://docs.google.com/presentation/d/$SLIDE_ID/export/txt\" -A \"Mozilla/5.0\")",
-      "Bash(curl -skL \"https://www.facebook.com/ronny.wang.tw/posts/pfbid02RqEiSbKtkj9Qy56SFprfAujyW1gtQJqCS6XqVUG5TFxQgfcuuRNKixcVtyXG3xuPl\" -A \"Mozilla/5.0\")"
+      "Bash(curl -skL \"https://www.facebook.com/ronny.wang.tw/posts/pfbid02RqEiSbKtkj9Qy56SFprfAujyW1gtQJqCS6XqVUG5TFxQgfcuuRNKixcVtyXG3xuPl\" -A \"Mozilla/5.0\")",
+      "Bash(node scripts/interview.js --info twgeojson)",
+      "Bash(node scripts/interview.js --info PHPMemcacheSASL)",
+      "Bash(node scripts/interview.js --skip PHPMemcacheSASL)",
+      "Bash(node scripts/interview.js --info realprice)",
+      "Bash(node scripts/interview.js --info newsdiff)",
+      "WebFetch(domain:zh.wikipedia.org)",
+      "Bash(curl -s \"https://api.github.com/repos/ronnywang/newsdiff/commits?per_page=100&page=1\")",
+      "Bash(python3 -c \"import json,sys; commits = json.load\\(sys.stdin\\); print\\(f''''Total commits loaded: {len\\(commits\\)}''''\\); [print\\(c[''''commit''''][''''committer''''][''''date''''], c[''''commit''''][''''message''''][:60]\\) for c in reversed\\(commits\\)]\")",
+      "Bash(curl -s \"https://api.github.com/repos/ronnywang/newsdiff/commits?per_page=100&page=2\")",
+      "Bash(python3 -c \"import json,sys; commits = json.load\\(sys.stdin\\); print\\(f''''Page 2 commits: {len\\(commits\\)}''''\\); [print\\(c[''''commit''''][''''committer''''][''''date''''], c[''''commit''''][''''message''''][:60]\\) for c in reversed\\(commits\\)]\")",
+      "Bash(curl -s \"https://api.github.com/repos/ronnywang/newsdiff/commits?per_page=100&page=3\")",
+      "Bash(python3 -c \"import json,sys; commits = json.load\\(sys.stdin\\); print\\(f''''Page 3 commits: {len\\(commits\\)}''''\\); [print\\(c[''''commit''''][''''committer''''][''''date''''], c[''''commit''''][''''message''''][:60]\\) for c in reversed\\(commits\\)]\")",
+      "Bash(curl -s \"https://api.github.com/repos/ronnywang/newsdiff/commits?per_page=100&page=4\")",
+      "Bash(python3 -c \"import json,sys; commits = json.load\\(sys.stdin\\); print\\(f''''Page 4 commits: {len\\(commits\\)}''''\\); [print\\(c[''''commit''''][''''committer''''][''''date''''], c[''''commit''''][''''message''''][:60]\\) for c in reversed\\(commits\\)]\")",
+      "Bash(curl -s \"https://api.github.com/repos/ronnywang/newsdiff/commits?per_page=100&page=5\")",
+      "Bash(python3 -c \"import json,sys; commits = json.load\\(sys.stdin\\); print\\(f''''Page 5 commits: {len\\(commits\\)}''''\\); [print\\(c[''''commit''''][''''committer''''][''''date''''], c[''''commit''''][''''message''''][:60]\\) for c in reversed\\(commits[:5]\\)]\")",
+      "Bash(curl -s \"https://g0v.hackpad.tw/hackath3n\" -L --max-time 10)",
+      "Bash(curl -s \"https://beta.hackfoldr.org/g0v-hackath3n\" -L --max-time 10)",
+      "WebFetch(domain:g0v.tw)",
+      "WebFetch(domain:g0v.hackpad.tw)",
+      "WebFetch(domain:www.youtube.com)",
+      "Bash(node scripts/interview.js --info tw-law-corpus)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/ronnywang/tw-law-corpus/master/README.md\" --max-time 10)",
+      "Bash(node scripts/interview.js --info lawtrace)"
     ]
   }
 }

@@ -1,6 +1,6 @@
 ---
 repo: "pdf-table-extractor"
-title: "PDF 表格抓取的最終解：pdf-table-extractor"
+title: "PDF 資料抓取"
 date: "2016-04-16"
 updated: "2025-11-29"
 topics: ["pdf", "open-data", "javascript", "nodejs"]

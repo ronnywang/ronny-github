@@ -1,6 +1,6 @@
 ---
 repo: "company-graph"
-title: "台灣公司關係圖：從塑化劑事件到財團網絡視覺化"
+title: "台灣公司資料"
 date: "2014-01-10"
 updated: "2023-04-21"
 topics: ["open-data", "company", "graph", "g0v"]
