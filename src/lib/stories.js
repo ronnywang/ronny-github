@@ -16,6 +16,8 @@ function parseFrontmatter(raw) {
   const data = {};
 
   for (const line of yamlStr.split('\n')) {
+    // 跳過縮排行（巢狀 YAML），只解析頂層欄位
+    if (line.match(/^\s+/)) continue;
     const colonIdx = line.indexOf(':');
     if (colonIdx === -1) continue;
     const key = line.slice(0, colonIdx).trim();
