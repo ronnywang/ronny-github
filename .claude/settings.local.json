@@ -59,7 +59,14 @@
       "Bash(node scripts/interview.js --info tw-law-corpus)",
       "Bash(curl -s \"https://raw.githubusercontent.com/ronnywang/tw-law-corpus/master/README.md\" --max-time 10)",
       "Bash(node scripts/interview.js --info lawtrace)",
-      "WebFetch(domain:openfun.tw)"
+      "WebFetch(domain:openfun.tw)",
+      "Bash(curl -s \"https://api.github.com/orgs/g0v\")",
+      "Bash(python3 scripts/fetch_g0v_ronnywang_commits.py)",
+      "Bash(python3 -c \"import json,sys; [print\\(list\\(json.loads\\(l\\).keys\\(\\)\\)\\) for l in sys.stdin]\")",
+      "Bash(python3:*)",
+      "Bash(node scripts/interview.js --stats)",
+      "Bash(node scripts/interview.js --list --all)",
+      "Bash(npm install:*)"
     ]
   }
 }

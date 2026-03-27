@@ -18,13 +18,49 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 
-const REPOS_FILE     = join(ROOT, 'data', 'repos.json');
-const READMES_DIR    = join(ROOT, 'data', 'readmes');
-const STORIES_DIR    = join(ROOT, 'content', 'stories');
-const SKIPPED_FILE   = join(ROOT, 'data', 'skipped.json');
-const HACKATHON_FILE = join(ROOT, 'data', 'hackathon-links.json');
+const REPOS_FILE        = join(ROOT, 'data', 'repos.json');
+const OPENFUN_FILE      = join(ROOT, 'data', 'openfunltd-repos.json');
+const G0V_FILE          = join(ROOT, 'data', 'g0v-ronnywang-repos.json');
+const READMES_DIR       = join(ROOT, 'data', 'readmes');
+const STORIES_DIR       = join(ROOT, 'content', 'stories');
+const SKIPPED_FILE      = join(ROOT, 'data', 'skipped.json');
+const HACKATHON_FILE    = join(ROOT, 'data', 'hackathon-links.json');
 
-function loadRepos()      { return JSON.parse(readFileSync(REPOS_FILE, 'utf-8')); }
+function loadRepos() {
+  // 合併三個來源，統一格式
+  const ronnywang = JSON.parse(readFileSync(REPOS_FILE, 'utf-8'));
+
+  const openfun = existsSync(OPENFUN_FILE)
+    ? JSON.parse(readFileSync(OPENFUN_FILE, 'utf-8')).map(r => ({
+        ...r,
+        stars: r.stars ?? r.stargazers_count ?? 0,
+        org: 'openfunltd',
+      }))
+    : [];
+
+  const g0v = existsSync(G0V_FILE)
+    ? JSON.parse(readFileSync(G0V_FILE, 'utf-8')).map(r => ({
+        name: r.name || r.repo?.split('/')[1] || r.repo,
+        full_name: r.full_name || r.repo,
+        org: 'g0v',
+        description: r.description || '',
+        html_url: r.html_url || `https://github.com/${r.repo || r.full_name}`,
+        homepage: r.homepage || '',
+        language: r.language || '',
+        topics: r.topics || [],
+        stars: r.stars ?? 0,
+        forks: r.forks ?? 0,
+        is_fork: r.is_fork ?? false,
+        forked_from: r.forked_from || '',
+        created_at: r.created_at || '',
+        updated_at: r.updated_at || '',
+        pushed_at: r.pushed_at || '',
+        commits_by_ronnywang: r.commits_by_ronnywang,
+      }))
+    : [];
+
+  return [...ronnywang, ...openfun, ...g0v];
+}
 function loadSkipped()    { return existsSync(SKIPPED_FILE) ? JSON.parse(readFileSync(SKIPPED_FILE, 'utf-8')) : []; }
 function saveSkipped(arr) { writeFileSync(SKIPPED_FILE, JSON.stringify(arr, null, 2), 'utf-8'); }
 function hasStory(name)   { return existsSync(join(STORIES_DIR, `${name}.md`)); }

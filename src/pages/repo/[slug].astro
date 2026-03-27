@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import RepoCard from '../../components/RepoCard.astro';
 import { getAllStories, getStoryBySlug } from '../../lib/stories.js';
+import { marked } from 'marked';
 
 export async function getStaticPaths() {
   const stories = getAllStories();
@@ -26,6 +27,7 @@ const related = all
 
 const year = story.date ? story.date.slice(0, 4) : '';
 const topics = Array.isArray(story.topics) ? story.topics : [];
+const contentHtml = story.content ? marked.parse(story.content) : '';
 ---
 
 <BaseLayout title={`${story.slug} — Ronny 的開源回憶錄`} description={story.summary || ''}>
@@ -98,11 +100,7 @@ const topics = Array.isArray(story.topics) ? story.topics : [];
 
     <!-- Story content -->
     {story.content ? (
-      <div class="prose prose-stone max-w-none text-stone-700 leading-relaxed text-[1.05rem] space-y-4 mb-12">
-        {story.content.split('\n\n').map(para => (
-          <p>{para}</p>
-        ))}
-      </div>
+      <div class="prose prose-stone max-w-none mb-12" set:html={contentHtml} />
     ) : (
       <div class="bg-stone-100 rounded-xl p-6 mb-12 text-stone-500">
         這個專案尚未有故事。執行 <code class="font-mono">npm run interview -- --repo {story.slug}</code> 來補充。
