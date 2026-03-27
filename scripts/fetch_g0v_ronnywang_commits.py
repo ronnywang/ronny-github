@@ -13,13 +13,26 @@ from collections import defaultdict
 from pathlib import Path
 
 OUTPUT_FILE = "/Users/wangxiangrong/work/ronny-github/data/g0v-ronnywang-repos.json"
-SLEEP_BETWEEN_REQUESTS = 7  # seconds
+SLEEP_BETWEEN_REQUESTS = 1  # seconds (faster with token: 5000 req/hr)
+
+# Read token from .env
+def load_token():
+    env_path = Path(__file__).parent.parent / ".env"
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            if line.startswith("GITHUB_TOKEN="):
+                return line.split("=", 1)[1].strip()
+    return None
+
+GITHUB_TOKEN = load_token()
 
 def make_request(url):
     """Make a GitHub API request and return (data, rate_limit_remaining)."""
     req = urllib.request.Request(url)
     req.add_header("Accept", "application/vnd.github.cloak-preview+json")
     req.add_header("User-Agent", "ronnywang-g0v-research-script")
+    if GITHUB_TOKEN:
+        req.add_header("Authorization", f"token {GITHUB_TOKEN}")
 
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
@@ -60,11 +73,10 @@ def fetch_all_commits():
             break
 
         # Rate limit check
-        if rate_remaining <= 2:
+        if rate_remaining <= 5:
             print(f"  Rate limit low ({rate_remaining} remaining). Sleeping 60 seconds...")
             time.sleep(60)
         else:
-            print(f"  Sleeping {SLEEP_BETWEEN_REQUESTS}s...")
             time.sleep(SLEEP_BETWEEN_REQUESTS)
 
         page += 1

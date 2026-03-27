@@ -6,6 +6,20 @@ export default {
       fontFamily: {
         sans: ['"Noto Sans TC"', 'ui-sans-serif', 'system-ui'],
       },
+      typography: {
+        DEFAULT: {
+          css: {
+            'code::before': { content: 'none' },
+            'code::after': { content: 'none' },
+          },
+        },
+        stone: {
+          css: {
+            'code::before': { content: 'none' },
+            'code::after': { content: 'none' },
+          },
+        },
+      },
     },
   },
   plugins: [
