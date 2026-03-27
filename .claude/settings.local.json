@@ -58,7 +58,8 @@
       "WebFetch(domain:www.youtube.com)",
       "Bash(node scripts/interview.js --info tw-law-corpus)",
       "Bash(curl -s \"https://raw.githubusercontent.com/ronnywang/tw-law-corpus/master/README.md\" --max-time 10)",
-      "Bash(node scripts/interview.js --info lawtrace)"
+      "Bash(node scripts/interview.js --info lawtrace)",
+      "WebFetch(domain:openfun.tw)"
     ]
   }
 }
