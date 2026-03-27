@@ -32,4 +32,6 @@ hackathon:
 
 求職小幫手也陸續在多個場合被分享。2013 年 8 月在 [COSCUP](https://docs.google.com/presentation/d/1jmZnPD_qHqnjTdvwr5D264_uYaPwr8CSPHzq-YuP62o/edit?slide=id.p#slide=id.p) 上做了完整介紹；2017 年 12 月 23 日在「科技業站出來團結日」活動上也以此為題[發表演講](https://docs.google.com/presentation/d/11i0VDdaFTEBVE6rn8kGBp5KYfH7LxoXumS72PaVOa4E/edit?slide=id.p#slide=id.p)，探討科技工作者可以如何運用自己的能力關注勞動議題。2018 年，在第 28 次 g0v 黑客松「高牆功德黑客松」上，求職小幫手再次被提案，繼續找人一起完善。
 
-這個專案一直沒有「完成」的一刻，因為問題的根源在於政府資料的碎片化——公告格式不一、更新頻率不同、歷史資料不保留。但它記錄了一件事：**政府公開的資訊，跟真正流通到需要的人手上，中間還有很長的距離**。
+值得一提的是，`jobhelper-backend` 除了自動化收集資料，當初設計也納入了群眾協力的概念——讓志工一起幫忙整理各縣市格式不一的資料。
+
+2017 年 12 月 29 日，勞動部終於推出了「[違反勞動法令事業單位（雇主）查詢系統](https://www.mol.gov.tw/1607/1632/2665/13507/post)」，統一整合全台違法名單，過去靠人力和工具東拼西湊的事情，政府總算做到了。某種意義上，這是一個公民科技專案完成使命、功成身退的時刻。

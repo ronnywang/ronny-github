@@ -27,7 +27,14 @@
       "Bash(curl -skL \"https://www.youtube.com/results?search_query=%E4%BD%9B%E5%BF%83%E6%B1%82%E8%81%B7%E7%A8%8B%E5%BC%8F+%E6%B0%91%E8%A6%96\" -A \"Mozilla/5.0\")",
       "Bash(curl -skL \"https://www.youtube.com/results?search_query=ronnywang+%E7%A7%91%E6%8A%80%E6%A5%AD%E7%AB%99%E5%87%BA%E4%BE%86+%E5%9C%98%E7%B5%90%E6%97%A5+2017\" -A \"Mozilla/5.0\")",
       "Bash(curl -skL \"https://www.youtube.com/watch?v=uQ0NNRTOIb4\" -A \"Mozilla/5.0\")",
-      "Bash(curl -skL \"https://www.youtube.com/results?search_query=%E7%A7%91%E6%8A%80%E6%A5%AD%E7%AB%99%E5%87%BA%E4%BE%86+%E5%9C%98%E7%B5%90%E6%97%A5+20171223+ronny\" -A \"Mozilla/5.0\")"
+      "Bash(curl -skL \"https://www.youtube.com/results?search_query=%E7%A7%91%E6%8A%80%E6%A5%AD%E7%AB%99%E5%87%BA%E4%BE%86+%E5%9C%98%E7%B5%90%E6%97%A5+20171223+ronny\" -A \"Mozilla/5.0\")",
+      "Bash(curl -skL \"https://www.mol.gov.tw/1607/1632/2665/13507/post\" -A \"Mozilla/5.0\")",
+      "Bash(node scripts/interview.js --info company-graph)",
+      "Bash(node scripts/interview.js --info twcompany)",
+      "Bash(curl -skL \"https://ronny.tw/data\" -A \"Mozilla/5.0\")",
+      "Bash(curl -s \"https://api.github.com/orgs/openfunltd/repos?per_page=100&type=public\" -H \"Accept: application/vnd.github.v3+json\")",
+      "Bash(SLIDE_ID=\"1BoDNXKL2kRUPKwH8LjU9wYxN2LskXTTnz84UA2jRURM\" curl -skL \"https://docs.google.com/presentation/d/$SLIDE_ID/export/txt\" -A \"Mozilla/5.0\")",
+      "Bash(curl -skL \"https://www.facebook.com/ronny.wang.tw/posts/pfbid02RqEiSbKtkj9Qy56SFprfAujyW1gtQJqCS6XqVUG5TFxQgfcuuRNKixcVtyXG3xuPl\" -A \"Mozilla/5.0\")"
     ]
   }
 }
