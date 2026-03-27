@@ -58,6 +58,8 @@ const colorMap = {
   teal:    { chip: 'bg-teal-50 border-teal-300 text-teal-700' },
 };
 
+const base = import.meta.env.BASE_URL;
+
 // 計算月份的水平位置（百分比）
 function monthPos(dateStr) {
   const m = parseInt(dateStr.slice(5, 7)); // 1-12
