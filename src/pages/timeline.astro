@@ -7,82 +7,83 @@ import { join } from 'path';
 
 const stories = getAllStories();
 const grouped = groupByYear(stories);
-const base = import.meta.env.BASE_URL;
 
-// 讀取 g0v 黑客松清單
 const allHackathons = JSON.parse(
   readFileSync(join(process.cwd(), 'data', 'g0v-hackathons-list.json'), 'utf-8')
 );
-
-// 讀取自辦活動場次
 const eventSessions = JSON.parse(
   readFileSync(join(process.cwd(), 'data', 'event-sessions.json'), 'utf-8')
 );
 
-// g0v 黑客松依年份分組
+// g0v 大松依年份分組
 const hackathonsByYear = {};
 for (const h of allHackathons) {
   if (!hackathonsByYear[h.year]) hackathonsByYear[h.year] = [];
   hackathonsByYear[h.year].push(h);
 }
 
-// 自辦活動依年份分組：{ year: { eventKey: [sessions] } }
+// 自辦活動依年份分組
 const eventsByYear = {};
 for (const [key, ev] of Object.entries(eventSessions)) {
   for (const s of ev.sessions) {
     const year = parseInt(s.date.slice(0, 4));
     if (!eventsByYear[year]) eventsByYear[year] = {};
     if (!eventsByYear[year][key]) eventsByYear[year][key] = [];
-    eventsByYear[year][key].push({ ...s, label: ev.label, color: ev.color });
+    eventsByYear[year][key].push({ ...s, label: ev.label, color: ev.color, key });
   }
 }
 
-// 找出故事有關聯的黑客松編號
+// 故事有關聯的黑客松編號
 const linkedTerms = new Set();
 for (const s of stories) {
   if (s.term !== undefined && s.term !== null) linkedTerms.add(Number(s.term));
 }
 
-// 合併所有年份
+// 所有年份（降冪）
 const allYears = Array.from(new Set([
   ...grouped.map(g => parseInt(g.year)),
   ...Object.keys(hackathonsByYear).map(y => parseInt(y)),
   ...Object.keys(eventsByYear).map(y => parseInt(y)),
 ])).sort((a, b) => b - a);
 
-// 顏色 map
+const months = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+
+// 顏色對照
 const colorMap = {
-  emerald: 'bg-emerald-50 border-emerald-300 text-emerald-700',
-  rose:    'bg-rose-50 border-rose-300 text-rose-700',
-  purple:  'bg-purple-50 border-purple-300 text-purple-700',
+  indigo:  { chip: 'bg-indigo-50 border-indigo-200 text-indigo-500', linked: 'bg-amber-100 border-amber-400 text-amber-800 font-semibold' },
+  emerald: { chip: 'bg-emerald-50 border-emerald-300 text-emerald-700' },
+  rose:    { chip: 'bg-rose-50 border-rose-300 text-rose-700' },
+  purple:  { chip: 'bg-purple-50 border-purple-300 text-purple-700' },
+  orange:  { chip: 'bg-orange-50 border-orange-300 text-orange-700' },
+  teal:    { chip: 'bg-teal-50 border-teal-300 text-teal-700' },
 };
+
+// 計算月份的水平位置（百分比）
+function monthPos(dateStr) {
+  const m = parseInt(dateStr.slice(5, 7)); // 1-12
+  return ((m - 0.5) / 12 * 100).toFixed(2);
+}
 ---
 
 <BaseLayout title="時間軸 — Ronny 的開源回憶錄">
   <div class="mb-8">
     <h1 class="text-2xl font-bold text-stone-900 mb-2">時間軸</h1>
     <p class="text-stone-500 mb-3">從最新到最舊，看開源旅程的演進脈絡</p>
-    <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-stone-500">
-      <span class="flex items-center gap-1.5">
-        <span class="inline-block px-2 py-0.5 rounded font-mono bg-indigo-50 border border-indigo-200 text-indigo-500">第0n</span>
-        g0v 黑客松
-      </span>
-      <span class="flex items-center gap-1.5">
-        <span class="inline-block px-2 py-0.5 rounded font-mono bg-amber-100 border border-amber-400 text-amber-800 font-semibold">第0n</span>
-        有我的專案的黑客松
-      </span>
-      <span class="flex items-center gap-1.5">
-        <span class="inline-block px-2 py-0.5 rounded font-mono bg-emerald-50 border border-emerald-300 text-emerald-700">第0n</span>
-        數位韌性松
-      </span>
-      <span class="flex items-center gap-1.5">
-        <span class="inline-block px-2 py-0.5 rounded font-mono bg-rose-50 border border-rose-300 text-rose-700">第0n</span>
-        國會松
-      </span>
-      <span class="flex items-center gap-1.5">
-        <span class="inline-block px-2 py-0.5 rounded font-mono bg-purple-50 border border-purple-300 text-purple-700">第0n</span>
-        黑魔法防禦松
-      </span>
+    <div class="flex flex-wrap gap-x-3 gap-y-1.5 text-xs text-stone-500">
+      {[
+        { cls: 'bg-indigo-50 border-indigo-200 text-indigo-500', label: 'g0v 大松' },
+        { cls: 'bg-amber-100 border-amber-400 text-amber-800', label: '有我的專案' },
+        { cls: 'bg-emerald-50 border-emerald-300 text-emerald-700', label: '數位韌性松' },
+        { cls: 'bg-rose-50 border-rose-300 text-rose-700', label: '國會松' },
+        { cls: 'bg-purple-50 border-purple-300 text-purple-700', label: '黑魔法防禦松' },
+        { cls: 'bg-orange-50 border-orange-300 text-orange-700', label: '電視松' },
+        { cls: 'bg-teal-50 border-teal-300 text-teal-700', label: '基礎建設松' },
+      ].map(({ cls, label }) => (
+        <span class="flex items-center gap-1">
+          <span class={`inline-block px-1.5 py-0.5 rounded border text-xs font-mono ${cls}`}>第0n</span>
+          {label}
+        </span>
+      ))}
     </div>
   </div>
 
@@ -91,39 +92,49 @@ const colorMap = {
       const yearHackathons = hackathonsByYear[year] || [];
       const yearEvents = eventsByYear[year] || {};
       const yearStories = grouped.find(g => g.year === String(year))?.stories || [];
-      const hasAnyContent = yearHackathons.length > 0 || Object.keys(yearEvents).length > 0 || yearStories.length > 0;
-      if (!hasAnyContent) return null;
+      if (!yearHackathons.length && !Object.keys(yearEvents).length && !yearStories.length) return null;
 
       return (
-        <section class="mb-10">
+        <section class="mb-12">
           {/* 年份標題 */}
-          <div class="flex items-center gap-4 mb-3">
+          <div class="flex items-center gap-2 mb-1">
             <div class="text-2xl font-bold text-indigo-600 w-16 shrink-0">{year}</div>
-            <div class="flex-1 h-px bg-stone-200"></div>
-            <div class="text-xs text-stone-400 flex gap-3">
-              {yearHackathons.length > 0 && <span>{yearHackathons.length} 次大松</span>}
-              {yearStories.length > 0 && <span>{yearStories.length} 個故事</span>}
+            <div class="flex-1 relative">
+              {/* 月份刻度尺 */}
+              <div class="relative h-5 border-b border-stone-200">
+                {months.map((m, i) => (
+                  <span
+                    class="absolute -bottom-0 text-[10px] text-stone-300 -translate-x-1/2 select-none"
+                    style={`left: ${((i + 0.5) / 12 * 100).toFixed(1)}%`}
+                  >
+                    {m}
+                  </span>
+                ))}
+              </div>
+            </div>
+            <div class="text-xs text-stone-400 w-16 text-right">
+              {yearStories.length > 0 && `${yearStories.length} 個故事`}
             </div>
           </div>
 
-          <div class="pl-20 space-y-1.5 mb-4">
-            {/* g0v 黑客松列 */}
+          {/* 各松的月份分布列 */}
+          <div class="ml-16 mr-16 space-y-1 mb-4">
+
+            {/* g0v 大松 */}
             {yearHackathons.length > 0 && (
-              <div class="flex flex-wrap items-center gap-1.5">
-                <span class="text-xs text-stone-400 w-20 shrink-0">g0v 黑客松</span>
-                <div class="flex flex-wrap gap-1">
+              <div class="flex items-center gap-2">
+                <a href="/ronny-github/events/g0v-hackathon" class="text-xs text-stone-400 w-16 shrink-0 hover:text-indigo-500 text-right pr-2 truncate">g0v 大松</a>
+                <div class="flex-1 relative h-6">
                   {yearHackathons.map(h => {
                     const isLinked = linkedTerms.has(h.num);
                     return (
                       <span
                         title={`${h.date}　${h.name}`}
-                        class={`inline-flex items-center px-2 py-0.5 rounded text-xs font-mono cursor-default select-none border
-                          ${isLinked
-                            ? 'bg-amber-100 border-amber-400 text-amber-800 font-semibold'
-                            : 'bg-indigo-50 border-indigo-200 text-indigo-500'
-                          }`}
+                        class={`absolute -translate-x-1/2 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-mono cursor-default select-none border leading-tight
+                          ${isLinked ? 'bg-amber-100 border-amber-400 text-amber-800 font-bold z-10' : 'bg-indigo-50 border-indigo-200 text-indigo-500'}`}
+                        style={`left: ${monthPos(h.date)}%`}
                       >
-                        第{h.num}n
+                        {h.num}n
                       </span>
                     );
                   })}
@@ -131,19 +142,23 @@ const colorMap = {
               </div>
             )}
 
-            {/* 自辦活動列 */}
+            {/* 自辦活動 */}
             {Object.entries(yearEvents).map(([key, sessions]) => (
-              <div class="flex flex-wrap items-center gap-1.5">
-                <span class="text-xs text-stone-400 w-20 shrink-0">{sessions[0].label}</span>
-                <div class="flex flex-wrap gap-1">
-                  {sessions.map(s => (
-                    <span
-                      title={s.date}
-                      class={`inline-flex items-center px-2 py-0.5 rounded text-xs font-mono cursor-default select-none border ${colorMap[s.color] || 'bg-stone-50 border-stone-300 text-stone-600'}`}
-                    >
-                      第{s.num}n
-                    </span>
-                  ))}
+              <div class="flex items-center gap-2">
+                <a href={`/ronny-github/events/${key}`} class="text-xs text-stone-400 w-16 shrink-0 hover:text-indigo-500 text-right pr-2 truncate">{sessions[0].label}</a>
+                <div class="flex-1 relative h-6">
+                  {sessions.map(s => {
+                    const cls = colorMap[s.color]?.chip || 'bg-stone-50 border-stone-300 text-stone-600';
+                    return (
+                      <span
+                        title={s.date}
+                        class={`absolute -translate-x-1/2 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-mono cursor-default select-none border leading-tight ${cls}`}
+                        style={`left: ${monthPos(s.date)}%`}
+                      >
+                        {s.num}n
+                      </span>
+                    );
+                  })}
                 </div>
               </div>
             ))}
