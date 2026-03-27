@@ -1,7 +1,33 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(node scripts/fetch-repos.js)",
+      "Bash(node scripts/fetch-readmes.js)",
+      "Bash(node scripts/link-hackathons.js)",
+      "Bash(node scripts/interview.js --list)",
+      "Bash(node scripts/interview.js --info pdf-table-extractor)",
+      "Bash(curl -s \"https://api.github.com/repositories/56373777/commits?per_page=5&sha=HEAD&page=54\")",
+      "Bash(python3 -c \":*)",
+      "Bash(curl -s \"https://api.github.com/repositories/56373777/commits?per_page=5&page=54\")",
+      "WebFetch(domain:g0v-slack-archive.g0v.ronny.tw)",
+      "WebFetch(domain:api.npmjs.org)",
+      "Bash(node -e \":*)",
+      "Bash(node scripts/interview.js --info jobhelper)",
+      "Bash(node scripts/interview.js --info jobhelper-backend)",
+      "WebFetch(domain:ronnywang.pixnet.net)",
+      "WebFetch(domain:ronny.wang)",
+      "Bash(curl -sk \"https://ronny.wang/blog/post/31872257\")",
+      "Bash(curl -sk \"https://ronnywang.pixnet.net/blog/post/31872257\")",
+      "Bash(curl -skL \"https://ronny.wang/blog/post/31872257\" -A \"Mozilla/5.0\")",
+      "Bash(grep -v \"^$\")",
+      "Bash(curl -sL \"https://docs.google.com/spreadsheets/d/1dL6_ulpjMQyBTulh946i4QcHlu8vL8VVUJ8S4odn6UM/export?format=csv&gid=0\")",
+      "Bash(curl -sk \"https://www.google.com/search?q=ronnywang+%E6%B1%82%E8%81%B7%E5%B0%8F%E5%B9%AB%E6%89%8B+%E4%BD%9B%E5%BF%83%E5%B7%A5%E7%A8%8B%E5%B8%AB&hl=zh-TW\" -A \"Mozilla/5.0\")",
+      "Bash(curl -skL \"https://www.youtube.com/results?search_query=%E6%B1%82%E8%81%B7%E5%B0%8F%E5%B9%AB%E6%89%8B+%E4%BD%9B%E5%BF%83%E5%B7%A5%E7%A8%8B%E5%B8%AB\" -A \"Mozilla/5.0\")",
+      "Bash(curl -skL \"https://www.youtube.com/results?search_query=%E4%BD%9B%E5%BF%83%E6%B1%82%E8%81%B7%E7%A8%8B%E5%BC%8F+%E6%B0%91%E8%A6%96\" -A \"Mozilla/5.0\")",
+      "Bash(curl -skL \"https://www.youtube.com/results?search_query=ronnywang+%E7%A7%91%E6%8A%80%E6%A5%AD%E7%AB%99%E5%87%BA%E4%BE%86+%E5%9C%98%E7%B5%90%E6%97%A5+2017\" -A \"Mozilla/5.0\")",
+      "Bash(curl -skL \"https://www.youtube.com/watch?v=uQ0NNRTOIb4\" -A \"Mozilla/5.0\")",
+      "Bash(curl -skL \"https://www.youtube.com/results?search_query=%E7%A7%91%E6%8A%80%E6%A5%AD%E7%AB%99%E5%87%BA%E4%BE%86+%E5%9C%98%E7%B5%90%E6%97%A5+20171223+ronny\" -A \"Mozilla/5.0\")"
     ]
   }
 }

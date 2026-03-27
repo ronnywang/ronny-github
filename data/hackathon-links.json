@@ -1,0 +1,2957 @@
+{
+  "tpebuilding": [
+    {
+      "method": "url_match",
+      "term": "2",
+      "eventName": "g0v hackath2n | 台灣零時政府第貳次九大建設黑客松",
+      "date": "2013/3/23",
+      "project": "台北市建築使用執照分析",
+      "brief": "容積 開放空間 房價",
+      "guideline": "http://tpebuilding.g0v.ronny.tw/",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "newsdiff": [
+    {
+      "method": "url_match",
+      "term": "3",
+      "eventName": "g0v hackath3n | 台灣零時政府第參次客廳工廠黑客松",
+      "date": "2013/6/8",
+      "project": "News Diff 來看看新聞改過了沒?",
+      "brief": "",
+      "guideline": "https://github.com/ronnywang/newsdiff",
+      "slides": [],
+      "video": "https://youtu.be/ULk6CeFGDQQ"
+    }
+  ],
+  "campaign-finance": [
+    {
+      "method": "url_match",
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "開放政治獻金",
+      "brief": "政治獻金,群眾外包,人工OCR",
+      "guideline": "http://ronnywang.pixnet.net/album/set/14924844",
+      "slides": [
+        "http://campaign-finance.g0v.ronny.tw/"
+      ],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "taiwan-address-lookup": [
+    {
+      "method": "url_match",
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "govmoney": [
+    {
+      "method": "url_match",
+      "term": "44",
+      "eventName": "g0v hackath44n | 第肆拾肆次世界最危險黑客松",
+      "date": "2021/6/26",
+      "project": "中央政府總預算 改",
+      "brief": "政府預算, 決算, 資料整理",
+      "guideline": "",
+      "slides": [
+        "https://govmoney.g0v.ronny.tw/",
+        "https://docs.google.com/presentation/d/1lb4ipVzX_9j4uIcM-n95YVDCp4ALO0pZaa1RBR7GQIc/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "lysayit": [
+    {
+      "method": "url_match",
+      "term": "47",
+      "eventName": "hackath47n | 第肆拾柒次板橋油庫口黑客松",
+      "date": "2021/12/11",
+      "project": "立委 say it",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    },
+    {
+      "method": "url_match",
+      "term": "48",
+      "eventName": "hackath48n | 第肆拾捌次虎來俱進黑客松",
+      "date": "2022/2/19",
+      "project": "lysayit 立委說了什麼",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WZZb8tz4nKSrbUsxY5SV6pIv10or13XBpjhyWUGF1ts/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "tw-starchoxic": [
+    {
+      "method": "date_proximity",
+      "diffDays": 10,
+      "term": "3",
+      "eventName": "g0v hackath3n | 台灣零時政府第參次客廳工廠黑客松",
+      "date": "2013/6/8",
+      "project": "News Diff 來看看新聞改過了沒?",
+      "brief": "",
+      "guideline": "https://github.com/ronnywang/newsdiff",
+      "slides": [],
+      "video": "https://youtu.be/ULk6CeFGDQQ"
+    }
+  ],
+  "h7n9_tracker": [
+    {
+      "method": "date_proximity",
+      "diffDays": 10,
+      "term": "3",
+      "eventName": "g0v hackath3n | 台灣零時政府第參次客廳工廠黑客松",
+      "date": "2013/6/8",
+      "project": "News Diff 來看看新聞改過了沒?",
+      "brief": "",
+      "guideline": "https://github.com/ronnywang/newsdiff",
+      "slides": [],
+      "video": "https://youtu.be/ULk6CeFGDQQ"
+    }
+  ],
+  "geojson2image": [
+    {
+      "method": "date_proximity",
+      "diffDays": 23,
+      "term": "3",
+      "eventName": "g0v hackath3n | 台灣零時政府第參次客廳工廠黑客松",
+      "date": "2013/6/8",
+      "project": "News Diff 來看看新聞改過了沒?",
+      "brief": "",
+      "guideline": "https://github.com/ronnywang/newsdiff",
+      "slides": [],
+      "video": "https://youtu.be/ULk6CeFGDQQ"
+    }
+  ],
+  "fidb-crawler": [
+    {
+      "method": "date_proximity",
+      "diffDays": 26,
+      "term": "2",
+      "eventName": "g0v hackath2n | 台灣零時政府第貳次九大建設黑客松",
+      "date": "2013/3/23",
+      "project": "台北市建築使用執照分析",
+      "brief": "容積 開放空間 房價",
+      "guideline": "http://tpebuilding.g0v.ronny.tw/",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "LSA-CSV": [
+    {
+      "method": "date_proximity",
+      "diffDays": 10,
+      "term": "2",
+      "eventName": "g0v hackath2n | 台灣零時政府第貳次九大建設黑客松",
+      "date": "2013/3/23",
+      "project": "台北市建築使用執照分析",
+      "brief": "容積 開放空間 房價",
+      "guideline": "http://tpebuilding.g0v.ronny.tw/",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "TWVoteData": [
+    {
+      "method": "date_proximity",
+      "diffDays": 7,
+      "term": "2",
+      "eventName": "g0v hackath2n | 台灣零時政府第貳次九大建設黑客松",
+      "date": "2013/3/23",
+      "project": "台北市建築使用執照分析",
+      "brief": "容積 開放空間 房價",
+      "guideline": "http://tpebuilding.g0v.ronny.tw/",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "cns11643": [
+    {
+      "method": "date_proximity",
+      "diffDays": 7,
+      "term": "2",
+      "eventName": "g0v hackath2n | 台灣零時政府第貳次九大建設黑客松",
+      "date": "2013/3/23",
+      "project": "台北市建築使用執照分析",
+      "brief": "容積 開放空間 房價",
+      "guideline": "http://tpebuilding.g0v.ronny.tw/",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "jobhelper": [
+    {
+      "method": "date_proximity",
+      "diffDays": 1,
+      "term": "2",
+      "eventName": "g0v hackath2n | 台灣零時政府第貳次九大建設黑客松",
+      "date": "2013/3/23",
+      "project": "台北市建築使用執照分析",
+      "brief": "容積 開放空間 房價",
+      "guideline": "http://tpebuilding.g0v.ronny.tw/",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "twjudical": [
+    {
+      "method": "date_proximity",
+      "diffDays": 23,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "twmap": [
+    {
+      "method": "date_proximity",
+      "diffDays": 0,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "twgeojson": [
+    {
+      "method": "date_proximity",
+      "diffDays": 1,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "twopendata": [
+    {
+      "method": "date_proximity",
+      "diffDays": 1,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "postcode": [
+    {
+      "method": "date_proximity",
+      "diffDays": 2,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "TWLegislativeYuanData": [
+    {
+      "method": "date_proximity",
+      "diffDays": 6,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "realprice": [
+    {
+      "method": "date_proximity",
+      "diffDays": 42,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "heroku-ircbot": [
+    {
+      "method": "date_proximity",
+      "diffDays": 65,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "mod_rpaf": [
+    {
+      "method": "date_proximity",
+      "diffDays": 66,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "ptthot": [
+    {
+      "method": "date_proximity",
+      "diffDays": 108,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "itunes-taiwan-update": [
+    {
+      "method": "date_proximity",
+      "diffDays": 109,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "sandbox": [
+    {
+      "method": "date_proximity",
+      "diffDays": 136,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "dotfiles": [
+    {
+      "method": "date_proximity",
+      "diffDays": 169,
+      "term": "0",
+      "eventName": "g0v hackath0n | 台灣零時政府第零次動員勘亂黑客松",
+      "date": "2012/12/1",
+      "project": "人口等資訊地圖化",
+      "brief": "",
+      "guideline": "",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "ecolife.epa.gov.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 94,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "itas.tdp.org.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 95,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "g0v-helper-extension": [
+    {
+      "method": "date_proximity",
+      "diffDays": 66,
+      "term": "3",
+      "eventName": "g0v hackath3n | 台灣零時政府第參次客廳工廠黑客松",
+      "date": "2013/6/8",
+      "project": "News Diff 來看看新聞改過了沒?",
+      "brief": "",
+      "guideline": "https://github.com/ronnywang/newsdiff",
+      "slides": [],
+      "video": "https://youtu.be/ULk6CeFGDQQ"
+    }
+  ],
+  "twbudget": [
+    {
+      "method": "date_proximity",
+      "diffDays": 65,
+      "term": "3",
+      "eventName": "g0v hackath3n | 台灣零時政府第參次客廳工廠黑客松",
+      "date": "2013/6/8",
+      "project": "News Diff 來看看新聞改過了沒?",
+      "brief": "",
+      "guideline": "https://github.com/ronnywang/newsdiff",
+      "slides": [],
+      "video": "https://youtu.be/ULk6CeFGDQQ"
+    }
+  ],
+  "tw-law-corpus": [
+    {
+      "method": "date_proximity",
+      "diffDays": 63,
+      "term": "3",
+      "eventName": "g0v hackath3n | 台灣零時政府第參次客廳工廠黑客松",
+      "date": "2013/6/8",
+      "project": "News Diff 來看看新聞改過了沒?",
+      "brief": "",
+      "guideline": "https://github.com/ronnywang/newsdiff",
+      "slides": [],
+      "video": "https://youtu.be/ULk6CeFGDQQ"
+    }
+  ],
+  "lagnews": [
+    {
+      "method": "date_proximity",
+      "diffDays": 60,
+      "term": "3",
+      "eventName": "g0v hackath3n | 台灣零時政府第參次客廳工廠黑客松",
+      "date": "2013/6/8",
+      "project": "News Diff 來看看新聞改過了沒?",
+      "brief": "",
+      "guideline": "https://github.com/ronnywang/newsdiff",
+      "slides": [],
+      "video": "https://youtu.be/ULk6CeFGDQQ"
+    }
+  ],
+  "mytop": [
+    {
+      "method": "date_proximity",
+      "diffDays": 18,
+      "term": "3",
+      "eventName": "g0v hackath3n | 台灣零時政府第參次客廳工廠黑客松",
+      "date": "2013/6/8",
+      "project": "News Diff 來看看新聞改過了沒?",
+      "brief": "",
+      "guideline": "https://github.com/ronnywang/newsdiff",
+      "slides": [],
+      "video": "https://youtu.be/ULk6CeFGDQQ"
+    }
+  ],
+  "data.taipei.gov.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 24,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "shp2json": [
+    {
+      "method": "date_proximity",
+      "diffDays": 24,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "abroadplay": [
+    {
+      "method": "date_proximity",
+      "diffDays": 30,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "node-gd": [
+    {
+      "method": "date_proximity",
+      "diffDays": 35,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "php-geotopojson": [
+    {
+      "method": "date_proximity",
+      "diffDays": 38,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "github-viewer": [
+    {
+      "method": "date_proximity",
+      "diffDays": 38,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "portal.sw.nat.gov.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 40,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "maps.nlsc.gov.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 43,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "bbs-big5-to-utf8-html": [
+    {
+      "method": "date_proximity",
+      "diffDays": 87,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "GovCash": [
+    {
+      "method": "date_proximity",
+      "diffDays": 20,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "pdf-to-table": [
+    {
+      "method": "date_proximity",
+      "diffDays": 13,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "sunshine.cy.gov.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 2,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "taipei-open-space": [
+    {
+      "method": "date_proximity",
+      "diffDays": 13,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "tw-campaign-finance": [
+    {
+      "method": "date_proximity",
+      "diffDays": 50,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "axe.g0v.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 58,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "data.g0v.ronny.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 54,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "company-graph": [
+    {
+      "method": "date_proximity",
+      "diffDays": 20,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "portal.g0v.ronny.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 14,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "gorillas-js": [
+    {
+      "method": "date_proximity",
+      "diffDays": 13,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "ronny.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 3,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "tgos-data": [
+    {
+      "method": "date_proximity",
+      "diffDays": 3,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "ebas.gov.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 0,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "test": [
+    {
+      "method": "date_proximity",
+      "diffDays": 3,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "github-syncer": [
+    {
+      "method": "date_proximity",
+      "diffDays": 3,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "cpabm.cpami.gov.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 10,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "worldbank": [
+    {
+      "method": "date_proximity",
+      "diffDays": 12,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "world.geo.json": [
+    {
+      "method": "date_proximity",
+      "diffDays": 12,
+      "term": "6",
+      "eventName": "g0v hackath6n | 台灣零時政府第陸次勞動基準黑客松",
+      "date": "2013/12/21",
+      "project": "世界銀行x主計處",
+      "brief": "地圖、資料、世界",
+      "guideline": "https://docs.google.com/document/d/13tdMhFaa4AOxPhoxpfmIuCtkybDHaf69bGzuDkX6vBk/edit",
+      "slides": [],
+      "video": "http://www.youtube.com/watch?v=hOQFOqX4d6o"
+    }
+  ],
+  "50d50v": [
+    {
+      "method": "date_proximity",
+      "diffDays": 178,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "contenttrack": [
+    {
+      "method": "date_proximity",
+      "diffDays": 165,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "posland": [
+    {
+      "method": "date_proximity",
+      "diffDays": 96,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "luz.tcd.gov.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 96,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "php-table-splitter": [
+    {
+      "method": "date_proximity",
+      "diffDays": 74,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "campaign-finance.g0v.ronny.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 64,
+      "term": "8",
+      "eventName": "g0v hackath8n | 台灣零時政府第捌次解除戒嚴黑客松",
+      "date": "2014/4/19",
+      "project": "北市豪宅通",
+      "brief": "開放空間,容積獎勵,豪宅",
+      "guideline": "http://ronnywang.pixnet.net/blog/post/3105893",
+      "slides": [],
+      "video": "http://youtu.be/Pu8Q5jD4nFM"
+    }
+  ],
+  "tilehelper": [
+    {
+      "method": "date_proximity",
+      "diffDays": 29,
+      "term": "15",
+      "eventName": "g0v hackath15n | 台灣零時政府第拾伍次資料科學黑客松",
+      "date": "2015/8/22",
+      "project": "判決書懶人包",
+      "brief": "判決書 司法",
+      "guideline": "https://g0v.hackpad.com/suxchYnyCBR",
+      "slides": [],
+      "video": "https://youtu.be/T6YaBuFsXJw"
+    }
+  ],
+  "301-service": [
+    {
+      "method": "date_proximity",
+      "diffDays": 3,
+      "term": "15",
+      "eventName": "g0v hackath15n | 台灣零時政府第拾伍次資料科學黑客松",
+      "date": "2015/8/22",
+      "project": "判決書懶人包",
+      "brief": "判決書 司法",
+      "guideline": "https://g0v.hackpad.com/suxchYnyCBR",
+      "slides": [],
+      "video": "https://youtu.be/T6YaBuFsXJw"
+    }
+  ],
+  "judicial-easyer": [
+    {
+      "method": "date_proximity",
+      "diffDays": 2,
+      "term": "15",
+      "eventName": "g0v hackath15n | 台灣零時政府第拾伍次資料科學黑客松",
+      "date": "2015/8/22",
+      "project": "判決書懶人包",
+      "brief": "判決書 司法",
+      "guideline": "https://g0v.hackpad.com/suxchYnyCBR",
+      "slides": [],
+      "video": "https://youtu.be/T6YaBuFsXJw"
+    }
+  ],
+  "courtcase-lazyer": [
+    {
+      "method": "date_proximity",
+      "diffDays": 2,
+      "term": "15",
+      "eventName": "g0v hackath15n | 台灣零時政府第拾伍次資料科學黑客松",
+      "date": "2015/8/22",
+      "project": "判決書懶人包",
+      "brief": "判決書 司法",
+      "guideline": "https://g0v.hackpad.com/suxchYnyCBR",
+      "slides": [],
+      "video": "https://youtu.be/T6YaBuFsXJw"
+    }
+  ],
+  "ecDB": [
+    {
+      "method": "date_proximity",
+      "diffDays": 10,
+      "term": "15",
+      "eventName": "g0v hackath15n | 台灣零時政府第拾伍次資料科學黑客松",
+      "date": "2015/8/22",
+      "project": "判決書懶人包",
+      "brief": "判決書 司法",
+      "guideline": "https://g0v.hackpad.com/suxchYnyCBR",
+      "slides": [],
+      "video": "https://youtu.be/T6YaBuFsXJw"
+    }
+  ],
+  "taipei-3d-building": [
+    {
+      "method": "date_proximity",
+      "diffDays": 22,
+      "term": "15",
+      "eventName": "g0v hackath15n | 台灣零時政府第拾伍次資料科學黑客松",
+      "date": "2015/8/22",
+      "project": "判決書懶人包",
+      "brief": "判決書 司法",
+      "guideline": "https://g0v.hackpad.com/suxchYnyCBR",
+      "slides": [],
+      "video": "https://youtu.be/T6YaBuFsXJw"
+    }
+  ],
+  "taipei-mrt-table": [
+    {
+      "method": "date_proximity",
+      "diffDays": 26,
+      "term": "14",
+      "eventName": "g0v hackath14n | 台灣零時政府第拾肆次野百合黑客松",
+      "date": "2015/6/13",
+      "project": "發文附上判決書運動",
+      "brief": "新聞、判決書、wikipedia",
+      "guideline": "https://g0v.hackpad.com/hQ12Bq8UQIq",
+      "slides": [
+        "https://docs.google.com/presentation/d/1sx3kcJKfU833DGJhFQdt9mFn6TEIIxdl-aB7lWECaT0/edit#slide=id.ga122bd45a_1_58"
+      ],
+      "video": "https://www.youtube.com/watch?v=7-RBjmwEgA4&index=4&list=PLdwQWxpS513A5q0y-BIxN3BmWl0TOuoVu"
+    }
+  ],
+  "gov-proxy": [
+    {
+      "method": "date_proximity",
+      "diffDays": 23,
+      "term": "14",
+      "eventName": "g0v hackath14n | 台灣零時政府第拾肆次野百合黑客松",
+      "date": "2015/6/13",
+      "project": "發文附上判決書運動",
+      "brief": "新聞、判決書、wikipedia",
+      "guideline": "https://g0v.hackpad.com/hQ12Bq8UQIq",
+      "slides": [
+        "https://docs.google.com/presentation/d/1sx3kcJKfU833DGJhFQdt9mFn6TEIIxdl-aB7lWECaT0/edit#slide=id.ga122bd45a_1_58"
+      ],
+      "video": "https://www.youtube.com/watch?v=7-RBjmwEgA4&index=4&list=PLdwQWxpS513A5q0y-BIxN3BmWl0TOuoVu"
+    }
+  ],
+  "tw-court-parser": [
+    {
+      "method": "date_proximity",
+      "diffDays": 23,
+      "term": "14",
+      "eventName": "g0v hackath14n | 台灣零時政府第拾肆次野百合黑客松",
+      "date": "2015/6/13",
+      "project": "發文附上判決書運動",
+      "brief": "新聞、判決書、wikipedia",
+      "guideline": "https://g0v.hackpad.com/hQ12Bq8UQIq",
+      "slides": [
+        "https://docs.google.com/presentation/d/1sx3kcJKfU833DGJhFQdt9mFn6TEIIxdl-aB7lWECaT0/edit#slide=id.ga122bd45a_1_58"
+      ],
+      "video": "https://www.youtube.com/watch?v=7-RBjmwEgA4&index=4&list=PLdwQWxpS513A5q0y-BIxN3BmWl0TOuoVu"
+    }
+  ],
+  "Leaflet": [
+    {
+      "method": "date_proximity",
+      "diffDays": 28,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "cuora-case": [
+    {
+      "method": "date_proximity",
+      "diffDays": 79,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "datapipe": [
+    {
+      "method": "date_proximity",
+      "diffDays": 173,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "pgrest": [
+    {
+      "method": "date_proximity",
+      "diffDays": 170,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "api.ly": [
+    {
+      "method": "date_proximity",
+      "diffDays": 165,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "twly-voter-guide": [
+    {
+      "method": "date_proximity",
+      "diffDays": 165,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "govnewsdiff": [
+    {
+      "method": "date_proximity",
+      "diffDays": 145,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "open-gov-contact": [
+    {
+      "method": "date_proximity",
+      "diffDays": 131,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "g0v.json": [
+    {
+      "method": "date_proximity",
+      "diffDays": 111,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "g0vjson-editor": [
+    {
+      "method": "date_proximity",
+      "diffDays": 111,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "dev-env": [
+    {
+      "method": "date_proximity",
+      "diffDays": 80,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "gov-crawler": [
+    {
+      "method": "date_proximity",
+      "diffDays": 67,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "js-xlsx": [
+    {
+      "method": "date_proximity",
+      "diffDays": 64,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "dosbox": [
+    {
+      "method": "date_proximity",
+      "diffDays": 63,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "ronnywang.github.io": [
+    {
+      "method": "date_proximity",
+      "diffDays": 52,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "taiwan-cabinet": [
+    {
+      "method": "date_proximity",
+      "diffDays": 51,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "jobhelper-backend": [
+    {
+      "method": "date_proximity",
+      "diffDays": 48,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "amis-proxy": [
+    {
+      "method": "date_proximity",
+      "diffDays": 35,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "pdf-table-extractor": [
+    {
+      "method": "date_proximity",
+      "diffDays": 33,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "morse-code-calculator": [
+    {
+      "method": "date_proximity",
+      "diffDays": 28,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "tw-gov-org": [
+    {
+      "method": "date_proximity",
+      "diffDays": 25,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "pm25-proxy": [
+    {
+      "method": "date_proximity",
+      "diffDays": 8,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "address-postcode": [
+    {
+      "method": "date_proximity",
+      "diffDays": 4,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "foss4g-20160223": [
+    {
+      "method": "date_proximity",
+      "diffDays": 22,
+      "term": "18",
+      "eventName": "g0v hackath18n | 台灣零時政府第拾捌次亞太營運黑客松",
+      "date": "2016/3/15",
+      "project": "地址轉經緯度 API",
+      "brief": "地址, 經緯度, 地理",
+      "guideline": "https://github.com/ronnywang/taiwan-address-lookup",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=x9As-svKyeM"
+    }
+  ],
+  "data-import-script": [
+    {
+      "method": "date_proximity",
+      "diffDays": 10,
+      "term": "26",
+      "eventName": "g0v hackath26n | 台灣零時政府第貳拾陸次五週年黑客松",
+      "date": "2017/9/16",
+      "project": "拆解開放資料咨詢小組",
+      "brief": "開放資料、諮詢小組、gov",
+      "guideline": "https://g0v.hackpad.tw/rfTpW5sFjkj",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=TXvZuXsYyWY"
+    }
+  ],
+  "akn-demo": [
+    {
+      "method": "date_proximity",
+      "diffDays": 15,
+      "term": "26",
+      "eventName": "g0v hackath26n | 台灣零時政府第貳拾陸次五週年黑客松",
+      "date": "2017/9/16",
+      "project": "拆解開放資料咨詢小組",
+      "brief": "開放資料、諮詢小組、gov",
+      "guideline": "https://g0v.hackpad.tw/rfTpW5sFjkj",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=TXvZuXsYyWY"
+    }
+  ],
+  "company-open-data-sync": [
+    {
+      "method": "date_proximity",
+      "diffDays": 28,
+      "term": "25",
+      "eventName": "g0v hackath25n | 台灣零時政府第貳拾伍次一綱多本黑客松",
+      "date": "2017/7/1",
+      "project": "政府網站顯示標案資訊和承包廠商",
+      "brief": "標案 / 開放 / join",
+      "guideline": "https://g0v.hackpad.com/a0wv4LdHpwx",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=rx4qwz2x9kk"
+    }
+  ],
+  "merit-generator": [
+    {
+      "method": "date_proximity",
+      "diffDays": 10,
+      "term": "25",
+      "eventName": "g0v hackath25n | 台灣零時政府第貳拾伍次一綱多本黑客松",
+      "date": "2017/7/1",
+      "project": "政府網站顯示標案資訊和承包廠商",
+      "brief": "標案 / 開放 / join",
+      "guideline": "https://g0v.hackpad.com/a0wv4LdHpwx",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=rx4qwz2x9kk"
+    }
+  ],
+  "ecolife-sea": [
+    {
+      "method": "date_proximity",
+      "diffDays": 16,
+      "term": "25",
+      "eventName": "g0v hackath25n | 台灣零時政府第貳拾伍次一綱多本黑客松",
+      "date": "2017/7/1",
+      "project": "政府網站顯示標案資訊和承包廠商",
+      "brief": "標案 / 開放 / join",
+      "guideline": "https://g0v.hackpad.com/a0wv4LdHpwx",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=rx4qwz2x9kk"
+    }
+  ],
+  "test20170420": [
+    {
+      "method": "date_proximity",
+      "diffDays": 15,
+      "term": "24",
+      "eventName": "g0v hackath24n | 台灣零時政府第貳拾肆次凍省黑客松",
+      "date": "2017/5/6",
+      "project": "新聞小幫手2.0",
+      "brief": "新聞、媒體",
+      "guideline": "https://g0v.hackpad.com/-2.0--uK29ywpgBK4",
+      "slides": [
+        "https://docs.google.com/presentation/d/13XEFMSR1_KA9Ugm4b5j_Utb1fhhRwXTIAFfm-V-9iYY/edit#slide=id.g21840c0597_0_33"
+      ],
+      "video": "https://www.youtube.com/watch?v=OU7qub1hbwY"
+    }
+  ],
+  "2017-wbc-ptt": [
+    {
+      "method": "date_proximity",
+      "diffDays": 58,
+      "term": "24",
+      "eventName": "g0v hackath24n | 台灣零時政府第貳拾肆次凍省黑客松",
+      "date": "2017/5/6",
+      "project": "新聞小幫手2.0",
+      "brief": "新聞、媒體",
+      "guideline": "https://g0v.hackpad.com/-2.0--uK29ywpgBK4",
+      "slides": [
+        "https://docs.google.com/presentation/d/13XEFMSR1_KA9Ugm4b5j_Utb1fhhRwXTIAFfm-V-9iYY/edit#slide=id.g21840c0597_0_33"
+      ],
+      "video": "https://www.youtube.com/watch?v=OU7qub1hbwY"
+    }
+  ],
+  "tw-mingling-corpus": [
+    {
+      "method": "date_proximity",
+      "diffDays": 84,
+      "term": "24",
+      "eventName": "g0v hackath24n | 台灣零時政府第貳拾肆次凍省黑客松",
+      "date": "2017/5/6",
+      "project": "新聞小幫手2.0",
+      "brief": "新聞、媒體",
+      "guideline": "https://g0v.hackpad.com/-2.0--uK29ywpgBK4",
+      "slides": [
+        "https://docs.google.com/presentation/d/13XEFMSR1_KA9Ugm4b5j_Utb1fhhRwXTIAFfm-V-9iYY/edit#slide=id.g21840c0597_0_33"
+      ],
+      "video": "https://www.youtube.com/watch?v=OU7qub1hbwY"
+    }
+  ],
+  "domain-sync": [
+    {
+      "method": "date_proximity",
+      "diffDays": 104,
+      "term": "24",
+      "eventName": "g0v hackath24n | 台灣零時政府第貳拾肆次凍省黑客松",
+      "date": "2017/5/6",
+      "project": "新聞小幫手2.0",
+      "brief": "新聞、媒體",
+      "guideline": "https://g0v.hackpad.com/-2.0--uK29ywpgBK4",
+      "slides": [
+        "https://docs.google.com/presentation/d/13XEFMSR1_KA9Ugm4b5j_Utb1fhhRwXTIAFfm-V-9iYY/edit#slide=id.g21840c0597_0_33"
+      ],
+      "video": "https://www.youtube.com/watch?v=OU7qub1hbwY"
+    }
+  ],
+  "hello": [
+    {
+      "method": "date_proximity",
+      "diffDays": 105,
+      "term": "24",
+      "eventName": "g0v hackath24n | 台灣零時政府第貳拾肆次凍省黑客松",
+      "date": "2017/5/6",
+      "project": "新聞小幫手2.0",
+      "brief": "新聞、媒體",
+      "guideline": "https://g0v.hackpad.com/-2.0--uK29ywpgBK4",
+      "slides": [
+        "https://docs.google.com/presentation/d/13XEFMSR1_KA9Ugm4b5j_Utb1fhhRwXTIAFfm-V-9iYY/edit#slide=id.g21840c0597_0_33"
+      ],
+      "video": "https://www.youtube.com/watch?v=OU7qub1hbwY"
+    }
+  ],
+  "tpe-building-license": [
+    {
+      "method": "date_proximity",
+      "diffDays": 115,
+      "term": "24",
+      "eventName": "g0v hackath24n | 台灣零時政府第貳拾肆次凍省黑客松",
+      "date": "2017/5/6",
+      "project": "新聞小幫手2.0",
+      "brief": "新聞、媒體",
+      "guideline": "https://g0v.hackpad.com/-2.0--uK29ywpgBK4",
+      "slides": [
+        "https://docs.google.com/presentation/d/13XEFMSR1_KA9Ugm4b5j_Utb1fhhRwXTIAFfm-V-9iYY/edit#slide=id.g21840c0597_0_33"
+      ],
+      "video": "https://www.youtube.com/watch?v=OU7qub1hbwY"
+    }
+  ],
+  "misq.ly.govapi.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 145,
+      "term": "24",
+      "eventName": "g0v hackath24n | 台灣零時政府第貳拾肆次凍省黑客松",
+      "date": "2017/5/6",
+      "project": "新聞小幫手2.0",
+      "brief": "新聞、媒體",
+      "guideline": "https://g0v.hackpad.com/-2.0--uK29ywpgBK4",
+      "slides": [
+        "https://docs.google.com/presentation/d/13XEFMSR1_KA9Ugm4b5j_Utb1fhhRwXTIAFfm-V-9iYY/edit#slide=id.g21840c0597_0_33"
+      ],
+      "video": "https://www.youtube.com/watch?v=OU7qub1hbwY"
+    }
+  ],
+  "taiwan_love_wins": [
+    {
+      "method": "date_proximity",
+      "diffDays": 149,
+      "term": "24",
+      "eventName": "g0v hackath24n | 台灣零時政府第貳拾肆次凍省黑客松",
+      "date": "2017/5/6",
+      "project": "新聞小幫手2.0",
+      "brief": "新聞、媒體",
+      "guideline": "https://g0v.hackpad.com/-2.0--uK29ywpgBK4",
+      "slides": [
+        "https://docs.google.com/presentation/d/13XEFMSR1_KA9Ugm4b5j_Utb1fhhRwXTIAFfm-V-9iYY/edit#slide=id.g21840c0597_0_33"
+      ],
+      "video": "https://www.youtube.com/watch?v=OU7qub1hbwY"
+    }
+  ],
+  "twlaw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 160,
+      "term": "24",
+      "eventName": "g0v hackath24n | 台灣零時政府第貳拾肆次凍省黑客松",
+      "date": "2017/5/6",
+      "project": "新聞小幫手2.0",
+      "brief": "新聞、媒體",
+      "guideline": "https://g0v.hackpad.com/-2.0--uK29ywpgBK4",
+      "slides": [
+        "https://docs.google.com/presentation/d/13XEFMSR1_KA9Ugm4b5j_Utb1fhhRwXTIAFfm-V-9iYY/edit#slide=id.g21840c0597_0_33"
+      ],
+      "video": "https://www.youtube.com/watch?v=OU7qub1hbwY"
+    }
+  ],
+  "tw-campaign-finance-tools": [
+    {
+      "method": "date_proximity",
+      "diffDays": 21,
+      "term": "27",
+      "eventName": "g0v hackath27n | 台灣零時政府第貳拾柒次全球開放立法黑客松",
+      "date": "2017/11/25",
+      "project": "g0v 專案復活節計劃",
+      "brief": "",
+      "guideline": "https://g0v.hackpad.tw/g0v--9MbKWNVW1Is",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=hLfrw1EERS4"
+    }
+  ],
+  "story": [
+    {
+      "method": "date_proximity",
+      "diffDays": 4,
+      "term": "27",
+      "eventName": "g0v hackath27n | 台灣零時政府第貳拾柒次全球開放立法黑客松",
+      "date": "2017/11/25",
+      "project": "g0v 專案復活節計劃",
+      "brief": "",
+      "guideline": "https://g0v.hackpad.tw/g0v--9MbKWNVW1Is",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=hLfrw1EERS4"
+    }
+  ],
+  "taiwan-company-table": [
+    {
+      "method": "date_proximity",
+      "diffDays": 62,
+      "term": "31",
+      "eventName": "g0v hackath31n | 台灣零時政府第參拾壹次香蕉吃到飽松",
+      "date": "2018/7/7",
+      "project": "為什麼你還在 g0v",
+      "brief": "g0v 公民科技 社群",
+      "guideline": "https://g0v.hackpad.tw/-g0v-...-ogyZjIUFekF",
+      "slides": [],
+      "video": "https://youtu.be/j_7_oiWopb0"
+    }
+  ],
+  "hanzi": [
+    {
+      "method": "date_proximity",
+      "diffDays": 8,
+      "term": "31",
+      "eventName": "g0v hackath31n | 台灣零時政府第參拾壹次香蕉吃到飽松",
+      "date": "2018/7/7",
+      "project": "為什麼你還在 g0v",
+      "brief": "g0v 公民科技 社群",
+      "guideline": "https://g0v.hackpad.tw/-g0v-...-ogyZjIUFekF",
+      "slides": [],
+      "video": "https://youtu.be/j_7_oiWopb0"
+    }
+  ],
+  "unihan-variant": [
+    {
+      "method": "date_proximity",
+      "diffDays": 1,
+      "term": "32",
+      "eventName": "g0v hackath32n | 台灣零時政府第参拾貳次蜂蜜檸檬黑客松",
+      "date": "2018/12/8",
+      "project": "跨出同溫層！先從較低對立的新聞議題開始討論",
+      "brief": "對話、討論、突破同溫層",
+      "guideline": "https://g0v.hackpad.tw/LaMs5uWUwb1",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=9DpwV9J8XG4"
+    }
+  ],
+  "ly.gov.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 40,
+      "term": "32",
+      "eventName": "g0v hackath32n | 台灣零時政府第参拾貳次蜂蜜檸檬黑客松",
+      "date": "2018/12/8",
+      "project": "跨出同溫層！先從較低對立的新聞議題開始討論",
+      "brief": "對話、討論、突破同溫層",
+      "guideline": "https://g0v.hackpad.tw/LaMs5uWUwb1",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=9DpwV9J8XG4"
+    }
+  ],
+  "cy.sunshine.2014": [
+    {
+      "method": "date_proximity",
+      "diffDays": 51,
+      "term": "32",
+      "eventName": "g0v hackath32n | 台灣零時政府第参拾貳次蜂蜜檸檬黑客松",
+      "date": "2018/12/8",
+      "project": "跨出同溫層！先從較低對立的新聞議題開始討論",
+      "brief": "對話、討論、突破同溫層",
+      "guideline": "https://g0v.hackpad.tw/LaMs5uWUwb1",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=9DpwV9J8XG4"
+    }
+  ],
+  "testtest": [
+    {
+      "method": "date_proximity",
+      "diffDays": 62,
+      "term": "32",
+      "eventName": "g0v hackath32n | 台灣零時政府第参拾貳次蜂蜜檸檬黑客松",
+      "date": "2018/12/8",
+      "project": "跨出同溫層！先從較低對立的新聞議題開始討論",
+      "brief": "對話、討論、突破同溫層",
+      "guideline": "https://g0v.hackpad.tw/LaMs5uWUwb1",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=9DpwV9J8XG4"
+    }
+  ],
+  "g0v-slack-archive": [
+    {
+      "method": "date_proximity",
+      "diffDays": 62,
+      "term": "32",
+      "eventName": "g0v hackath32n | 台灣零時政府第参拾貳次蜂蜜檸檬黑客松",
+      "date": "2018/12/8",
+      "project": "跨出同溫層！先從較低對立的新聞議題開始討論",
+      "brief": "對話、討論、突破同溫層",
+      "guideline": "https://g0v.hackpad.tw/LaMs5uWUwb1",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=9DpwV9J8XG4"
+    }
+  ],
+  "cloudmovie": [
+    {
+      "method": "date_proximity",
+      "diffDays": 51,
+      "term": "31",
+      "eventName": "g0v hackath31n | 台灣零時政府第參拾壹次香蕉吃到飽松",
+      "date": "2018/7/7",
+      "project": "為什麼你還在 g0v",
+      "brief": "g0v 公民科技 社群",
+      "guideline": "https://g0v.hackpad.tw/-g0v-...-ogyZjIUFekF",
+      "slides": [],
+      "video": "https://youtu.be/j_7_oiWopb0"
+    }
+  ],
+  "OSSPlanet": [
+    {
+      "method": "date_proximity",
+      "diffDays": 41,
+      "term": "31",
+      "eventName": "g0v hackath31n | 台灣零時政府第參拾壹次香蕉吃到飽松",
+      "date": "2018/7/7",
+      "project": "為什麼你還在 g0v",
+      "brief": "g0v 公民科技 社群",
+      "guideline": "https://g0v.hackpad.tw/-g0v-...-ogyZjIUFekF",
+      "slides": [],
+      "video": "https://youtu.be/j_7_oiWopb0"
+    }
+  ],
+  "proposal.tccc.govapi.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 27,
+      "term": "31",
+      "eventName": "g0v hackath31n | 台灣零時政府第參拾壹次香蕉吃到飽松",
+      "date": "2018/7/7",
+      "project": "為什麼你還在 g0v",
+      "brief": "g0v 公民科技 社群",
+      "guideline": "https://g0v.hackpad.tw/-g0v-...-ogyZjIUFekF",
+      "slides": [],
+      "video": "https://youtu.be/j_7_oiWopb0"
+    }
+  ],
+  "fb-post-screenshot": [
+    {
+      "method": "date_proximity",
+      "diffDays": 25,
+      "term": "31",
+      "eventName": "g0v hackath31n | 台灣零時政府第參拾壹次香蕉吃到飽松",
+      "date": "2018/7/7",
+      "project": "為什麼你還在 g0v",
+      "brief": "g0v 公民科技 社群",
+      "guideline": "https://g0v.hackpad.tw/-g0v-...-ogyZjIUFekF",
+      "slides": [],
+      "video": "https://youtu.be/j_7_oiWopb0"
+    }
+  ],
+  "tvlogger-web": [
+    {
+      "method": "date_proximity",
+      "diffDays": 1,
+      "term": "34",
+      "eventName": "g0v hackath34n | 台灣零時政府第參拾肆次再開放空總黑客松",
+      "date": "2019/5/25",
+      "project": "我要選立委",
+      "brief": "立委、開放政府、虛擬候選人",
+      "guideline": "https://g0v.hackmd.io/_9meJ-_0TaWNRpu8XXO_SQ",
+      "slides": [
+        "https://docs.google.com/presentation/d/1HRWiDDaZ9KX9SLLNoyETyrILY1D6i4sBesvdTPdDN8c/edit"
+      ],
+      "video": "https://youtu.be/Hw47UpasdwU"
+    }
+  ],
+  "twtvnews-youtube-titles": [
+    {
+      "method": "date_proximity",
+      "diffDays": 24,
+      "term": "33",
+      "eventName": "g0v hackath33n | 台灣零時政府第參拾參次不顧北京反對___黑客松",
+      "date": "2019/3/9",
+      "project": "廢文編碼器",
+      "brief": "反監控、言論自由",
+      "guideline": "https://g0v.hackmd.io/6lNfj-VeQYCW9dvKqG0SGQ",
+      "slides": [
+        "https://www.paddingleft.com/junk-encoder/",
+        "https://docs.google.com/presentation/d/1APtPAmKYVbEoQFNb0I9_2tzamKfOCYU9HacoLUIoz3U/edit?usp=sharing"
+      ],
+      "video": "https://youtu.be/e03cxhO3xKM"
+    }
+  ],
+  "twtvnews": [
+    {
+      "method": "date_proximity",
+      "diffDays": 16,
+      "term": "33",
+      "eventName": "g0v hackath33n | 台灣零時政府第參拾參次不顧北京反對___黑客松",
+      "date": "2019/3/9",
+      "project": "廢文編碼器",
+      "brief": "反監控、言論自由",
+      "guideline": "https://g0v.hackmd.io/6lNfj-VeQYCW9dvKqG0SGQ",
+      "slides": [
+        "https://www.paddingleft.com/junk-encoder/",
+        "https://docs.google.com/presentation/d/1APtPAmKYVbEoQFNb0I9_2tzamKfOCYU9HacoLUIoz3U/edit?usp=sharing"
+      ],
+      "video": "https://youtu.be/e03cxhO3xKM"
+    }
+  ],
+  "twnews-demo": [
+    {
+      "method": "date_proximity",
+      "diffDays": 13,
+      "term": "33",
+      "eventName": "g0v hackath33n | 台灣零時政府第參拾參次不顧北京反對___黑客松",
+      "date": "2019/3/9",
+      "project": "廢文編碼器",
+      "brief": "反監控、言論自由",
+      "guideline": "https://g0v.hackmd.io/6lNfj-VeQYCW9dvKqG0SGQ",
+      "slides": [
+        "https://www.paddingleft.com/junk-encoder/",
+        "https://docs.google.com/presentation/d/1APtPAmKYVbEoQFNb0I9_2tzamKfOCYU9HacoLUIoz3U/edit?usp=sharing"
+      ],
+      "video": "https://youtu.be/e03cxhO3xKM"
+    }
+  ],
+  "ctitv-demo": [
+    {
+      "method": "date_proximity",
+      "diffDays": 11,
+      "term": "33",
+      "eventName": "g0v hackath33n | 台灣零時政府第參拾參次不顧北京反對___黑客松",
+      "date": "2019/3/9",
+      "project": "廢文編碼器",
+      "brief": "反監控、言論自由",
+      "guideline": "https://g0v.hackmd.io/6lNfj-VeQYCW9dvKqG0SGQ",
+      "slides": [
+        "https://www.paddingleft.com/junk-encoder/",
+        "https://docs.google.com/presentation/d/1APtPAmKYVbEoQFNb0I9_2tzamKfOCYU9HacoLUIoz3U/edit?usp=sharing"
+      ],
+      "video": "https://youtu.be/e03cxhO3xKM"
+    }
+  ],
+  "twbudget-crawler": [
+    {
+      "method": "date_proximity",
+      "diffDays": 32,
+      "term": "32",
+      "eventName": "g0v hackath32n | 台灣零時政府第参拾貳次蜂蜜檸檬黑客松",
+      "date": "2018/12/8",
+      "project": "跨出同溫層！先從較低對立的新聞議題開始討論",
+      "brief": "對話、討論、突破同溫層",
+      "guideline": "https://g0v.hackpad.tw/LaMs5uWUwb1",
+      "slides": [],
+      "video": "https://www.youtube.com/watch?v=9DpwV9J8XG4"
+    }
+  ],
+  "ardata.cy-2018": [
+    {
+      "method": "date_proximity",
+      "diffDays": 21,
+      "term": "36",
+      "eventName": "g0v hackath36n | 台灣零時政府第參拾陸次開放台北市議會黑客松",
+      "date": "2019/9/7",
+      "project": "如何辦一場小松共筆 (feat. 揪松有小松場地喔)",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/51qNkup-TRK8uTOhlAuKhg?both",
+      "slides": [],
+      "video": "https://youtu.be/jbzIILNgBQs"
+    }
+  ],
+  "segis-village": [
+    {
+      "method": "date_proximity",
+      "diffDays": 24,
+      "term": "35",
+      "eventName": "g0v hackath35n | 台灣零時政府第參拾伍次最旁邊黑客松",
+      "date": "2019/7/20",
+      "project": "g0v 社群治理討論",
+      "brief": "g0v、社群、治理",
+      "guideline": "https://g0v.hackmd.io/vYdTfaYeR7SnIU3zT5evOw",
+      "slides": [],
+      "video": "https://youtu.be/aBFsM13ek-k"
+    }
+  ],
+  "twmap-info": [
+    {
+      "method": "date_proximity",
+      "diffDays": 13,
+      "term": "35",
+      "eventName": "g0v hackath35n | 台灣零時政府第參拾伍次最旁邊黑客松",
+      "date": "2019/7/20",
+      "project": "g0v 社群治理討論",
+      "brief": "g0v、社群、治理",
+      "guideline": "https://g0v.hackmd.io/vYdTfaYeR7SnIU3zT5evOw",
+      "slides": [],
+      "video": "https://youtu.be/aBFsM13ek-k"
+    }
+  ],
+  "fb-post-crawler": [
+    {
+      "method": "date_proximity",
+      "diffDays": 4,
+      "term": "35",
+      "eventName": "g0v hackath35n | 台灣零時政府第參拾伍次最旁邊黑客松",
+      "date": "2019/7/20",
+      "project": "g0v 社群治理討論",
+      "brief": "g0v、社群、治理",
+      "guideline": "https://g0v.hackmd.io/vYdTfaYeR7SnIU3zT5evOw",
+      "slides": [],
+      "video": "https://youtu.be/aBFsM13ek-k"
+    }
+  ],
+  "2016-ly-money": [
+    {
+      "method": "date_proximity",
+      "diffDays": 26,
+      "term": "34",
+      "eventName": "g0v hackath34n | 台灣零時政府第參拾肆次再開放空總黑客松",
+      "date": "2019/5/25",
+      "project": "我要選立委",
+      "brief": "立委、開放政府、虛擬候選人",
+      "guideline": "https://g0v.hackmd.io/_9meJ-_0TaWNRpu8XXO_SQ",
+      "slides": [
+        "https://docs.google.com/presentation/d/1HRWiDDaZ9KX9SLLNoyETyrILY1D6i4sBesvdTPdDN8c/edit"
+      ],
+      "video": "https://youtu.be/Hw47UpasdwU"
+    }
+  ],
+  "twitter2facebook": [
+    {
+      "method": "date_proximity",
+      "diffDays": 40,
+      "term": "36",
+      "eventName": "g0v hackath36n | 台灣零時政府第參拾陸次開放台北市議會黑客松",
+      "date": "2019/9/7",
+      "project": "如何辦一場小松共筆 (feat. 揪松有小松場地喔)",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/51qNkup-TRK8uTOhlAuKhg?both",
+      "slides": [],
+      "video": "https://youtu.be/jbzIILNgBQs"
+    }
+  ],
+  "illegal-build-data": [
+    {
+      "method": "date_proximity",
+      "diffDays": 0,
+      "term": "36",
+      "eventName": "g0v hackath36n | 台灣零時政府第參拾陸次開放台北市議會黑客松",
+      "date": "2019/9/7",
+      "project": "如何辦一場小松共筆 (feat. 揪松有小松場地喔)",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/51qNkup-TRK8uTOhlAuKhg?both",
+      "slides": [],
+      "video": "https://youtu.be/jbzIILNgBQs"
+    }
+  ],
+  "tw-bribe": [
+    {
+      "method": "date_proximity",
+      "diffDays": 108,
+      "term": "36",
+      "eventName": "g0v hackath36n | 台灣零時政府第參拾陸次開放台北市議會黑客松",
+      "date": "2019/9/7",
+      "project": "如何辦一場小松共筆 (feat. 揪松有小松場地喔)",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/51qNkup-TRK8uTOhlAuKhg?both",
+      "slides": [],
+      "video": "https://youtu.be/jbzIILNgBQs"
+    }
+  ],
+  "fb-ad-lib": [
+    {
+      "method": "date_proximity",
+      "diffDays": 106,
+      "term": "36",
+      "eventName": "g0v hackath36n | 台灣零時政府第參拾陸次開放台北市議會黑客松",
+      "date": "2019/9/7",
+      "project": "如何辦一場小松共筆 (feat. 揪松有小松場地喔)",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/51qNkup-TRK8uTOhlAuKhg?both",
+      "slides": [],
+      "video": "https://youtu.be/jbzIILNgBQs"
+    }
+  ],
+  "partyvote2020": [
+    {
+      "method": "date_proximity",
+      "diffDays": 94,
+      "term": "36",
+      "eventName": "g0v hackath36n | 台灣零時政府第參拾陸次開放台北市議會黑客松",
+      "date": "2019/9/7",
+      "project": "如何辦一場小松共筆 (feat. 揪松有小松場地喔)",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/51qNkup-TRK8uTOhlAuKhg?both",
+      "slides": [],
+      "video": "https://youtu.be/jbzIILNgBQs"
+    }
+  ],
+  "fake-fb-wall": [
+    {
+      "method": "date_proximity",
+      "diffDays": 78,
+      "term": "36",
+      "eventName": "g0v hackath36n | 台灣零時政府第參拾陸次開放台北市議會黑客松",
+      "date": "2019/9/7",
+      "project": "如何辦一場小松共筆 (feat. 揪松有小松場地喔)",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/51qNkup-TRK8uTOhlAuKhg?both",
+      "slides": [],
+      "video": "https://youtu.be/jbzIILNgBQs"
+    }
+  ],
+  "cantstopthisparty.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 90,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "pharmacies": [
+    {
+      "method": "date_proximity",
+      "diffDays": 92,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "disfactory-crawler": [
+    {
+      "method": "date_proximity",
+      "diffDays": 123,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "domain": [
+    {
+      "method": "date_proximity",
+      "diffDays": 125,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "Ratchet": [
+    {
+      "method": "date_proximity",
+      "diffDays": 91,
+      "term": "40",
+      "eventName": "g0v hackath40n | 台灣零時政府第肆拾次老地方黑客松",
+      "date": "2020/7/25",
+      "project": "開放國會的線上參與",
+      "brief": "國會、開放政府",
+      "guideline": "https://g0v.hackmd.io/xG9eeQqBQXGJ0oOyTQfQ9A",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "fans-talk": [
+    {
+      "method": "date_proximity",
+      "diffDays": 65,
+      "term": "40",
+      "eventName": "g0v hackath40n | 台灣零時政府第肆拾次老地方黑客松",
+      "date": "2020/7/25",
+      "project": "開放國會的線上參與",
+      "brief": "國會、開放政府",
+      "guideline": "https://g0v.hackmd.io/xG9eeQqBQXGJ0oOyTQfQ9A",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "riverlin-tiles": [
+    {
+      "method": "date_proximity",
+      "diffDays": 56,
+      "term": "40",
+      "eventName": "g0v hackath40n | 台灣零時政府第肆拾次老地方黑客松",
+      "date": "2020/7/25",
+      "project": "開放國會的線上參與",
+      "brief": "國會、開放政府",
+      "guideline": "https://g0v.hackmd.io/xG9eeQqBQXGJ0oOyTQfQ9A",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "twlawlog": [
+    {
+      "method": "date_proximity",
+      "diffDays": 23,
+      "term": "40",
+      "eventName": "g0v hackath40n | 台灣零時政府第肆拾次老地方黑客松",
+      "date": "2020/7/25",
+      "project": "開放國會的線上參與",
+      "brief": "國會、開放政府",
+      "guideline": "https://g0v.hackmd.io/xG9eeQqBQXGJ0oOyTQfQ9A",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "jitsi-screen": [
+    {
+      "method": "date_proximity",
+      "diffDays": 16,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "jothon-donate-api": [
+    {
+      "method": "date_proximity",
+      "diffDays": 2,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "swonline": [
+    {
+      "method": "date_proximity",
+      "diffDays": 31,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "openpixels": [
+    {
+      "method": "date_proximity",
+      "diffDays": 56,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "number-alert": [
+    {
+      "method": "date_proximity",
+      "diffDays": 57,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "telegram-danmu": [
+    {
+      "method": "date_proximity",
+      "diffDays": 58,
+      "term": "39",
+      "eventName": "g0v hackath39n | 台灣零時政府第參拾玖次又在家黑客松",
+      "date": "2020/5/23",
+      "project": "線上揪松 & 2D 揪松",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+      "slides": [],
+      "video": "https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing"
+    }
+  ],
+  "hackfoldr-2.0": [
+    {
+      "method": "date_proximity",
+      "diffDays": 10,
+      "term": "42",
+      "eventName": "g0v hackath42n | 第肆拾貳次黑客松",
+      "date": "2021/1/23",
+      "project": "新國會大代誌",
+      "brief": "立法、立委、國會",
+      "guideline": "https://g0v.hackmd.io/i3Ojc2WlRuqdOnH33Ll9FQ",
+      "slides": [
+        "https://docs.google.com/presentation/d/1RYYDAuO9pFGH3ELm-t51e-Fe0SRl9sV-sZSVfKT6Uyw/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "pttbbs": [
+    {
+      "method": "date_proximity",
+      "diffDays": 21,
+      "term": "44",
+      "eventName": "g0v hackath44n | 第肆拾肆次世界最危險黑客松",
+      "date": "2021/6/26",
+      "project": "中央政府總預算 改",
+      "brief": "政府預算, 決算, 資料整理",
+      "guideline": "",
+      "slides": [
+        "https://govmoney.g0v.ronny.tw/",
+        "https://docs.google.com/presentation/d/1lb4ipVzX_9j4uIcM-n95YVDCp4ALO0pZaa1RBR7GQIc/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "vaxx-crawler": [
+    {
+      "method": "date_proximity",
+      "diffDays": 3,
+      "term": "44",
+      "eventName": "g0v hackath44n | 第肆拾肆次世界最危險黑客松",
+      "date": "2021/6/26",
+      "project": "中央政府總預算 改",
+      "brief": "政府預算, 決算, 資料整理",
+      "guideline": "",
+      "slides": [
+        "https://govmoney.g0v.ronny.tw/",
+        "https://docs.google.com/presentation/d/1lb4ipVzX_9j4uIcM-n95YVDCp4ALO0pZaa1RBR7GQIc/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "ap.ece.moe.captcha": [
+    {
+      "method": "date_proximity",
+      "diffDays": 51,
+      "term": "44",
+      "eventName": "g0v hackath44n | 第肆拾肆次世界最危險黑客松",
+      "date": "2021/6/26",
+      "project": "中央政府總預算 改",
+      "brief": "政府預算, 決算, 資料整理",
+      "guideline": "",
+      "slides": [
+        "https://govmoney.g0v.ronny.tw/",
+        "https://docs.google.com/presentation/d/1lb4ipVzX_9j4uIcM-n95YVDCp4ALO0pZaa1RBR7GQIc/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "g0v.tw-2016": [
+    {
+      "method": "date_proximity",
+      "diffDays": 14,
+      "term": "47",
+      "eventName": "hackath47n | 第肆拾柒次板橋油庫口黑客松",
+      "date": "2021/12/11",
+      "project": "立委 say it",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "g0v.tw-2015": [
+    {
+      "method": "date_proximity",
+      "diffDays": 14,
+      "term": "47",
+      "eventName": "hackath47n | 第肆拾柒次板橋油庫口黑客松",
+      "date": "2021/12/11",
+      "project": "立委 say it",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "g0v.tw-2014": [
+    {
+      "method": "date_proximity",
+      "diffDays": 14,
+      "term": "47",
+      "eventName": "hackath47n | 第肆拾柒次板橋油庫口黑客松",
+      "date": "2021/12/11",
+      "project": "立委 say it",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "g0v.tw-2013": [
+    {
+      "method": "date_proximity",
+      "diffDays": 14,
+      "term": "47",
+      "eventName": "hackath47n | 第肆拾柒次板橋油庫口黑客松",
+      "date": "2021/12/11",
+      "project": "立委 say it",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "g0v.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 14,
+      "term": "47",
+      "eventName": "hackath47n | 第肆拾柒次板橋油庫口黑客松",
+      "date": "2021/12/11",
+      "project": "立委 say it",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "hkprotestdb-bak": [
+    {
+      "method": "date_proximity",
+      "diffDays": 45,
+      "term": "47",
+      "eventName": "hackath47n | 第肆拾柒次板橋油庫口黑客松",
+      "date": "2021/12/11",
+      "project": "立委 say it",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "tw-opmsf-data": [
+    {
+      "method": "date_proximity",
+      "diffDays": 53,
+      "term": "47",
+      "eventName": "hackath47n | 第肆拾柒次板橋油庫口黑客松",
+      "date": "2021/12/11",
+      "project": "立委 say it",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "twtjcdb": [
+    {
+      "method": "date_proximity",
+      "diffDays": 76,
+      "term": "51",
+      "eventName": "hackath51n | 第伍拾壹次大肚山海豚黑客松",
+      "date": "2022/8/20",
+      "project": "g0v 十週年參與者徽章",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1RIerafuSOShS7KRC9anquuKDbAA6MGQyHA7x2vEFuso/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "net-zero-emission-taiwan-2050": [
+    {
+      "method": "date_proximity",
+      "diffDays": 86,
+      "term": "51",
+      "eventName": "hackath51n | 第伍拾壹次大肚山海豚黑客松",
+      "date": "2022/8/20",
+      "project": "g0v 十週年參與者徽章",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1RIerafuSOShS7KRC9anquuKDbAA6MGQyHA7x2vEFuso/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "g0v-gather-bot": [
+    {
+      "method": "date_proximity",
+      "diffDays": 2,
+      "term": "48",
+      "eventName": "hackath48n | 第肆拾捌次虎來俱進黑客松",
+      "date": "2022/2/19",
+      "project": "lysayit 立委說了什麼",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WZZb8tz4nKSrbUsxY5SV6pIv10or13XBpjhyWUGF1ts/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "lysub-crawler": [
+    {
+      "method": "date_proximity",
+      "diffDays": 10,
+      "term": "48",
+      "eventName": "hackath48n | 第肆拾捌次虎來俱進黑客松",
+      "date": "2022/2/19",
+      "project": "lysayit 立委說了什麼",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1WZZb8tz4nKSrbUsxY5SV6pIv10or13XBpjhyWUGF1ts/edit?usp=sharing",
+      "slides": [
+        "https://ronnywang.github.io/lysayit"
+      ],
+      "video": ""
+    }
+  ],
+  "chinese-lesson": [
+    {
+      "method": "date_proximity",
+      "diffDays": 17,
+      "term": "51",
+      "eventName": "hackath51n | 第伍拾壹次大肚山海豚黑客松",
+      "date": "2022/8/20",
+      "project": "g0v 十週年參與者徽章",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1RIerafuSOShS7KRC9anquuKDbAA6MGQyHA7x2vEFuso/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "g0v-slack-stat": [
+    {
+      "method": "date_proximity",
+      "diffDays": 25,
+      "term": "51",
+      "eventName": "hackath51n | 第伍拾壹次大肚山海豚黑客松",
+      "date": "2022/8/20",
+      "project": "g0v 十週年參與者徽章",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1RIerafuSOShS7KRC9anquuKDbAA6MGQyHA7x2vEFuso/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "condorcet.ronny.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 63,
+      "term": "51",
+      "eventName": "hackath51n | 第伍拾壹次大肚山海豚黑客松",
+      "date": "2022/8/20",
+      "project": "g0v 十週年參與者徽章",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1RIerafuSOShS7KRC9anquuKDbAA6MGQyHA7x2vEFuso/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "g0v-badge-github-data": [
+    {
+      "method": "date_proximity",
+      "diffDays": 17,
+      "term": "53",
+      "eventName": "hackath53n | 第伍拾參次 18 歲公民權黑客松",
+      "date": "2022/12/17",
+      "project": "刑法上修",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/iHsxX5EWSZGBY5P2HrOPyA",
+      "slides": [],
+      "video": ""
+    }
+  ],
+  "badge.g0v.tw_old": [
+    {
+      "method": "date_proximity",
+      "diffDays": 28,
+      "term": "52",
+      "eventName": "hackath52n | 台灣零時政府第伍拾貳次十週年黑客松",
+      "date": "2022/10/22",
+      "project": "g0v 成就系統",
+      "brief": "",
+      "guideline": "https://badge.g0v.tw/",
+      "slides": [
+        "https://docs.google.com/presentation/d/1wqy0rd6OEsk2KgODFh5-QCRP67AudzhaE0JpogOefVc/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "g0v-badge-data": [
+    {
+      "method": "date_proximity",
+      "diffDays": 13,
+      "term": "51",
+      "eventName": "hackath51n | 第伍拾壹次大肚山海豚黑客松",
+      "date": "2022/8/20",
+      "project": "g0v 十週年參與者徽章",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1RIerafuSOShS7KRC9anquuKDbAA6MGQyHA7x2vEFuso/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "soffice-api": [
+    {
+      "method": "date_proximity",
+      "diffDays": 45,
+      "term": "54",
+      "eventName": "hackath54n | 第伍拾肆次兔兔黑客松",
+      "date": "2023/2/11",
+      "project": "個資外洩元年可以做什麼",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1f0LQWIoPKCq1bvy4o436s2fbJWgOEif4zgutGMO2GvI/edit?usp=sharing",
+      "slides": [
+        "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/rJo-rOV6j"
+      ],
+      "video": ""
+    }
+  ],
+  "bridge": [
+    {
+      "method": "date_proximity",
+      "diffDays": 20,
+      "term": "54",
+      "eventName": "hackath54n | 第伍拾肆次兔兔黑客松",
+      "date": "2023/2/11",
+      "project": "個資外洩元年可以做什麼",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1f0LQWIoPKCq1bvy4o436s2fbJWgOEif4zgutGMO2GvI/edit?usp=sharing",
+      "slides": [
+        "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/rJo-rOV6j"
+      ],
+      "video": ""
+    }
+  ],
+  "axe-level-4": [
+    {
+      "method": "date_proximity",
+      "diffDays": 16,
+      "term": "54",
+      "eventName": "hackath54n | 第伍拾肆次兔兔黑客松",
+      "date": "2023/2/11",
+      "project": "個資外洩元年可以做什麼",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1f0LQWIoPKCq1bvy4o436s2fbJWgOEif4zgutGMO2GvI/edit?usp=sharing",
+      "slides": [
+        "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/rJo-rOV6j"
+      ],
+      "video": ""
+    }
+  ],
+  "axe-level-1": [
+    {
+      "method": "date_proximity",
+      "diffDays": 16,
+      "term": "54",
+      "eventName": "hackath54n | 第伍拾肆次兔兔黑客松",
+      "date": "2023/2/11",
+      "project": "個資外洩元年可以做什麼",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1f0LQWIoPKCq1bvy4o436s2fbJWgOEif4zgutGMO2GvI/edit?usp=sharing",
+      "slides": [
+        "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/rJo-rOV6j"
+      ],
+      "video": ""
+    }
+  ],
+  "openly": [
+    {
+      "method": "date_proximity",
+      "diffDays": 5,
+      "term": "54",
+      "eventName": "hackath54n | 第伍拾肆次兔兔黑客松",
+      "date": "2023/2/11",
+      "project": "個資外洩元年可以做什麼",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1f0LQWIoPKCq1bvy4o436s2fbJWgOEif4zgutGMO2GvI/edit?usp=sharing",
+      "slides": [
+        "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/rJo-rOV6j"
+      ],
+      "video": ""
+    }
+  ],
+  "law-history": [
+    {
+      "method": "date_proximity",
+      "diffDays": 33,
+      "term": "56",
+      "eventName": "hackath56n | 第伍拾陸次真的假的黑客松 x 水保局",
+      "date": "2023/7/1",
+      "project": "開放政治獻金2023",
+      "brief": "政治獻金、JOIN平台提案中",
+      "guideline": "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/",
+      "slides": [
+        "https://docs.google.com/presentation/d/1_cGF4CGLyLemViMfy4JYRT7gRfHV99qC_FtovIvgDi0/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "congress-watch": [
+    {
+      "method": "date_proximity",
+      "diffDays": 39,
+      "term": "56",
+      "eventName": "hackath56n | 第伍拾陸次真的假的黑客松 x 水保局",
+      "date": "2023/7/1",
+      "project": "開放政治獻金2023",
+      "brief": "政治獻金、JOIN平台提案中",
+      "guideline": "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/",
+      "slides": [
+        "https://docs.google.com/presentation/d/1_cGF4CGLyLemViMfy4JYRT7gRfHV99qC_FtovIvgDi0/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "ivod-transcript": [
+    {
+      "method": "date_proximity",
+      "diffDays": 44,
+      "term": "56",
+      "eventName": "hackath56n | 第伍拾陸次真的假的黑客松 x 水保局",
+      "date": "2023/7/1",
+      "project": "開放政治獻金2023",
+      "brief": "政治獻金、JOIN平台提案中",
+      "guideline": "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/",
+      "slides": [
+        "https://docs.google.com/presentation/d/1_cGF4CGLyLemViMfy4JYRT7gRfHV99qC_FtovIvgDi0/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "joinplus-sample": [
+    {
+      "method": "date_proximity",
+      "diffDays": 25,
+      "term": "56",
+      "eventName": "hackath56n | 第伍拾陸次真的假的黑客松 x 水保局",
+      "date": "2023/7/1",
+      "project": "開放政治獻金2023",
+      "brief": "政治獻金、JOIN平台提案中",
+      "guideline": "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/",
+      "slides": [
+        "https://docs.google.com/presentation/d/1_cGF4CGLyLemViMfy4JYRT7gRfHV99qC_FtovIvgDi0/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "pdf-table-cut": [
+    {
+      "method": "date_proximity",
+      "diffDays": 5,
+      "term": "56",
+      "eventName": "hackath56n | 第伍拾陸次真的假的黑客松 x 水保局",
+      "date": "2023/7/1",
+      "project": "開放政治獻金2023",
+      "brief": "政治獻金、JOIN平台提案中",
+      "guideline": "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/",
+      "slides": [
+        "https://docs.google.com/presentation/d/1_cGF4CGLyLemViMfy4JYRT7gRfHV99qC_FtovIvgDi0/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "defense.tw": [
+    {
+      "method": "date_proximity",
+      "diffDays": 15,
+      "term": "56",
+      "eventName": "hackath56n | 第伍拾陸次真的假的黑客松 x 水保局",
+      "date": "2023/7/1",
+      "project": "開放政治獻金2023",
+      "brief": "政治獻金、JOIN平台提案中",
+      "guideline": "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/",
+      "slides": [
+        "https://docs.google.com/presentation/d/1_cGF4CGLyLemViMfy4JYRT7gRfHV99qC_FtovIvgDi0/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "tttc-join-test": [
+    {
+      "method": "date_proximity",
+      "diffDays": 24,
+      "term": "58",
+      "eventName": "hackath58n | 第伍拾捌次 11 歲生日快樂黑客松",
+      "date": "2023/10/15",
+      "project": "連外海纜斷光了怎麼辦",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1GZVn2AipgwImROKjKSFtVSg8hEvhM0D1RlzFn35HpvI/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "taiwan.mbtiles": [
+    {
+      "method": "date_proximity",
+      "diffDays": 20,
+      "term": "58",
+      "eventName": "hackath58n | 第伍拾捌次 11 歲生日快樂黑客松",
+      "date": "2023/10/15",
+      "project": "連外海纜斷光了怎麼辦",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1GZVn2AipgwImROKjKSFtVSg8hEvhM0D1RlzFn35HpvI/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "tpeMapData": [
+    {
+      "method": "date_proximity",
+      "diffDays": 40,
+      "term": "58",
+      "eventName": "hackath58n | 第伍拾捌次 11 歲生日快樂黑客松",
+      "date": "2023/10/15",
+      "project": "連外海纜斷光了怎麼辦",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1GZVn2AipgwImROKjKSFtVSg8hEvhM0D1RlzFn35HpvI/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "pcc-viewer": [
+    {
+      "method": "date_proximity",
+      "diffDays": 46,
+      "term": "58",
+      "eventName": "hackath58n | 第伍拾捌次 11 歲生日快樂黑客松",
+      "date": "2023/10/15",
+      "project": "連外海纜斷光了怎麼辦",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1GZVn2AipgwImROKjKSFtVSg8hEvhM0D1RlzFn35HpvI/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "confcodeofconduct.com": [
+    {
+      "method": "date_proximity",
+      "diffDays": 47,
+      "term": "58",
+      "eventName": "hackath58n | 第伍拾捌次 11 歲生日快樂黑客松",
+      "date": "2023/10/15",
+      "project": "連外海纜斷光了怎麼辦",
+      "brief": "",
+      "guideline": "",
+      "slides": [
+        "https://docs.google.com/presentation/d/1GZVn2AipgwImROKjKSFtVSg8hEvhM0D1RlzFn35HpvI/edit?usp=sharing"
+      ],
+      "video": ""
+    }
+  ],
+  "simple-evacuation-map": [
+    {
+      "method": "date_proximity",
+      "diffDays": 5,
+      "term": "61",
+      "eventName": "hackath61n | 第陸拾壹次龍來 Open Data Day 黑客松",
+      "date": "2024/3/2",
+      "project": "來救松",
+      "brief": "歡迎定期定額捐款支持社群雲端資源與舉辦黑客松, 一起來推展募款吧~ 💰",
+      "guideline": "https://g0v.hackmd.io/0_V7AdIHScOscBHTb4wmQw?view",
+      "slides": [
+        "https://docs.google.com/presentation/d/10Or6t-f5wWC8cUcYCoWtHVo1zCa2XQLfthLyff1gYWc/edit"
+      ],
+      "video": ""
+    }
+  ],
+  "github-page-pwa": [
+    {
+      "method": "date_proximity",
+      "diffDays": 29,
+      "term": "59",
+      "eventName": "hackath59n | 第伍拾玖次輪班寫code救台灣黑客松",
+      "date": "2023/12/9",
+      "project": "OGP 體檢 - 開放國會/開放政府行動方案總體檢",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1M0F1ysUS8gq5NSCbc-8437khHZEXCfg7zdsunlQdIAQ/edit#slide=id.p",
+      "slides": [
+        "https://docs.google.com/presentation/d/1M0F1ysUS8gq5NSCbc-8437khHZEXCfg7zdsunlQdIAQ/edit#slide=id.p"
+      ],
+      "video": ""
+    }
+  ],
+  "fto2024-congress-watch": [
+    {
+      "method": "date_proximity",
+      "diffDays": 29,
+      "term": "62",
+      "eventName": "hackath62n | 第陸拾貳次帶我去月球黑客松",
+      "date": "2024/7/20",
+      "project": "台灣人的開放國會行動方案",
+      "brief": "",
+      "guideline": "https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/SJ93ZW5XR/%2F8uTwZDmoR_yHT_Z-ahUYWw",
+      "slides": [
+        "https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit#slide=id.p"
+      ],
+      "video": ""
+    }
+  ],
+  "mj-battle": [
+    {
+      "method": "date_proximity",
+      "diffDays": 60,
+      "term": "67",
+      "eventName": "hackath67n | 第陸拾柒次沙發很好黑客松",
+      "date": "2025/5/25",
+      "project": "g0v 國會松",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/12MJYLcHw1STGwb3OQdfwNYKPEYxt74XjiqySdL-Zkec/edit?slide=id.p#slide=id.p",
+      "slides": [
+        "https://s.g0v.tw/congressthon"
+      ],
+      "video": ""
+    }
+  ],
+  "Taipei-City-Dashboard": [
+    {
+      "method": "date_proximity",
+      "diffDays": 4,
+      "term": "66",
+      "eventName": "hackath66n | 第陸拾陸次友愛青年黑客松",
+      "date": "2025/3/29",
+      "project": "預算資料公開群眾外包",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/1XimZHGOnliv0Cf6xhR6DotJO7qXSzGoZwDsPRg638-Q/edit?usp=sharing",
+      "slides": [
+        "https://g0v.hackmd.io/@jothon/budget/https%3A%2F%2Fg0v.hackmd.io%2F01j1yrIeQ_eEWQhvFI8Gyw%3Fview"
+      ],
+      "video": ""
+    }
+  ],
+  "akoma-ntoso-documents-translate": [
+    {
+      "method": "date_proximity",
+      "diffDays": 172,
+      "term": "67",
+      "eventName": "hackath67n | 第陸拾柒次沙發很好黑客松",
+      "date": "2025/5/25",
+      "project": "g0v 國會松",
+      "brief": "",
+      "guideline": "https://docs.google.com/presentation/d/12MJYLcHw1STGwb3OQdfwNYKPEYxt74XjiqySdL-Zkec/edit?slide=id.p#slide=id.p",
+      "slides": [
+        "https://s.g0v.tw/congressthon"
+      ],
+      "video": ""
+    }
+  ]
+}
