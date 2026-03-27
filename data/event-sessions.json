@@ -2,283 +2,101 @@
   "digiresithon": {
     "label": "數位韌性松",
     "color": "emerald",
+    "description": "由 Ronny 和 Paul 共同發起，每月一次聚焦「數位韌性」主題的黑客松，探討戰時網路、民防科技、資料備份等議題。",
     "sessions": [
-      {
-        "num": 0,
-        "date": "2023-11-04"
-      },
-      {
-        "num": 1,
-        "date": "2023-12-30"
-      },
-      {
-        "num": 2,
-        "date": "2024-01-20"
-      },
-      {
-        "num": 3,
-        "date": "2024-02-24"
-      },
-      {
-        "num": 4,
-        "date": "2024-03-23"
-      },
-      {
-        "num": 5,
-        "date": "2024-04-27"
-      },
-      {
-        "num": 6,
-        "date": "2024-05-25"
-      },
-      {
-        "num": 7,
-        "date": "2024-06-15"
-      },
-      {
-        "num": 8,
-        "date": "2024-07-27"
-      },
-      {
-        "num": 9,
-        "date": "2024-08-31"
-      },
-      {
-        "num": 10,
-        "date": "2024-09-21"
-      },
-      {
-        "num": 11,
-        "date": "2024-10-31"
-      },
-      {
-        "num": 12,
-        "date": "2024-12-21"
-      },
-      {
-        "num": 13,
-        "date": "2026-01-18"
-      },
-      {
-        "num": 14,
-        "date": "2026-03-08"
-      }
+      {"num": 0, "date": "2023-11-04", "location": "NPO HUB Taipei 4F 廚房", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith0n", "notes": "https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ"},
+      {"num": 1, "date": "2023-12-30", "location": "NPO HUB Taipei 4F 廚房", "kktix": null, "notes": "https://g0v.hackmd.io/mKkOC9PLSXi0GZg7uGm1xA"},
+      {"num": 2, "date": "2024-01-20", "location": "國立臺灣大學 霖澤館 1701室", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith2n", "notes": "https://g0v.hackmd.io/iC-7ZtqJTqG75GxUY3aiAQ"},
+      {"num": 3, "date": "2024-02-24", "location": "NPO HUB Taipei 4F 廚房", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith3n", "notes": "https://g0v.hackmd.io/Xt7FoiZgTYq-7x20iNGN4A"},
+      {"num": 4, "date": "2024-03-23", "location": "NPO HUB Taipei 4F 廚房", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith4n", "notes": "https://g0v.hackmd.io/qcDX1C5mTE24UcCUkfTthQ"},
+      {"num": 5, "date": "2024-04-27", "location": "NPO HUB Taipei 4F 廚房", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith5n", "notes": "https://g0v.hackmd.io/ugNkTFLARwK4rmH7jCdO-g"},
+      {"num": 6, "date": "2024-05-25", "location": "NPO HUB Taipei 4F 廚房", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith6n", "notes": "https://g0v.hackmd.io/CLbAeY3wTZCaLr-YCYqafw"},
+      {"num": 7, "date": "2024-06-15", "location": "NPO HUB Taipei 4F 廚房", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith7n", "notes": "https://g0v.hackmd.io/_WHs9N0eS3mzFHn5QzjvRg"},
+      {"num": 8, "date": "2024-07-27", "location": "NPO HUB Taipei 4F 廚房", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith8n", "notes": "https://g0v.hackmd.io/H3ffGKZKSrmAAShdc2Cx9Q"},
+      {"num": 9, "date": "2024-08-31", "location": "NPO HUB Taipei 4F 廚房", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith9n", "notes": "https://g0v.hackmd.io/MouuawY4S5SRLtBYG1QIbQ"},
+      {"num": 10, "date": "2024-09-21", "location": "摩茲工寮 MozTW Space", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith10n", "notes": "https://g0v.hackmd.io/uLwn1o0AQ-qikfUdyPVbrw"},
+      {"num": 11, "date": "2024-10-31", "location": "線上", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith11n", "notes": "https://g0v.hackmd.io/3GFbzMscScSYuuRsVshbaw"},
+      {"num": 12, "date": "2024-12-21", "location": "NPO HUB Taipei 2F", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith12n", "notes": "https://g0v.hackmd.io/iuYFrLclS0CQKczvnZWDPQ"},
+      {"num": 13, "date": "2026-01-18", "location": "g0v 台北社群空間 2F", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith13n", "notes": "https://g0v.hackmd.io/dzEjfFD_RLe9DJzOMQ2C8A"},
+      {"num": 14, "date": "2026-03-08", "location": "g0v 台北社群空間 2F", "kktix": "https://g0v-digiresi.kktix.cc/events/digiresith14n", "notes": "https://g0v.hackmd.io/aoUgv0mUQL-pPQVHVh5tvQ"},
+      {"num": 15, "date": "2026-04-11", "location": null, "kktix": null, "notes": "https://g0v.hackmd.io/II9U3fe8RcqNWqpIfz8qpA"},
+      {"num": 16, "date": "2026-06-28", "location": "g0v 台北社群空間 2F", "kktix": null, "notes": "https://g0v.hackmd.io/M6fQaaveSfiz7epbrETQxw"}
     ]
   },
   "congressthon": {
     "label": "國會松",
     "color": "rose",
+    "description": "由 Ronny、Claire 和國會松籌辦團隊發起，2024 年起每月一次，聚焦立法院開放資料與公民科技應用，與 lawtrace、lyapi 等工具密切連結。",
     "sessions": [
-      {
-        "num": 0,
-        "date": "2024-06-01"
-      },
-      {
-        "num": 1,
-        "date": "2024-07-06"
-      },
-      {
-        "num": 2,
-        "date": "2024-08-03"
-      },
-      {
-        "num": 3,
-        "date": "2024-09-21"
-      },
-      {
-        "num": 4,
-        "date": "2024-10-25"
-      },
-      {
-        "num": 5,
-        "date": "2024-11-30"
-      },
-      {
-        "num": 6,
-        "date": "2024-12-22"
-      },
-      {
-        "num": 7,
-        "date": "2025-01-18"
-      },
-      {
-        "num": 8,
-        "date": "2025-02-15"
-      },
-      {
-        "num": 9,
-        "date": "2025-03-16"
-      },
-      {
-        "num": 10,
-        "date": "2025-04-27"
-      },
-      {
-        "num": 11,
-        "date": "2025-05-25"
-      },
-      {
-        "num": 12,
-        "date": "2025-06-14"
-      },
-      {
-        "num": 13,
-        "date": "2025-07-26"
-      },
-      {
-        "num": 15,
-        "date": "2025-09-27"
-      },
-      {
-        "num": 16,
-        "date": "2025-10-26"
-      },
-      {
-        "num": 17,
-        "date": "2025-11-15"
-      },
-      {
-        "num": 18,
-        "date": "2025-12-13"
-      },
-      {
-        "num": 19,
-        "date": "2026-01-17"
-      },
-      {
-        "num": 20,
-        "date": "2026-02-08"
-      }
+      {"num": 0, "date": "2024-06-01", "location": "NPO HUB Taipei 4F 廚房", "kktix": "https://g0v-congress.kktix.cc/events/g0v-congress0n", "notes": "https://g0v.hackmd.io/saSDZK5zSJyWXP2GbZk07A"},
+      {"num": 1, "date": "2024-07-06", "location": "NPO HUB Taipei 4F 廚房", "kktix": null, "notes": "https://g0v.hackmd.io/mmc5c7aETOq9_VL_N1BgvQ"},
+      {"num": 2, "date": "2024-08-03", "location": "NPO HUB Taipei 4F 廚房", "kktix": null, "notes": "https://g0v.hackmd.io/Irh3HZr-Sty_kmxKci7XaA"},
+      {"num": 3, "date": "2024-09-21", "location": "NPO HUB Taipei 4F 廚房", "kktix": null, "notes": "https://g0v.hackmd.io/@hRQQwB1RRValc_Fu0Awrmw/B1nEijjp0"},
+      {"num": 4, "date": "2024-10-25", "location": "NPO HUB Taipei 4F 廚房（含線上）", "kktix": "https://g0v-congress.kktix.cc/events/g0v-congress4n", "notes": null},
+      {"num": 5, "date": "2024-11-30", "location": "NPO HUB Taipei 4F 廚房", "kktix": null, "notes": "https://g0v.hackmd.io/@hRQQwB1RRValc_Fu0Awrmw/SJNsjztM1e"},
+      {"num": 6, "date": "2024-12-22", "location": "NPO HUB Taipei 4F 廚房", "kktix": null, "notes": "https://g0v.hackmd.io/k6MuTeTMRuaYTVBxQZU34g"},
+      {"num": 7, "date": "2025-01-18", "location": null, "kktix": null, "notes": "https://g0v.hackmd.io/g6M0JpcsRUy6zJo-5ISoYA"},
+      {"num": 8, "date": "2025-02-15", "location": null, "kktix": null, "notes": "https://g0v.hackmd.io/USWwNSnpRxyjcygqig6Dbw"},
+      {"num": 9, "date": "2025-03-16", "location": null, "kktix": "https://g0vcongressthon.oen.tw/events/2ttCVK38tDOiog8URK6MWK6aQAU", "notes": "https://g0v.hackmd.io/mFhCt7NVRUeEWDL8W_znkg"},
+      {"num": 10, "date": "2025-04-27", "location": null, "kktix": "https://g0vcongressthon.oen.tw/events/2vcSlV4wScpMJ1W6jPiLnJbfhQr", "notes": "https://g0v.hackmd.io/@hRQQwB1RRValc_Fu0Awrmw/Sy8w_Vjklx"},
+      {"num": 11, "date": "2025-05-25", "location": null, "kktix": "https://g0vcongressthon.oen.tw/events/2xGxivEOZ1ihTMU1K5lvW7meg40", "notes": "https://g0v.hackmd.io/52coL7ZIRFijKxDoXmKOkg"},
+      {"num": 12, "date": "2025-06-14", "location": null, "kktix": "https://g0vcongressthon.oen.tw/events/2yBlKenBlqD7LNyo3HzFprGHQ9o", "notes": null},
+      {"num": 13, "date": "2025-07-26", "location": null, "kktix": "https://g0vcongressthon.oen.tw/events/2zid03kau2NZtpLPjFPnJkGkZhq", "notes": "https://g0v.hackmd.io/P7qxY8hVTDOd2GBmH-WWrA"},
+      {"num": 15, "date": "2025-09-27", "location": null, "kktix": "https://g0vcongressthon.oen.tw/events/32ofPVXprsZDh4TqqPajuuOEeum", "notes": "https://g0v.hackmd.io/iSqFlwnyTPqBUpgSL4w3pw"},
+      {"num": 16, "date": "2025-10-26", "location": null, "kktix": "https://g0vcongressthon.oen.tw/events/348aQs6a4G73m0osCBo5X4DQ578", "notes": "https://g0v.hackmd.io/KaG8tomOSi6HyHh0YyeRnQ"},
+      {"num": 17, "date": "2025-11-15", "location": null, "kktix": null, "notes": "https://g0v.hackmd.io/OcjHQuF2SGeQVOB0RtdztA"},
+      {"num": 18, "date": "2025-12-13", "location": null, "kktix": null, "notes": "https://g0v.hackmd.io/DBkSKyirSkCfJV4jJ-upfQ"},
+      {"num": 19, "date": "2026-01-17", "location": null, "kktix": null, "notes": "https://g0v.hackmd.io/Wfe0hEscQSuR0dtfsVmyuA"},
+      {"num": 20, "date": "2026-02-08", "location": null, "kktix": "https://g0vcongressthon.oen.tw/events/38pXvSh4qLtrL3tFEyslOE9rCy3", "notes": "https://g0v.hackmd.io/4DjUCQHzTUyR86p6FPPcsQ"}
     ]
   },
   "dadathon": {
     "label": "黑魔法防禦松",
     "color": "purple",
+    "description": "為紀念致力於區塊鏈詐騙防治的 Miffy 在意外中離世，Ronny 決定以一場黑客松作為 g0v 社群的紀念方式，聚焦違法金流追查、網路詐騙防治、兒少保護等議題。",
     "sessions": [
-      {
-        "num": 1,
-        "date": "2025-01-04"
-      }
+      {"num": 0, "date": "2025-01-04", "location": "台北 NPO 聚落 2F", "kktix": "https://g0v-jothon.kktix.cc/events/dadath0n", "notes": null, "description": "首屆黑魔法防禦松，聚焦區塊鏈金流追查、網路詐騙防治、兒少私密影像外流防護，以公民科技紀念 Miffy 的精神。"}
     ]
   },
   "tvhackathon": {
     "label": "電視松",
     "color": "orange",
+    "description": "Ronny 發起，聚焦台灣電視新聞監督，透過群眾外包將電視節目標注成結構化資料，為媒體分析提供數據基礎。",
     "sessions": [
-      {
-        "num": 0,
-        "date": "2019-04-28"
-      },
-      {
-        "num": 1,
-        "date": "2019-06-22"
-      }
+      {"num": 0, "date": "2019-04-28", "location": "圓山花博爭艷館", "kktix": "https://g0v-jothon.kktix.cc/events/hackatv0n", "notes": null},
+      {"num": 1, "date": "2019-06-22", "location": "公視新聞實驗室", "kktix": "https://g0v-jothon.kktix.cc/events/hackatv1n", "notes": null}
     ]
   },
   "infras": {
     "label": "基礎建設松",
     "color": "teal",
+    "description": "g0v 揪松團主辦，專注於 g0v 社群基礎建設的工作松，包含網域管理、工具開發、新手教學等，Ronny 是核心成員之一，多個 g0v 基礎建設專案在此誕生。",
     "sessions": [
-      {
-        "num": 0,
-        "date": "2014-05-13"
-      },
-      {
-        "num": 1,
-        "date": "2016-06-12"
-      },
-      {
-        "num": 2,
-        "date": "2016-07-03"
-      },
-      {
-        "num": 3,
-        "date": "2016-07-23"
-      },
-      {
-        "num": 4,
-        "date": "2016-08-26"
-      },
-      {
-        "num": 5,
-        "date": "2016-10-08"
-      },
-      {
-        "num": 6,
-        "date": "2017-01-21"
-      },
-      {
-        "num": 7,
-        "date": "2017-02-16"
-      },
-      {
-        "num": 8,
-        "date": "2017-04-20"
-      },
-      {
-        "num": 9,
-        "date": "2017-10-21"
-      },
-      {
-        "num": 10,
-        "date": "2018-04-14"
-      },
-      {
-        "num": 11,
-        "date": "2018-06-19"
-      },
-      {
-        "num": 12,
-        "date": "2018-09-02"
-      },
-      {
-        "num": 13,
-        "date": "2018-11-11"
-      },
-      {
-        "num": 14,
-        "date": "2019-10-20"
-      },
-      {
-        "num": 15,
-        "date": "2020-01-18"
-      },
-      {
-        "num": 17,
-        "date": "2021-01-10"
-      },
-      {
-        "num": 18,
-        "date": "2021-05-22"
-      },
-      {
-        "num": 19,
-        "date": "2022-03-12"
-      },
-      {
-        "num": 20,
-        "date": "2022-07-09"
-      },
-      {
-        "num": 21,
-        "date": "2022-09-03"
-      },
-      {
-        "num": 22,
-        "date": "2023-03-04"
-      },
-      {
-        "num": 23,
-        "date": "2023-05-09"
-      },
-      {
-        "num": 24,
-        "date": "2024-04-20"
-      },
-      {
-        "num": 25,
-        "date": "2024-10-06"
-      }
+      {"num": 0, "date": "2014-05-13", "location": null, "kktix": null, "notes": null},
+      {"num": 1, "date": "2016-06-12", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath1n", "notes": null},
+      {"num": 2, "date": "2016-07-03", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath2n", "notes": null},
+      {"num": 3, "date": "2016-07-23", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath3n", "notes": null},
+      {"num": 4, "date": "2016-08-26", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath4n", "notes": null},
+      {"num": 5, "date": "2016-10-08", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath5n", "notes": null},
+      {"num": 6, "date": "2017-01-21", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath6n", "notes": null},
+      {"num": 7, "date": "2017-02-16", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath7n", "notes": null},
+      {"num": 8, "date": "2017-04-20", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath8n", "notes": null},
+      {"num": 9, "date": "2017-10-21", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath9n", "notes": null},
+      {"num": 10, "date": "2018-04-14", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath10n", "notes": null},
+      {"num": 11, "date": "2018-06-19", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath11n", "notes": null},
+      {"num": 12, "date": "2018-09-02", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath12n", "notes": "https://g0v.hackmd.io/@jothon/BJWzbgmLm"},
+      {"num": 13, "date": "2018-11-11", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath13n", "notes": null},
+      {"num": 14, "date": "2019-10-20", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath14n", "notes": null},
+      {"num": 15, "date": "2020-01-18", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath15n", "notes": null},
+      {"num": 17, "date": "2021-01-10", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath17n", "notes": null},
+      {"num": 18, "date": "2021-05-22", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath18n", "notes": null},
+      {"num": 19, "date": "2022-03-12", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath19n", "notes": null},
+      {"num": 20, "date": "2022-07-09", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath20n", "notes": null},
+      {"num": 21, "date": "2022-09-03", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath21n", "notes": null},
+      {"num": 22, "date": "2023-03-04", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath22n", "notes": null},
+      {"num": 23, "date": "2023-05-09", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath23n", "notes": null},
+      {"num": 24, "date": "2024-04-20", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath24n", "notes": null},
+      {"num": 25, "date": "2024-10-06", "location": null, "kktix": "https://g0v-jothon.kktix.cc/events/infrath25n", "notes": null}
     ]
   }
 }

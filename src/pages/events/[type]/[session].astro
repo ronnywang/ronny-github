@@ -1,0 +1,148 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { readFileSync } from 'fs';
+import { join } from 'path';
+
+export async function getStaticPaths() {
+  const allHackathons = JSON.parse(
+    readFileSync(join(process.cwd(), 'data', 'g0v-hackathons-list.json'), 'utf-8')
+  );
+  const eventSessions = JSON.parse(
+    readFileSync(join(process.cwd(), 'data', 'event-sessions.json'), 'utf-8')
+  );
+
+  const paths = [];
+
+  // g0v 大松場次
+  for (const h of allHackathons) {
+    paths.push({
+      params: { type: 'g0v-hackathon', session: `th${h.num}n` },
+      props: {
+        type: 'g0v-hackathon',
+        typeLabel: 'g0v 黑客松',
+        color: 'indigo',
+        session: { num: h.num, date: h.date, name: h.name, location: null, kktix: null, notes: null },
+      },
+    });
+  }
+
+  // 自辦活動場次
+  for (const [key, ev] of Object.entries(eventSessions)) {
+    for (const s of ev.sessions) {
+      paths.push({
+        params: { type: key, session: `th${s.num}n` },
+        props: {
+          type: key,
+          typeLabel: ev.label,
+          color: ev.color,
+          session: s,
+        },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { type, typeLabel, color, session } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+const headerColor = {
+  indigo: 'text-indigo-600', emerald: 'text-emerald-600',
+  rose: 'text-rose-600', purple: 'text-purple-600',
+  orange: 'text-orange-600', teal: 'text-teal-600',
+}[color] || 'text-stone-800';
+
+const chipCls = {
+  indigo: 'bg-indigo-50 border-indigo-200 text-indigo-600',
+  emerald: 'bg-emerald-50 border-emerald-300 text-emerald-700',
+  rose: 'bg-rose-50 border-rose-300 text-rose-700',
+  purple: 'bg-purple-50 border-purple-300 text-purple-700',
+  orange: 'bg-orange-50 border-orange-300 text-orange-700',
+  teal: 'bg-teal-50 border-teal-300 text-teal-700',
+}[color] || 'bg-stone-50 border-stone-200 text-stone-600';
+
+const btnCls = {
+  indigo: 'bg-indigo-600 hover:bg-indigo-700',
+  emerald: 'bg-emerald-600 hover:bg-emerald-700',
+  rose: 'bg-rose-600 hover:bg-rose-700',
+  purple: 'bg-purple-600 hover:bg-purple-700',
+  orange: 'bg-orange-600 hover:bg-orange-700',
+  teal: 'bg-teal-600 hover:bg-teal-700',
+}[color] || 'bg-stone-600 hover:bg-stone-700';
+---
+
+<BaseLayout title={`${typeLabel} 第${session.num}n — Ronny 的開源回憶錄`}>
+  <div class="mb-2">
+    <a href={`${base}events/${type}`} class="text-sm text-stone-400 hover:text-indigo-500 inline-block">
+      ← {typeLabel}
+    </a>
+  </div>
+
+  <div class="mb-8">
+    <div class="flex items-center gap-3 mb-2">
+      <span class={`text-sm font-mono px-2 py-1 rounded border ${chipCls}`}>第{session.num}n</span>
+      <h1 class={`text-2xl font-bold ${headerColor}`}>{typeLabel}</h1>
+    </div>
+    {session.name && <p class="text-stone-600 text-lg">{session.name}</p>}
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+    {/* 基本資訊 */}
+    <div class="bg-stone-50 rounded-xl p-5 space-y-3">
+      <h2 class="text-sm font-semibold text-stone-500 uppercase tracking-wide">活動資訊</h2>
+      <div class="space-y-2">
+        <div class="flex items-start gap-2">
+          <span class="text-stone-400 text-sm w-12 shrink-0">日期</span>
+          <span class="text-stone-700 text-sm">{session.date}</span>
+        </div>
+        {session.location && (
+          <div class="flex items-start gap-2">
+            <span class="text-stone-400 text-sm w-12 shrink-0">地點</span>
+            <span class="text-stone-700 text-sm">{session.location}</span>
+          </div>
+        )}
+        {!session.location && (
+          <div class="flex items-start gap-2">
+            <span class="text-stone-400 text-sm w-12 shrink-0">地點</span>
+            <span class="text-stone-300 text-sm italic">未記錄</span>
+          </div>
+        )}
+      </div>
+    </div>
+
+    {/* 連結 */}
+    <div class="bg-stone-50 rounded-xl p-5 space-y-3">
+      <h2 class="text-sm font-semibold text-stone-500 uppercase tracking-wide">相關連結</h2>
+      <div class="space-y-2">
+        {session.kktix ? (
+          <a href={session.kktix} target="_blank"
+            class={`flex items-center gap-2 text-sm text-white px-3 py-2 rounded-lg ${btnCls} transition-colors`}>
+            <span>🎟</span> 報名頁面（KKTIX）
+          </a>
+        ) : (
+          <div class="text-sm text-stone-300 italic">無報名頁面</div>
+        )}
+        {session.notes && (
+          <a href={session.notes} target="_blank"
+            class="flex items-center gap-2 text-sm text-stone-600 bg-white border border-stone-200 px-3 py-2 rounded-lg hover:border-stone-300 transition-colors">
+            <span>📝</span> 活動共筆（HackMD）
+          </a>
+        )}
+      </div>
+    </div>
+  </div>
+
+  {session.description && (
+    <div class="bg-white border border-stone-200 rounded-xl p-5 mb-6">
+      <h2 class="text-sm font-semibold text-stone-500 uppercase tracking-wide mb-2">活動說明</h2>
+      <p class="text-stone-700 leading-relaxed">{session.description}</p>
+    </div>
+  )}
+
+  <div class="text-center mt-8">
+    <a href={`${base}events/${type}`} class="text-sm text-stone-400 hover:text-indigo-500">
+      查看 {typeLabel} 所有場次 →
+    </a>
+  </div>
+</BaseLayout>

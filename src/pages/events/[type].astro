@@ -11,64 +11,51 @@ export async function getStaticPaths() {
     readFileSync(join(process.cwd(), 'data', 'event-sessions.json'), 'utf-8')
   );
 
-  // g0v 大松
   const g0vPath = {
     params: { type: 'g0v-hackathon' },
     props: {
+      key: 'g0v-hackathon',
       title: 'g0v 黑客松',
-      subtitle: '台灣零時政府雙月黑客松',
-      description: 'g0v 社群從 2012 年起每兩個月舉辦一次黑客松，以「人、坑、松」為核心，去中心化運作，至今已超過 70 次。',
       color: 'indigo',
+      description: 'g0v 社群從 2012 年起每兩個月舉辦一次黑客松，以「人、坑、松」為核心，去中心化運作，沒有老大、沒有門檻，任何人都可以提案、任何人都可以參加。至今已超過 70 次，是台灣最重要的公民科技社群活動之一。',
       sessions: allHackathons.map(h => ({
-        num: h.num,
-        date: h.date,
-        name: h.name,
-        url: null,
-        notes: null,
+        num: h.num, date: h.date, name: h.name,
+        location: null, kktix: null, notes: null,
       })),
     },
   };
 
-  // 自辦活動
   const eventPaths = Object.entries(eventSessions).map(([key, ev]) => ({
     params: { type: key },
     props: {
+      key,
       title: ev.label,
-      subtitle: '',
-      description: '',
       color: ev.color,
-      sessions: ev.sessions.map(s => ({
-        num: s.num,
-        date: s.date,
-        name: s.name || null,
-        url: s.url || null,
-        notes: s.notes || null,
-        location: s.location || null,
-      })),
+      description: ev.description || '',
+      sessions: ev.sessions,
     },
   }));
 
   return [g0vPath, ...eventPaths];
 }
 
-const { title, subtitle, description, color, sessions } = Astro.props;
+const { key, title, color, description, sessions } = Astro.props;
+const base = import.meta.env.BASE_URL;
 
-const colorBadge = {
-  indigo:  'bg-indigo-50 border-indigo-200 text-indigo-600',
+const headerColor = {
+  indigo: 'text-indigo-600', emerald: 'text-emerald-600',
+  rose: 'text-rose-600', purple: 'text-purple-600',
+  orange: 'text-orange-600', teal: 'text-teal-600',
+}[color] || 'text-stone-800';
+
+const chipCls = {
+  indigo: 'bg-indigo-50 border-indigo-200 text-indigo-600',
   emerald: 'bg-emerald-50 border-emerald-300 text-emerald-700',
-  rose:    'bg-rose-50 border-rose-300 text-rose-700',
-  purple:  'bg-purple-50 border-purple-300 text-purple-700',
-  orange:  'bg-orange-50 border-orange-300 text-orange-700',
-  teal:    'bg-teal-50 border-teal-300 text-teal-700',
-};
-const colorHeader = {
-  indigo:  'text-indigo-600',
-  emerald: 'text-emerald-600',
-  rose:    'text-rose-600',
-  purple:  'text-purple-600',
-  orange:  'text-orange-600',
-  teal:    'text-teal-600',
-};
+  rose: 'bg-rose-50 border-rose-300 text-rose-700',
+  purple: 'bg-purple-50 border-purple-300 text-purple-700',
+  orange: 'bg-orange-50 border-orange-300 text-orange-700',
+  teal: 'bg-teal-50 border-teal-300 text-teal-700',
+}[color] || 'bg-stone-50 border-stone-200 text-stone-600';
 
 // 依年份分組
 const byYear: Record<number, typeof sessions> = {};
@@ -82,49 +69,30 @@ const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
 
 <BaseLayout title={`${title} — Ronny 的開源回憶錄`}>
   <div class="mb-8">
-    <a href="/ronny-github/timeline" class="text-sm text-stone-400 hover:text-indigo-500 mb-4 inline-block">← 時間軸</a>
-    <h1 class={`text-3xl font-bold mb-1 ${colorHeader[color] || 'text-stone-900'}`}>{title}</h1>
-    {subtitle && <p class="text-stone-500 text-sm mb-2">{subtitle}</p>}
-    {description && <p class="text-stone-600 max-w-2xl">{description}</p>}
+    <a href={`${base}timeline`} class="text-sm text-stone-400 hover:text-indigo-500 mb-4 inline-block">← 時間軸</a>
+    <h1 class={`text-3xl font-bold mb-3 ${headerColor}`}>{title}</h1>
+    {description && <p class="text-stone-600 max-w-2xl leading-relaxed">{description}</p>}
     <p class="text-stone-400 text-sm mt-3">共 {sessions.length} 場</p>
   </div>
 
   <div class="space-y-10">
     {years.map(year => (
       <section>
-        <h2 class="text-xl font-bold text-stone-700 mb-3 border-b border-stone-100 pb-2">{year}</h2>
-        <div class="space-y-2">
+        <h2 class="text-lg font-bold text-stone-600 mb-3 border-b border-stone-100 pb-1">{year}</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           {byYear[year].map(s => (
-            <div class="flex items-start gap-3 py-2 border-b border-stone-50 hover:bg-stone-50 rounded px-2 -mx-2 transition-colors">
-              <span class={`shrink-0 inline-flex items-center px-2 py-0.5 rounded border text-xs font-mono ${colorBadge[color] || 'bg-stone-50 border-stone-200 text-stone-500'}`}>
-                第{s.num}n
-              </span>
-              <div class="flex-1 min-w-0">
-                <div class="flex items-center gap-3 flex-wrap">
-                  <span class="text-sm text-stone-500">{s.date}</span>
-                  {s.name && <span class="text-sm text-stone-700">{s.name}</span>}
-                  {s.location && (
-                    <span class="text-xs text-stone-400">
-                      📍 {s.location}
-                    </span>
-                  )}
-                </div>
-                {(s.url || s.notes) && (
-                  <div class="flex gap-3 mt-1">
-                    {s.url && (
-                      <a href={s.url} target="_blank" class="text-xs text-indigo-500 hover:underline">
-                        報名頁面 ↗
-                      </a>
-                    )}
-                    {s.notes && (
-                      <a href={s.notes} target="_blank" class="text-xs text-indigo-500 hover:underline">
-                        共筆 ↗
-                      </a>
-                    )}
-                  </div>
-                )}
+            <a
+              href={`${base}events/${key}/th${s.num}n`}
+              class="block border border-stone-200 rounded-lg p-3 hover:border-indigo-300 hover:shadow-sm transition-all group"
+            >
+              <div class="flex items-center gap-2 mb-1">
+                <span class={`text-xs font-mono px-1.5 py-0.5 rounded border ${chipCls}`}>第{s.num}n</span>
+                <span class="text-xs text-stone-400">{s.date}</span>
               </div>
-            </div>
+              {s.name && <div class="text-sm text-stone-700 truncate">{s.name}</div>}
+              {s.location && <div class="text-xs text-stone-400 mt-1 truncate">📍 {s.location}</div>}
+              <div class="text-xs text-indigo-400 mt-1 group-hover:text-indigo-600">查看詳情 →</div>
+            </a>
           ))}
         </div>
       </section>
