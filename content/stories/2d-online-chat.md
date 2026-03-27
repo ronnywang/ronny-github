@@ -12,6 +12,7 @@ stars: 11
 language: JavaScript
 summary: COVID 初期，用 RPG 像素風格做了一個 2D 線上聊天室，比 Gather.Town 還早，整合 Jitsi 開源視訊，後來用來辦了中研院陳昇瑋老師的線上告別式。
 githubUrl: https://github.com/g0v/2d-online-chat
+term: 39
 ---
 
 # 2D 線上聊天室

@@ -14,6 +14,7 @@ language: PHP
 summary: COVID 疫情下，把 g0v 黑客松整套流程搬到線上——從自我介紹、提案、分組協作到成果分享，最終命名「Jothon Online 線上揪松」，辦了兩次純線上大松，是 commit 數最多的 g0v 專案。
 githubUrl: https://github.com/g0v/g0v-intro
 homepage: https://meet.jothon.online/
+term: 38
 ---
 
 # 線上揪松

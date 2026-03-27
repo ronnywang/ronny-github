@@ -14,6 +14,7 @@ language: JavaScript
 summary: 疫情期間，3月線上大松成功後，許多組織求助揪松團協助線上活動——包含總統杯黑客松和 AIT GCTF，於是做了 jitsi-screen，讓 Jitsi 會議室可以客製化排版、按鈕互動、直播背景，彈性支援大型線上活動。後因 Jitsi API 改版需要 API Key 才能使用，整套工具一起失效。
 githubUrl: https://github.com/g0v/jitsi-screen
 homepage: https://g0v.github.io/jitsi-screen/screen2.html
+term: 39
 ---
 
 # 揪己家：線上活動客製化舞台

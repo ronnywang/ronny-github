@@ -13,6 +13,7 @@ homepage: "https://ronnywang.github.io/pdf-table-extractor/"
 githubUrl: "https://github.com/ronnywang/pdf-table-extractor"
 summary: "歷經多次失敗後終於做出能處理合併儲存格、人人可用的 PDF 表格抓取工具，每週在 npm 仍有逾千次下載"
 relatedRepos: ["pdf-to-table", "php-table-splitter", "pdf-table-cut"]
+term: 18
 ---
 
 政府公開資料最惱人的形式，大概就是 PDF 裡的表格。看得到、複製不了，或者複製出來全是亂碼。做台灣開放資料的這幾年，我一次又一次撞上這堵牆。

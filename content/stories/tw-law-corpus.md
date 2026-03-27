@@ -13,6 +13,7 @@ homepage: ""
 githubUrl: "https://github.com/ronnywang/tw-law-corpus"
 summary: "g0v 同伴把法律變成 git commit 的啟發，讓我意識到法律跟程式碼一樣可以做 diff，接手維護後默默跑了八年"
 relatedRepos: ["twlaw"]
+term: 3
 ---
 
 在 g0v 圈子裡，victorhsieh 最先做了一件有趣的事：把台灣所有的法律放進 git repository，每次法律有修訂就新增一個 commit。

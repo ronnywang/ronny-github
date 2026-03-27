@@ -17,6 +17,7 @@ related:
 github: https://github.com/g0v/newshelper-extension
 github_backend: https://github.com/g0v/newshelper-backend
 summary: Chrome Extension，讓使用者可以回報錯誤新聞，並在 Facebook 上對閱讀者顯示警告。累積 5000 筆回報，單日最高 13000 個不重複 IP，運作超過五年後因使用者大量轉向手機而暫停服務。
+term: 4
 ---
 
 ## 起源：那則刪掉也來不及的謠言

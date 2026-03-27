@@ -14,6 +14,7 @@ homepage: "https://company-graph.g0v.ronny.tw/"
 githubUrl: "https://github.com/ronnywang/company-graph"
 summary: "塑化劑事件引發的抵制行動，意外推動了台灣公司董監事關係圖的誕生"
 relatedRepos: ["twcompany", "company-open-data-sync", "taiwan-company-table"]
+term: 6
 ---
 
 2011 年塑化劑事件爆發，很多人想抵制統一集團。但「統一集團」到底包含哪些公司？消費者盯著貨架上的商品，根本搞不清楚哪些品牌背後是同一個老闆。
