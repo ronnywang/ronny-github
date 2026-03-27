@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import RepoCard from '../components/RepoCard.astro';
+import { getAllStories, groupByYear } from '../lib/stories.js';
+
+const stories = getAllStories();
+const grouped = groupByYear(stories);
+const base = import.meta.env.BASE_URL;
+---
+
+<BaseLayout title="時間軸 — Ronny 的開源回憶錄">
+  <div class="mb-8">
+    <h1 class="text-2xl font-bold text-stone-900 mb-2">時間軸</h1>
+    <p class="text-stone-500">從最新到最舊，看開源旅程的演進脈絡</p>
+  </div>
+
+  {grouped.length === 0 && (
+    <p class="text-stone-400 text-center py-16">尚無故事，請先執行訪談腳本</p>
+  )}
+
+  <div class="relative">
+    {grouped.map(({ year, stories: yearStories }) => (
+      <section class="mb-12">
+        <div class="flex items-center gap-4 mb-5">
+          <div class="text-2xl font-bold text-indigo-600 w-16 shrink-0">{year}</div>
+          <div class="flex-1 h-px bg-stone-200"></div>
+          <div class="text-sm text-stone-400">{yearStories.length} 個專案</div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pl-20">
+          {yearStories.map(s => <RepoCard story={s} />)}
+        </div>
+      </section>
+    ))}
+  </div>
+</BaseLayout>

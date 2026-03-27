@@ -1,0 +1,122 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import RepoCard from '../../components/RepoCard.astro';
+import { getAllStories, getStoryBySlug } from '../../lib/stories.js';
+
+export async function getStaticPaths() {
+  const stories = getAllStories();
+  return stories.map(s => ({ params: { slug: s.slug } }));
+}
+
+const { slug } = Astro.params;
+const story = getStoryBySlug(slug);
+const base = import.meta.env.BASE_URL;
+
+if (!story) return Astro.redirect(`${base}/`);
+
+// 同語言或同 topic 的相關 repo
+const all = getAllStories();
+const related = all
+  .filter(s => s.slug !== slug && (
+    s.language === story.language ||
+    (Array.isArray(s.topics) && Array.isArray(story.topics) &&
+     s.topics.some(t => story.topics.includes(t)))
+  ))
+  .slice(0, 4);
+
+const year = story.date ? story.date.slice(0, 4) : '';
+const topics = Array.isArray(story.topics) ? story.topics : [];
+---
+
+<BaseLayout title={`${story.slug} — Ronny 的開源回憶錄`} description={story.summary || ''}>
+  <!-- Breadcrumb -->
+  <nav class="text-sm text-stone-400 mb-6">
+    <a href={`${base}/`} class="hover:text-stone-600">首頁</a>
+    <span class="mx-2">/</span>
+    <a href={`${base}/timeline`} class="hover:text-stone-600">時間軸</a>
+    <span class="mx-2">/</span>
+    <span class="text-stone-600">{story.slug}</span>
+  </nav>
+
+  <article class="max-w-3xl">
+    <!-- Header -->
+    <header class="mb-8">
+      <div class="flex items-center gap-2 mb-2 flex-wrap">
+        <code class="text-2xl font-bold text-stone-900">{story.slug}</code>
+        {story.isFork && (
+          <span class="text-sm px-2 py-0.5 bg-stone-100 text-stone-500 rounded">fork</span>
+        )}
+      </div>
+
+      {story.title && story.title !== story.slug && (
+        <p class="text-lg text-stone-600 mb-3">{story.title}</p>
+      )}
+
+      <!-- Meta -->
+      <div class="flex flex-wrap gap-x-5 gap-y-1 text-sm text-stone-400 mb-4">
+        {year && <span>📅 {story.date}</span>}
+        {story.language && <span>💻 {story.language}</span>}
+        {story.stars > 0 && <span>★ {story.stars} stars</span>}
+        {story.forks > 0 && <span>🍴 {story.forks} forks</span>}
+      </div>
+
+      <!-- Topics -->
+      {topics.length > 0 && (
+        <div class="flex flex-wrap gap-1.5 mb-4">
+          {topics.map(t => (
+            <a href={`${base}/topics#topic-${t}`}
+               class="text-xs px-2.5 py-1 bg-indigo-50 text-indigo-600 rounded-full hover:bg-indigo-100 transition-colors">
+              {t}
+            </a>
+          ))}
+        </div>
+      )}
+
+      <!-- Links -->
+      <div class="flex flex-wrap gap-3">
+        <a href={story.githubUrl} target="_blank" rel="noopener"
+           class="inline-flex items-center gap-1.5 text-sm px-4 py-2 bg-stone-900 text-white rounded-lg hover:bg-stone-700 transition-colors">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
+          </svg>
+          GitHub
+        </a>
+        {story.homepage && (
+          <a href={story.homepage} target="_blank" rel="noopener"
+             class="inline-flex items-center gap-1.5 text-sm px-4 py-2 border border-stone-300 rounded-lg hover:bg-stone-100 transition-colors">
+            🔗 網站
+          </a>
+        )}
+        {story.isFork && story.forkedFrom && (
+          <a href={`https://github.com/${story.forkedFrom}`} target="_blank" rel="noopener"
+             class="text-sm text-stone-400 hover:text-stone-600 flex items-center gap-1">
+            Fork 自 {story.forkedFrom}
+          </a>
+        )}
+      </div>
+    </header>
+
+    <!-- Story content -->
+    {story.content ? (
+      <div class="prose prose-stone max-w-none text-stone-700 leading-relaxed text-[1.05rem] space-y-4 mb-12">
+        {story.content.split('\n\n').map(para => (
+          <p>{para}</p>
+        ))}
+      </div>
+    ) : (
+      <div class="bg-stone-100 rounded-xl p-6 mb-12 text-stone-500">
+        這個專案尚未有故事。執行 <code class="font-mono">npm run interview -- --repo {story.slug}</code> 來補充。
+      </div>
+    )}
+  </article>
+
+  <!-- Related -->
+  {related.length > 0 && (
+    <section class="border-t border-stone-200 pt-8 mt-4">
+      <h2 class="text-lg font-bold text-stone-800 mb-4">相關專案</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {related.map(s => <RepoCard story={s} compact={true} />)}
+      </div>
+    </section>
+  )}
+</BaseLayout>

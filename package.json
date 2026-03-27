@@ -1,0 +1,19 @@
+{
+  "name": "ronny-github-memoir",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch-repos": "node scripts/fetch-repos.js",
+    "fetch-readmes": "node scripts/fetch-readmes.js",
+    "interview": "node scripts/interview.js",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "astro": "^5.5.5",
+    "tailwindcss": "^3.4.0"
+  }
+}
