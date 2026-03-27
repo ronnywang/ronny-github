@@ -128,14 +128,15 @@ function monthPos(dateStr) {
                   {yearHackathons.map(h => {
                     const isLinked = linkedTerms.has(h.num);
                     return (
-                      <span
+                      <a
+                        href={`${base}/events/g0v-hackathon/th${h.num}n`}
                         title={`${h.date}　${h.name}`}
-                        class={`absolute -translate-x-1/2 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-mono cursor-default select-none border leading-tight
+                        class={`absolute -translate-x-1/2 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-mono border leading-tight hover:scale-110 transition-transform
                           ${isLinked ? 'bg-amber-100 border-amber-400 text-amber-800 font-bold z-10' : 'bg-indigo-50 border-indigo-200 text-indigo-500'}`}
                         style={`left: ${monthPos(h.date)}%`}
                       >
                         {h.num}n
-                      </span>
+                      </a>
                     );
                   })}
                 </div>
@@ -150,13 +151,14 @@ function monthPos(dateStr) {
                   {sessions.map(s => {
                     const cls = colorMap[s.color]?.chip || 'bg-stone-50 border-stone-300 text-stone-600';
                     return (
-                      <span
+                      <a
+                        href={`${base}/events/${key}/th${s.num}n`}
                         title={s.date}
-                        class={`absolute -translate-x-1/2 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-mono cursor-default select-none border leading-tight ${cls}`}
+                        class={`absolute -translate-x-1/2 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-mono border leading-tight hover:scale-110 transition-transform ${cls}`}
                         style={`left: ${monthPos(s.date)}%`}
                       >
                         {s.num}n
-                      </span>
+                      </a>
                     );
                   })}
                 </div>
