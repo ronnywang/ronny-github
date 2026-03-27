@@ -74,7 +74,13 @@
       "Bash(curl -sk \"https://g0v.hackpad.tw/a0wv4LdHpwx\" --max-time 10)",
       "Bash(curl -sk \"https://g0v.hackpad.tw/ep/pad/static/a0wv4LdHpwx\" --max-time 10)",
       "Bash(curl -sk \"https://docs.google.com/presentation/d/1iURW9_xoqFVozjWMXHUXv23NAkDy4X0XuhZo-1Qmhi8/export/txt\" --max-time 15)",
-      "WebFetch(domain:docs.google.com)"
+      "WebFetch(domain:docs.google.com)",
+      "Bash(curl -s \"https://api.github.com/repos/middle2tw/middle2\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/middle2tw/middle2/master/README.md\" --max-time 10)",
+      "WebFetch(domain:github.com)",
+      "Bash(node scripts/interview.js --info middle2)",
+      "Bash(node scripts/interview.js --info twtvnews)",
+      "Bash(curl -s -H \"Authorization: token $GITHUB_TOKEN\" https://api.github.com/user)"
     ]
   }
 }

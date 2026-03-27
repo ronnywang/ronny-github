@@ -21,6 +21,7 @@ const ROOT = join(__dirname, '..');
 const REPOS_FILE        = join(ROOT, 'data', 'repos.json');
 const OPENFUN_FILE      = join(ROOT, 'data', 'openfunltd-repos.json');
 const G0V_FILE          = join(ROOT, 'data', 'g0v-ronnywang-repos.json');
+const EXTRA_FILE        = join(ROOT, 'data', 'extra-repos.json');
 const READMES_DIR       = join(ROOT, 'data', 'readmes');
 const STORIES_DIR       = join(ROOT, 'content', 'stories');
 const SKIPPED_FILE      = join(ROOT, 'data', 'skipped.json');
@@ -59,7 +60,11 @@ function loadRepos() {
       }))
     : [];
 
-  return [...ronnywang, ...openfun, ...g0v];
+  const extra = existsSync(EXTRA_FILE)
+    ? JSON.parse(readFileSync(EXTRA_FILE, 'utf-8')).map(r => ({ ...r, stars: r.stars ?? 0 }))
+    : [];
+
+  return [...ronnywang, ...openfun, ...g0v, ...extra];
 }
 function loadSkipped()    { return existsSync(SKIPPED_FILE) ? JSON.parse(readFileSync(SKIPPED_FILE, 'utf-8')) : []; }
 function saveSkipped(arr) { writeFileSync(SKIPPED_FILE, JSON.stringify(arr, null, 2), 'utf-8'); }
