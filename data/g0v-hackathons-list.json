@@ -5,7 +5,8 @@
     "year": 2012,
     "name": "動員勘亂黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/dab224",
-    "hackfoldr": "https://web.archive.org/web/20131209075213/https://hackpad.com/g0v-hackath0n-%E5%8F%B0%E7%81%A3%E9%9B%B6%E6%99%82%E6%94%BF%E5%BA%9C%E7%AC%AC%E9%9B%B6%E6%AC%A1%E5%8B%95%E5%93%A1%E6%88%A1%E4%BA%82%E9%BB%91%E5%AE%A2%E6%9D%BE-%E6%9C%AC%E6%AC%A1%E6%B4%BB%E5%8B%95%E5%B7%B2%E7%B5%90%E6%9D%9F-ul6fMthof2S"
+    "hackfoldr": "https://web.archive.org/web/20131209075213/https://hackpad.com/g0v-hackath0n-%E5%8F%B0%E7%81%A3%E9%9B%B6%E6%99%82%E6%94%BF%E5%BA%9C%E7%AC%AC%E9%9B%B6%E6%AC%A1%E5%8B%95%E5%93%A1%E6%88%A1%E4%BA%82%E9%BB%91%E5%AE%A2%E6%9D%BE-%E6%9C%AC%E6%AC%A1%E6%B4%BB%E5%8B%95%E5%B7%B2%E7%B5%90%E6%9D%9F-ul6fMthof2S",
+    "location": "中研院資訊科技創新研究中心"
   },
   {
     "num": 1,
@@ -13,7 +14,8 @@
     "year": 2013,
     "name": "公地放領黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath1n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath1n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath1n",
+    "location": "中研院資訊科學研究所"
   },
   {
     "num": 2,
@@ -21,7 +23,8 @@
     "year": 2013,
     "name": "九大建設黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath2n-taipei",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath2n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath2n",
+    "location": "中研院資訊科學研究所"
   },
   {
     "num": 3,
@@ -29,7 +32,8 @@
     "year": 2013,
     "name": "客廳工廠黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath3n-taipei",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath3n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath3n",
+    "location": "中研院資訊科學研究所"
   },
   {
     "num": 4,
@@ -37,7 +41,8 @@
     "year": 2013,
     "name": "國民大會黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath4n-taipei",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath4n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath4n",
+    "location": "中研院資訊科學研究所"
   },
   {
     "num": 5,
@@ -45,7 +50,8 @@
     "year": 2013,
     "name": "美麗島黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath5n-taipei",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath5n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath5n",
+    "location": "中央研究院資訊科學研究所"
   },
   {
     "num": 6,
@@ -53,7 +59,8 @@
     "year": 2013,
     "name": "勞動基準黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath6n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath6n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath6n",
+    "location": "中央研究院資訊科學研究所"
   },
   {
     "num": 7,
@@ -61,7 +68,8 @@
     "year": 2014,
     "name": "自由時代黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath7n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath7n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath7n",
+    "location": "中央研究院資訊科學研究所"
   },
   {
     "num": 8,
@@ -69,7 +77,8 @@
     "year": 2014,
     "name": "解除戒嚴黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath8n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath8n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath8n",
+    "location": "華山1914文化創意產業園區"
   },
   {
     "num": 9,
@@ -77,7 +86,8 @@
     "year": 2014,
     "name": "還我土地黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath9n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath9n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath9n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 10,
@@ -85,7 +95,8 @@
     "year": 2014,
     "name": "資料科學黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath10n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath10n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath10n",
+    "location": "未記錄"
   },
   {
     "num": 11,
@@ -93,7 +104,8 @@
     "year": 2014,
     "name": "開放報禁黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath11n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath11n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath11n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 12,
@@ -101,7 +113,8 @@
     "year": 2015,
     "name": "不得宣傳罷免黑客松",
     "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath12n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath12n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath12n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 13,
@@ -109,7 +122,8 @@
     "year": 2015,
     "name": "無殼蝸牛黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath13n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath13n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath13n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 14,
@@ -117,7 +131,8 @@
     "year": 2015,
     "name": "野百合黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath14n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath14n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath14n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 15,
@@ -125,7 +140,8 @@
     "year": 2015,
     "name": "資料科學黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath15n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath15n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath15n",
+    "location": "中央研究院人文社會科學館"
   },
   {
     "num": 16,
@@ -133,7 +149,8 @@
     "year": 2015,
     "name": "刑法一百黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath16n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath16n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath16n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 17,
@@ -141,7 +158,8 @@
     "year": 2015,
     "name": "立委改選黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath17n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath17n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath17n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 18,
@@ -149,7 +167,8 @@
     "year": 2016,
     "name": "亞太營運黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath18n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath18n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath18n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 19,
@@ -157,7 +176,8 @@
     "year": 2016,
     "name": "飛彈試射黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath19n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath19n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath19n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 20,
@@ -165,7 +185,8 @@
     "year": 2016,
     "name": "總統直選黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath20n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath20n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath20n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 21,
@@ -173,7 +194,8 @@
     "year": 2016,
     "name": "根留台灣黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath21n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath21n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath21n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 22,
@@ -181,7 +203,8 @@
     "year": 2016,
     "name": "公民科學黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath22n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath22n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath22n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 23,
@@ -189,7 +212,8 @@
     "year": 2017,
     "name": "開放資料黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath23n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath23n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath23n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 24,
@@ -197,7 +221,8 @@
     "year": 2017,
     "name": "凍省黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath24n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath24n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath24n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 25,
@@ -205,7 +230,8 @@
     "year": 2017,
     "name": "一綱多本黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath25n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath25n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath25n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 26,
@@ -213,7 +239,8 @@
     "year": 2017,
     "name": "五週年黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath26n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath26n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath26n",
+    "location": "TAF 空總創新基地聯合餐廳"
   },
   {
     "num": 27,
@@ -221,7 +248,8 @@
     "year": 2017,
     "name": "全球開放立法黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath27n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath27n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath27n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 28,
@@ -229,7 +257,8 @@
     "year": 2018,
     "name": "高牆功德黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath28n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath28n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath28n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 29,
@@ -237,7 +266,8 @@
     "year": 2018,
     "name": "開放資料黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath29n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath29n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath29n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 30,
@@ -245,7 +275,8 @@
     "year": 2018,
     "name": "佛系黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath30n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath30n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath30n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 31,
@@ -253,7 +284,8 @@
     "year": 2018,
     "name": "香蕉吃到飽松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath31n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath31n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath31n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 32,
@@ -261,7 +293,8 @@
     "year": 2018,
     "name": "台灣零時政府第参拾貳次蜂蜜檸檬",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath32n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath32n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath32n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 33,
@@ -269,7 +302,8 @@
     "year": 2019,
     "name": "不顧北京反對___黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath33n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath33n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath33n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 34,
@@ -277,7 +311,8 @@
     "year": 2019,
     "name": "再開放空總黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath34n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath34n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath34n",
+    "location": "空總臺灣當代文化實驗場"
   },
   {
     "num": 35,
@@ -285,7 +320,8 @@
     "year": 2019,
     "name": "最旁邊黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath35n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath35n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath35n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 36,
@@ -293,7 +329,8 @@
     "year": 2019,
     "name": "開放台北市議會黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath36n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath36n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath36n",
+    "location": "台北市議會"
   },
   {
     "num": 37,
@@ -301,7 +338,8 @@
     "year": 2019,
     "name": "全臺首學黑客松 + 2019 ",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath37n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath37n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath37n",
+    "location": "吳園藝文中心（台南）"
   },
   {
     "num": 38,
@@ -309,7 +347,8 @@
     "year": 2020,
     "name": "在家黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/sch001-hackath38n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath38n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath38n",
+    "location": "NPO HUB Taipei"
   },
   {
     "num": 39,
@@ -317,7 +356,8 @@
     "year": 2020,
     "name": "又在家黑客松",
     "kktix": null,
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath39n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath39n",
+    "location": "線上活動"
   },
   {
     "num": 40,
@@ -325,7 +365,8 @@
     "year": 2020,
     "name": "老地方黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath40n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath40n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath40n",
+    "location": "中研院資訊所"
   },
   {
     "num": 41,
@@ -333,7 +374,8 @@
     "year": 2020,
     "name": "八週年黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath41n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath41n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath41n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 42,
@@ -350,7 +392,8 @@
     "year": 2021,
     "name": "源力犇騰黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath43n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath43n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath43n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 44,
@@ -358,7 +401,8 @@
     "year": 2021,
     "name": "世界最危險黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath44n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath44n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath44n",
+    "location": "線上活動"
   },
   {
     "num": 45,
@@ -384,7 +428,8 @@
     "year": 2021,
     "name": "板橋油庫口黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath47n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath47n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath47n",
+    "location": "新板傑仕堡"
   },
   {
     "num": 48,
@@ -392,7 +437,8 @@
     "year": 2022,
     "name": "虎來俱進黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath48n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath48n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath48n",
+    "location": "線上（Gather Town）"
   },
   {
     "num": 49,
@@ -400,7 +446,8 @@
     "year": 2022,
     "name": "全糖去冰黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath49n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath49n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath49n",
+    "location": "C-Hub 成大創新中心（台南）"
   },
   {
     "num": 50,
@@ -408,7 +455,8 @@
     "year": 2022,
     "name": "來電五十黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath50n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath50n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath50n",
+    "location": "升級會議中心-松江101館"
   },
   {
     "num": 51,
@@ -416,7 +464,8 @@
     "year": 2022,
     "name": "大肚山海豚黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath51n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath51n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath51n",
+    "location": "集思台中新烏日會議中心"
   },
   {
     "num": 52,
@@ -424,7 +473,8 @@
     "year": 2022,
     "name": "十週年黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath52n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath52n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath52n",
+    "location": "中央研究院人文館"
   },
   {
     "num": 53,
@@ -432,7 +482,8 @@
     "year": 2022,
     "name": "18 歲公民權黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath53n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath53n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath53n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 54,
@@ -440,7 +491,8 @@
     "year": 2023,
     "name": "兔兔黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath54n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath54n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath54n",
+    "location": "國家教育研究院 臺北院區"
   },
   {
     "num": 55,
@@ -448,7 +500,8 @@
     "year": 2023,
     "name": "AI也想參加黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath55n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath55n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath55n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 56,
@@ -456,7 +509,8 @@
     "year": 2023,
     "name": "真的假的黑客松 x 水保局",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath56n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath56n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath56n",
+    "location": "集思台中新烏日會議中心"
   },
   {
     "num": 57,
@@ -464,7 +518,8 @@
     "year": 2023,
     "name": "開源普渡黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath57n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath57n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath57n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 58,
@@ -472,7 +527,8 @@
     "year": 2023,
     "name": "11 歲生日快樂黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath58n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath58n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath58n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 59,
@@ -480,7 +536,8 @@
     "year": 2023,
     "name": "輪班寫code救台灣黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath59n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath59n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath59n",
+    "location": "竹北市中興里集會所"
   },
   {
     "num": 60,
@@ -488,7 +545,8 @@
     "year": 2024,
     "name": "記得投票黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath60n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath60n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath60n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 61,
@@ -496,7 +554,8 @@
     "year": 2024,
     "name": "龍來 Open Data Da",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath61n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath61n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath61n",
+    "location": "國立臺灣大學學新館 SPACE M"
   },
   {
     "num": 62,
@@ -504,7 +563,8 @@
     "year": 2024,
     "name": "帶我去月球黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath62n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath62n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath62n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 63,
@@ -512,7 +572,8 @@
     "year": 2024,
     "name": "公民科技園遊會黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath63n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath63n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath63n",
+    "location": "台北矽谷國際會議中心"
   },
   {
     "num": 64,
@@ -520,7 +581,8 @@
     "year": 2024,
     "name": "黃金比例黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath64n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath64n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath64n",
+    "location": "中央研究院資訊科學所"
   },
   {
     "num": 65,
@@ -528,7 +590,8 @@
     "year": 2025,
     "name": "平凡而自由的黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath65n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath65n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath65n",
+    "location": "國立臺灣大學學新館 SPACE M"
   },
   {
     "num": 66,
@@ -536,7 +599,8 @@
     "year": 2025,
     "name": "友愛青年黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath66n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath66n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath66n",
+    "location": "好想工作室（台南）"
   },
   {
     "num": 67,
@@ -544,7 +608,8 @@
     "year": 2025,
     "name": "沙發很好黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath67n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath67n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath67n",
+    "location": "NPO HUB Taipei"
   },
   {
     "num": 68,
@@ -552,7 +617,8 @@
     "year": 2025,
     "name": "每週散步黑客松暨零時小學校數位",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath68n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath68n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath68n",
+    "location": "g0v 台北社群空間"
   },
   {
     "num": 69,
@@ -560,7 +626,8 @@
     "year": 2025,
     "name": "公民科技青年培力",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath69n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath69n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath69n",
+    "location": "g0v 台北社群空間"
   },
   {
     "num": 70,
@@ -568,7 +635,8 @@
     "year": 2025,
     "name": "費波那契數列黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath70n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath70n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath70n",
+    "location": "g0v 台北社群空間"
   },
   {
     "num": 71,
@@ -576,7 +644,8 @@
     "year": 2026,
     "name": "高雄黑客松 KHH Hackathon",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath71n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath71n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath71n",
+    "location": "Le Phare 共享空間 新左營館（高雄）"
   },
   {
     "num": 72,
@@ -584,6 +653,7 @@
     "year": 2026,
     "name": "新源意碼大造化黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath72n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath72n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath72n",
+    "location": "好想工作室（台南）"
   }
 ]
