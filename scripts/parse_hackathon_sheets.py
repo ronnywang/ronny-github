@@ -314,10 +314,17 @@ def main():
 
     result = {}
 
+    # hackath2n spreadsheet is a self-introduction sheet, not a proposal sheet
+    SKIP_IDS = {'g0v-hackath2n'}
+
     csv_files = sorted(glob.glob(os.path.join(SHEET_DIR, '*.csv')))
     print(f"Found {len(csv_files)} CSV files")
 
     for filepath in csv_files:
+        basename = os.path.basename(filepath).replace('.csv', '')
+        if basename in SKIP_IDS:
+            print(f'  SKIP {basename}: excluded (non-proposal sheet)')
+            continue
         basename = os.path.basename(filepath).replace('.csv', '')
         h_info = hack_lookup.get(basename, {})
 

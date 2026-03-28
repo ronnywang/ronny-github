@@ -1,0 +1,47 @@
+hh,,,,,,,,,,,
+順序,預計發表時間,發表者,已發表,主題,相關連結,專案的三個關鍵字,鄉民列表 id,專案徵人,youtube url: 專案報告,youtube url: 成果報告,slides url
+1,9:40:00,clkao,√,立法院 api、公民優先審議法案,http://hack.g0v.tw/g0v-ly/,立法院、法案、詞窮,,"designer, mockup, frontend",https://www.youtube.com/watch?v=kOr3BfUkivc&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=2,,
+2,9:43:00,Sam,√,注音遊戲,https://g0v.hackpad.com/8agrA6IIN33,,,,https://www.youtube.com/watch?v=vAOh1_8gkH8&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=3,,
+3,9:46:00,Lee/Mike,√,立法院風雲榜,http://hack.g0v.tw/g0v-ly-persondep/sVOmEE2o0v0,立委、提案分析、民意評分,,"UX/UI designer ,web前端, web後端",https://www.youtube.com/watch?v=RjVFGSz-4Ig&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=4,,https://docs.google.com/presentation/d/1U0G2_RFjAMZTLJViom00hRrh0JlIOFSXp6EGmwlMkW4/pub?start=false&loop=false&delayms=3000#slide=id.p
+4,9:49:00,,,,,,,,,,
+5,9:52:00,,,,,,,,,,
+6,9:55:00,,,,,,,,,,
+7,9:58:00,ETBlue,√,動民主家族,http://hack.g0v.tw/meta/Ra62eyV02sC,線上民主，德國海盜黨，義大利五星運動,,"web designer, rails programmer, misc",https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=5,,
+8,10:01:00,ipa,√,g0v天下部落格供稿庫+人力資源部,http://hack.g0v.tw/cwblog/,"g0v基礎建設、文字、成果
+https://moqups.com/ipa/eLIbxNCC",,,https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=6,,
+9,10:04:00,嬋兒,√,圖博資訊網路平台,很倉促...所以沒連結...希望美麗島松當天可以產生連結,即時新聞、資訊整合、媒介平台,,防駭客工程師、網頁設計師、上傳新聞編輯者...,https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=7,,
+10,10:07:00,au,√,萌典,http://hack.g0v.tw/g0v-hackath5n/tDx3D5FZya5,辭典、筆順、分享,,UX 設計師、JS 前端、JS 後端、iOS/Android/firefoxOS 設計、測試、字型達人、中文達人,https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=8,,
+11,10:10:00,hychen,√,鄉民關心你,hack.g0v.tw/kuansim,"議題分析, 議題追蹤",,,https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=9,,
+12,10:13:00,Michael LI,√,鄉民熱線．提供資料拼圖（暫名）,https://g0v.hackpad.com/pKTonmfaVVd#計畫書馬馬虎虎，但是欠缺帶專案經驗只怕領導力不夠,事件拼圖　改進效率　螞蟻雄兵,,規劃師（擬SOP）、文案（管理資料）、網頁設計、行銷（隨時把需求散出去）,https://www.youtube.com/watch?v=P91cuPUNo4I&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv,,https://docs.google.com/file/d/0B6ASgY1GMSOhOExWbXZ0dzZyUUk/
+13,10:16:00,bater,√,選票成分分析,https://www.facebook.com/VotesAnalysis?ref=hl,立委、立場、媒合計算,"bater, fntsrlike",PHP工程師、前端、設計師,https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=11,,https://docs.google.com/presentation/d/13Lis9GEnOZGCe27Urc6v7ckuV7pG_7qd5yyr2WxaCEQ/edit#slide=id.g9528ca1f_035
+14,10:19:00,cpyang,√,i64885,https://github.com/g0v/i64885,律師、集會遊行、事件追蹤,,facebook 整合,https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=12,,https://docs.google.com/file/d/0B86OXa1Nkwf0S2VBZFJ5ZmN2Zms/edit?usp=sharing
+15,10:22:00,spicycop,√,國會無雙,,國會、監督,,UX設計師 使用者經驗達人 美宣,https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=13,,
+16,10:25:00,Superbil,√,政府單位通訊錄,https://github.com/g0v/addressbook,政府機關、電話、E-mail,,"畫圖, 連連看達人",https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=14,,
+17,10:28:00,jslee,√,petneed.me,https://github.com/jsleetw/petneed.me,動物不會寫code但是主人會,,,https://www.youtube.com/watch?v=UslR_LLRSKE&list=PLdwQWxpS513CpK0Gs90ITLsnE3pY39GVv&index=15,,
+,-> 滿了請繼續往下填,,,,,,,,,,
+"14:00【6分鐘短講報名】
+每個 present 6min，分享技術、議題、專案、研究皆可。1400後時間自訂。",,,,,,,,,,,
+順序,預計發表時間,發表者,已發表,主題,相關連結,專案的三個關鍵字,鄉民列表 id,專案徵人,youtube url,,slides url
+1,15:30:00,Michael LI,,新聞小幫手社群概要,https://registrano.com/events/2013newshelp01,革命、奮鬥、救新聞～！,,編輯小聚／第一次／10/26（六）,,,
+2,,李慕約,,30 days of D3.js,http://muyueh.com/seeall/,Data Driven Document,,,,,
+3,,kewang,,Typo Resolver,https://chrome.google.com/webstore/detail/kpmhpplainkjokabdbjkfdkohacblnlo,錯字、教育、語文,kewang,,,,http://www.slideshare.net/kewang/typo-resolver
+4,,,,,,,,,,,
+,本期開放四位,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"17:15【美麗島 present project】 規則
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,
+順序,預計發表時間,發表者,已發表,主題,相關連結,,,,,,
+1,17:15:00,clkao,,立院 player,,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=3,
+2,17:20:00,bater,,選票成份分析alpha,http://bater_chen.byethost7.com/alpha,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=4,
+3,17:25:00,superbil,,政府單位通訊錄,https://github.com/g0v/addressbook,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=5,
+4,17:30:00,老蕭,,roadpin,http://106.187.101.193:3333,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=6,
+5,17:35:00,嬋兒,,圖博資訊網站平台,https://tibet.hackpad.com/OKl2pookYrN,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=7,
+6,17:40:00,au,,萌典,https://www.moedict.tw,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=8,
+7,17:45:00,dylandy,,動民主,,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=9,
+8,17:50:00,jeffhung,,g0v 人力資源部,https://github.com/g0v/e04,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=10,
+9,17:55:00,ipa,,供稿庫,http://hack.g0v.tw/cwblog/,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=11,
+10,18:00:00,kcliu,,鄉民關心你,https://github.com/g0v/kuansim,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=12,
+11,18:05:00,jslee,,petneed.me,,,,,,https://www.youtube.com/watch?v=490TgJALJrc&list=PLdwQWxpS513C7NC00EtYvihy1ZijXuNPT&index=13,

@@ -4,510 +4,583 @@
     "date": "2012-12-01",
     "year": 2012,
     "name": "動員勘亂黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/dab224"
+    "kktix": "https://g0v-tw.kktix.cc/events/dab224",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath0n"
   },
   {
     "num": 1,
     "date": "2013-01-27",
     "year": 2013,
     "name": "公地放領黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath1n"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath1n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath1n"
   },
   {
     "num": 2,
     "date": "2013-03-23",
     "year": 2013,
     "name": "九大建設黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath2n-taipei"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath2n-taipei",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath2n"
   },
   {
     "num": 3,
     "date": "2013-06-08",
     "year": 2013,
     "name": "客廳工廠黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath3n-taipei"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath3n-taipei",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath3n"
   },
   {
     "num": 4,
     "date": "2013-08-10",
     "year": 2013,
     "name": "國民大會黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath4n-taipei"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath4n-taipei",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath4n"
   },
   {
     "num": 5,
     "date": "2013-10-20",
     "year": 2013,
     "name": "美麗島黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath5n-taipei"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath5n-taipei",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath5n"
   },
   {
     "num": 6,
     "date": "2013-12-21",
     "year": 2013,
     "name": "勞動基準黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath6n"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath6n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath6n"
   },
   {
     "num": 7,
     "date": "2014-02-22",
     "year": 2014,
     "name": "自由時代黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath7n"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath7n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath7n"
   },
   {
     "num": 8,
     "date": "2014-04-19",
     "year": 2014,
     "name": "解除戒嚴黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath8n"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath8n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath8n"
   },
   {
     "num": 9,
     "date": "2014-06-21",
     "year": 2014,
     "name": "還我土地黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath9n"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath9n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath9n"
   },
   {
     "num": 10,
     "date": "2014-08-30",
     "year": 2014,
     "name": "資料科學黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath10n"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath10n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath10n"
   },
   {
     "num": 11,
     "date": "2014-12-20",
     "year": 2014,
     "name": "開放報禁黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath11n"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath11n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath11n"
   },
   {
     "num": 12,
     "date": "2015-02-14",
     "year": 2015,
     "name": "不得宣傳罷免黑客松",
-    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath12n"
+    "kktix": "https://g0v-tw.kktix.cc/events/g0v-hackath12n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath12n"
   },
   {
     "num": 13,
     "date": "2015-04-18",
     "year": 2015,
     "name": "無殼蝸牛黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath13n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath13n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath13n"
   },
   {
     "num": 14,
     "date": "2015-06-13",
     "year": 2015,
     "name": "野百合黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath14n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath14n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath14n"
   },
   {
     "num": 15,
     "date": "2015-08-22",
     "year": 2015,
     "name": "資料科學黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath15n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath15n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath15n"
   },
   {
     "num": 16,
     "date": "2015-10-24",
     "year": 2015,
     "name": "刑法一百黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath16n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath16n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath16n"
   },
   {
     "num": 17,
     "date": "2015-12-26",
     "year": 2015,
     "name": "立委改選黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath17n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath17n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath17n"
   },
   {
     "num": 18,
     "date": "2016-03-15",
     "year": 2016,
     "name": "亞太營運黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath18n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath18n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath18n"
   },
   {
     "num": 19,
     "date": "2016-06-18",
     "year": 2016,
     "name": "飛彈試射黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath19n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath19n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath19n"
   },
   {
     "num": 20,
     "date": "2016-08-06",
     "year": 2016,
     "name": "總統直選黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath20n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath20n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath20n"
   },
   {
     "num": 21,
     "date": "2016-10-15",
     "year": 2016,
     "name": "根留台灣黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath21n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath21n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath21n"
   },
   {
     "num": 22,
     "date": "2016-12-17",
     "year": 2016,
     "name": "公民科學黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath22n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath22n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath22n"
   },
   {
     "num": 23,
     "date": "2017-03-04",
     "year": 2017,
     "name": "開放資料黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath23n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath23n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath23n"
   },
   {
     "num": 24,
     "date": "2017-05-06",
     "year": 2017,
     "name": "凍省黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath24n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath24n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath24n"
   },
   {
     "num": 25,
     "date": "2017-07-01",
     "year": 2017,
     "name": "一綱多本黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath25n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath25n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath25n"
   },
   {
     "num": 26,
     "date": "2017-09-16",
     "year": 2017,
     "name": "五週年黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath26n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath26n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath26n"
   },
   {
     "num": 27,
     "date": "2017-11-25",
     "year": 2017,
     "name": "全球開放立法黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath27n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath27n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath27n"
   },
   {
     "num": 28,
     "date": "2018-01-13",
     "year": 2018,
     "name": "高牆功德黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath28n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath28n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath28n"
   },
   {
     "num": 29,
     "date": "2018-03-03",
     "year": 2018,
     "name": "開放資料黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath29n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath29n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath29n"
   },
   {
     "num": 30,
     "date": "2018-05-05",
     "year": 2018,
     "name": "佛系黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath30n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath30n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath30n"
   },
   {
     "num": 31,
     "date": "2018-07-07",
     "year": 2018,
     "name": "香蕉吃到飽松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath31n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath31n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath31n"
   },
   {
     "num": 32,
     "date": "2018-12-08",
     "year": 2018,
     "name": "台灣零時政府第参拾貳次蜂蜜檸檬",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath32n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath32n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath32n"
   },
   {
     "num": 33,
     "date": "2019-03-09",
     "year": 2019,
     "name": "不顧北京反對___黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath33n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath33n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath33n"
   },
   {
     "num": 34,
     "date": "2019-05-25",
     "year": 2019,
     "name": "再開放空總黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath34n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath34n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath34n"
   },
   {
     "num": 35,
     "date": "2019-07-20",
     "year": 2019,
     "name": "最旁邊黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath35n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath35n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath35n"
   },
   {
     "num": 36,
     "date": "2019-09-07",
     "year": 2019,
     "name": "開放台北市議會黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath36n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath36n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath36n"
   },
   {
     "num": 37,
     "date": "2019-12-21",
     "year": 2019,
     "name": "全臺首學黑客松 + 2019 ",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath37n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath37n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath37n"
   },
   {
     "num": 38,
     "date": "2020-03-14",
     "year": 2020,
     "name": "在家黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/sch001-hackath38n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/sch001-hackath38n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath38n"
   },
   {
     "num": 39,
     "date": "2020-05-23",
     "year": 2020,
     "name": "又在家黑客松",
-    "kktix": null
+    "kktix": null,
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath39n"
   },
   {
     "num": 40,
     "date": "2020-07-25",
     "year": 2020,
     "name": "老地方黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath40n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath40n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath40n"
   },
   {
     "num": 41,
     "date": "2020-10-24",
     "year": 2020,
     "name": "八週年黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath41n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath41n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath41n"
   },
   {
     "num": 42,
     "date": "2021-01-23",
     "year": 2021,
     "name": "黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath42n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath42n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath42n"
   },
   {
     "num": 43,
     "date": "2021-03-20",
     "year": 2021,
     "name": "源力犇騰黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath43n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath43n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath43n"
   },
   {
     "num": 44,
     "date": "2021-06-26",
     "year": 2021,
     "name": "世界最危險黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath44n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath44n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath44n"
   },
   {
     "num": 45,
     "date": "2021-08-21",
     "year": 2021,
     "name": "g0v hackath45n｜",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath45n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath45n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath45n"
   },
   {
     "num": 46,
     "date": "2021-10-23",
     "year": 2021,
     "name": "g0v hackath46n｜",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath46n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath46n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath46n"
   },
   {
     "num": 47,
     "date": "2021-12-11",
     "year": 2021,
     "name": "板橋油庫口黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath47n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath47n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath47n"
   },
   {
     "num": 48,
     "date": "2022-02-19",
     "year": 2022,
     "name": "虎來俱進黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath48n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath48n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath48n"
   },
   {
     "num": 49,
     "date": "2022-04-09",
     "year": 2022,
     "name": "全糖去冰黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath49n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath49n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath49n"
   },
   {
     "num": 50,
     "date": "2022-06-18",
     "year": 2022,
     "name": "來電五十黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath50n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath50n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath50n"
   },
   {
     "num": 51,
     "date": "2022-08-20",
     "year": 2022,
     "name": "大肚山海豚黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath51n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath51n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath51n"
   },
   {
     "num": 52,
     "date": "2022-10-22",
     "year": 2022,
     "name": "十週年黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath52n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath52n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath52n"
   },
   {
     "num": 53,
     "date": "2022-12-17",
     "year": 2022,
     "name": "18 歲公民權黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath53n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath53n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath53n"
   },
   {
     "num": 54,
     "date": "2023-02-11",
     "year": 2023,
     "name": "兔兔黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath54n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath54n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath54n"
   },
   {
     "num": 55,
     "date": "2023-04-08",
     "year": 2023,
     "name": "AI也想參加黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath55n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath55n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath55n"
   },
   {
     "num": 56,
     "date": "2023-07-01",
     "year": 2023,
     "name": "真的假的黑客松 x 水保局",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath56n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath56n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath56n"
   },
   {
     "num": 57,
     "date": "2023-08-26",
     "year": 2023,
     "name": "開源普渡黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath57n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath57n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath57n"
   },
   {
     "num": 58,
     "date": "2023-10-15",
     "year": 2023,
     "name": "11 歲生日快樂黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath58n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath58n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath58n"
   },
   {
     "num": 59,
     "date": "2023-12-09",
     "year": 2023,
     "name": "輪班寫code救台灣黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath59n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath59n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath59n"
   },
   {
     "num": 60,
     "date": "2024-01-06",
     "year": 2024,
     "name": "記得投票黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath60n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath60n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath60n"
   },
   {
     "num": 61,
     "date": "2024-03-02",
     "year": 2024,
     "name": "龍來 Open Data Da",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath61n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath61n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath61n"
   },
   {
     "num": 62,
     "date": "2024-07-20",
     "year": 2024,
     "name": "帶我去月球黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath62n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath62n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath62n"
   },
   {
     "num": 63,
     "date": "2024-09-29",
     "year": 2024,
     "name": "公民科技園遊會黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath63n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath63n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath63n"
   },
   {
     "num": 64,
     "date": "2024-11-23",
     "year": 2024,
     "name": "黃金比例黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath64n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath64n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath64n"
   },
   {
     "num": 65,
     "date": "2025-02-22",
     "year": 2025,
     "name": "平凡而自由的黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath65n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath65n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath65n"
   },
   {
     "num": 66,
     "date": "2025-03-29",
     "year": 2025,
     "name": "友愛青年黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath66n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath66n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath66n"
   },
   {
     "num": 67,
     "date": "2025-05-25",
     "year": 2025,
     "name": "沙發很好黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath67n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath67n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath67n"
   },
   {
     "num": 68,
     "date": "2025-07-13",
     "year": 2025,
     "name": "每週散步黑客松暨零時小學校數位",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath68n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath68n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath68n"
   },
   {
     "num": 69,
     "date": "2025-09-21",
     "year": 2025,
     "name": "公民科技青年培力",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath69n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath69n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath69n"
   },
   {
     "num": 70,
     "date": "2025-11-23",
     "year": 2025,
     "name": "費波那契數列黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath70n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath70n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath70n"
   },
   {
     "num": 71,
     "date": "2026-01-25",
     "year": 2026,
     "name": "高雄黑客松 KHH Hackathon",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath71n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath71n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath71n"
   },
   {
     "num": 72,
     "date": "2026-03-29",
     "year": 2026,
     "name": "新源意碼大造化黑客松",
-    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath72n"
+    "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath72n",
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath72n"
   }
 ]

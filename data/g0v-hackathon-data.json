@@ -1,4 +1,2529 @@
 {
+  "g0v-hackath3n": {
+    "id": "g0v-hackath3n",
+    "num": 3,
+    "date": "2013-06-08",
+    "name": "客廳工廠黑客松",
+    "proposals_count": 13,
+    "lightning_count": 0,
+    "reports_count": 12,
+    "proposals": [
+      {
+        "time": "9:40:00",
+        "presenter": "snowmantw",
+        "topic": "People Watch",
+        "project": "People Watch",
+        "brief": "民意，民代，行動",
+        "seq": 1
+      },
+      {
+        "time": "9:43:00",
+        "presenter": "chitsaou",
+        "topic": "社會議題追蹤網",
+        "project": "社會議題追蹤網",
+        "brief": "Coder，鍵盤抗議，髒資料處理器",
+        "seq": 2
+      },
+      {
+        "time": "9:46:00",
+        "presenter": "ymow",
+        "topic": "全民警察廣播電台",
+        "project": "全民警察廣播電台",
+        "brief": "民有 民治 民享",
+        "seq": 3
+      },
+      {
+        "time": "9:49:00",
+        "presenter": "kong",
+        "topic": "法令易讀器",
+        "project": "法令易讀器",
+        "seq": 4
+      },
+      {
+        "time": "9:52:00",
+        "presenter": "hychen",
+        "topic": "鄉民關心你",
+        "project": "鄉民關心你",
+        "seq": 5
+      },
+      {
+        "time": "9:55:00",
+        "presenter": "peggy",
+        "topic": "福利請聽",
+        "project": "福利請聽",
+        "seq": 6
+      },
+      {
+        "time": "9:58:00",
+        "presenter": "johnny",
+        "topic": "立法院立委",
+        "project": "立法院立委",
+        "seq": 7
+      },
+      {
+        "time": "10:01:00",
+        "presenter": "monjour",
+        "topic": "路見不平",
+        "project": "路見不平",
+        "seq": 8
+      },
+      {
+        "time": "10:04:00",
+        "presenter": "ETblue ipa",
+        "topic": "g0v基礎建設- 首頁2.0",
+        "project": "g0v基礎建設- 首頁2.0",
+        "seq": 9
+      },
+      {
+        "time": "10:07:00",
+        "presenter": "clkao",
+        "topic": "liquid feedback",
+        "project": "liquid feedback",
+        "seq": 10
+      },
+      {
+        "time": "10:10:00",
+        "presenter": "ipa",
+        "topic": "Taiwan Debt Clock",
+        "project": "Taiwan Debt Clock",
+        "seq": 11
+      },
+      {
+        "time": "10:13:00",
+        "presenter": "ronnywang",
+        "topic": "News Diff 來看看新聞改過了沒?",
+        "project": "News Diff 來看看新聞改過了沒?",
+        "seq": 12
+      },
+      {
+        "time": "N/A",
+        "presenter": "Gene",
+        "topic": "計算氣象局資料準確度",
+        "project": "計算氣象局資料準確度",
+        "brief": "在路上, 可能要 11:00 才會到",
+        "seq": 1
+      }
+    ],
+    "lightning": [],
+    "reports": [
+      {
+        "time": "預計發表時間",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "想申請 COSCUP 門票的專案成員名單",
+        "seq": 1
+      },
+      {
+        "time": "17:15:00",
+        "presenter": "Ronny, Willy, Manic, Monjour",
+        "topic": "路見不平",
+        "project": "路見不平",
+        "brief": "老蕭 monjour willy",
+        "seq": 1
+      },
+      {
+        "time": "17:20:00",
+        "presenter": "Gene",
+        "topic": "中央氣象局真的準嗎?",
+        "project": "中央氣象局真的準嗎?",
+        "brief": "Gene",
+        "seq": 2
+      },
+      {
+        "time": "17:25:00",
+        "presenter": "Howardsun",
+        "topic": "農產品價格情報",
+        "project": "農產品價格情報",
+        "brief": "cades, Ted, Howardsun",
+        "seq": 3
+      },
+      {
+        "time": "17:30:00",
+        "presenter": "ctf",
+        "topic": "gdcmdtools(Google文件工具集)",
+        "project": "gdcmdtools(Google文件工具集)",
+        "brief": "ctf",
+        "seq": 4
+      },
+      {
+        "time": "17:35:00",
+        "presenter": "chitsaou",
+        "topic": "TWBug 社會議題追蹤網",
+        "project": "TWBug 社會議題追蹤網",
+        "brief": "chitsaou",
+        "seq": 5
+      },
+      {
+        "time": "17:40:00",
+        "presenter": "rad",
+        "topic": "news-diff",
+        "project": "news-diff",
+        "brief": "rad",
+        "seq": 6
+      },
+      {
+        "time": "17:45:00",
+        "presenter": "littleq0903",
+        "topic": "世界奇觀",
+        "project": "世界奇觀",
+        "seq": 7
+      },
+      {
+        "time": "17:50:00",
+        "presenter": "jeffhung",
+        "topic": "Taiwan Debt Clock",
+        "project": "Taiwan Debt Clock",
+        "seq": 8
+      },
+      {
+        "time": "17:55:00",
+        "presenter": "au",
+        "topic": "萌典客語版",
+        "project": "萌典客語版",
+        "seq": 9
+      },
+      {
+        "time": "18:00:00",
+        "presenter": "ipa",
+        "topic": "g0v.tw website structure",
+        "project": "g0v.tw website structure",
+        "seq": 10
+      },
+      {
+        "time": "18:05:00",
+        "presenter": "isabel",
+        "topic": "共用免責聲明",
+        "project": "共用免責聲明",
+        "seq": 11
+      }
+    ]
+  },
+  "g0v-hackath4n": {
+    "id": "g0v-hackath4n",
+    "num": 4,
+    "date": "2013-08-10",
+    "name": "國民大會黑客松",
+    "proposals_count": 32,
+    "lightning_count": 0,
+    "reports_count": 0,
+    "proposals": [
+      {
+        "time": "9:40:00",
+        "presenter": "Isabel",
+        "topic": "64995公益律師呼叫系統",
+        "project": "64995公益律師呼叫系統",
+        "manpower": "網頁設計、前端、後端、文案",
+        "seq": 1
+      },
+      {
+        "time": "9:43:00",
+        "presenter": "robin",
+        "topic": "協助全球失學兒童就學平台",
+        "project": "協助全球失學兒童就學平台",
+        "brief": "food education care",
+        "seq": 2
+      },
+      {
+        "time": "9:46:00",
+        "presenter": "crys",
+        "topic": "Taiwan Online",
+        "project": "Taiwan Online",
+        "brief": "LBS,",
+        "manpower": "網頁設計、前端、後端、文案",
+        "seq": 3
+      },
+      {
+        "time": "9:49:00",
+        "presenter": "ronny",
+        "topic": "新聞小幫手",
+        "project": "新聞小幫手",
+        "brief": "資料, 前端, 後端",
+        "manpower": "網頁設計",
+        "seq": 4
+      },
+      {
+        "time": "9:52:00",
+        "presenter": "Muyueh",
+        "topic": "發電成本計算機",
+        "project": "發電成本計算機",
+        "brief": "核四",
+        "manpower": "網頁設計、前端、後端",
+        "seq": 5
+      },
+      {
+        "time": "9:55:00",
+        "presenter": "jimmy",
+        "topic": "政誌",
+        "project": "政誌",
+        "brief": "fact, news",
+        "manpower": "文案、網頁設計",
+        "seq": 6
+      },
+      {
+        "time": "9:58:00",
+        "presenter": "shu",
+        "topic": "eCourt 侏羅紀公園",
+        "project": "eCourt 侏羅紀公園",
+        "brief": "法律判決,壓力團體",
+        "seq": 7
+      },
+      {
+        "time": "10:01:00",
+        "presenter": "sweslo",
+        "topic": "立院看門狗",
+        "project": "立院看門狗",
+        "brief": "javascript, 資訊自由, 立法院",
+        "manpower": "node.js, frontend, FB app, OAuth, 美工",
+        "seq": 8
+      },
+      {
+        "time": "10:04:00",
+        "presenter": "nchild",
+        "topic": "你被服貿了嗎？",
+        "project": "你被服貿了嗎？",
+        "brief": "服貿、行業、承諾",
+        "manpower": "程式、文案",
+        "seq": 9
+      },
+      {
+        "time": "10:07:00",
+        "presenter": "lijung",
+        "topic": "服務貿易協定受災地圖",
+        "project": "服務貿易協定受災地圖",
+        "brief": "服貿、地圖、受災",
+        "manpower": "網頁設計、前端、後端",
+        "seq": 10
+      },
+      {
+        "time": "10:10:00",
+        "presenter": "lanfon",
+        "topic": "公民百科",
+        "project": "公民百科",
+        "brief": "懶人包, 百科",
+        "manpower": "程式、文案、樣板",
+        "seq": 11
+      },
+      {
+        "time": "10:13:00",
+        "presenter": "hychen",
+        "topic": "鄉民關心你 - 社會議題追蹤分析系統",
+        "project": "鄉民關心你 - 社會議題追蹤分析系統",
+        "brief": "pgrest, ubuntu, hack",
+        "manpower": "UI, 願意寫pgrset的人...",
+        "seq": 12
+      },
+      {
+        "presenter": "ETBlue",
+        "topic": "動民主 1.0",
+        "project": "動民主 1.0",
+        "brief": "台義合作案",
+        "manpower": "LY、pomin、tkirby、ttcat、iamBlue",
+        "seq": 1
+      },
+      {
+        "presenter": "ETBlue",
+        "topic": "動民主 2.0",
+        "project": "動民主 2.0",
+        "brief": "需和鄉民關心你串接",
+        "seq": 2
+      },
+      {
+        "presenter": "ETBlue",
+        "topic": "懶人藝術家",
+        "project": "懶人藝術家",
+        "manpower": "需要PM、文案、插畫、漫畫、平面設計",
+        "seq": 3
+      },
+      {
+        "presenter": "ETBlue",
+        "topic": "零時通關",
+        "project": "零時通關",
+        "manpower": "需要PM、新手、文案",
+        "seq": 4
+      },
+      {
+        "presenter": "au",
+        "topic": "萌典",
+        "project": "萌典",
+        "brief": "今天不一定要有進度",
+        "manpower": "前後端、設計師、手機測試",
+        "seq": 5
+      },
+      {
+        "presenter": "jslee",
+        "topic": "寵物需要我",
+        "project": "寵物需要我",
+        "brief": "動物不會寫code但是主人會",
+        "manpower": "需要設計、F2E、行銷",
+        "seq": 6
+      },
+      {
+        "presenter": "mindos",
+        "topic": "國土管理局報告",
+        "project": "國土管理局報告",
+        "brief": "行政區 視覺化 給開發者",
+        "seq": 7
+      },
+      {
+        "time": "-> 滿了請繼續往下填",
+        "presenter": "ipa",
+        "topic": "關廠工人地圖",
+        "project": "關廠工人地圖",
+        "seq": 8
+      },
+      {
+        "time": "預計發表時間",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "seq": 9
+      },
+      {
+        "time": "17:15:00",
+        "presenter": "Isabel",
+        "topic": "64885公益律師呼叫系統",
+        "project": "64885公益律師呼叫系統",
+        "seq": 1
+      },
+      {
+        "time": "17:20:00",
+        "presenter": "au",
+        "topic": "萌典",
+        "project": "萌典",
+        "seq": 2
+      },
+      {
+        "time": "17:25:00",
+        "presenter": "老蕭和愉快的夥伴們",
+        "topic": "roadpin",
+        "project": "roadpin",
+        "seq": 3
+      },
+      {
+        "time": "17:30:00",
+        "presenter": "Ronny",
+        "topic": "新聞小幫手",
+        "project": "新聞小幫手",
+        "seq": 4
+      },
+      {
+        "time": "17:35:00",
+        "presenter": "yllan",
+        "topic": "雨量內插 plotting",
+        "project": "雨量內插 plotting",
+        "seq": 5
+      },
+      {
+        "time": "17:40:00",
+        "presenter": "Shu",
+        "topic": "eMovements",
+        "project": "eMovements",
+        "brief": "壓力團體,有效攻擊點,地理資訊",
+        "seq": 6
+      },
+      {
+        "time": "17:45:00",
+        "presenter": "jimmy",
+        "topic": "政誌",
+        "project": "政誌",
+        "seq": 7
+      },
+      {
+        "time": "17:50:00",
+        "presenter": "nchild",
+        "topic": "你被服貿了嗎？",
+        "project": "你被服貿了嗎？",
+        "seq": 8
+      },
+      {
+        "time": "17:55:00",
+        "presenter": "sweslo",
+        "topic": "立院看門狗",
+        "project": "立院看門狗",
+        "seq": 9
+      },
+      {
+        "time": "18:00:00",
+        "presenter": "jsLee",
+        "topic": "寵物需要我",
+        "project": "寵物需要我",
+        "brief": "動物不會寫code，但是主人會",
+        "seq": 10
+      },
+      {
+        "time": "18:05:00",
+        "presenter": "lee",
+        "topic": "零時通關",
+        "project": "零時通關",
+        "seq": 11
+      }
+    ],
+    "lightning": [],
+    "reports": []
+  },
+  "g0v-hackath5n": {
+    "id": "g0v-hackath5n",
+    "num": 5,
+    "date": "2013-10-20",
+    "name": "美麗島黑客松",
+    "proposals_count": 14,
+    "lightning_count": 4,
+    "reports_count": 12,
+    "proposals": [
+      {
+        "time": "9:40:00",
+        "presenter": "clkao",
+        "topic": "立法院 api、公民優先審議法案",
+        "project": "立法院 api、公民優先審議法案",
+        "brief": "立法院、法案、詞窮",
+        "manpower": "designer, mockup, frontend",
+        "seq": 1
+      },
+      {
+        "time": "9:43:00",
+        "presenter": "Sam",
+        "topic": "注音遊戲",
+        "project": "注音遊戲",
+        "seq": 2
+      },
+      {
+        "time": "9:46:00",
+        "presenter": "Lee/Mike",
+        "topic": "立法院風雲榜",
+        "project": "立法院風雲榜",
+        "slides": "https://docs.google.com/presentation/d/1U0G2_RFjAMZTLJViom00hRrh0JlIOFSXp6EGmwlMkW4/pub?start=false&loop=false&delayms=3000#slide=id.p",
+        "brief": "立委、提案分析、民意評分",
+        "manpower": "UX/UI designer ,web前端, web後端",
+        "seq": 3
+      },
+      {
+        "time": "9:58:00",
+        "presenter": "ETBlue",
+        "topic": "動民主家族",
+        "project": "動民主家族",
+        "brief": "線上民主，德國海盜黨，義大利五星運動",
+        "manpower": "web designer, rails programmer, misc",
+        "seq": 7
+      },
+      {
+        "time": "10:01:00",
+        "presenter": "ipa",
+        "topic": "g0v天下部落格供稿庫+人力資源部",
+        "project": "g0v天下部落格供稿庫+人力資源部",
+        "brief": "g0v基礎建設、文字、成果\nhttps://moqups.com/ipa/eLIbxNCC",
+        "seq": 8
+      },
+      {
+        "time": "10:04:00",
+        "presenter": "嬋兒",
+        "topic": "圖博資訊網路平台",
+        "project": "圖博資訊網路平台",
+        "brief": "即時新聞、資訊整合、媒介平台",
+        "manpower": "防駭客工程師、網頁設計師、上傳新聞編輯者...",
+        "seq": 9
+      },
+      {
+        "time": "10:07:00",
+        "presenter": "au",
+        "topic": "萌典",
+        "project": "萌典",
+        "brief": "辭典、筆順、分享",
+        "manpower": "UX 設計師、JS 前端、JS 後端、iOS/Android/firefoxOS 設計、測試、字型達人、中文達人",
+        "seq": 10
+      },
+      {
+        "time": "10:10:00",
+        "presenter": "hychen",
+        "topic": "鄉民關心你",
+        "project": "鄉民關心你",
+        "brief": "議題分析, 議題追蹤",
+        "seq": 11
+      },
+      {
+        "time": "10:13:00",
+        "presenter": "Michael LI",
+        "topic": "鄉民熱線．提供資料拼圖（暫名）",
+        "project": "鄉民熱線．提供資料拼圖（暫名）",
+        "slides": "https://docs.google.com/file/d/0B6ASgY1GMSOhOExWbXZ0dzZyUUk/",
+        "brief": "事件拼圖　改進效率　螞蟻雄兵",
+        "manpower": "規劃師（擬SOP）、文案（管理資料）、網頁設計、行銷（隨時把需求散出去）",
+        "seq": 12
+      },
+      {
+        "time": "10:16:00",
+        "presenter": "bater",
+        "topic": "選票成分分析",
+        "project": "選票成分分析",
+        "slides": "https://docs.google.com/presentation/d/13Lis9GEnOZGCe27Urc6v7ckuV7pG_7qd5yyr2WxaCEQ/edit#slide=id.g9528ca1f_035",
+        "brief": "立委、立場、媒合計算",
+        "manpower": "PHP工程師、前端、設計師",
+        "seq": 13
+      },
+      {
+        "time": "10:19:00",
+        "presenter": "cpyang",
+        "topic": "i64885",
+        "project": "i64885",
+        "slides": "https://docs.google.com/file/d/0B86OXa1Nkwf0S2VBZFJ5ZmN2Zms/edit?usp=sharing",
+        "brief": "律師、集會遊行、事件追蹤",
+        "manpower": "facebook 整合",
+        "seq": 14
+      },
+      {
+        "time": "10:22:00",
+        "presenter": "spicycop",
+        "topic": "國會無雙",
+        "project": "國會無雙",
+        "brief": "國會、監督",
+        "manpower": "UX設計師 使用者經驗達人 美宣",
+        "seq": 15
+      },
+      {
+        "time": "10:25:00",
+        "presenter": "Superbil",
+        "topic": "政府單位通訊錄",
+        "project": "政府單位通訊錄",
+        "brief": "政府機關、電話、E-mail",
+        "manpower": "畫圖, 連連看達人",
+        "seq": 16
+      },
+      {
+        "time": "10:28:00",
+        "presenter": "jslee",
+        "topic": "petneed.me",
+        "project": "petneed.me",
+        "brief": "動物不會寫code但是主人會",
+        "seq": 17
+      }
+    ],
+    "lightning": [
+      {
+        "time": "預計發表時間",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "專案的三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "15:30:00",
+        "presenter": "Michael LI",
+        "topic": "新聞小幫手社群概要",
+        "project": "新聞小幫手社群概要",
+        "brief": "革命、奮鬥、救新聞～！",
+        "manpower": "編輯小聚／第一次／10/26（六）",
+        "seq": 1
+      },
+      {
+        "presenter": "李慕約",
+        "topic": "30 days of D3.js",
+        "project": "30 days of D3.js",
+        "brief": "Data Driven Document",
+        "seq": 2
+      },
+      {
+        "presenter": "kewang",
+        "topic": "Typo Resolver",
+        "project": "Typo Resolver",
+        "slides": "http://www.slideshare.net/kewang/typo-resolver",
+        "brief": "錯字、教育、語文",
+        "seq": 3
+      }
+    ],
+    "reports": [
+      {
+        "time": "預計發表時間",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "seq": 1
+      },
+      {
+        "time": "17:15:00",
+        "presenter": "clkao",
+        "topic": "立院 player",
+        "project": "立院 player",
+        "seq": 1
+      },
+      {
+        "time": "17:20:00",
+        "presenter": "bater",
+        "topic": "選票成份分析alpha",
+        "project": "選票成份分析alpha",
+        "seq": 2
+      },
+      {
+        "time": "17:25:00",
+        "presenter": "superbil",
+        "topic": "政府單位通訊錄",
+        "project": "政府單位通訊錄",
+        "seq": 3
+      },
+      {
+        "time": "17:30:00",
+        "presenter": "老蕭",
+        "topic": "roadpin",
+        "project": "roadpin",
+        "seq": 4
+      },
+      {
+        "time": "17:35:00",
+        "presenter": "嬋兒",
+        "topic": "圖博資訊網站平台",
+        "project": "圖博資訊網站平台",
+        "seq": 5
+      },
+      {
+        "time": "17:40:00",
+        "presenter": "au",
+        "topic": "萌典",
+        "project": "萌典",
+        "seq": 6
+      },
+      {
+        "time": "17:45:00",
+        "presenter": "dylandy",
+        "topic": "動民主",
+        "project": "動民主",
+        "seq": 7
+      },
+      {
+        "time": "17:50:00",
+        "presenter": "jeffhung",
+        "topic": "g0v 人力資源部",
+        "project": "g0v 人力資源部",
+        "seq": 8
+      },
+      {
+        "time": "17:55:00",
+        "presenter": "ipa",
+        "topic": "供稿庫",
+        "project": "供稿庫",
+        "seq": 9
+      },
+      {
+        "time": "18:00:00",
+        "presenter": "kcliu",
+        "topic": "鄉民關心你",
+        "project": "鄉民關心你",
+        "seq": 10
+      },
+      {
+        "time": "18:05:00",
+        "presenter": "jslee",
+        "topic": "petneed.me",
+        "project": "petneed.me",
+        "seq": 11
+      }
+    ]
+  },
+  "g0v-hackath6n": {
+    "id": "g0v-hackath6n",
+    "num": 6,
+    "date": "2013-12-21",
+    "name": "勞動基準黑客松",
+    "proposals_count": 20,
+    "lightning_count": 4,
+    "reports_count": 11,
+    "proposals": [
+      {
+        "topic": "村長開幕式",
+        "project": "村長開幕式",
+        "seq": 0
+      },
+      {
+        "time": "9:40:00",
+        "presenter": "pm5",
+        "topic": "環境儀表板",
+        "project": "環境儀表板",
+        "brief": "環境資源部、資料視覺化",
+        "manpower": "UX/UI 設計師、資料達人、環境議題專家",
+        "seq": 1
+      },
+      {
+        "time": "9:43:00",
+        "presenter": "jimmy",
+        "topic": "n5c",
+        "project": "n5c",
+        "brief": "國科會",
+        "manpower": "探究數字和真相有興趣的人 / 研究經費有了解的人",
+        "seq": 2
+      },
+      {
+        "time": "9:46:00",
+        "presenter": "nchild",
+        "topic": "你被服貿了嗎？（服貿行業對照表）",
+        "project": "你被服貿了嗎？（服貿行業對照表）",
+        "slides": "http://bit.ly/18YIxKt",
+        "brief": "經濟部、立法院",
+        "seq": 3
+      },
+      {
+        "time": "9:49:00",
+        "presenter": "ronny",
+        "topic": "世界銀行x主計處",
+        "project": "世界銀行x主計處",
+        "brief": "地圖、資料、世界",
+        "seq": 4
+      },
+      {
+        "time": "9:52:00",
+        "presenter": "swc",
+        "topic": "公益團體觀察 --- 讓資料說話",
+        "project": "公益團體觀察 --- 讓資料說話",
+        "brief": "公益、捐款、資料分析",
+        "manpower": "前端工程師、資料達人、手動整理人",
+        "seq": 5
+      },
+      {
+        "time": "9:55:00",
+        "presenter": "Johnny",
+        "topic": "立委投票指南",
+        "project": "立委投票指南",
+        "slides": "https://docs.google.com/presentation/d/1tWiPTkzLgGaNQorezdHU0b3IqaFFq4_cHrMF5GjOxsc/edit#slide=id.g25f79e860_036",
+        "brief": "立法院",
+        "seq": 6
+      },
+      {
+        "time": "9:58:00",
+        "presenter": "bater",
+        "topic": "選票成分分析",
+        "project": "選票成分分析",
+        "brief": "立法院",
+        "seq": 7
+      },
+      {
+        "time": "10:01:00",
+        "presenter": "JUMBO",
+        "topic": "圖解思路",
+        "project": "圖解思路",
+        "brief": "資料視覺化",
+        "seq": 8
+      },
+      {
+        "time": "10:04:00",
+        "presenter": "嬋兒",
+        "topic": "圖博資訊網站",
+        "project": "圖博資訊網站",
+        "seq": 9
+      },
+      {
+        "time": "10:07:00",
+        "presenter": "Superbil",
+        "topic": "聯絡人",
+        "project": "聯絡人",
+        "brief": "政府通訊錄",
+        "manpower": "爬資料新手",
+        "seq": 10
+      },
+      {
+        "time": "10:10:00",
+        "presenter": "lulalala",
+        "topic": "新聞糾正",
+        "project": "新聞糾正",
+        "brief": "新聞, 爬蟲",
+        "seq": 11
+      },
+      {
+        "time": "10:13:00",
+        "presenter": "Wayneh",
+        "topic": "服貿開箱聞",
+        "project": "服貿開箱聞",
+        "brief": "文件資料化、資料視覺化、服務貿易協定",
+        "manpower": "會整合的工程師、資料人、手動整理人",
+        "seq": 12
+      },
+      {
+        "time": "10:16:00",
+        "presenter": "soidid",
+        "topic": "海市蜃樓",
+        "project": "海市蜃樓",
+        "brief": "炒地皮、蚊子館",
+        "seq": 13
+      },
+      {
+        "time": "10:19:00",
+        "presenter": "soidid",
+        "topic": "公民團體不推薦",
+        "project": "公民團體不推薦",
+        "brief": "立法院",
+        "seq": 14
+      },
+      {
+        "time": "10:22:00",
+        "presenter": "gene",
+        "topic": "林克傳說",
+        "project": "林克傳說",
+        "slides": "http://goo.gl/7KmCvL",
+        "brief": "新聞, 臉書",
+        "manpower": "前端工程師, 智慧工人",
+        "seq": 15
+      },
+      {
+        "time": "10:25:00",
+        "presenter": "jslee",
+        "topic": "petneed.me",
+        "project": "petneed.me",
+        "brief": "12夜",
+        "manpower": "新功能idea，實做高手",
+        "seq": 16
+      },
+      {
+        "time": "10:28:00",
+        "presenter": "james",
+        "topic": "行政院發言還原",
+        "project": "行政院發言還原",
+        "brief": "資料、資料比對",
+        "seq": 17
+      },
+      {
+        "time": "10:31:00",
+        "presenter": "ETBlue",
+        "topic": "文化部授權中心",
+        "project": "文化部授權中心",
+        "brief": "自動化, CMS",
+        "manpower": "前端工程師",
+        "seq": 18
+      },
+      {
+        "presenter": "截止",
+        "topic": "截止",
+        "project": "截止",
+        "seq": 1
+      }
+    ],
+    "lightning": [
+      {
+        "time": "預計發表時間",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "專案的三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "15:30:00",
+        "presenter": "aokman",
+        "topic": "GOV<->G0V",
+        "project": "GOV<->G0V",
+        "brief": "公務員、G0V、連接",
+        "seq": 1
+      },
+      {
+        "time": "14:30:00",
+        "presenter": "nchild",
+        "topic": "服貿與 g0v",
+        "project": "服貿與 g0v",
+        "seq": 2
+      },
+      {
+        "time": "14:00:00",
+        "presenter": "ly",
+        "topic": "codio",
+        "project": "codio",
+        "brief": "web, IDE, coding",
+        "seq": 3
+      }
+    ],
+    "reports": [
+      {
+        "time": "預計發表時間",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "seq": 1
+      },
+      {
+        "time": "17:15:00",
+        "presenter": "tkirby",
+        "topic": "捷運房價",
+        "project": "捷運房價",
+        "brief": "捷運,房價,視覺化",
+        "manpower": "designer",
+        "seq": 1
+      },
+      {
+        "time": "17:20:00",
+        "presenter": "bater",
+        "topic": "選票成份分析",
+        "project": "選票成份分析",
+        "seq": 2
+      },
+      {
+        "time": "17:25:00",
+        "presenter": "ronny",
+        "topic": "世界銀行x主計處",
+        "project": "世界銀行x主計處",
+        "seq": 3
+      },
+      {
+        "time": "17:30:00",
+        "presenter": "kcliu",
+        "topic": "demo 鄉民關心你最近的成果",
+        "project": "demo 鄉民關心你最近的成果",
+        "brief": "社會議題追蹤, 大食團-driven 開發",
+        "manpower": "UI Designer, Backend Engineer, Frontend Engineer",
+        "seq": 4
+      },
+      {
+        "time": "17:35:00",
+        "presenter": "嬋兒",
+        "topic": "圖博資訊網站",
+        "project": "圖博資訊網站",
+        "seq": 5
+      },
+      {
+        "time": "17:45:00",
+        "presenter": "walkingice",
+        "topic": "立法院網站",
+        "project": "立法院網站",
+        "seq": 7
+      },
+      {
+        "time": "17:50:00",
+        "presenter": "pm5",
+        "topic": "環境儀表板",
+        "project": "環境儀表板",
+        "seq": 8
+      },
+      {
+        "time": "17:55:00",
+        "presenter": "wayne",
+        "topic": "服貿開箱聞",
+        "project": "服貿開箱聞",
+        "brief": "服貿協議, 文件資料化, 資料視覺化",
+        "manpower": "會整合的工程師、資料人、手動整理人",
+        "seq": 9
+      },
+      {
+        "time": "18:00:00",
+        "presenter": "team",
+        "topic": "你被服貿了嗎?",
+        "project": "你被服貿了嗎?",
+        "brief": "服貿協議",
+        "seq": 10
+      },
+      {
+        "presenter": "anonymous",
+        "brief": "低調,低調,konami",
+        "seq": 11
+      }
+    ]
+  },
+  "g0v-hackath7n": {
+    "id": "g0v-hackath7n",
+    "num": 7,
+    "date": "2014-02-22",
+    "name": "自由時代黑客松",
+    "proposals_count": 17,
+    "lightning_count": 6,
+    "reports_count": 10,
+    "proposals": [
+      {
+        "time": "9:30",
+        "topic": "開幕式",
+        "project": "開幕式",
+        "seq": 1
+      },
+      {
+        "time": "9:40",
+        "topic": "立法院",
+        "project": "立法院",
+        "seq": 1
+      },
+      {
+        "time": "9:46",
+        "presenter": "tkirby",
+        "topic": "零傳媒",
+        "project": "零傳媒",
+        "license": "CC-BY",
+        "brief": "互動式資訊圖, 公民記者, 開放資料",
+        "manpower": "插畫家, 前端工程師, 資料新聞記者, 斧頭",
+        "seq": 3
+      },
+      {
+        "time": "9:52",
+        "presenter": "poga",
+        "topic": "小學校/Leve1up",
+        "project": "小學校/Leve1up",
+        "license": "CC-BY",
+        "brief": "教學文件、自我挑戰、開放課程",
+        "manpower": "Designer, Front-end developer, Everyone",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "bater",
+        "topic": "選票成份分析",
+        "project": "選票成份分析",
+        "slides": "http://slid.es/bater/va",
+        "brief": "投票輔助分析工具",
+        "manpower": "前後(PHP)端工程師",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "小天",
+        "topic": "Children Image",
+        "project": "Children Image",
+        "license": "平台、文字 CC-BY\n(圖片授權由上傳者決定)",
+        "brief": "幼兒, 孩子, 教育",
+        "manpower": "Web / APP Developer",
+        "seq": 7
+      },
+      {
+        "time": "10:01",
+        "presenter": "a0kman",
+        "topic": "超農域",
+        "project": "超農域",
+        "brief": "agriculture  Plant diseases Pesticide",
+        "manpower": "地理資訊, 前端,後端,美術設計, 資訊影像呈現, app開發者(ios、android)",
+        "seq": 8
+      },
+      {
+        "time": "10:04",
+        "presenter": "蔡雅瀅",
+        "topic": "核電翻譯機",
+        "project": "核電翻譯機",
+        "slides": "http://goo.gl/cxXji2",
+        "brief": "核電廠；運轉；停機",
+        "manpower": "希望找人幫忙寫程式，讓原能會網站運轉中核電廠每日管制資料，變得更容易閱讀及比對出重要資訊(如：連續停機時間；多部機組同時停機時間；停機原因)",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "雞米",
+        "topic": "輻射地圖APP",
+        "project": "輻射地圖APP",
+        "slides": "http://goo.gl/isCTM2",
+        "brief": "核災、輻射、輻射地圖",
+        "manpower": "engineer, Everyone app開發者 (ios、android)",
+        "seq": 10
+      },
+      {
+        "time": "10:10",
+        "presenter": "吳長鋼",
+        "topic": "蚊子館地圖APP",
+        "project": "蚊子館地圖APP",
+        "slides": "http://www.slideshare.net/littlekang1/g0v7th-app",
+        "license": "姚瑞中老師授權 ; 圖，文及程式全部CC開放",
+        "brief": "姚瑞中 , 蚊子館 , 公共建設",
+        "manpower": "後端資料庫工程師 . 網頁前端工程師 , iphone app 工程師 , 資料整理志工",
+        "seq": 11
+      },
+      {
+        "time": "10:13",
+        "presenter": "BertWang",
+        "topic": "公務員出國考察追蹤網",
+        "project": "公務員出國考察追蹤網",
+        "brief": "公務員,出國,考察,",
+        "manpower": "網頁前端設計師，文案寫手，爬文手，PHP前端工程師",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "muyueh",
+        "topic": "菜價",
+        "project": "菜價",
+        "license": "程式碼：gpl、文字：cc-by-nc-sa",
+        "brief": "Data Driven Document",
+        "manpower": "看圖說故事，願意學些經濟知識的寫手",
+        "seq": 13
+      },
+      {
+        "time": "10:22",
+        "presenter": "ETBlue",
+        "topic": "動民主 1.337 - 全民記者會",
+        "project": "動民主 1.337 - 全民記者會",
+        "license": "傳說中的 g0v-mit",
+        "brief": "動民主, 政見, 選舉",
+        "manpower": "前端 (sass/jade/angular), 後端, 企畫組",
+        "seq": 15
+      },
+      {
+        "time": "10:25",
+        "presenter": "soidid",
+        "topic": "市長，給問嗎",
+        "project": "市長，給問嗎",
+        "brief": "動民主、選舉、集氣提問",
+        "seq": 16
+      },
+      {
+        "time": "10:28",
+        "presenter": "老蕭",
+        "topic": "Roadpin - Report",
+        "project": "Roadpin - Report",
+        "slides": "https://docs.google.com/presentation/d/1gpVkaop7ql8YiILLxoUhJ57EWbzknmS-NKdo01xRvJQ/edit?usp=drive_web",
+        "brief": "roadpin",
+        "manpower": "designers, developers",
+        "seq": 17
+      },
+      {
+        "time": "10:31",
+        "presenter": "hcchien",
+        "topic": "g0v summit",
+        "project": "g0v summit",
+        "seq": 18
+      },
+      {
+        "time": "截止",
+        "presenter": "截止",
+        "topic": "截止",
+        "project": "截止",
+        "license": "截止",
+        "seq": 2
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "14:30",
+        "presenter": "ipa",
+        "topic": "參與式民主",
+        "project": "參與式民主",
+        "license": "CC-BY",
+        "brief": "透明、參與、民主",
+        "seq": 1
+      },
+      {
+        "time": "`+=8",
+        "presenter": "muyueh",
+        "topic": "視覺化相關技術分享",
+        "project": "視覺化相關技術分享",
+        "license": "CC-BY",
+        "brief": "Data Driven Document",
+        "seq": 2
+      },
+      {
+        "presenter": "johnny",
+        "topic": "入門經驗分享",
+        "project": "入門經驗分享",
+        "license": "CC0",
+        "brief": "anger driven project",
+        "seq": 3
+      },
+      {
+        "presenter": "雅瀅",
+        "topic": "核電國際訴訟",
+        "project": "核電國際訴訟",
+        "brief": "核電、法律、福島核災",
+        "seq": 4
+      },
+      {
+        "presenter": "柯一正",
+        "topic": "公民參與",
+        "project": "公民參與",
+        "license": "CC-BY",
+        "brief": "公民、參與、台灣",
+        "seq": 2
+      }
+    ],
+    "reports": [
+      {
+        "time": "17:00",
+        "presenter": "yllan",
+        "topic": "新聞小幫手",
+        "project": "新聞小幫手",
+        "license": "MIT",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "吳長鋼",
+        "topic": "蚊子館",
+        "project": "蚊子館",
+        "license": "CC-BY",
+        "seq": 2
+      },
+      {
+        "time": "17:10:00",
+        "presenter": "蔡雅瀅",
+        "topic": "核電翻譯機",
+        "project": "核電翻譯機",
+        "license": "CC-BY-SA",
+        "brief": "核電廠；運轉；停機",
+        "manpower": "希望找人幫忙寫程式，讓原能會網站運轉中核電廠每日管制資料，變得更容易閱讀及比對出重要資訊(如：連續停機時間；多部機組同時停機時間；停機原因)",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "clkao",
+        "topic": "ly diff component",
+        "project": "ly diff component",
+        "license": "MIT",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "superbil",
+        "topic": "政府公開通訊錄",
+        "project": "政府公開通訊錄",
+        "brief": "政府單位",
+        "manpower": "斧頭",
+        "seq": 5
+      },
+      {
+        "time": "17:25",
+        "presenter": "zonble",
+        "topic": "天氣 iOS client、  議會砲房網",
+        "project": "天氣 iOS client、  議會砲房網",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "nchild",
+        "topic": "你被服貿了嗎？",
+        "project": "你被服貿了嗎？",
+        "slides": "https://www.icloud.com/iw/#keynote/BAIA_BZzFlrf1uvZB9GBQkjeQ-9R1W4-Se6E/RUTiSA_v2",
+        "license": "CC BY 4.0 / MIT (X11)",
+        "brief": "服貿 行業對照 開箱聞",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "kirby",
+        "topic": "零傳媒",
+        "project": "零傳媒",
+        "license": "CC-BY",
+        "brief": "互動式資訊圖, 公民記者, 開放資料",
+        "manpower": "插畫家, 前端工程師, 資料新聞記者, 斧頭",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "pm5",
+        "topic": "市長，給問嗎？",
+        "project": "市長，給問嗎？",
+        "license": "MIT",
+        "brief": "動民主、選舉、集氣提問",
+        "manpower": "熟悉 Semantic UI、Firebase、AngularJS 的工程師。",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "Ronny",
+        "topic": "超農域",
+        "project": "超農域",
+        "license": "MIT",
+        "seq": 10
+      }
+    ]
+  },
+  "g0v-hackath8n": {
+    "id": "g0v-hackath8n",
+    "num": 8,
+    "date": "2014-04-19",
+    "name": "解除戒嚴黑客松",
+    "proposals_count": 28,
+    "lightning_count": 4,
+    "reports_count": 11,
+    "proposals": [
+      {
+        "presenter": "poga",
+        "topic": "零時政府 雲端公文整合資訊系統",
+        "project": "零時政府 雲端公文整合資訊系統",
+        "license": "CC-BY",
+        "seq": 1
+      },
+      {
+        "presenter": "poga",
+        "topic": "G0V Levelup Bingo",
+        "project": "G0V Levelup Bingo",
+        "license": "CC-BY",
+        "seq": 2
+      },
+      {
+        "time": "9:30",
+        "presenter": "clkao",
+        "topic": "開場",
+        "project": "開場",
+        "license": "CC-BY",
+        "seq": 3
+      },
+      {
+        "time": "9:40",
+        "presenter": "pm5",
+        "topic": "立法院開放資料平台7倍速動能推昇方案",
+        "project": "立法院開放資料平台7倍速動能推昇方案",
+        "license": "CC BY",
+        "brief": "立法院、開放資料、文件協作",
+        "seq": 1
+      },
+      {
+        "time": "9:43",
+        "presenter": "Kai",
+        "topic": "選票與代議士",
+        "project": "選票與代議士",
+        "license": "MIT",
+        "brief": "資料、分析、需求",
+        "manpower": "App, 企畫,前端",
+        "seq": 2
+      },
+      {
+        "time": "9:46",
+        "presenter": "shuhua",
+        "topic": "島嶼天光學潮實紀錄",
+        "project": "島嶼天光學潮實紀錄",
+        "license": "MIT",
+        "brief": "學運、整理、資料",
+        "manpower": "前端、後端、資料庫",
+        "seq": 3
+      },
+      {
+        "time": "9:49",
+        "presenter": "Ronny",
+        "topic": "北市豪宅通",
+        "project": "北市豪宅通",
+        "license": "MIT",
+        "brief": "開放空間,容積獎勵,豪宅",
+        "manpower": "App, 企畫",
+        "seq": 4
+      },
+      {
+        "time": "9:52",
+        "presenter": "Ronny",
+        "topic": "開放政治獻金",
+        "project": "開放政治獻金",
+        "license": "MIT",
+        "brief": "政治獻金,群眾外包,人工OCR",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "Isabel",
+        "topic": "打道掛 123 護台灣",
+        "project": "打道掛 123 護台灣",
+        "license": "MIT/ CC0",
+        "brief": "議題  訴求模板  施壓對象",
+        "manpower": "議題統籌 留言板管理  txt",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "clkao",
+        "topic": "連續坑 (待整理）",
+        "project": "連續坑 (待整理）",
+        "license": "MIT",
+        "brief": "TBD",
+        "seq": 7
+      },
+      {
+        "time": "10:01",
+        "presenter": "ipa",
+        "topic": "直播導播台",
+        "project": "直播導播台",
+        "seq": 8
+      },
+      {
+        "time": "10:04",
+        "presenter": "(有誰可以幫我廣告 XD 沒人的話就刪掉吧 =w=)",
+        "topic": "公民運動後勤表單、SOP",
+        "project": "公民運動後勤表單、SOP",
+        "license": "CC0",
+        "brief": "線路、直播、文播、物資",
+        "manpower": "參加過線路松的人",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "hbtsai",
+        "topic": "太陽花盒子",
+        "project": "太陽花盒子",
+        "license": "MIT",
+        "brief": "直播、內容推送、理髮院",
+        "manpower": "玩過 embed 熟 Linux",
+        "seq": 10
+      },
+      {
+        "time": "10:10",
+        "presenter": "ttcat",
+        "topic": "廢核連署平台",
+        "project": "廢核連署平台",
+        "seq": 11
+      },
+      {
+        "time": "10:13",
+        "presenter": "johnny",
+        "topic": "立委投票指南、議員投票指南、工會發起指南",
+        "project": "立委投票指南、議員投票指南、工會發起指南",
+        "license": "CC0",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "NewCliCker",
+        "topic": "第五權電視牆監看「評」台g8v.tv",
+        "project": "第五權電視牆監看「評」台g8v.tv",
+        "license": "以Open Source為主，哪種授權由參與者們討論決定",
+        "brief": "實況直/轉播電視牆、公民記者影音平台、電視新聞小幫手",
+        "manpower": "專長不限，有興趣都歡迎加入",
+        "seq": 13
+      },
+      {
+        "time": "10:19",
+        "presenter": "Shanzay/Airos",
+        "topic": "g0v 2014 summit主視覺進度報告/填坑遊戲提案徵求",
+        "project": "g0v 2014 summit主視覺進度報告/填坑遊戲提案徵求",
+        "brief": "summit、填坑、視覺需求",
+        "manpower": "活動製作物廠商；遊戲設計",
+        "seq": 14
+      },
+      {
+        "time": "10:22",
+        "presenter": "a0kman",
+        "topic": "超農域",
+        "project": "超農域",
+        "brief": "農業、農藥、疫情",
+        "manpower": "前端、美工",
+        "seq": 15
+      },
+      {
+        "time": "10:25",
+        "presenter": "Michael_LI",
+        "topic": "服貿專題網",
+        "project": "服貿專題網",
+        "slides": "https://docs.google.com/spreadsheet/ccc?key=0AjGJ4qvz2D3EdGdfZFZXanhwdUp2dWxSTjRBLW9GYWc",
+        "license": "CC BY／MIT",
+        "brief": "整理、資料、分析總體面貌",
+        "manpower": "專長不限、TXT文字、程式皆可",
+        "seq": 16
+      },
+      {
+        "time": "10:28",
+        "presenter": "Lee",
+        "topic": "g0v 公報組",
+        "project": "g0v 公報組",
+        "slides": "https://docs.google.com/presentation/d/1RWYeaE2Y3xKNyKSBve2rg99VKc3SJNpj8fUU75MV5wc/pub?start=false&loop=false&delayms=3000",
+        "license": "CC BY",
+        "brief": "g0v, 新手入門, 資料",
+        "manpower": "新手 / 老手,   txt",
+        "seq": 17
+      },
+      {
+        "time": "10:31",
+        "presenter": "Bropheus",
+        "topic": "帶你認識G0V",
+        "project": "帶你認識G0V",
+        "license": "CC BY",
+        "brief": "G0V, 新手入門, 廣宣",
+        "manpower": "新手 / 老手\n使用者訪談 / txt 解說\n熟悉 G0V 新手資料者",
+        "seq": 18
+      },
+      {
+        "time": "10:34",
+        "presenter": "peiyu kuo/littleta",
+        "topic": "人人有案提",
+        "project": "人人有案提",
+        "license": "CC BY / MIT",
+        "brief": "直接民主 人民提案 NGO參與",
+        "manpower": "企劃、前後端、有興趣的NGO",
+        "seq": 19
+      },
+      {
+        "time": "10:37",
+        "presenter": "吳易蓁",
+        "topic": "阿嬤的雜細車",
+        "project": "阿嬤的雜細車",
+        "brief": "文學、土地、劇場",
+        "seq": 20
+      },
+      {
+        "time": "10:40",
+        "presenter": "bater",
+        "topic": "選票成份分析",
+        "project": "選票成份分析",
+        "slides": "http://slides.com/bater/va",
+        "license": "CC BY",
+        "brief": "投好票、立場、分析",
+        "manpower": "PHP coder",
+        "seq": 21
+      },
+      {
+        "time": "截止",
+        "presenter": "截止",
+        "topic": "截止",
+        "project": "截止",
+        "license": "截止",
+        "seq": 4
+      },
+      {
+        "time": "10:43",
+        "presenter": "kirstenliu",
+        "topic": "小蜜蜂戰鬥隊覆蓋率地圖視覺化",
+        "project": "小蜜蜂戰鬥隊覆蓋率地圖視覺化",
+        "license": "MIT",
+        "brief": "小蜜蜂戰鬥隊, 地圖視覺化, 回報工具",
+        "manpower": "地圖視覺化, 前端, 後端",
+        "seq": 22
+      },
+      {
+        "time": "10:46",
+        "presenter": "johnson lin",
+        "topic": "吼吼熊愛味噌",
+        "project": "吼吼熊愛味噌",
+        "license": "CC BY / MIT",
+        "brief": "遊戲、學運、crowdsourcing",
+        "manpower": "HTML5 coder、pixel artist、任何對遊戲有興趣者",
+        "seq": 23
+      },
+      {
+        "presenter": "ingy",
+        "topic": "g0vopen faceg0v",
+        "project": "g0vopen faceg0v",
+        "seq": 5
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "14:38",
+        "presenter": "a0kman",
+        "topic": "政策剎車/推進系統+你以為的OO",
+        "project": "政策剎車/推進系統+你以為的OO",
+        "license": "好想多點時間QAQ",
+        "seq": 2
+      },
+      {
+        "time": "15:00",
+        "presenter": "nchild",
+        "topic": "沒有人與非組織",
+        "project": "沒有人與非組織",
+        "license": "（可能四分鐘就好，所以應該可以增加另一個四分鐘名額）",
+        "seq": 3
+      },
+      {
+        "time": "15:08",
+        "presenter": "johnson lin",
+        "topic": "吼吼熊愛味噌",
+        "project": "吼吼熊愛味噌",
+        "brief": "遊戲、學運、crowdsourcing",
+        "seq": 4
+      }
+    ],
+    "reports": [
+      {
+        "time": "17:00:00",
+        "presenter": "aocole",
+        "topic": "US income tax analysis",
+        "project": "US income tax analysis",
+        "license": "GPLv2",
+        "seq": 1
+      },
+      {
+        "presenter": "choupi",
+        "topic": "TW income tax analysis",
+        "project": "TW income tax analysis",
+        "seq": 1
+      },
+      {
+        "time": "17:15",
+        "presenter": "NewCliCker",
+        "topic": "第五權電視牆監看「評」台g8v.tv",
+        "project": "第五權電視牆監看「評」台g8v.tv",
+        "license": "以Open Source為主，哪種授權由參與者們討論決定",
+        "brief": "實況直/轉播電視牆、公民記者影音平台、電視新聞小幫手",
+        "manpower": "專長不限，無論你是設計者或使用者，只要有興趣都歡迎加入",
+        "seq": 4
+      },
+      {
+        "time": "17:25",
+        "presenter": "johnny",
+        "topic": "立委、議員投票指南",
+        "project": "立委、議員投票指南",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "timothy",
+        "topic": "開放政治獻金",
+        "project": "開放政治獻金",
+        "license": "MIT",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "superbil",
+        "topic": "政府公開通訊錄",
+        "project": "政府公開通訊錄",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "muyueh",
+        "topic": "縣市歷史投票軌跡",
+        "project": "縣市歷史投票軌跡",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "jeffhung",
+        "topic": "G0V Live! 直播導播台",
+        "project": "G0V Live! 直播導播台",
+        "license": "MIT",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "tkirby",
+        "topic": "零傳媒 職災分布",
+        "project": "零傳媒 職災分布",
+        "license": "MIT CC0",
+        "seq": 11
+      },
+      {
+        "time": "17:55",
+        "presenter": "kirstenliu",
+        "topic": "小蜜蜂戰鬥隊地圖視覺化",
+        "project": "小蜜蜂戰鬥隊地圖視覺化",
+        "license": "opensource, 由參與者共同討論決定",
+        "brief": "小蜜蜂戰鬥隊, 地圖, 表單",
+        "manpower": "google map, 地圖視覺化, 前後端",
+        "seq": 12
+      },
+      {
+        "time": "?",
+        "presenter": "pm5",
+        "topic": "立法院開放資料平台7倍速動能推昇方案",
+        "project": "立法院開放資料平台7倍速動能推昇方案",
+        "license": "CC BY",
+        "brief": "立法院、開放資料、標案",
+        "manpower": "任何有標案經驗的人",
+        "seq": 13
+      }
+    ]
+  },
+  "g0v-hackath9n": {
+    "id": "g0v-hackath9n",
+    "num": 9,
+    "date": "2014-06-21",
+    "name": "還我土地黑客松",
+    "proposals_count": 22,
+    "lightning_count": 5,
+    "reports_count": 16,
+    "proposals": [
+      {
+        "time": "9:40",
+        "presenter": "clkao",
+        "topic": "國際社群參與協力團",
+        "project": "國際社群參與協力團",
+        "license": "CC0",
+        "seq": 1
+      },
+      {
+        "time": "9:43",
+        "presenter": "tkirby",
+        "topic": "自己的活動自己拍",
+        "project": "自己的活動自己拍",
+        "license": "depends",
+        "brief": "攝影,紀錄",
+        "manpower": "所有人",
+        "seq": 2
+      },
+      {
+        "time": "9:46",
+        "presenter": "Afeyhsu",
+        "topic": "公有地大行動",
+        "project": "公有地大行動",
+        "slides": "http://www.slideshare.net/MikLiu/20140621",
+        "license": "CC0",
+        "brief": "公有地,變賣現況,地圖",
+        "manpower": "資料庫,網站",
+        "seq": 3
+      },
+      {
+        "time": "9:49",
+        "presenter": "Lee",
+        "topic": "inLiveTW",
+        "project": "inLiveTW",
+        "slides": "http://goo.gl/A7ppM3",
+        "license": "CC0",
+        "brief": "直播, inLiveTW",
+        "manpower": "文字, 鄉民, 前端, 後端",
+        "seq": 4
+      },
+      {
+        "time": "9:52",
+        "presenter": "johnny",
+        "topic": "議員投票指南",
+        "project": "議員投票指南",
+        "license": "CC0",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "yhsiang",
+        "topic": "politwoops.tw",
+        "project": "politwoops.tw",
+        "slides": "http://www.slideshare.net/lanfon/politwoopstw-36122309",
+        "license": "CC0, MIT",
+        "brief": "立委, 監督",
+        "manpower": "前端",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "miaoski",
+        "topic": "太陽花盒子之 ChromeCast",
+        "project": "太陽花盒子之 ChromeCast",
+        "license": "Apache 2",
+        "brief": "直播, inLiveTw",
+        "manpower": "前端",
+        "seq": 7
+      },
+      {
+        "time": "10:01",
+        "presenter": "Rhozan",
+        "topic": "全民除黴計畫 APP4AM",
+        "project": "全民除黴計畫 APP4AM",
+        "slides": "http://prezi.com/87ugn3no80yt/app4am/",
+        "license": "未定，傾向開放",
+        "brief": "全民除黴計畫,APP,媒體監督與改革",
+        "manpower": "前端,APP,資料庫端，文案，公關及其他",
+        "seq": 8
+      },
+      {
+        "time": "10:04",
+        "presenter": "MrOrz",
+        "topic": "自經區正反意見比較表",
+        "project": "自經區正反意見比較表",
+        "slides": "https://speakerdeck.com/mrorz/g0v-hackath9n-ti-an-zi-jing-qu-zheng-fan-yi-jian-bi-jiao-biao",
+        "license": "協做表格文本 CC-BY-SA, GFDL",
+        "brief": "比較表, prototype, UX design",
+        "manpower": "文字, 對自經區議題熟悉, 新聞專業",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "Shihta",
+        "topic": "輻射地圖APP",
+        "project": "輻射地圖APP",
+        "slides": "http://www.slideshare.net/celineliang/app-36096725",
+        "license": "程式LGPL",
+        "brief": "輻射,地圖,app",
+        "manpower": "Android, PHP",
+        "seq": 10
+      },
+      {
+        "time": "10:10",
+        "presenter": "simonpai",
+        "topic": "超農域",
+        "project": "超農域",
+        "slides": "http://slides.com/simonpai/185845",
+        "license": "CC0",
+        "brief": "超農域",
+        "seq": 11
+      },
+      {
+        "time": "10:13",
+        "presenter": "bater",
+        "topic": "選票成分分析",
+        "project": "選票成分分析",
+        "slides": "http://slides.com/bater/va",
+        "license": "CC0",
+        "brief": "選舉、偏好分析",
+        "manpower": "PHP、laravel",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "NewCliCker",
+        "topic": "第五權電視牆監看「評」台G8V.tv",
+        "project": "第五權電視牆監看「評」台G8V.tv",
+        "slides": "https://docs.google.com/presentation/d/1LmZUgPxnhNFsEprtOi2NOpsJthCQjj4HI0mVWiBDlas/edit?usp=sharing",
+        "license": "CC0, MIT",
+        "brief": "電視牆、公民記者協作、媒體識讀",
+        "manpower": "前端、以及任何有興趣想給意見的人",
+        "seq": 13
+      },
+      {
+        "time": "10:19",
+        "presenter": "jimmy",
+        "topic": "data.g0v.tw ng",
+        "project": "data.g0v.tw ng",
+        "license": "GNU GPL v2",
+        "brief": "opendata",
+        "manpower": "文字組或資料蒐集、設計師",
+        "seq": 14
+      },
+      {
+        "time": "10:22",
+        "presenter": "venev",
+        "topic": "開放政治獻金",
+        "project": "開放政治獻金",
+        "slides": "http://www.slideshare.net/venev/g0v-hackath9n-political-contribution",
+        "license": "程式 BSD\n內容 CC by",
+        "brief": "政商關係、開放資料、監察院",
+        "manpower": "資料庫（欄位搜尋）、前端、文案（SOP/芻議）",
+        "seq": 15
+      },
+      {
+        "time": "10:25",
+        "presenter": "muyueh",
+        "topic": "食用油測試",
+        "project": "食用油測試",
+        "license": "CERN Open Hardware License",
+        "brief": "油、雷射、PublicLab",
+        "manpower": "寫手、油",
+        "seq": 16
+      },
+      {
+        "time": "10:28",
+        "presenter": "muyueh",
+        "topic": "展覽松",
+        "project": "展覽松",
+        "seq": 17
+      },
+      {
+        "time": "10:31",
+        "presenter": "Peggy Chen",
+        "topic": "財政昏迷指數",
+        "project": "財政昏迷指數",
+        "license": "CC-BY-NC",
+        "brief": "地方財政、",
+        "manpower": "前端、資料庫端",
+        "seq": 18
+      },
+      {
+        "time": "10:34",
+        "presenter": "ddio",
+        "topic": "人人有案提",
+        "project": "人人有案提",
+        "slides": "http://www.slideshare.net/ddioibb/ss-36126407",
+        "license": "CC0, MIT",
+        "brief": "動民主, 提案",
+        "manpower": "操作流程,網路討論",
+        "seq": 19
+      },
+      {
+        "time": "10:37",
+        "presenter": "tkirby",
+        "topic": "動民主0.5",
+        "project": "動民主0.5",
+        "license": "MIT",
+        "brief": "線上民主,公投,",
+        "manpower": "設計師, firebase工程師",
+        "seq": 20
+      },
+      {
+        "time": "10:40",
+        "presenter": "ETBlue",
+        "topic": "動民主 lab、g0v project list",
+        "project": "動民主 lab、g0v project list",
+        "license": "CC0 / CC By",
+        "brief": "動民主、基礎建設",
+        "manpower": "TxT",
+        "seq": 21
+      },
+      {
+        "time": "10:43",
+        "presenter": "Miffy",
+        "topic": "義務律師陪偵平台",
+        "project": "義務律師陪偵平台",
+        "license": "CodeIgniter v2",
+        "brief": "義務律師、陪偵",
+        "manpower": "後端、Android、iOS app",
+        "seq": 22
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "14:30",
+        "presenter": "Rhozan",
+        "topic": "淺談媒體改革的困境與策略",
+        "project": "淺談媒體改革的困境與策略",
+        "slides": "http://www.slideshare.net/karlrecon/ss-36133217",
+        "brief": "行銷,內容,組織",
+        "manpower": "前端,APP工程師,資料庫端",
+        "seq": 1
+      },
+      {
+        "time": "14:38",
+        "presenter": "simonpai",
+        "topic": "公司內部黑客松",
+        "project": "公司內部黑客松",
+        "slides": "https://slides.com/simonpai/internal-company-hackathon/",
+        "license": "CC0",
+        "brief": "黑客松、開源文化、軟體產業",
+        "seq": 2
+      },
+      {
+        "time": "15:00",
+        "presenter": "Jerry",
+        "topic": "羽翼故事書",
+        "project": "羽翼故事書",
+        "slides": "http://slides.com/jerry668/wing-s-story",
+        "license": "CC0, MIT",
+        "brief": "學權、民權、黑卦平台",
+        "manpower": "前端、資料庫、法律",
+        "seq": 3
+      },
+      {
+        "time": "15:08",
+        "presenter": "whiski, nchild, BP",
+        "topic": "經貿國是會議網路參與+自經區溝通會",
+        "project": "經貿國是會議網路參與+自經區溝通會",
+        "license": "CC BY",
+        "brief": "經貿國是會議、自經區、開放政府",
+        "seq": 4
+      }
+    ],
+    "reports": [
+      {
+        "time": "17:00",
+        "presenter": "tkirby",
+        "topic": "自己的活動自己拍",
+        "project": "自己的活動自己拍",
+        "license": "CC-BY",
+        "brief": "攝影、記錄",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "A-Han",
+        "topic": "給力萌典 BETA",
+        "project": "給力萌典 BETA",
+        "slides": "https://docs.google.com/presentation/d/1EEWhYUmcD_bOjj_dHTwZ7Wn0mJzEUrYMI3-KnjV19iE",
+        "license": "CC0",
+        "brief": "知識共享、知識生產、公民的語言",
+        "seq": 2
+      },
+      {
+        "time": "17:10",
+        "presenter": "Yuren",
+        "topic": "立委選票地圖",
+        "project": "立委選票地圖",
+        "slides": "https://www.evernote.com/shard/s92/sh/3068ef9a-260d-4d54-8deb-2ec1d86a03fd/100b0fd561fa251408a659bcc12fb904",
+        "brief": "選舉、地圖、分析",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "Che Wei Liu",
+        "topic": "公有地大行動",
+        "project": "公有地大行動",
+        "slides": "http://www.slideshare.net/MikLiu/pop-on-fire-36135802",
+        "brief": "公有地,變賣現況,地圖",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "yhsiang",
+        "topic": "我說錯了嘛",
+        "project": "我說錯了嘛",
+        "license": "CC0, MIT",
+        "seq": 5
+      },
+      {
+        "time": "17:25",
+        "presenter": "MrOrz",
+        "topic": "自經區比較表",
+        "project": "自經區比較表",
+        "license": "協做表格文本 CC-BY-SA, GFDL",
+        "brief": "比較表, prototype, UX design",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "bater",
+        "topic": "選票成分分析",
+        "project": "選票成分分析",
+        "slides": "http://slides.com/bater/va",
+        "license": "CC0",
+        "brief": "選舉、偏好分析",
+        "manpower": "PHP、laravel",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "johnny",
+        "topic": "議員投票指南",
+        "project": "議員投票指南",
+        "license": "CC0",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "jimmy,consonant199,meisheep,justine",
+        "topic": "data.g0v.tw NG",
+        "project": "data.g0v.tw NG",
+        "license": "GPLV2",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "ddio",
+        "topic": "人人有案提人體實驗",
+        "project": "人人有案提人體實驗",
+        "license": "CC0 / CC-BY",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "NewCliCker",
+        "topic": "第五權電視牆監看「評」台G8V.tv",
+        "project": "第五權電視牆監看「評」台G8V.tv",
+        "license": "CC0, MIT",
+        "seq": 11
+      },
+      {
+        "time": "17:55",
+        "presenter": "Miffy",
+        "topic": "義務律師平台",
+        "project": "義務律師平台",
+        "license": "CodeIgniter v2",
+        "brief": "義務律師, 陪偵, 公民",
+        "seq": 12
+      },
+      {
+        "time": "18:00",
+        "presenter": "muyeh",
+        "topic": "食用油測試",
+        "project": "食用油測試",
+        "seq": 13
+      },
+      {
+        "time": "18:05",
+        "presenter": "venev",
+        "topic": "開放政治獻金",
+        "project": "開放政治獻金",
+        "license": "程式 BSD\n內容 CC By",
+        "seq": 14
+      },
+      {
+        "time": "18:10",
+        "presenter": "superbil",
+        "topic": "hackfoldr iOS",
+        "project": "hackfoldr iOS",
+        "license": "CC0, MIT",
+        "seq": 15
+      },
+      {
+        "time": "18:15:00",
+        "presenter": "shelilng",
+        "topic": "g0v 嚴選",
+        "project": "g0v 嚴選",
+        "seq": 16
+      }
+    ]
+  },
+  "g0v-hackath10n": {
+    "id": "g0v-hackath10n",
+    "num": 10,
+    "date": "2014-08-30",
+    "name": "資料科學黑客松",
+    "proposals_count": 17,
+    "lightning_count": 8,
+    "reports_count": 14,
+    "proposals": [
+      {
+        "time": "11:00",
+        "presenter": "ipa",
+        "topic": "11/9 Summit unconference懶人包",
+        "project": "11/9 Summit unconference懶人包",
+        "license": "CC by g0v.tw",
+        "brief": "unconference, summit,懶人包",
+        "manpower": "設計/繪圖/動畫",
+        "seq": 1
+      },
+      {
+        "time": "11:09",
+        "presenter": "吳長鋼",
+        "topic": "貪汙案件查詢網站(暫名)",
+        "project": "貪汙案件查詢網站(暫名)",
+        "slides": "http://www.slideshare.net/littlekang1/g0v-38507200",
+        "license": "MIT",
+        "brief": "貪汙 , 監督 , 開放",
+        "manpower": "前端 & 後端 (資料解析)",
+        "seq": 4
+      },
+      {
+        "time": "11:12",
+        "presenter": "chewei",
+        "topic": "公有地大行動/天龍特公地",
+        "project": "公有地大行動/天龍特公地",
+        "slides": "http://www.slideshare.net/MikLiu/20140830-poponfire-3min-38477927",
+        "license": "CC0, MIT",
+        "brief": "公有土地資料, 地圖, 協作",
+        "manpower": "地圖互動上傳資料功能建置,前端,後端",
+        "seq": 5
+      },
+      {
+        "time": "11:15",
+        "presenter": "shuhua",
+        "topic": "島嶼天光學潮實紀錄",
+        "project": "島嶼天光學潮實紀錄",
+        "slides": "https://drive.google.com/file/d/0B17DUQv0YPeMZUNiaGVyeWtLQ3c/edit?usp=sharing",
+        "license": "MIT",
+        "brief": "學運, 記錄, 文字化",
+        "manpower": "前端美化, 逐字工具包(切youtube+切豆腐技術)",
+        "seq": 6
+      },
+      {
+        "time": "11:18",
+        "presenter": "johnny",
+        "topic": "議員投票指南",
+        "project": "議員投票指南",
+        "license": "CC0",
+        "brief": "議員 http://goo.gl/yphsjC",
+        "manpower": "抓各縣市議會資料、設計",
+        "seq": 7
+      },
+      {
+        "time": "11:21",
+        "presenter": "lololol",
+        "topic": "零食儲備計畫",
+        "project": "零食儲備計畫",
+        "slides": "http://www.slideshare.net/SilversKi/ss-38505697",
+        "license": "CC-BY-SA 4.0",
+        "brief": "xml、政府資料開放平台、視覺化",
+        "manpower": "美工、UI、xml",
+        "seq": 8
+      },
+      {
+        "time": "11:24",
+        "presenter": "陳膺帆",
+        "topic": "氣候選戰",
+        "project": "氣候選戰",
+        "license": "CC0",
+        "brief": "氣候變遷，平台，監督",
+        "manpower": "互動網站建構，美工",
+        "seq": 9
+      },
+      {
+        "time": "11:27",
+        "presenter": "nchild",
+        "topic": "自己的文字自己究",
+        "project": "自己的文字自己究",
+        "slides": "http://bit.ly/1tLEkqw",
+        "license": "CC BY 4.0",
+        "brief": "文字、字形、正體中文",
+        "manpower": "初期：字形專家、工人智慧、資料庫、圖像辨識（如果可能）",
+        "seq": 10
+      },
+      {
+        "time": "11:30",
+        "presenter": "AliceWei",
+        "topic": "圖博資訊站",
+        "project": "圖博資訊站",
+        "slides": "https://www.icloud.com/iw/#keynote/BALo9f9M7Rhc0jQoXgKBHG3Pr5kdWuuXk-OF/%E5%9C%96%E5%8D%9A%E8%B3%87%E8%A8%8A%E7%AB%99%E6%8A%95%E5%BD%B1_20140824",
+        "license": "MIT",
+        "brief": "圖博、藏人、徵後端",
+        "manpower": "PM、後端",
+        "seq": 11
+      },
+      {
+        "time": "11:33",
+        "presenter": "Rhozan",
+        "topic": "全民除黴計畫app:新聞啄木鳥",
+        "project": "全民除黴計畫app:新聞啄木鳥",
+        "slides": "http://www.slideshare.net/karlrecon/app4-am-slide",
+        "license": "Apache 2.0",
+        "brief": "新聞監督,資料視覺化,協作",
+        "manpower": "前後端、文案、美工",
+        "seq": 12
+      },
+      {
+        "time": "11:36",
+        "presenter": "YuTin",
+        "topic": "inLiveTW",
+        "project": "inLiveTW",
+        "license": "CC0",
+        "brief": "新聞, 直播, 事件",
+        "seq": 13
+      },
+      {
+        "time": "11:39",
+        "presenter": "音地大帝",
+        "topic": "開放媒體",
+        "project": "開放媒體",
+        "license": "CCBY, MIT",
+        "brief": "新聞, 共筆, 媒體",
+        "seq": 14
+      },
+      {
+        "time": "11:42",
+        "presenter": "lololol(代理)",
+        "topic": "台北市長政見比較表",
+        "project": "台北市長政見比較表",
+        "slides": "https://speakerdeck.com/mrorz/g0v-hackath10n-ti-an-2014-tai-bei-shi-chang-zheng-jian-bi-jiao-biao",
+        "license": "程式碼MIT / 文本CC-BY-SA 4.0",
+        "brief": "比較表, 政見, 協作",
+        "manpower": "新聞、出處資料收集與整理",
+        "seq": 15
+      },
+      {
+        "time": "11:45",
+        "presenter": "miaoski",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "slides": "https://speakerdeck.com/miaoski/a-mei-yu-meng-dian-at-2014zi-liao-ke-xue-ai-hao-zhe-nian-hui",
+        "license": "台灣聖經公會授權非營利無償使用。",
+        "brief": "阿美語, 萌典",
+        "manpower": "打字工人",
+        "seq": 16
+      },
+      {
+        "time": "11:48",
+        "presenter": "bater",
+        "topic": "選票成份分析",
+        "project": "選票成份分析",
+        "slides": "http://slides.com/bater/va#/",
+        "license": "MIT",
+        "brief": "立場、分析比對、議題",
+        "manpower": "PHP Laravel 工程師",
+        "seq": 17
+      },
+      {
+        "time": "11:51",
+        "presenter": "林怡",
+        "topic": "輻射地圖",
+        "project": "輻射地圖",
+        "license": "CCBY, MIT",
+        "brief": "輻射,地圖,Android",
+        "manpower": "Android, PHP",
+        "seq": 18
+      },
+      {
+        "time": "12:03",
+        "presenter": "林祖儀(台北林先生)",
+        "topic": "割闌尾V計畫",
+        "project": "割闌尾V計畫",
+        "license": "CC-BY-4.0",
+        "brief": "罷免成功、自己的里自己養、神指引",
+        "manpower": "前後端、UI、數據分析",
+        "seq": 22
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "15:40",
+        "presenter": "子龍",
+        "topic": "設計",
+        "project": "設計",
+        "seq": 1
+      },
+      {
+        "time": "15:48",
+        "presenter": "子龍",
+        "topic": "設計",
+        "project": "設計",
+        "seq": 2
+      },
+      {
+        "time": "16:00",
+        "presenter": "雨蒼",
+        "topic": "新聞寫作",
+        "project": "新聞寫作",
+        "seq": 3
+      },
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 2
+      },
+      {
+        "time": "14:00",
+        "presenter": "音地大帝",
+        "topic": "線上剪接平台webmaker使用心得與新聞共編功能比較",
+        "project": "線上剪接平台webmaker使用心得與新聞共編功能比較",
+        "brief": "線上共編剪接,開放媒體,開放合照",
+        "seq": 1
+      },
+      {
+        "time": "14:08",
+        "presenter": "chewei",
+        "topic": "「公有土地議題」與「群眾規劃」探究",
+        "project": "「公有土地議題」與「群眾規劃」探究",
+        "brief": "公有土地議題, 群眾規劃, 市政創新",
+        "seq": 2
+      },
+      {
+        "time": "14:16",
+        "presenter": "ddio",
+        "topic": "網路可以民啥米主？",
+        "project": "網路可以民啥米主？",
+        "brief": "動民主 共決 直接民主",
+        "seq": 3
+      }
+    ],
+    "reports": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "17:00",
+        "presenter": "吳長鋼",
+        "topic": "貪汙案件查詢網",
+        "project": "貪汙案件查詢網",
+        "license": "MIT",
+        "brief": "貪汙 , 監督 , 開放",
+        "manpower": "後端工程師 (PHP,Python) , 自然語言處理(NLP)工程師",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "ronnywang",
+        "topic": "newsdiff",
+        "project": "newsdiff",
+        "license": "CC0, MIT",
+        "seq": 2
+      },
+      {
+        "time": "17:10",
+        "presenter": "chewei",
+        "topic": "天龍特公地",
+        "project": "天龍特公地",
+        "slides": "http://www.slideshare.net/MikLiu/20140831-lighting-talk",
+        "license": "CC0, MIT",
+        "brief": "公有土地資料, 查詢地圖, 持續趕工",
+        "manpower": "後端, 資料庫 ,logo",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "a0kman",
+        "topic": "超農域",
+        "project": "超農域",
+        "brief": "農業,農藥,超農域",
+        "manpower": "前端, 斧頭幫",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "lololol",
+        "topic": "零食儲備計畫",
+        "project": "零食儲備計畫",
+        "slides": "http://www.slideshare.net/SilversKi/ss-38529282",
+        "license": "CC-BY-SA 4.0",
+        "brief": "xml、政府資料開放平台、視覺化",
+        "manpower": "美工、表格化、平台程植",
+        "seq": 5
+      },
+      {
+        "time": "17:25",
+        "presenter": "johnny",
+        "topic": "議員指南、金錢報",
+        "project": "議員指南、金錢報",
+        "license": "CC0",
+        "brief": "議員、財產申報追蹤",
+        "manpower": "程式、設計",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "shuhua",
+        "topic": "島嶼天光學潮實紀錄",
+        "project": "島嶼天光學潮實紀錄",
+        "slides": "https://slidebean.com/p/9ZZ9WZPVUD/-",
+        "license": "MIT",
+        "brief": "學運, 記錄, 文字化",
+        "manpower": "前端美化, 逐字工, 切豆腐(youtube)技術",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "gilbert",
+        "topic": "台灣公司關係圖研究",
+        "project": "台灣公司關係圖研究",
+        "brief": "台灣公司關係圖、黨營事業",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "rhozan,mrbigmouth",
+        "topic": "全民除霉計劃-新聞啄木鳥App Demo",
+        "project": "全民除霉計劃-新聞啄木鳥App Demo",
+        "license": "Apache2.0",
+        "brief": "新聞啄木鳥、新聞松、媒體監督",
+        "manpower": "UIUX、文案、後端資料分析",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "miaoski",
+        "topic": "阿美語萌典/南島語萌典?",
+        "project": "阿美語萌典/南島語萌典?",
+        "slides": "https://speakerdeck.com/miaoski/a-mei-yu-meng-dian-kan-chai-ban-at-2014zi-liao-ke-xue-ai-hao-zhe-nian-hui",
+        "license": "一言難盡",
+        "brief": "萌典, 阿美語, 南島語",
+        "manpower": "族語研究者, 砍柴工",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "clkao",
+        "topic": "g0v閃電秀小結",
+        "project": "g0v閃電秀小結",
+        "license": "CC0",
+        "seq": 2
+      },
+      {
+        "time": "16:30",
+        "presenter": "陳膺帆",
+        "topic": "氣候選戰",
+        "project": "氣候選戰",
+        "license": "MIT,CC5",
+        "brief": "氣候變遷、五都選戰、台灣青年氣候聯盟",
+        "seq": 1
+      },
+      {
+        "time": "16:35",
+        "presenter": "iris",
+        "topic": "自動新聞議題探勘",
+        "project": "自動新聞議題探勘",
+        "license": "MIT",
+        "brief": "新聞,議題,探勘",
+        "seq": 2
+      }
+    ]
+  },
   "g0v-hackath11n": {
     "id": "g0v-hackath11n",
     "num": 11,
@@ -748,6 +3273,628 @@
         "topic": "vTaiwan.tw",
         "project": "vTaiwan.tw",
         "license": "CC0",
+        "seq": 13
+      }
+    ]
+  },
+  "g0v-hackath13n": {
+    "id": "g0v-hackath13n",
+    "num": 13,
+    "date": "2015-04-18",
+    "name": "無殼蝸牛黑客松",
+    "proposals_count": 16,
+    "lightning_count": 5,
+    "reports_count": 11,
+    "proposals": [
+      {
+        "time": "9:40:00 AM",
+        "presenter": "clkao",
+        "topic": "自己的選區自己畫",
+        "project": "自己的選區自己畫",
+        "license": "MIT",
+        "brief": "憲改、選制、選舉",
+        "manpower": "前端、文案、動畫",
+        "seq": 1
+      },
+      {
+        "time": "9:49",
+        "presenter": "Ly",
+        "topic": "立法院 ivod下載網",
+        "project": "立法院 ivod下載網",
+        "slides": "http://www.slideshare.net/yhsiang/ss-47052684",
+        "license": "CC BY 4.0",
+        "brief": "立法院, ivod, 下載器",
+        "manpower": "UI, 文案,",
+        "seq": 4
+      },
+      {
+        "time": "9:52",
+        "presenter": "isabel",
+        "topic": "憲餅互動小鋪",
+        "project": "憲餅互動小鋪",
+        "license": "CC By 4.0",
+        "brief": "憲改、互動、前端遊戲",
+        "manpower": "前端、設計、內容編輯",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "etblue",
+        "topic": "憲動盟野生官網/野生部落格",
+        "project": "憲動盟野生官網/野生部落格",
+        "license": "MIT",
+        "brief": "NG0、憲改、憲餅廚房",
+        "manpower": "前端、設計、編輯",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "ipa",
+        "topic": "憲改限時批",
+        "project": "憲改限時批",
+        "license": "CC By 4.0",
+        "brief": "短片、系列懶人包、憲改",
+        "manpower": "動畫、前端工程、編輯",
+        "seq": 7
+      },
+      {
+        "time": "10:01",
+        "presenter": "MrOrz",
+        "topic": "政治承諾追蹤網 PPT",
+        "project": "政治承諾追蹤網 PPT",
+        "slides": "http://goo.gl/m0yTni",
+        "license": "MIT",
+        "brief": "promise tracker、協作",
+        "manpower": "整理地方/中央政府承諾",
+        "seq": 8
+      },
+      {
+        "time": "10:22",
+        "presenter": "雨蒼",
+        "license": "CC0",
+        "brief": "黨產,國民黨",
+        "manpower": "前端、UI、視覺設計",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "jimmy(huang)",
+        "topic": "賽豬公...上太空！",
+        "project": "賽豬公...上太空！",
+        "license": "CC by-nc-sa 4.0",
+        "brief": "GIS、衛星、環境監測",
+        "manpower": "前端、Bash、眼睛好的人",
+        "seq": 10
+      },
+      {
+        "time": "10:13",
+        "presenter": "Kenny",
+        "topic": "NPO Lab 公益實驗室",
+        "project": "NPO Lab 公益實驗室",
+        "license": "cc0",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "Joy",
+        "topic": "國會調查兵團開放公督盟數據API",
+        "project": "國會調查兵團開放公督盟數據API",
+        "license": "CC0",
+        "brief": "國會調查兵團,cic.tw,公督盟",
+        "seq": 13
+      },
+      {
+        "time": "10:19",
+        "presenter": "nchild",
+        "topic": "SOAK 泡・議題擴散機",
+        "project": "SOAK 泡・議題擴散機",
+        "license": "CC BY 4.0",
+        "brief": "議題, app, 共享經濟",
+        "manpower": "App、前端、後端開發者，UI / UX，視覺設計",
+        "seq": 14
+      },
+      {
+        "time": "10:04",
+        "presenter": "建寰",
+        "topic": "社民黨年金改革政見視覺化",
+        "project": "社民黨年金改革政見視覺化",
+        "license": "MIT",
+        "brief": "社民黨、年金改革",
+        "manpower": "網站等相關程式",
+        "seq": 15
+      },
+      {
+        "time": "10:25",
+        "presenter": "淵智",
+        "topic": "貪污判決查詢網站",
+        "project": "貪污判決查詢網站",
+        "license": "CC0",
+        "brief": "貪污 判決書 text-mining",
+        "manpower": "UI/UX text-mining NLP",
+        "seq": 16
+      },
+      {
+        "time": "10:28",
+        "presenter": "台北林先生",
+        "topic": "第零勢力：闌尾阻黨",
+        "project": "第零勢力：闌尾阻黨",
+        "license": "MIT",
+        "brief": "割闌尾、2016立委選舉",
+        "seq": 17
+      },
+      {
+        "time": "10:31",
+        "presenter": "家華",
+        "topic": "2015 WWViews ＠ TW 跨國審議/投票系統專案",
+        "project": "2015 WWViews ＠ TW 跨國審議/投票系統專案",
+        "brief": "資料視覺化、審議民主、氣候變遷",
+        "manpower": "1) 會議紀錄資料視覺化 + 投票結果資料視覺化；2)  open source 做的單頁式網站",
+        "seq": 18
+      },
+      {
+        "time": "10:34",
+        "presenter": "三",
+        "topic": "河圖資訊整合UI 提案",
+        "project": "河圖資訊整合UI 提案",
+        "slides": "http://goo.gl/Uj1sO6",
+        "brief": "行動指南\n資訊整合UI",
+        "manpower": "網路工程師、設計師、律師、圖資管理師、企劃宣傳人員、翻譯人員、校錯人員、網站維護人員、資料備份人員",
+        "seq": 19
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "14:30",
+        "presenter": "muyueh",
+        "topic": "地理資訊 + 語音技術分享",
+        "project": "地理資訊 + 語音技術分享",
+        "seq": 1
+      },
+      {
+        "time": "14:38",
+        "presenter": "三",
+        "topic": "河圖-跨議題資訊整合UI",
+        "project": "河圖-跨議題資訊整合UI",
+        "slides": "http://goo.gl/Uj1sO6",
+        "brief": "行動指南\n資訊整合UI",
+        "manpower": "網路工程師、設計師、律師、圖資管理師、企劃宣傳人員、翻譯人員、校錯人員、網站維護人員、資料備份人員",
+        "seq": 2
+      },
+      {
+        "time": "14:46",
+        "presenter": "南港林先生(Lucien)",
+        "topic": "民撰官酌的開放資料授權條款-期中進度說明",
+        "project": "民撰官酌的開放資料授權條款-期中進度說明",
+        "slides": "http://goo.gl/vwOqKE\n\nhttp://goo.gl/od0i0M",
+        "license": "CC0",
+        "brief": "Open Data, license, CC",
+        "seq": 3
+      },
+      {
+        "time": "14:54",
+        "presenter": "Joy",
+        "topic": "國會調查兵團開放資料界接分享",
+        "project": "國會調查兵團開放資料界接分享",
+        "license": "CC0",
+        "brief": "國會調查兵團,Open Data,cic.tw",
+        "seq": 4
+      }
+    ],
+    "reports": [
+      {
+        "time": "17:00",
+        "presenter": "三",
+        "topic": "河圖資訊整合UI 提案",
+        "project": "河圖資訊整合UI 提案",
+        "brief": "行動指南\n資訊整合UI",
+        "manpower": "網路工程師、設計師、律師、圖資管理師、企劃宣傳人員、翻譯人員、校錯人員、網站維護人員、資料備份人員",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "gilbert",
+        "topic": "政商關係圖",
+        "project": "政商關係圖",
+        "seq": 2
+      },
+      {
+        "time": "17:10",
+        "presenter": "MrOrz",
+        "topic": "政治承諾追蹤網 ppt",
+        "project": "政治承諾追蹤網 ppt",
+        "license": "MIT",
+        "brief": "promise tracker、協作",
+        "manpower": "整理地方/中央政府承諾",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "kirby",
+        "topic": "地圖合併工具同場加映自轉地球儀",
+        "project": "地圖合併工具同場加映自轉地球儀",
+        "seq": 4
+      },
+      {
+        "time": "17:25",
+        "presenter": "pm5",
+        "topic": "飲水地圖",
+        "project": "飲水地圖",
+        "license": "MIT",
+        "brief": "喝水，喝水，多喝水",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "LY",
+        "topic": "ivod 下載",
+        "project": "ivod 下載",
+        "license": "CC BY 4.0",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "子姓網友",
+        "topic": "CC授權小幫手",
+        "project": "CC授權小幫手",
+        "brief": "授權",
+        "manpower": "前端工程師",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "soidid",
+        "topic": "立法院表決資料可不可以更容易懂？",
+        "project": "立法院表決資料可不可以更容易懂？",
+        "license": "MIT",
+        "brief": "立法院、表決、立場",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "hychen",
+        "topic": "憲餅互動小鋪",
+        "project": "憲餅互動小鋪",
+        "license": "CC BY 4.0",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "isabel",
+        "topic": "短片",
+        "project": "短片",
+        "seq": 11
+      },
+      {
+        "time": "17:55",
+        "presenter": "shelling",
+        "topic": "g0v.tw 大松小松落玉盤",
+        "project": "g0v.tw 大松小松落玉盤",
+        "seq": 12
+      }
+    ]
+  },
+  "g0v-hackath14n": {
+    "id": "g0v-hackath14n",
+    "num": 14,
+    "date": "2015-06-13",
+    "name": "野百合黑客松",
+    "proposals_count": 17,
+    "lightning_count": 4,
+    "reports_count": 13,
+    "proposals": [
+      {
+        "time": "9:43",
+        "presenter": "Yo Yo",
+        "topic": "立委投票指南－易用性測試",
+        "project": "立委投票指南－易用性測試",
+        "slides": "https://docs.google.com/presentation/d/1QdfzZFuSFAWGDd5mqZv6XY8g9RNO4lS3xvRdD95LClM/edit?usp=sharing",
+        "license": "CC0",
+        "brief": "UX Usability",
+        "manpower": "UX、受測者、任務設計",
+        "seq": 2
+      },
+      {
+        "time": "9:49",
+        "presenter": "ETBlue",
+        "topic": "COSCUP野生官網",
+        "project": "COSCUP野生官網",
+        "license": "CC0",
+        "brief": "COSCUP，野生官網，CC0",
+        "manpower": "前端工程師",
+        "seq": 4
+      },
+      {
+        "time": "9:52",
+        "presenter": "ronny",
+        "topic": "發文附上判決書運動",
+        "project": "發文附上判決書運動",
+        "slides": "https://docs.google.com/presentation/d/1sx3kcJKfU833DGJhFQdt9mFn6TEIIxdl-aB7lWECaT0/edit#slide=id.ga122bd45a_1_58",
+        "license": "CC0",
+        "brief": "新聞、判決書、wikipedia",
+        "manpower": "文字,法律",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "chewei",
+        "topic": "心家園：臨時住宅與永久屋規劃設計資料庫",
+        "project": "心家園：臨時住宅與永久屋規劃設計資料庫",
+        "slides": "https://docs.google.com/presentation/d/1GZpFUD9EFicgR3_PnluaJrkKC6kSi45aT-WIzqpiIhM/edit?usp=sharing",
+        "license": "?（需要協助釐清）",
+        "brief": "空間規劃與建築設計資料, 救災與重建, 資料庫",
+        "manpower": "建築設計, 資料庫, 授權實務",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "chewei",
+        "topic": "顧膝蓋的捷運移動指南 ㊙",
+        "project": "顧膝蓋的捷運移動指南 ㊙",
+        "slides": "https://docs.google.com/presentation/d/1iZtVd9Ite4qNAP1l81hVvQuPXsz8n1olxxuXVfEZJHE/edit?usp=sharing",
+        "license": "?（需要協助釐清）",
+        "brief": "捷運, 膝蓋, 工人智慧",
+        "manpower": "MRT, indoormapping, crowdsourcing",
+        "seq": 7
+      },
+      {
+        "time": "10:01",
+        "presenter": "chewei",
+        "topic": "地號轉地圖  Land No. Mapper",
+        "project": "地號轉地圖  Land No. Mapper",
+        "slides": "https://docs.google.com/presentation/d/17zoTSPLiG9wZITZkjMXuCD3y14KWRCc78PrCKBSq8fk/edit?usp=sharing",
+        "license": "?（需要協助釐清）",
+        "brief": "野生地號查詢API, 試算表, Mapper",
+        "seq": 8
+      },
+      {
+        "time": "10:04",
+        "presenter": "timloo",
+        "topic": "碩士論文研究",
+        "project": "碩士論文研究",
+        "slides": "https://docs.google.com/presentation/d/1bB4gu5GkB8MUEnj35VaBkIPAJ-6uPuhrfwf_AkJUJ4w/present?slide=id.p",
+        "license": "CC0",
+        "brief": "碩士論文  分享  協作工具",
+        "manpower": "1。(xe)latex 中文章節項修改，2。D3.js 轉統計圖，3。填問卷，https://docs.google.com/forms/d/1OEjW3VyUofXD3mSuQQkQs5gIah7rw-2joqWVwHEOAKU/viewform",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "淵智",
+        "topic": "貪污判決查詢網站",
+        "project": "貪污判決查詢網站",
+        "license": "CC0",
+        "seq": 10
+      },
+      {
+        "time": "10:10",
+        "presenter": "Jason Kuan",
+        "topic": "車禍熱圖",
+        "project": "車禍熱圖",
+        "slides": "https://dl.dropboxusercontent.com/u/67191344/site/g0v_present/assets/player/KeynoteDHTMLPlayer.html#0",
+        "license": "CC-BY/BSD",
+        "brief": "車禍, 地點分佈, 經緯度request",
+        "manpower": "設計（我們的美術糟糕沒有極限）",
+        "seq": 11
+      },
+      {
+        "time": "10:13",
+        "presenter": "理查",
+        "topic": "開放都市計畫:委員會會議紀錄",
+        "project": "開放都市計畫:委員會會議紀錄",
+        "license": "CC-BY;MIT",
+        "brief": "都市計畫委員會,會議紀錄",
+        "manpower": "地方政府政務官 (!)、爬梳施政報告",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "MrOrz",
+        "topic": "政治承諾追蹤網 political promise tracker",
+        "project": "政治承諾追蹤網 political promise tracker",
+        "slides": "https://speakerdeck.com/mrorz/political-promise-tracker-zheng-zhi-cheng-nuo-zhui-zong-wang-g0v-hackath14n-ti-an",
+        "license": "code:MIT; content: CC0",
+        "brief": "群眾協作, 施政報告, 政策追蹤",
+        "seq": 13
+      },
+      {
+        "time": "10:19",
+        "presenter": "洪申翰",
+        "topic": "跨海峽企業環境表現資訊揭露與民間監督",
+        "project": "跨海峽企業環境表現資訊揭露與民間監督",
+        "brief": "污染轉移、環境資訊揭露、供應鏈社會責任",
+        "manpower": "企業基本資料與表現資料收集與爬梳",
+        "seq": 14
+      },
+      {
+        "time": "10:22",
+        "presenter": "miaoski",
+        "topic": "方敏英字典拼字修正誠徵義工",
+        "project": "方敏英字典拼字修正誠徵義工",
+        "license": "CC-BY-NC 3.0",
+        "brief": "阿美語、萌典",
+        "manpower": "鍵盤義工",
+        "seq": 15
+      },
+      {
+        "time": "10:25",
+        "presenter": "viola",
+        "topic": "全台公立動物收容所資訊統整",
+        "project": "全台公立動物收容所資訊統整",
+        "brief": "動物、收容所",
+        "seq": 16
+      },
+      {
+        "time": "10:28",
+        "presenter": "a0kman",
+        "topic": "醫農",
+        "project": "醫農",
+        "license": "?（需要協助釐清）",
+        "brief": "農業 病蟲 試驗單位",
+        "manpower": "UI、前端",
+        "seq": 17
+      },
+      {
+        "time": "10:31",
+        "presenter": "miaoski",
+        "topic": "空污檢測啦啦啦",
+        "project": "空污檢測啦啦啦",
+        "license": "MIT (暫定)",
+        "brief": "PM2.5, Arduino, Aircasting",
+        "manpower": "硬體、後端",
+        "seq": 18
+      },
+      {
+        "time": "10:34",
+        "presenter": "moon_c (RS代)",
+        "topic": "授權小幫手(=ﾟωﾟ)ﾉ",
+        "project": "授權小幫手(=ﾟωﾟ)ﾉ",
+        "license": "CC0",
+        "brief": "cc授權",
+        "manpower": "前端大人",
+        "seq": 19
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "presenter": "Jimmy",
+        "topic": "賽豬公上太空（Why-How-What）",
+        "project": "賽豬公上太空（Why-How-What）",
+        "seq": 1
+      },
+      {
+        "presenter": "Superbil",
+        "topic": "政府公開通訊錄",
+        "project": "政府公開通訊錄",
+        "brief": "通訊錄",
+        "manpower": "填坑獸、前端、UI",
+        "seq": 2
+      },
+      {
+        "presenter": "申翰",
+        "topic": "跨海峽企業環境表現資訊揭露與民間監督",
+        "project": "跨海峽企業環境表現資訊揭露與民間監督",
+        "seq": 3
+      }
+    ],
+    "reports": [
+      {
+        "time": "17:00",
+        "presenter": "clkao",
+        "topic": "billab / 著作權",
+        "project": "billab / 著作權",
+        "license": "MIT",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "chewei",
+        "topic": "地號轉地圖  Land No. Mapper",
+        "project": "地號轉地圖  Land No. Mapper",
+        "license": "MIT",
+        "brief": "野生地號查詢API, 試算表, Mapper",
+        "seq": 2
+      },
+      {
+        "time": "17:10",
+        "presenter": "RSChiang",
+        "topic": "LF2",
+        "project": "LF2",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "理查",
+        "topic": "開放都市計畫:委員會會議紀錄",
+        "project": "開放都市計畫:委員會會議紀錄",
+        "license": "CC-BY;MIT",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "Peggy",
+        "topic": "長照大逃殺",
+        "project": "長照大逃殺",
+        "seq": 5
+      },
+      {
+        "time": "17:25",
+        "presenter": "a0kman",
+        "topic": "醫農",
+        "project": "醫農",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "Jason Kuan",
+        "topic": "車禍熱圖",
+        "project": "車禍熱圖",
+        "license": "CC-BY/BSD",
+        "brief": "車禍,地點分析,車禍種類",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "Liz Lin",
+        "topic": "iTaigi",
+        "project": "iTaigi",
+        "license": "MIT",
+        "brief": "新台語，火星，運動",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "ipa",
+        "topic": "憲餅廚房",
+        "project": "憲餅廚房",
+        "slides": "http://clkao.github.io/overhang/",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "ronny",
+        "topic": "發文附上判決書",
+        "project": "發文附上判決書",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "淵智",
+        "topic": "貪污判決查詢網站",
+        "project": "貪污判決查詢網站",
+        "brief": "貪污、判決書",
+        "seq": 11
+      },
+      {
+        "time": "17:55",
+        "presenter": "miaoski",
+        "topic": "阿美語萌典 + 空污偵測啦啦啦",
+        "project": "阿美語萌典 + 空污偵測啦啦啦",
+        "license": "CC-BY-NC / ?",
+        "seq": 12
+      },
+      {
+        "time": "18:00",
+        "presenter": "李慕約",
+        "topic": "長照大逃殺 -- 還原真相",
+        "project": "長照大逃殺 -- 還原真相",
         "seq": 13
       }
     ]
@@ -1892,6 +5039,447 @@
       }
     ]
   },
+  "g0v-hackath19n": {
+    "id": "g0v-hackath19n",
+    "num": 19,
+    "date": "2016-06-18",
+    "name": "飛彈試射黑客松",
+    "proposals_count": 22,
+    "lightning_count": 6,
+    "reports_count": 11,
+    "proposals": [
+      {
+        "time": "9:40",
+        "presenter": "雨蒼",
+        "topic": "近期成果報告（？）",
+        "project": "近期成果報告（？）",
+        "slides": "https://docs.google.com/presentation/d/1FkzyZASKwUlfM4zOqkxiJYYc91O1w7viAM0_2sc34II/pub?start=false&loop=false&delayms=3000",
+        "license": "CC BY 4.0",
+        "manpower": "？",
+        "seq": 1
+      },
+      {
+        "time": "9:43",
+        "presenter": "Neo",
+        "topic": "Rev Now 音樂製造",
+        "project": "Rev Now 音樂製造",
+        "slides": "http://www.slideshare.net/HongHong19/revnow",
+        "license": "CC BY 4.0",
+        "brief": "音樂創作、開放、共享經濟",
+        "manpower": "工程師、音樂創作者",
+        "seq": 2
+      },
+      {
+        "time": "9:46",
+        "presenter": "BoYi",
+        "topic": "Taiwan 2030",
+        "project": "Taiwan 2030",
+        "hackmd": "http://hackfoldr.org/taiwan-2030/",
+        "slides": "http://www.slideshare.net/addisonsky/npp16th-g0v",
+        "license": "CC BY NC-SA",
+        "brief": "公共參與、維基城市、時代力量",
+        "manpower": "UI設計師、UX設計師、前後端工程師",
+        "seq": 3
+      },
+      {
+        "time": "9:49",
+        "presenter": "韋銘",
+        "topic": "你今天加班了嗎?",
+        "project": "你今天加班了嗎?",
+        "hackmd": "https://g0v.hackpad.com/tA21IMtODD8",
+        "slides": "http://www.slideshare.net/WeimingChen1/ss-63180418",
+        "license": "MIT / CC BY 4.0",
+        "brief": "勞動環境、工時與加班費、資訊曝光",
+        "manpower": "UI設計師、UX設計師、瞭解勞基法的人",
+        "seq": 4
+      },
+      {
+        "time": "9:52",
+        "presenter": "chewei",
+        "topic": "（如何不要）秒滅兩萬人？",
+        "project": "（如何不要）秒滅兩萬人？",
+        "hackmd": "https://g0v.hackpad.com/lBqSV2OOpIi",
+        "slides": "https://docs.google.com/presentation/d/1v19LXTU8bQZGZ44oRc1OPHEAn4q43q0V0hGL5QlfUKU/edit?usp=sharing",
+        "license": "CC BY 4.0",
+        "brief": "危險度、境況模擬、災",
+        "manpower": "都市計畫，災害議題，地理資料",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "Liz",
+        "topic": "iTaigi 愛台語",
+        "project": "iTaigi 愛台語",
+        "hackmd": "https://g0v.hackpad.com/moed7ct-taigi-neologism#iTaigi",
+        "slides": "http://www.slideshare.net/LizLin5/itaigi-0618",
+        "license": "CC BY 4.0",
+        "brief": "台語、家己的辭典家己編",
+        "manpower": "前後端工程師、UI/UX設計師、對台語有興趣的人",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "陳瑞賓",
+        "topic": "WaterGo！免費飲用水地圖",
+        "project": "WaterGo！免費飲用水地圖",
+        "hackmd": "http://beta.hackfoldr.org/drinking-water/BAdDl4G9uXM",
+        "slides": "http://www.slideshare.net/ssuser5782ff/ss-63168512",
+        "license": "全都公開",
+        "brief": "飲水地圖、osm",
+        "manpower": "前端工程師、app開發工程師",
+        "seq": 7
+      },
+      {
+        "time": "10:01",
+        "presenter": "Michael_LI",
+        "topic": "文本分析器（用魚骨圖討論事情）",
+        "project": "文本分析器（用魚骨圖討論事情）",
+        "hackmd": "https://newshackathon.hackpad.com/2016-06-18g0v-Mrk4q9PMO40",
+        "license": "MIT",
+        "brief": "新聞事件分解出原因、文字分析、直播節目",
+        "manpower": "前端工程師javascript、UI/UX設計師、node.js",
+        "seq": 8
+      },
+      {
+        "time": "10:04",
+        "presenter": "nchild",
+        "topic": "共識預煮 precooksensus",
+        "project": "共識預煮 precooksensus",
+        "hackmd": "https://g0v.hackpad.com/precooksensus",
+        "slides": "http://bit.ly/g0v19th",
+        "license": "CC BY 4.0",
+        "brief": "公共參與、社會共識",
+        "manpower": "對公共議題共識機制有興趣的人",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "Fumi",
+        "topic": "立委咖電喂",
+        "project": "立委咖電喂",
+        "hackmd": "https://g0v.hackpad.com/--t5nla4R4Dft",
+        "slides": "http://www.slideshare.net/JessieWang29/19g0v",
+        "license": "CC-BY 4.0",
+        "brief": "立委聯繫資料",
+        "manpower": "PM、文字討論工作者、對專案有興趣的人",
+        "seq": 10
+      },
+      {
+        "time": "10:10",
+        "presenter": "Y.D Lin",
+        "topic": "看見思法：屬於人民的視覺司法資料庫",
+        "project": "看見思法：屬於人民的視覺司法資料庫",
+        "slides": "http://vizjust.tw",
+        "license": "MIT",
+        "brief": "司法統計資料、Infographic",
+        "manpower": "後端工程、UI/UX設計師",
+        "seq": 11
+      },
+      {
+        "time": "10:13",
+        "presenter": "ynnk&a-tsioh",
+        "topic": "padagraph.io + g0v.tw = ?",
+        "project": "padagraph.io + g0v.tw = ?",
+        "hackmd": "https://g0v.hackpad.com/Padagraph.io-Dp1htXil6rO",
+        "slides": "http://g0v-tw.padagraph.io/",
+        "brief": "network crowdsourcing dataviz",
+        "manpower": "python scripter, 有案子的人 legal aspects discussion",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "Yoyo",
+        "topic": "g0v新手讀書會",
+        "project": "g0v新手讀書會",
+        "hackmd": "https://g0v.hackpad.com/g0v-T8j3gi1D2ee",
+        "slides": "https://docs.google.com/presentation/d/1J7RSGY1j4PpcjYBabkM60iDIbCytp2TYvHE2Ti96cgw/edit?usp=sharing",
+        "license": "CC-BY 4.0",
+        "brief": "學習、新手、教學",
+        "manpower": "1.新手想學\n2.老手想教人\n3.想一起學習進修",
+        "seq": 13
+      },
+      {
+        "time": "10:19",
+        "presenter": "leo424y",
+        "topic": "坑曆",
+        "project": "坑曆",
+        "hackmd": "http://j.mp/坑曆",
+        "license": "CC-BY 4.0",
+        "brief": "一鍵黑客松、自己報的松自己跳、進步主義",
+        "manpower": "前端工程師、UI/UX設計師",
+        "seq": 14
+      },
+      {
+        "time": "10:22",
+        "presenter": "Moses",
+        "topic": "新住民入館第一步：博物館官網母語化",
+        "project": "新住民入館第一步：博物館官網母語化",
+        "hackmd": "https://g0v.hackpad.com/pnSMhz0PLLa",
+        "slides": "https://docs.google.com/presentation/d/1u45GNxT4us4sWM87PwcvPyQohAHZ9wBe6BVh5LKwiRc/edit#slide=id.p30",
+        "brief": "新住民、博物館官網、母語化",
+        "manpower": "(待討論後列出)",
+        "seq": 15
+      },
+      {
+        "time": "10:25",
+        "presenter": "Christine Lee",
+        "topic": "自己的公園自己顧：公園地圖+特公盟時間軸",
+        "project": "自己的公園自己顧：公園地圖+特公盟時間軸",
+        "hackmd": "https://g0v.hackpad.com/--5mr6LvvVLva",
+        "slides": "https://www.dropbox.com/sh/r0vudgrcwtx9h4d/AACbFzwwb6nB7A85LLqnHAr0a/PPFCC%20for%20Hackthon.pptx?dl=0",
+        "license": "CC BY 4.0",
+        "brief": "公園、遊戲權、公民參與",
+        "manpower": "不論專長，只問熱血",
+        "seq": 16
+      },
+      {
+        "time": "10:28",
+        "presenter": "ETBlue",
+        "topic": "Debater 編輯小幫手 browser plugin",
+        "project": "Debater 編輯小幫手 browser plugin",
+        "hackmd": "https://g0v.hackpad.com/Debater--vjeJIZ8onSY",
+        "slides": "http://etblue.github.io/debater/?source=https://hackmd.io/CwUwJgZiDMAcsFowAYQEYHAJy2QgRsslgtMMVuQMZUBs+EQA/download",
+        "license": "MIT / CC0",
+        "brief": "網路、筆戰、整理",
+        "manpower": "前端工程、著作權法、編輯",
+        "seq": 17
+      },
+      {
+        "time": "10:31",
+        "presenter": "gavin",
+        "topic": "自己的飛安，自己救",
+        "project": "自己的飛安，自己救",
+        "hackmd": "https://g0v.hackpad.com/NacE7VPcPVx",
+        "slides": "https://docs.google.com/presentation/d/1wubhsjJRfuspnlLpB6ZDV5B-oIkMYFtKAI_xGBMWGPo/edit?usp=sharing",
+        "license": "CC BY-NC",
+        "brief": "空拍、無人機、飛安",
+        "manpower": "歡迎參加",
+        "seq": 18
+      },
+      {
+        "time": "10:34",
+        "presenter": "clkao",
+        "topic": "g0v 基礎建設",
+        "project": "g0v 基礎建設",
+        "slides": "https://g0v.hackpad.com/projecthub-redux-9U6DLtdZc48",
+        "license": "MIT / CC BY 4.0",
+        "brief": "人坑介面、基礎建設",
+        "seq": 19
+      },
+      {
+        "time": "10:37",
+        "presenter": "liang",
+        "topic": "開放資料學術問卷發放",
+        "project": "開放資料學術問卷發放",
+        "slides": "http://www.surveygizmo.com/s3/2865978/FB",
+        "license": "CC BY 4.0",
+        "seq": 20
+      },
+      {
+        "time": "10:40",
+        "presenter": "YuTin",
+        "topic": "拆後重建．建後撰史",
+        "project": "拆後重建．建後撰史",
+        "hackmd": "https://github.com/g0v/summit.g0v.tw/blob/2016/app/javascripts/components/SpeakerList/speakers.json",
+        "slides": "http://summit.g0v.tw/2016/schedules",
+        "license": "CC BY 4.0",
+        "brief": "直播、字幕",
+        "manpower": "如果你非常渴望跳坑，這裡有非常容易上手的坑\n\n1. 幫忙（連連看）整理YouTube網址\n2. 幫忙上字幕（中英日!?）\n3. 還有一些短影片（閃電秀）可以剪",
+        "seq": 21
+      },
+      {
+        "time": "10:43",
+        "presenter": "Muyueh",
+        "topic": "電力",
+        "project": "電力",
+        "hackmd": "https://g0v.hackpad.com/Nmi7NIdzWbJ",
+        "license": "GPL v2",
+        "seq": 22
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "14:30",
+        "presenter": "Fumi",
+        "topic": "文組人Fumi的g0v進化史",
+        "project": "文組人Fumi的g0v進化史",
+        "slides": "http://www.slideshare.net/JessieWang29/fumig0v-62149012",
+        "license": "CC-BY 4.0",
+        "brief": "g0v、成長、新手",
+        "seq": 1
+      },
+      {
+        "time": "14:40",
+        "presenter": "思萱",
+        "topic": "Job Sweeper",
+        "project": "Job Sweeper",
+        "slides": "https://www.youtube.com/watch?v=TpikXQsmVro",
+        "license": "MIT",
+        "brief": "求職網、薪資、資訊不對等",
+        "manpower": "extension開發經驗者、後端維護、法律專業",
+        "seq": 2
+      },
+      {
+        "time": "14:50",
+        "presenter": "韋銘",
+        "topic": "GoodJob",
+        "project": "GoodJob",
+        "hackmd": "https://hackpad.com/GoodJob--JTI1pn86o63",
+        "slides": "http://www.slideshare.net/WeimingChen1/good-job-g0v",
+        "license": "MIT / CC BY 4.0",
+        "brief": "求職網、工作評論、資訊不對等",
+        "manpower": "UI設計師、UX設計師、資訊設計師、瞭解勞動法令的人、工會人脈",
+        "seq": 3
+      },
+      {
+        "time": "15:00",
+        "presenter": "hanteng",
+        "topic": "國家/語言選擇器：有一致排序的實現方案",
+        "project": "國家/語言選擇器：有一致排序的實現方案",
+        "hackmd": "https://g0v.hackpad.com/-Country-Language-Selectors-557poKLD3EG",
+        "slides": "https://github.com/hanteng/country-selector",
+        "license": "MIT",
+        "brief": "國家代碼、國家名稱、語言介面",
+        "manpower": "使用者批評、UI設計師、介面國際化與在地化",
+        "seq": 4
+      },
+      {
+        "time": "15:08",
+        "presenter": "YuTin",
+        "topic": "如何把坑挖好？",
+        "project": "如何把坑挖好？",
+        "hackmd": "https://g0v.hackpad.com/UIUX-GqBDGaVeZj5",
+        "slides": "https://www.icloud.com/keynote/0004K1p54j-6hMIIxhFDpZKFA#g0v%5Fdesign",
+        "license": "CC-BY 4.0",
+        "brief": "UI/UX",
+        "seq": 5
+      }
+    ],
+    "reports": [
+      {
+        "time": "17:00",
+        "presenter": "a0kman",
+        "topic": "超農域--醫農",
+        "project": "超農域--醫農",
+        "hackmd": "https://g0v.hackpad.com/--8O5yt2XfygI",
+        "slides": "https://106.187.101.193:8888/#/?_k=uapy1y",
+        "license": "CC-BY 4.0",
+        "brief": "農業、疫情、診斷",
+        "manpower": "徵求前端、UI",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "陳瑞賓",
+        "topic": "WaterGo！免費飲用水地圖",
+        "project": "WaterGo！免費飲用水地圖",
+        "hackmd": "http://beta.hackfoldr.org/drinking-water/BAdDl4G9uXM",
+        "license": "全部公開",
+        "seq": 2
+      },
+      {
+        "time": "17:10",
+        "presenter": "阿石",
+        "topic": "g0v-tw.padagraph.io",
+        "project": "g0v-tw.padagraph.io",
+        "hackmd": "https://github.com/g0v/g0vHackpads2PadagraphIO",
+        "license": "MIT / CC-BY 4.0",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "子龍",
+        "topic": "g0v官網基礎建設",
+        "project": "g0v官網基礎建設",
+        "hackmd": "https://g0v.hackpad.com/G0V-UI-Mb2yoaVY378",
+        "license": "BSD",
+        "brief": "基礎建設、UI",
+        "manpower": "徵眾人許願",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "clkao",
+        "topic": "g0v project hub",
+        "project": "g0v project hub",
+        "hackmd": "https://g0v.hackpad.com/projecthub-redux-9U6DLtdZc48",
+        "license": "MIT / CC-BY 4.0",
+        "brief": "基礎建設、人坑介面",
+        "seq": 5
+      },
+      {
+        "time": "17:25",
+        "presenter": "jme",
+        "topic": "g0v issues tracker",
+        "project": "g0v issues tracker",
+        "hackmd": "https://g0v.hackpad.com/g0v-issue-tracker-iZZmyUdY57c",
+        "license": "MIT / CC-BY 4.0",
+        "brief": "基礎建設",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "charlie, Ymow",
+        "topic": "共識預煮 & 意見蒐集介面",
+        "project": "共識預煮 & 意見蒐集介面",
+        "hackmd": "https://g0v.hackpad.com/precooksensus#-precooksensus",
+        "slides": "http://bit.ly/precook",
+        "license": "CC BY 4.0",
+        "brief": "公共參與、社會共識、共同意見",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "ddio",
+        "topic": "Debater",
+        "project": "Debater",
+        "hackmd": "https://g0v.hackpad.com/Debater--vjeJIZ8onSY#:h=%E7%9B%AE%E5%89%8D%E6%88%90%E6%9E%9C",
+        "license": "MIT / CC0",
+        "brief": "網路、筆戰、整理",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "weiting",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "hackmd": "https://g0v.hackpad.com/Unconf-g0v-Summit-2016-tqNoHrM5xQc",
+        "slides": "https://amis.moedict.tw/#:tafa'",
+        "license": "CC-BY",
+        "brief": "萌典、阿美語、原住民",
+        "manpower": "徵求前端、文字工、對萌典熟的工程師",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "蔡文嘉",
+        "topic": "itaigi",
+        "project": "itaigi",
+        "license": "MIT / CC-BY 4.0",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "Hsiao",
+        "topic": "g0v FB 資料視覺化",
+        "project": "g0v FB 資料視覺化",
+        "hackmd": "https://public.tableau.com/profile/hsiao2778#!/vizhome/g0v_FB_visualization_0618_0/g0v",
+        "slides": "https://public.tableau.com/profile/publish/g0v_FB_visualization_0618/g0v_1#!/publish-confirm",
+        "license": "CC BY 4.0",
+        "brief": "g0v",
+        "seq": 11
+      }
+    ]
+  },
   "g0v-hackath20n": {
     "id": "g0v-hackath20n",
     "num": 20,
@@ -2215,6 +5803,365 @@
         "hackmd": "https://g0v.hackpad.com/L4KNanSM67U",
         "slides": "https://g0v.github.io/npratio/",
         "license": "CC BY 4.0",
+        "seq": 12
+      }
+    ]
+  },
+  "g0v-hackath21n": {
+    "id": "g0v-hackath21n",
+    "num": 21,
+    "date": "2016-10-15",
+    "name": "根留台灣黑客松",
+    "proposals_count": 16,
+    "lightning_count": 6,
+    "reports_count": 12,
+    "proposals": [
+      {
+        "time": "9:40",
+        "presenter": "au",
+        "topic": "Hackfoldr @ PDIS.tw",
+        "project": "Hackfoldr @ PDIS.tw",
+        "hackmd": "https://github.com/PDIS/web/issues/1",
+        "slides": "http://www.slideshare.net/autang/hackfoldr-pdistw",
+        "license": "CC0",
+        "brief": "公務員、數位創新、共筆空間",
+        "manpower": "logo 設計, 公務系統規劃, hackfoldr 協作",
+        "seq": 1
+      },
+      {
+        "time": "9:43",
+        "presenter": "chewei",
+        "topic": "開放都市計畫-南港區都市計畫通盤檢討",
+        "project": "開放都市計畫-南港區都市計畫通盤檢討",
+        "hackmd": "https://g0v.hackpad.com/--hzxdTtdG3QU",
+        "slides": "https://goo.gl/LpHLpY",
+        "license": "CC BY 4.0",
+        "brief": "都市計畫, 南港, 書圖資料",
+        "manpower": "txt, 資料視覺化, 南港生活者",
+        "seq": 2
+      },
+      {
+        "time": "9:46",
+        "presenter": "tkirby",
+        "topic": "g0v Project Hub",
+        "project": "g0v Project Hub",
+        "hackmd": "https://hackmd.io/EYDgzAbArALAxgJgLQFMAMMZJlCEkCGBKcSYCUcAJsFVQJxxwpA=",
+        "slides": "http://github.com/g0v-data/registry",
+        "license": "MIT",
+        "brief": "基礎建設, 人坑松, 協作",
+        "manpower": "txt, designer, developer",
+        "seq": 3
+      },
+      {
+        "time": "9:49",
+        "presenter": "雨蒼",
+        "topic": "你想要怎樣的黨產資料網站？",
+        "project": "你想要怎樣的黨產資料網站？",
+        "hackmd": "https://g0v.hackpad.com/xpvderSMBSU",
+        "slides": "https://docs.google.com/presentation/d/1dIzsSvniD8vh9j6jYRuAwX6yCwqnfSb3ZuST4WAzv-A/pub?start=false&loop=false&delayms=3000",
+        "license": "政府資料開放授權條款",
+        "brief": "API、資料集",
+        "manpower": "網站架構、資料視覺化、介面設計師",
+        "seq": 4
+      },
+      {
+        "time": "9:52",
+        "presenter": "clkao",
+        "topic": "g0v Budget Reboot",
+        "project": "g0v Budget Reboot",
+        "hackmd": "http://beta.hackfoldr.org/open-budget",
+        "license": "MIT",
+        "manpower": "會計, 前端",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "偉尼基",
+        "topic": "第一次參與式預算就苦手-舊莊茶點燃計畫",
+        "project": "第一次參與式預算就苦手-舊莊茶點燃計畫",
+        "hackmd": "http://ngdo.gov.taipei/public/Attachment/67251713036.pdf",
+        "slides": "https://goo.gl/Tf6OI2",
+        "license": "CC BY 4.0",
+        "brief": "參與式預算、社區營造、產業再生",
+        "manpower": "設計，社區營造經驗，文字類人員",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "蕭A",
+        "topic": "散落在世界的國家寶藏",
+        "project": "散落在世界的國家寶藏",
+        "hackmd": "https://g0vus.hackpad.com/G0VNYC--LHg8jvQVJIj",
+        "license": "MIT",
+        "seq": 1
+      },
+      {
+        "time": "10:01",
+        "presenter": "魚凱",
+        "topic": "公務之聲",
+        "project": "公務之聲",
+        "hackmd": "https://hackpad.com/8B8dlXJSNax",
+        "slides": "https://youtu.be/tAx645Bx5AU",
+        "license": "CC BY 4.0",
+        "brief": "公務員、想想公僕、由下而上改造政府",
+        "manpower": "1.願意接受需求訪談的公務員\n2.幫忙釐清要開發出什麼東西才合用的大大\n3.再依要開發出什麼東西來徵技術高手",
+        "seq": 8
+      },
+      {
+        "time": "10:04",
+        "presenter": "Hank",
+        "topic": "愛台語 itaigi.tw",
+        "project": "愛台語 itaigi.tw",
+        "hackmd": "https://g0v.hackpad.com/moed7ct-taigi-neologism#iTaigi-",
+        "slides": "http://itaigi.tw/",
+        "license": "MIT",
+        "brief": "台語, 辭典, 自己編",
+        "manpower": "前端, 網站宣傳, 貢獻講法",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "書漾",
+        "topic": "vTaiwan 改版",
+        "project": "vTaiwan 改版",
+        "hackmd": "https://g0v.hackpad.com/H2QhNRFVMOw",
+        "slides": "https://github.com/g0v/vue.vtaiwan.tw",
+        "license": "CC BY 4.0",
+        "brief": "vTaiwan、網站、改版",
+        "seq": 10
+      },
+      {
+        "time": "10:10",
+        "presenter": "黃郁仁",
+        "topic": "臺灣百景消逝",
+        "project": "臺灣百景消逝",
+        "hackmd": "https://g0v.hackpad.com/MybKptjGvDL",
+        "slides": "https://docs.google.com/presentation/d/1iKW4JMIXptfE50Dk8oenCLg6_0kcYYKXIxXxtaVrEdE/edit#slide=id.p35",
+        "brief": "文化資產、鍵盤參與、百景消逝",
+        "manpower": "我覺得我好像什麼都不會QQ",
+        "seq": 11
+      },
+      {
+        "time": "10:13",
+        "presenter": "MrOrz / johnson",
+        "topic": "真的假的 Line bot",
+        "project": "真的假的 Line bot",
+        "hackmd": "http://beta.hackfoldr.org/rumors",
+        "slides": "https://github.com/MrOrz/rumors-line-bot",
+        "license": "MIT",
+        "brief": "Line, 謠言, lmgtfy",
+        "manpower": "文案、NLP",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "Bobby Tung",
+        "topic": "Emoji再來一次之送素還真進Unicode",
+        "project": "Emoji再來一次之送素還真進Unicode",
+        "hackmd": "https://g0v.hackpad.com/Emoji-YPkxkHyGz97",
+        "slides": "https://docs.google.com/spreadsheets/d/1GHA0iy-OJsQ9BBiJXtffkCLjFbScYyVffrzQvmGs-wk/edit#gid=0",
+        "license": "CC0",
+        "brief": "Unicode, Emoji, Culture",
+        "manpower": "插畫 / 英語專長 / 耐煩者",
+        "seq": 13
+      },
+      {
+        "time": "10:19",
+        "presenter": "Y.D. Lin",
+        "topic": "看見思法 - 屬於人民的司法視覺資料庫",
+        "project": "看見思法 - 屬於人民的司法視覺資料庫",
+        "hackmd": "https://g0v.hackpad.com/--LHL3rG6YM5F",
+        "slides": "https://docs.google.com/spreadsheets/d/1dN04G0y3tZwBBiindOUL_hy5W8ZsQ4FCrFflRtfr8Os/edit#gid=0",
+        "license": "CC0",
+        "brief": "看見思法、特偵組、PyCon",
+        "manpower": "資料收集",
+        "seq": 14
+      },
+      {
+        "time": "10:22",
+        "presenter": "吳政璋",
+        "topic": "鄉民風水師",
+        "project": "鄉民風水師",
+        "hackmd": "https://g0v.hackpad.com/-0.1.0-for-Android-0zZtHOsh7DJ",
+        "slides": "https://play.google.com/store/apps/details?id=tacoball.com.geomancer",
+        "license": "GPL 3.0",
+        "brief": "勞基法、凶宅、開放街圖",
+        "manpower": "美術、試算表 (LibreOffice Calc)",
+        "seq": 15
+      },
+      {
+        "time": "10：25",
+        "presenter": "蔡念儒",
+        "topic": "原住民數位博物館網站大改造",
+        "project": "原住民數位博物館網站大改造",
+        "hackmd": "https://g0v.hackpad.com/ezmmu2aN5oD",
+        "slides": "http://www.dmtip.gov.tw/",
+        "brief": "原住民、資料開放、文化資源",
+        "manpower": "網站架構、資料庫、資料視覺化、原住民文化興趣者、博物館興趣者",
+        "seq": 16
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "14:30",
+        "presenter": "YuTin",
+        "topic": "GraphQL",
+        "project": "GraphQL",
+        "hackmd": "http://graphql.org/",
+        "slides": "https://github.com/g0v/hub",
+        "license": "BSD",
+        "brief": "data query",
+        "seq": 1
+      },
+      {
+        "time": "14:40",
+        "presenter": "蕭A",
+        "topic": "g0v 紐約社群",
+        "project": "g0v 紐約社群",
+        "hackmd": "https://www.facebook.com/g0vus/",
+        "brief": "New York, g0v, hackathon",
+        "seq": 2
+      },
+      {
+        "time": "14:50",
+        "presenter": "tkirby",
+        "topic": "Hacks Hackers Taipei",
+        "project": "Hacks Hackers Taipei",
+        "hackmd": "http://hackshackers.taipei",
+        "brief": "journalism,technology,innovation",
+        "seq": 3
+      },
+      {
+        "time": "15:00",
+        "presenter": "ipa",
+        "topic": "g0v jothon Prototype Grant",
+        "project": "g0v jothon Prototype Grant",
+        "hackmd": "https://docs.google.com/document/d/1IbCEQbV-hR6o4e984XUXtxotIJoaDFsW-wuTSEUpdUs/edit",
+        "brief": "g0v, open source, grant",
+        "seq": 4
+      },
+      {
+        "time": "特別加映",
+        "presenter": "Max Ogden",
+        "topic": "TBD",
+        "project": "TBD",
+        "seq": 2
+      }
+    ],
+    "reports": [
+      {
+        "time": "17:00",
+        "presenter": "Julia",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "MrOrz",
+        "topic": "真的假的 Line bot",
+        "project": "真的假的 Line bot",
+        "hackmd": "http://beta.hackfoldr.org/rumors",
+        "slides": "http://beta.hackfoldr.org/rumors",
+        "license": "MIT",
+        "seq": 2
+      },
+      {
+        "time": "17:10",
+        "presenter": "YuTin",
+        "topic": "hello! g0ver",
+        "project": "hello! g0ver",
+        "slides": "https://github.com/g0v/slack-bot",
+        "license": "MIT",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "Fumi",
+        "topic": "立委咖電喂",
+        "project": "立委咖電喂",
+        "hackmd": "http://beta.hackfoldr.org/callliwei",
+        "slides": "http://callliwei.hopto.org/",
+        "license": "CC By 4.0",
+        "brief": "立委聯繫資料",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "mg",
+        "topic": "臺灣原住民數位博物館",
+        "project": "臺灣原住民數位博物館",
+        "hackmd": "https://g0v.hackpad.com/ezmmu2aN5oD",
+        "license": "CC By 4.0",
+        "seq": 5
+      },
+      {
+        "time": "17:25",
+        "presenter": "cellvin",
+        "topic": "國家寶藏",
+        "project": "國家寶藏",
+        "hackmd": "https://g0vus.hackpad.com/LHg8jvQVJIj",
+        "license": "MIT",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "chewei",
+        "topic": "通檢讀書心得與空地改造行動",
+        "project": "通檢讀書心得與空地改造行動",
+        "slides": "https://goo.gl/LpHLpY",
+        "license": "CC By 4.0",
+        "brief": "都市計畫、公有地",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "Hank",
+        "topic": "愛台語 itaigi.tw",
+        "project": "愛台語 itaigi.tw",
+        "hackmd": "https://g0v.hackpad.com/moed7ct-taigi-neologism#iTaigi-",
+        "slides": "http://itaigi.tw/",
+        "license": "MIT",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "clkao",
+        "topic": "g0v Budget Reboot",
+        "project": "g0v Budget Reboot",
+        "hackmd": "http://beta.hackfoldr.org/open-budget",
+        "license": "MIT",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "書漾 (Shu)",
+        "topic": "vTaiwan改版",
+        "project": "vTaiwan改版",
+        "hackmd": "https://g0v.hackpad.com/ep/profile/vuj5N8pV6UZ",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "ttcat",
+        "topic": "hack.g0v.tw 捐款頁統整",
+        "project": "hack.g0v.tw 捐款頁統整",
+        "seq": 11
+      },
+      {
+        "time": "17:55",
+        "presenter": "tkirby",
+        "topic": "g0v project hub",
+        "project": "g0v project hub",
+        "hackmd": "https://hackmd.io/EYDgzAbArALAxgJgLQFMAMMZJlCEkCGBKcSYCUcAJsFVQJxxwpA=?both",
+        "license": "MIT",
         "seq": 12
       }
     ]
@@ -6067,6 +10014,391 @@
       }
     ]
   },
+  "g0v-hackath33n": {
+    "id": "g0v-hackath33n",
+    "num": 33,
+    "date": "2019-03-09",
+    "name": "不顧北京反對___黑客松",
+    "proposals_count": 16,
+    "lightning_count": 8,
+    "reports_count": 12,
+    "proposals": [
+      {
+        "time": "9:40",
+        "presenter": "poga",
+        "topic": "g0v.social ActivityPub 轉檔",
+        "project": "g0v.social ActivityPub 轉檔",
+        "hackmd": "https://g0v.hackmd.io/OZkYrTx6RZy4bkvjNvJ9DQ",
+        "slides": "https://docs.google.com/presentation/d/1txyAaGYs7XuhTkIu87TGZoggxkmdw2FZmJHK8kQAWx0/edit?usp=sharing",
+        "license": "MIT",
+        "brief": "聯邦式社群網路、去中心化",
+        "seq": 1
+      },
+      {
+        "time": "9:43",
+        "presenter": "雨蒼",
+        "topic": "立法院爬蟲/白色恐怖分享會/總統盃黑客松",
+        "project": "立法院爬蟲/白色恐怖分享會/總統盃黑客松",
+        "slides": "https://docs.google.com/presentation/d/1xawlpDCASsJog7IO56QGcIvom3OlE1-0uVGXTXnHz_A/edit",
+        "license": "CC-BY",
+        "seq": 2
+      },
+      {
+        "time": "9:46",
+        "presenter": "Irvin",
+        "topic": "Mozilla Common Voice 語音資料庫收集",
+        "project": "Mozilla Common Voice 語音資料庫收集",
+        "hackmd": "https://moztw.hackpad.tw/Common-Voice-g0v33",
+        "slides": "https://voice.mozilla.org/zh-TW/datasets",
+        "license": "CC0",
+        "brief": "語言、語音辨識、句庫",
+        "manpower": "1. 語言學 2. AI 背景 (deep speech or voice recognize) \n3. 對語音庫運用有興趣 (語音合成 or other)\n4.想推動台語 / 其他本地語言語音收集 (整理 CC0 無版權句庫)",
+        "seq": 3
+      },
+      {
+        "time": "9:49",
+        "presenter": "Ronny",
+        "topic": "廢文編碼器",
+        "project": "廢文編碼器",
+        "hackmd": "https://g0v.hackmd.io/6lNfj-VeQYCW9dvKqG0SGQ",
+        "slides": "https://www.paddingleft.com/junk-encoder/",
+        "license": "MIT",
+        "brief": "反監控、言論自由",
+        "manpower": "熟編碼解碼或加密的人",
+        "seq": 4
+      },
+      {
+        "time": "9:52",
+        "presenter": "Michael_LI",
+        "topic": "假新聞的主題：籌辦演講會／大松來玩桌遊《抓誑新聞》",
+        "project": "假新聞的主題：籌辦演講會／大松來玩桌遊《抓誑新聞》",
+        "hackmd": "https://hackmd.io/s/H10h63AIE#",
+        "license": "演講錄影 CC ?",
+        "brief": "對付假新聞、",
+        "manpower": "痛恨假新聞、幫助籌備演講會、推廣演講錄影",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "小蟹",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "hackmd": "https://github.com/g0v/amis-moedict",
+        "slides": "https://amis.moedict.tw/",
+        "license": "CC0 1.0",
+        "brief": "阿美語、台灣原住民語與南島語、台灣原住民族文化",
+        "manpower": "前端工程師",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "李紫彤",
+        "topic": "ARThon",
+        "project": "ARThon",
+        "brief": "藝術家、",
+        "seq": 7
+      },
+      {
+        "time": "10:01",
+        "presenter": "Lilian / 老蕭 / Sam",
+        "topic": "PTT.ai",
+        "project": "PTT.ai",
+        "hackmd": "https://github.com/ailabstw/go-pttai",
+        "slides": "https://docs.google.com/presentation/d/14vC8ccA268Mjxg99kSntJKZ-X-zpPryORKqjm9o10Aw/edit#slide=id.g51f3293549_0_160",
+        "license": "GPL v3",
+        "brief": "資料自決、去中心化、社群",
+        "manpower": "golang, p2p, distributed system, frontend",
+        "seq": 8
+      },
+      {
+        "time": "10:04",
+        "presenter": "Eddie",
+        "topic": "政府機關回饋平台",
+        "project": "政府機關回饋平台",
+        "hackmd": "https://github.com/agameofprivacy/gov-feedback",
+        "slides": "https://gov-feedback-web.appspot.com",
+        "license": "MIT",
+        "brief": "開放資料、意見信箱、接地氣",
+        "manpower": "redux, react, mongodb, graphql, 專案管理",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "fly",
+        "topic": "g0vhub - g0v 專案語音助理",
+        "project": "g0vhub - g0v 專案語音助理",
+        "hackmd": "https://heysiri.dev",
+        "slides": "https://hackmd.io/nzEPoia-RfKfMEk7nk3dVw?both#Heysiridev",
+        "license": "程式 MIT\n文字 CC0",
+        "brief": "語音助理、轉址、愛吸蕊",
+        "manpower": "介面美化、整合更多實用服務、效能調教",
+        "seq": 10
+      },
+      {
+        "time": "10:10",
+        "presenter": "ivy",
+        "topic": "Zero waste taiwan 台灣零廢棄平台",
+        "project": "Zero waste taiwan 台灣零廢棄平台",
+        "hackmd": "https://hackfoldr.org/zero-waste-taiwan/",
+        "slides": "https://hackfoldr.org/zero-waste-taiwan/JO0YNbhfKjE",
+        "license": "程式 圖文 CC-BY-SA",
+        "brief": "地圖、環保、資源循環",
+        "manpower": "專案發想、環境教育工作者",
+        "seq": 11
+      },
+      {
+        "time": "10:13",
+        "presenter": "MrOrz",
+        "topic": "Cofacts 真的假的 ＆ 我愛家我解惑 資料庫",
+        "project": "Cofacts 真的假的 ＆ 我愛家我解惑 資料庫",
+        "license": "兩個專案均為：\n程式 MIT\n文字 CC0",
+        "brief": "群眾協作、闢謠、婚姻平權",
+        "manpower": "願意回應網路訊息的人、熟悉法律 / 婚姻平權相關法律的人",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "chewei",
+        "topic": "地號轉地圖 Land No. Mapper",
+        "project": "地號轉地圖 Land No. Mapper",
+        "hackmd": "https://g0v.hackmd.io/uFhBRHrnR-yvvFD4ZEn3XA",
+        "slides": "https://docs.google.com/presentation/d/17zoTSPLiG9wZITZkjMXuCD3y14KWRCc78PrCKBSq8fk/edit#slide=id.ga10b939f6_0_26",
+        "brief": "地號、地圖、工具",
+        "manpower": "工具開發、Mockup、地號使用者",
+        "seq": 13
+      },
+      {
+        "time": "10:19",
+        "presenter": "HY Hsu / SSivart",
+        "topic": "選服透明化",
+        "project": "選服透明化",
+        "hackmd": "https://github.com/FroggyTaipei/froggy-service",
+        "slides": "https://service.froggychiu.com",
+        "license": "程式 AGPL v3\n圖文 CC0 1.0\n資料 CC BY 4.0",
+        "brief": "推坑、選民服務、公開透明",
+        "manpower": "專案發想、工程師",
+        "seq": 14
+      },
+      {
+        "time": "10:22",
+        "presenter": "Lora",
+        "topic": "g0v 專案資料庫補完計畫",
+        "project": "g0v 專案資料庫補完計畫",
+        "hackmd": "https://g0v.hackmd.io/EpU0aJihRfqPoCkdj67UEQ",
+        "slides": "https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit#gid=1563040282",
+        "brief": "填坑、爬API、資料整理",
+        "manpower": "爬 youtube API、資料整理",
+        "seq": 15
+      },
+      {
+        "time": "10:25",
+        "presenter": "pm5",
+        "topic": "g0v-intl、沖繩黑客松",
+        "project": "g0v-intl、沖繩黑客松",
+        "hackmd": "https://g0v.hackmd.io/3OIQMwCyT_iOl64y8otFMg#",
+        "slides": "https://pm5.github.io/talks/2019-03-09-g0v-intl/",
+        "license": "CC BY 4.0",
+        "brief": "國際交流、沖繩",
+        "seq": 16
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "14:30",
+        "presenter": "曾偉誠",
+        "topic": "2019 g0v 獎助金獲獎團隊：農業災損幾多錢",
+        "project": "2019 g0v 獎助金獲獎團隊：農業災損幾多錢",
+        "slides": "https://drive.google.com/file/d/1yKE-C2BaseOmnV3R7WWibJRPsCPptGIn/view?usp=sharing",
+        "brief": "無人機,農業災損,影像分析",
+        "seq": 1
+      },
+      {
+        "time": "14:35",
+        "presenter": "Scott Chen",
+        "topic": "2019 g0v 獎助金獲獎團隊：台灣開源義肢計劃",
+        "project": "2019 g0v 獎助金獲獎團隊：台灣開源義肢計劃",
+        "hackmd": "https://drive.google.com/drive/folders/10vCvwHYpwG5IEIZs6bdop2dcc7al00UY",
+        "slides": "https://sites.google.com/view/twgodhand",
+        "brief": "bionics,開源,義肢",
+        "manpower": "調整參數 app工程師",
+        "seq": 2
+      },
+      {
+        "time": "14:40",
+        "presenter": "田君陽",
+        "topic": "2019 g0v 獎助金獲獎團隊：金流百科",
+        "project": "2019 g0v 獎助金獲獎團隊：金流百科",
+        "hackmd": "https://hackmd.io/4pyaJBQNSouvvtjdMbiuKQ?both",
+        "slides": "https://docs.google.com/presentation/d/126sVEA0O4WZ1oDhYIoTI4mm60hzk8y4XcIySPYGXcYE/edit?usp=sharing",
+        "brief": "政獻、標案、金流",
+        "seq": 3
+      },
+      {
+        "time": "14:45",
+        "presenter": "高任翔",
+        "topic": "2019 g0v 獎助金獲獎團隊：大河小溪全民齊督工",
+        "project": "2019 g0v 獎助金獲獎團隊：大河小溪全民齊督工",
+        "hackmd": "https://hackmd.io/s/HJ4ejcR8E#",
+        "slides": "https://drive.google.com/file/d/105AOZ5E8VAjNBQcEXDDsWnJDPjxDoS2I/view?usp=sharing",
+        "seq": 4
+      },
+      {
+        "time": "14:50",
+        "presenter": "張淑貞",
+        "topic": "2019 g0v 獎助金獲獎團隊：資料申請小幫手",
+        "project": "2019 g0v 獎助金獲獎團隊：資料申請小幫手",
+        "hackmd": "https://beta.hackfoldr.org/opengovdata/https%253A%252F%252Fhackpad.tw%252Fv4htasilFZK",
+        "slides": "https://docs.google.com/presentation/d/1yNRjadvWYBsVOgRnoMDH8vGOSv0-aJ88YE5Zy1em7h0/edit#slide=id.g5067275c6d_0_92",
+        "brief": "opendata, 文字分析, 網站",
+        "manpower": "文字分析, 網站, 開放資料申覆",
+        "seq": 5
+      },
+      {
+        "time": "14:55",
+        "presenter": "魏伯任",
+        "topic": "議題分享：（313就要環評大會的）淡水河北側平面道路",
+        "project": "議題分享：（313就要環評大會的）淡水河北側平面道路",
+        "hackmd": "https://hackmd.io/V9iGREz-TJCXMY6SECkcyw",
+        "slides": "https://docs.google.com/presentation/d/1BOcqqdWogKX63cb1vMqOZHLYXtXfAmBBKBA4XCB9H_w/edit?usp=sharing",
+        "brief": "交通、環境、城市",
+        "seq": 6
+      },
+      {
+        "time": "15:03",
+        "presenter": "bil/比鄰",
+        "topic": "嗨我沒上啊",
+        "project": "嗨我沒上啊",
+        "slides": "https://docs.google.com/presentation/d/1a8FvYWeL8BuU1eAb-xarAwBmTeWk538xUR_ce_LXvs4/edit#slide=id.p",
+        "brief": "pfp, NGO, 交換",
+        "seq": 7
+      }
+    ],
+    "reports": [
+      {
+        "time": "17:00",
+        "presenter": "雨蒼",
+        "topic": "新一代健保憑證協作會議",
+        "project": "新一代健保憑證協作會議",
+        "hackmd": "https://docs.google.com/presentation/d/1DsKV30qQPrfebdZTrerayex_-CN6o9vO7QPz_Jey0-0/edit",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "小蟹",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "hackmd": "https://github.com/g0v/amis-moedict",
+        "slides": "https://amis.moedict.tw/",
+        "license": "CC0 1.0",
+        "brief": "阿美語、台灣原住民語與南島語、台灣原住民族文化",
+        "manpower": "前端工程師",
+        "seq": 3
+      },
+      {
+        "time": "17:10",
+        "presenter": "紫彤",
+        "topic": "ARThon",
+        "project": "ARThon",
+        "seq": 2
+      },
+      {
+        "time": "17:15",
+        "presenter": "Ronny",
+        "topic": "廢文編碼器",
+        "project": "廢文編碼器",
+        "license": "MIT",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "Michael_LI",
+        "topic": "假新聞與媒體素養的社會教育",
+        "project": "假新聞與媒體素養的社會教育",
+        "hackmd": "https://hackmd.io/xKxQdm4bQrGr8Ib9inZtRw",
+        "seq": 5
+      },
+      {
+        "time": "17:25",
+        "presenter": "許赫",
+        "topic": "老老相伴說故事聚會社群化",
+        "project": "老老相伴說故事聚會社群化",
+        "hackmd": "https://docs.google.com/presentation/d/1ECp91S05phT4z6JdKoQC11QoT9Id0qb4sbHE2gJzGTM/edit?fbclid=IwAR2Zo2U87z09H4FWbaNhNyiO3IdCE4S5Uwn94aoPKJO5hrk6HYPLMNq8RbQ#slide=id.g46a2e5c3b7_0_60",
+        "slides": "https://docs.google.com/presentation/d/1ECp91S05phT4z6JdKoQC11QoT9Id0qb4sbHE2gJzGTM/edit?fbclid=IwAR2Zo2U87z09H4FWbaNhNyiO3IdCE4S5Uwn94aoPKJO5hrk6HYPLMNq8RbQ#slide=id.g46a2e5c3b7_0_60",
+        "license": "cc",
+        "brief": "初老、老老相伴、說故事",
+        "manpower": "社群經營",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "Hal Seki\n(chihao)",
+        "topic": "Code for Japan Summit 2019: Spark Joy",
+        "project": "Code for Japan Summit 2019: Spark Joy",
+        "hackmd": "https://drive.google.com/file/d/1PpNcGV-TFFwBtoX4EICgBFSOQIDvztia/view?fbclid=IwAR05sCO9oVghi5IC2nnWHCe9w5ulMFgoXU3T_6BCLLPIn6d7xTfia6CZMW4",
+        "slides": "https://docs.google.com/presentation/d/108QsoxbM8nlCv4OBFQMsUbrSG-xTaD2181Ta82abb6s/edit?fbclid=IwAR05sCO9oVghi5IC2nnWHCe9w5ulMFgoXU3T_6BCLLPIn6d7xTfia6CZMW4#slide=id.p",
+        "license": "cc-by",
+        "brief": "國際交流、C4J、日本",
+        "manpower": "專案發表",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "Irvin",
+        "topic": "Common Voice",
+        "project": "Common Voice",
+        "hackmd": "https://moztw.hackpad.tw/Common-Voice-g0v33",
+        "license": "cc0",
+        "brief": "語音、句庫、語言學",
+        "manpower": "缺人整理句子\n缺人計算中文語音辨識需要多少資料\n缺人錄音，一人來錄個兩百句吧！ > voice.mozilla.org",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "chihao",
+        "topic": "g0v-intl 第一坑：沖繩黑客松",
+        "project": "g0v-intl 第一坑：沖繩黑客松",
+        "hackmd": "https://g0v.hackmd.io/FyvU-oD-SS-rF_7_oOF2Ig",
+        "brief": "國際交流、沖繩",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "mrorz",
+        "topic": "Cofacts 真的假的 ＆ 我愛家我解惑 資料庫",
+        "project": "Cofacts 真的假的 ＆ 我愛家我解惑 資料庫",
+        "license": "兩個專案均為：\n程式 MIT\n文字 CC0",
+        "brief": "群眾協作、闢謠、婚姻平權",
+        "manpower": "願意回應網路訊息的人、熟悉法律 / 婚姻平權相關法律的人",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "fly",
+        "topic": "Oops! siri",
+        "project": "Oops! siri",
+        "slides": "https://heysiri.dev",
+        "license": "MIT",
+        "brief": "聊天機器人、轉址、專案整合",
+        "seq": 11
+      },
+      {
+        "time": "17:55",
+        "presenter": "英勛",
+        "topic": "資料申請小幫手",
+        "project": "資料申請小幫手",
+        "seq": 12
+      }
+    ]
+  },
   "g0v-hackath34n": {
     "id": "g0v-hackath34n",
     "num": 34,
@@ -8810,6 +13142,228 @@
         "project": "會後問卷填寫",
         "hackmd": "https://bit.ly/0123g0vsurvey",
         "license": "CC BY 4.0",
+        "seq": 12
+      }
+    ]
+  },
+  "g0v-hackath45n": {
+    "id": "g0v-hackath45n",
+    "num": 45,
+    "date": "2021-08-21",
+    "name": "g0v hackath45n｜",
+    "proposals_count": 10,
+    "lightning_count": 4,
+    "reports_count": 5,
+    "proposals": [
+      {
+        "time": "10:30",
+        "presenter": "Viola",
+        "topic": "這樣說不行喔!小美眉-性別科普BOT",
+        "project": "這樣說不行喔!小美眉-性別科普BOT",
+        "hackmd": "https://g0v.hackmd.io/4GbILP7PSKWKzOpFl-DSJw?both",
+        "slides": "https://drive.google.com/file/d/1K81KiYPw7kJZGBdKItk-oHrWBDSLIEvy/view?usp=sharing",
+        "license": "CC BY NC-SA",
+        "brief": "開源、性別平等、趣味打太極",
+        "manpower": "誠徵:\n1.對建置資料庫及客製化Line bot有經驗的工程師\n2.協助增加性別歧視語句/關鍵字/回應\n3.群眾募資行銷人才\n4.插圖達人(要來做LINE貼圖)",
+        "seq": 1
+      },
+      {
+        "time": "10:33",
+        "presenter": "昭岑",
+        "topic": "邀您一起來定位",
+        "project": "邀您一起來定位",
+        "slides": "https://photo.swcb.gov.tw/Repository/TimeLine",
+        "license": "CC-BY-SA 4.0",
+        "brief": "歷史影像平台、定位影像、開始定位",
+        "manpower": "只要是人?",
+        "seq": 2
+      },
+      {
+        "time": "10:36",
+        "presenter": "Wikimedia Taiwan-Allen",
+        "topic": "為圖片找個家 WPWP2021 編輯松",
+        "project": "為圖片找個家 WPWP2021 編輯松",
+        "hackmd": "https://hackmd.io/ukav7QiqTI-LgR6bsQ7-8g",
+        "slides": "https://zh.wikipedia.org/wiki/Wikipedia:2021%E7%82%BA%E5%9C%96%E7%89%87%E6%89%BE%E5%80%8B%E5%AE%B6%E7%B7%A8%E8%BC%AF%E6%9D%BE",
+        "license": "CC-BY-SA",
+        "brief": "維基百科、圖片說明、媒體應用",
+        "manpower": "文書、資料彙整",
+        "seq": 3
+      },
+      {
+        "time": "10:39",
+        "presenter": "bil,MrOrz",
+        "topic": "Cofacts 真的假的",
+        "project": "Cofacts 真的假的",
+        "hackmd": "https://cofacts.tw/hack",
+        "slides": "https://cofacts.tw/",
+        "license": "MIT / CC BY-SA 4.0",
+        "brief": "crowd sourcing, fact-checking, chatbot",
+        "manpower": "Node.js, React.js engineers, 會上網google、討厭假訊息的人",
+        "seq": 4
+      },
+      {
+        "time": "10:42",
+        "presenter": "John",
+        "topic": "ARAY 公民科技貢獻者的專案與任務視覺化平台",
+        "project": "ARAY 公民科技貢獻者的專案與任務視覺化平台",
+        "hackmd": "https://g0v.hackmd.io/vJ7_irbLRQGMYF29C9mZGA",
+        "slides": "https://tst.aray.g0v.dev/",
+        "license": "CC-BY 4.0",
+        "brief": "g0v基礎建設, 專案搜尋, 人才搜尋",
+        "manpower": "幫忙測試,  UI/UX, ReactJS前端",
+        "seq": 5
+      },
+      {
+        "time": "10:45",
+        "presenter": "ddio",
+        "topic": "分享一則租屋甘苦談吧！ - 租屋者經驗徵集",
+        "project": "分享一則租屋甘苦談吧！ - 租屋者經驗徵集",
+        "hackmd": "https://g0v.hackmd.io/@ddio/r1J4Ietgt",
+        "slides": "https://g0v.hackmd.io/@ddio/corent",
+        "license": "CC-BY 4.0",
+        "brief": "Rentea 合作租屋 城市居住",
+        "manpower": "租屋者、想要裝修的人",
+        "seq": 6
+      },
+      {
+        "time": "10:48",
+        "presenter": "Ken",
+        "topic": "批踢踢不能亡 - Android APP 子專案現況",
+        "project": "批踢踢不能亡 - Android APP 子專案現況",
+        "slides": "https://docs.google.com/presentation/d/1ESv0Ijtx-JGWzslz4GxfWOkvveGSBIVA2t0EOW3DGXU/edit?usp=sharing",
+        "license": "GPLv3",
+        "brief": "Ptt, 社群, App",
+        "manpower": "iOS, Android, Golang, UIUX",
+        "seq": 7
+      },
+      {
+        "time": "10:51",
+        "presenter": "fly",
+        "topic": "不賴台灣/Hili.link:開放即興自然的縮址",
+        "project": "不賴台灣/Hili.link:開放即興自然的縮址",
+        "hackmd": "https://hackmd.io/@flab/flytaiwan\nhttps://hackmd.io/@flab/hili",
+        "slides": "https://hackmd.io/@flab/flytaiwan\nhttps://hackmd.io/@flab/hili",
+        "license": "CC0/CC-BY 4.0",
+        "brief": "開放、即興、自然",
+        "manpower": "Gather 地圖製作、在地活動主辦；UI Designer、想要快速縮址又好記的人",
+        "seq": 8
+      },
+      {
+        "time": "10:54",
+        "presenter": "peter",
+        "topic": "運動爭議時間軸",
+        "project": "運動爭議時間軸",
+        "hackmd": "https://g0v.hackmd.io/aZQ7Uk-ARAKpkkGb_YCTNQ?both",
+        "slides": "https://docs.google.com/presentation/d/1jp1_Y1z7Wdn_70iBMr54CwR0jYAT0rpCFGFq92-g6Cc/edit?usp=sharing",
+        "license": "CC0/CC-BY 4.0+MIT",
+        "brief": "奧運、體育改革、新聞整理",
+        "manpower": "對新聞整理有興趣的人",
+        "seq": 9
+      },
+      {
+        "time": "10:57",
+        "presenter": "diaoga",
+        "topic": "臺灣黑熊通報與資訊平台",
+        "project": "臺灣黑熊通報與資訊平台",
+        "slides": "https://lihi1.cc/8Qe8l",
+        "license": "CC-BY 4.0",
+        "brief": "臺灣黑熊、保育、研究",
+        "manpower": "UI, UX, 架構師, 各類工程師",
+        "seq": 10
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "15:00",
+        "presenter": "老蕭",
+        "topic": "批踢踢不能亡- middleware/backend 架構",
+        "project": "批踢踢不能亡- middleware/backend 架構",
+        "hackmd": "https://github.com/Ptt-official-app/go-openbbsmiddleware/blob/main/pip/PIP-0001-introduction.md",
+        "slides": "https://www.devptt.site\nhttps://docs.google.com/presentation/d/1_DPZRgGVnrBsNzfg0t5y5kW_RBAQgDcNsy7120FNwGg/edit",
+        "brief": "Ptt, 社群, App",
+        "manpower": "iOS, Android, Golang, UIUX",
+        "seq": 1
+      },
+      {
+        "time": "15:10",
+        "presenter": "ky",
+        "topic": "Code for Japan Summit 2021 議程搶先看 (暫)",
+        "project": "Code for Japan Summit 2021 議程搶先看 (暫)",
+        "hackmd": "https://docs.google.com/presentation/d/1tBft5YNAHxGo3oWJ6cag4zzwWUHrahPSCDH4NIh1ZlE/edit?usp=sharing",
+        "seq": 2
+      },
+      {
+        "time": "15:20",
+        "presenter": "承穎",
+        "topic": "《圖資時代：BigGIS》",
+        "project": "《圖資時代：BigGIS》",
+        "slides": "https://gis.swcb.gov.tw/",
+        "brief": "BigGIS, 災例, 影像判識",
+        "manpower": "普通人",
+        "seq": 3
+      }
+    ],
+    "reports": [
+      {
+        "time": "16:05",
+        "presenter": "Viola",
+        "topic": "這樣說不行喔!小美眉-性別科普BOT",
+        "project": "這樣說不行喔!小美眉-性別科普BOT",
+        "hackmd": "https://g0v.hackmd.io/4GbILP7PSKWKzOpFl-DSJw?both",
+        "slides": "https://drive.google.com/file/d/1K81KiYPw7kJZGBdKItk-oHrWBDSLIEvy/view?usp=sharing",
+        "license": "CC BY NC-SA",
+        "brief": "開源、性別平等、趣味打太極",
+        "manpower": "誠徵:\n1.對建置資料庫及客製化Line bot有經驗的工程師\n2.協助增加性別歧視語句/關鍵字/回應\n3.群眾募資行銷人才\n4.插圖達人(要來做LINE貼圖)",
+        "seq": 2
+      },
+      {
+        "time": "16:30",
+        "presenter": "水保工友-宥伯",
+        "topic": "水保xWiki-聯合定位松之地理偵探大進擊",
+        "project": "水保xWiki-聯合定位松之地理偵探大進擊",
+        "seq": 7
+      },
+      {
+        "time": "16:40",
+        "presenter": "Bess (g0v jothon)",
+        "topic": "ARAY 公民科技貢獻者的專案與任務視覺化平台",
+        "project": "ARAY 公民科技貢獻者的專案與任務視覺化平台",
+        "hackmd": "https://g0v.hackmd.io/vJ7_irbLRQGMYF29C9mZGA",
+        "slides": "https://tst.aray.g0v.dev/",
+        "license": "CC-BY 4.0",
+        "brief": "g0v基礎建設, 專案搜尋, 人才搜尋",
+        "manpower": "分類, 幫忙測試,  UI/UX, ReactJS前端",
+        "seq": 9
+      },
+      {
+        "time": "16:50",
+        "presenter": "ddio",
+        "topic": "分享一則租屋甘苦談吧！ - 租屋者經驗徵集",
+        "project": "分享一則租屋甘苦談吧！ - 租屋者經驗徵集",
+        "hackmd": "https://g0v.hackmd.io/@ddio/r1J4Ietgt",
+        "slides": "https://miro.com/app/board/o9J_l2dHF-Q=/",
+        "license": "CC-BY 4.0",
+        "brief": "Rentea 合作租屋 城市居住",
+        "manpower": "租屋者、想要裝修的人",
+        "seq": 11
+      },
+      {
+        "time": "16:55",
+        "presenter": "Irvin",
+        "topic": "新版 Firefox 上線到 moztw.org",
+        "project": "新版 Firefox 上線到 moztw.org",
+        "license": "MPL",
+        "manpower": "html, 翻譯, 中文句子整理",
         "seq": 12
       }
     ]

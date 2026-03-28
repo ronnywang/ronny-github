@@ -1,0 +1,47 @@
+想提案請直接填寫 Just fill the form for your projects or ideas,,,,,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題,專案授權,共筆／討論連結,目前成果／投影片連結,新參者友善（Y/?）,專案三個關鍵字,專案徵人（專長）,坑主聯絡方式,youtube url: 專案報告,youtube url: 成果報告,slides url
+10:20開場，10:30提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,
+1,10:30,,Viola,Y,這樣說不行喔!小美眉-性別科普BOT,CC BY NC-SA,https://g0v.hackmd.io/4GbILP7PSKWKzOpFl-DSJw?both ,https://drive.google.com/file/d/1K81KiYPw7kJZGBdKItk-oHrWBDSLIEvy/view?usp=sharing,Y,開源、性別平等、趣味打太極,"誠徵:
+1.對建置資料庫及客製化Line bot有經驗的工程師
+2.協助增加性別歧視語句/關鍵字/回應
+3.群眾募資行銷人才
+4.插圖達人(要來做LINE貼圖)",g0v slack #gender,,,
+2,10:33,,昭岑,Y,邀您一起來定位,CC-BY-SA 4.0,,https://photo.swcb.gov.tw/Repository/TimeLine,Y,歷史影像平台、定位影像、開始定位,只要是人?,wji4xo6@mail.swcb.gov.tw,,,
+3,10:36,,Wikimedia Taiwan-Allen,Y,為圖片找個家 WPWP2021 編輯松,CC-BY-SA,https://hackmd.io/ukav7QiqTI-LgR6bsQ7-8g,https://zh.wikipedia.org/wiki/Wikipedia:2021%E7%82%BA%E5%9C%96%E7%89%87%E6%89%BE%E5%80%8B%E5%AE%B6%E7%B7%A8%E8%BC%AF%E6%9D%BE,Y,維基百科、圖片說明、媒體應用,文書、資料彙整,g0v slack @allenwang621,,,
+4,10:39,,"bil,MrOrz",Y,Cofacts 真的假的,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,https://cofacts.tw/,Y,"crowd sourcing, fact-checking, chatbot","Node.js, React.js engineers, 會上網google、討厭假訊息的人","g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,https://docs.google.com/presentation/d/1Cv6GDyQ5-pN7T6D8HFzi4rtk-SpmAILnM7y6hC8aquw/edit
+5,10:42,,John,,ARAY 公民科技貢獻者的專案與任務視覺化平台,CC-BY 4.0,https://g0v.hackmd.io/vJ7_irbLRQGMYF29C9mZGA,https://tst.aray.g0v.dev/,Y,"g0v基礎建設, 專案搜尋, 人才搜尋","幫忙測試,  UI/UX, ReactJS前端",g0v slack #edu-aray,,,https://docs.google.com/presentation/d/1WDR5ApS8dPjlRAMZ7BnRKQv62Lz99Hvq4fsv7a5b7Rk/edit?usp=sharing
+6,10:45,,ddio,Y,分享一則租屋甘苦談吧！ - 租屋者經驗徵集,CC-BY 4.0,https://g0v.hackmd.io/@ddio/r1J4Ietgt,https://g0v.hackmd.io/@ddio/corent,Y,Rentea 合作租屋 城市居住,租屋者、想要裝修的人,"g0v slack #rentea, @ddio",,,https://docs.google.com/presentation/d/15IEGAQt9jJ2btf8a-ntTNuWNo24f-g56z8zt6Z2_WzU/edit?usp=sharing
+7,10:48,,Ken,,批踢踢不能亡 - Android APP 子專案現況,GPLv3,g0v slack #ptt,https://docs.google.com/presentation/d/1ESv0Ijtx-JGWzslz4GxfWOkvveGSBIVA2t0EOW3DGXU/edit?usp=sharing,Y,"Ptt, 社群, App","iOS, Android, Golang, UIUX",g0v slack #ptt,,,
+8,10:51,,fly,Y,不賴台灣/Hili.link:開放即興自然的縮址,CC0/CC-BY 4.0,"https://hackmd.io/@flab/flytaiwan
+https://hackmd.io/@flab/hili","https://hackmd.io/@flab/flytaiwan
+https://hackmd.io/@flab/hili",Y,開放、即興、自然,Gather 地圖製作、在地活動主辦；UI Designer、想要快速縮址又好記的人,"@fly, fb.me/flyism",,,
+9,10:54,,peter,Y,運動爭議時間軸,CC0/CC-BY 4.0+MIT,https://g0v.hackmd.io/aZQ7Uk-ARAKpkkGb_YCTNQ?both,https://docs.google.com/presentation/d/1jp1_Y1z7Wdn_70iBMr54CwR0jYAT0rpCFGFq92-g6Cc/edit?usp=sharing,Y,奧運、體育改革、新聞整理,對新聞整理有興趣的人,g0v slack #vtaiwan ,,,
+10,10:57,,diaoga,Y,臺灣黑熊通報與資訊平台,CC-BY 4.0,,https://lihi1.cc/8Qe8l,Y,臺灣黑熊、保育、研究,"UI, UX, 架構師, 各類工程師","g0v slack #tbbca, @diaoga",,,
+,,,== 截止 ==,,,,,,,,,,,,
+"15:00【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,相關連結,,三個關鍵字,專案徵人,坑主聯絡方式,,,
+1,15:00,,老蕭,Y,批踢踢不能亡- middleware/backend 架構,,https://github.com/Ptt-official-app/go-openbbsmiddleware/blob/main/pip/PIP-0001-introduction.md,"https://www.devptt.site
+https://docs.google.com/presentation/d/1_DPZRgGVnrBsNzfg0t5y5kW_RBAQgDcNsy7120FNwGg/edit",,"Ptt, 社群, App","iOS, Android, Golang, UIUX",g0v slack #ptt,,,
+2,15:10,,ky,Y,Code for Japan Summit 2021 議程搶先看 (暫),,https://docs.google.com/presentation/d/1tBft5YNAHxGo3oWJ6cag4zzwWUHrahPSCDH4NIh1ZlE/edit?usp=sharing,,,,,,,,
+3,15:20,,承穎,Y,《圖資時代：BigGIS》,,,https://gis.swcb.gov.tw/,,"BigGIS, 災例, 影像判識",普通人,cyc0109@mail.swcb.gov.tw,,,
+,本期開放3位8分鐘,,== 截止 ==,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"16:00【 present project】 
+每個 present 5min，本次提供 12 組名額。",,,,,,,,,,,,,,,
+1,16:00,,,,,,,,,,,,,,
+2,16:05,,Viola,Y,這樣說不行喔!小美眉-性別科普BOT,CC BY NC-SA,https://g0v.hackmd.io/4GbILP7PSKWKzOpFl-DSJw?both ,https://drive.google.com/file/d/1K81KiYPw7kJZGBdKItk-oHrWBDSLIEvy/view?usp=sharing,Y,開源、性別平等、趣味打太極,"誠徵:
+1.對建置資料庫及客製化Line bot有經驗的工程師
+2.協助增加性別歧視語句/關鍵字/回應
+3.群眾募資行銷人才
+4.插圖達人(要來做LINE貼圖)",,,,
+3,16:10,,,,,,,,,,,,,,
+4,16:15,,,,,,,,,,,,,,
+5,16:20,,,,,,,,,,,,,,
+6,16:25,,,,,,,,,,,,,,
+7,16:30,,水保工友-宥伯,,水保xWiki-聯合定位松之地理偵探大進擊,,,,,,,,,,
+8,16:35,,,,,,,,,,,,,,
+9,16:40,,Bess (g0v jothon),,ARAY 公民科技貢獻者的專案與任務視覺化平台,CC-BY 4.0,https://g0v.hackmd.io/vJ7_irbLRQGMYF29C9mZGA,https://tst.aray.g0v.dev/,Y,"g0v基礎建設, 專案搜尋, 人才搜尋","分類, 幫忙測試,  UI/UX, ReactJS前端",g0v slack #edu-aray,,,
+10,16:45,,,,,,,,,,,,,,
+11,16:50,,ddio,Y,分享一則租屋甘苦談吧！ - 租屋者經驗徵集,CC-BY 4.0,https://g0v.hackmd.io/@ddio/r1J4Ietgt,https://miro.com/app/board/o9J_l2dHF-Q=/,Y,Rentea 合作租屋 城市居住,租屋者、想要裝修的人,"g0v slack #rentea, @ddio",,,
+12,16:55,,Irvin,,新版 Firefox 上線到 moztw.org,MPL,,github.com/moztw/www.moztw.org,,,"html, 翻譯, 中文句子整理",https://t.me/moztw_general,,,

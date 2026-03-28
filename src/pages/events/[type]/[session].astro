@@ -26,7 +26,7 @@ export async function getStaticPaths() {
         type: 'g0v-hackathon',
         typeLabel: 'g0v 黑客松',
         color: 'indigo',
-        session: { num: h.num, date: h.date, name: h.name, location: null, kktix: h.kktix || null, notes: null },
+        session: { num: h.num, date: h.date, name: h.name, location: null, kktix: h.kktix || null, notes: null, hackfoldr: h.hackfoldr || null },
         hdata,
       },
     });
@@ -153,10 +153,10 @@ function isRonny(name: string | undefined) {
             <span>📝</span> 活動共筆（HackMD）
           </a>
         )}
-        {type === 'g0v-hackathon' && (
-          <a href={`https://g0v.hackmd.io/@jothon/g0v-hackath${session.num}n`} target="_blank"
+        {type === 'g0v-hackathon' && session.hackfoldr && (
+          <a href={session.hackfoldr} target="_blank"
             class="flex items-center gap-2 text-sm text-stone-600 bg-white border border-stone-200 px-3 py-2 rounded-lg hover:border-stone-300 transition-colors">
-            <span>📖</span> hackfoldr（@jothon）
+            <span>📖</span> hackfoldr
           </a>
         )}
       </div>

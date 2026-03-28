@@ -1,0 +1,77 @@
+,,,,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題,專案授權,共筆／討論連結,目前成果／投影片連結,專案三個關鍵字,專案徵人（專長）,坑主聯絡方式,youtube url: 專案報告,youtube url: 成果報告,slides url
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+1,9:40,v,poga,Y,g0v.social ActivityPub 轉檔,MIT,https://g0v.hackmd.io/OZkYrTx6RZy4bkvjNvJ9DQ,https://docs.google.com/presentation/d/1txyAaGYs7XuhTkIu87TGZoggxkmdw2FZmJHK8kQAWx0/edit?usp=sharing,聯邦式社群網路、去中心化,,g0v slack @poga,,,
+2,9:43,v,雨蒼,Y,立法院爬蟲/白色恐怖分享會/總統盃黑客松,CC-BY,,https://docs.google.com/presentation/d/1xawlpDCASsJog7IO56QGcIvom3OlE1-0uVGXTXnHz_A/edit,,,,,,
+3,9:46,v,Irvin,Y,Mozilla Common Voice 語音資料庫收集,CC0,https://moztw.hackpad.tw/Common-Voice-g0v33,https://voice.mozilla.org/zh-TW/datasets,語言、語音辨識、句庫,"1. 語言學 2. AI 背景 (deep speech or voice recognize) 
+3. 對語音庫運用有興趣 (語音合成 or other)
+4.想推動台語 / 其他本地語言語音收集 (整理 CC0 無版權句庫)","t.me/moztwCV
+slack @irvin
+line.me/ti/g/GXvGlgG0As/
+",,,
+4,9:49,v,Ronny,Y,廢文編碼器,MIT,https://g0v.hackmd.io/6lNfj-VeQYCW9dvKqG0SGQ,https://www.paddingleft.com/junk-encoder/,反監控、言論自由,熟編碼解碼或加密的人,g0v slack @ronnywang,,,https://docs.google.com/presentation/d/1APtPAmKYVbEoQFNb0I9_2tzamKfOCYU9HacoLUIoz3U/edit?usp=sharing
+5,9:52,,Michael_LI,Y,假新聞的主題：籌辦演講會／大松來玩桌遊《抓誑新聞》,演講錄影 CC ?,https://hackmd.io/s/H10h63AIE#,,對付假新聞、,痛恨假新聞、幫助籌備演講會、推廣演講錄影,g0v slack @Michael_LI,,,
+6,9:55,v,小蟹,Y,阿美語萌典,CC0 1.0,https://github.com/g0v/amis-moedict,https://amis.moedict.tw/,阿美語、台灣原住民語與南島語、台灣原住民族文化,前端工程師,g0v slack: #amis channel,,,https://docs.google.com/presentation/d/1UUd_WHhfrrlXBace68uQvxBoIcWooKewyQm6gm-NMtw/edit?usp=sharing
+7,9:58,,李紫彤,Y,ARThon,,,,藝術家、,,,,,https://docs.google.com/presentation/d/1t8Yh6bQFRkB94Uv_K_VoJi7OW66xF-JppD2hgL05izQ/edit?usp=sharing
+8,10:01,v,Lilian / 老蕭 / Sam,Y,PTT.ai,GPL v3,https://github.com/ailabstw/go-pttai,https://docs.google.com/presentation/d/14vC8ccA268Mjxg99kSntJKZ-X-zpPryORKqjm9o10Aw/edit#slide=id.g51f3293549_0_160,資料自決、去中心化、社群,"golang, p2p, distributed system, frontend",lilian@ailabs.tw,,,https://docs.google.com/presentation/d/1p84VUW7dsWIvf_QBrmCVOYS_SQ6F0tkt5zG0vuMYnUA/edit#slide=id.p
+9,10:04,v,Eddie,y,政府機關回饋平台,MIT,https://github.com/agameofprivacy/gov-feedback,https://gov-feedback-web.appspot.com,開放資料、意見信箱、接地氣,"redux, react, mongodb, graphql, 專案管理",g0v slack #gov-feedback,,,https://docs.google.com/presentation/d/1XmhUKv0E7Im_BS0PmxnulIR-s3jE9ySkepfIDZX0epU/edit?usp=sharing
+10,10:07,v,fly,y,g0vhub - g0v 專案語音助理,"程式 MIT
+文字 CC0",https://heysiri.dev,https://hackmd.io/nzEPoia-RfKfMEk7nk3dVw?both#Heysiridev,語音助理、轉址、愛吸蕊,介面美化、整合更多實用服務、效能調教,http://m.me/leo424y,,,
+11,10:10,v,ivy,y,Zero waste taiwan 台灣零廢棄平台,程式 圖文 CC-BY-SA,https://hackfoldr.org/zero-waste-taiwan/,https://hackfoldr.org/zero-waste-taiwan/JO0YNbhfKjE,地圖、環保、資源循環,專案發想、環境教育工作者,ivy11628@gmail.com,,,
+12,10:13,v,MrOrz,y,Cofacts 真的假的 ＆ 我愛家我解惑 資料庫,"兩個專案均為：
+程式 MIT
+文字 CC0","Cofacts: https://cofacts.g0v.tw/hack
+我愛家我解惑: https://g0v.hackmd.io/c/B1iHBvVPQ","Cofacts: https://cofacts.g0v.tw
+
+我愛家我解惑：https://answerfamily.org",群眾協作、闢謠、婚姻平權,願意回應網路訊息的人、熟悉法律 / 婚姻平權相關法律的人,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,https://docs.google.com/presentation/d/1ASnXHiuc3BMXdxCWXCDI2ISZIxXoIKstWd7hmFEwsFY/
+13,10:16,v,chewei,y,地號轉地圖 Land No. Mapper,,https://g0v.hackmd.io/uFhBRHrnR-yvvFD4ZEn3XA,https://docs.google.com/presentation/d/17zoTSPLiG9wZITZkjMXuCD3y14KWRCc78PrCKBSq8fk/edit#slide=id.ga10b939f6_0_26,地號、地圖、工具,工具開發、Mockup、地號使用者,"g0v slack @chewei
+https://www.facebook.com/MikLiu",,,https://docs.google.com/presentation/d/17zoTSPLiG9wZITZkjMXuCD3y14KWRCc78PrCKBSq8fk/edit#slide=id.ga10b939f6_0_26
+14,10:19,v,HY Hsu / SSivart,Y,選服透明化,"程式 AGPL v3
+圖文 CC0 1.0
+資料 CC BY 4.0",https://github.com/FroggyTaipei/froggy-service,https://service.froggychiu.com,推坑、選民服務、公開透明,專案發想、工程師,"g0v slack: #councilor-service channel
+g0v slack: @HY Hsu @Eddy 林彥廷 
+email: servant@65535studio.com",,,https://docs.google.com/presentation/d/1WFJsr-XCY64MRiJB6c2fV00iSCdmAl4S0vuqKiUDRS0/edit#slide=id.g525b6d1489_0_21
+15,10:22,v,Lora,Y,g0v 專案資料庫補完計畫,,https://g0v.hackmd.io/EpU0aJihRfqPoCkdj67UEQ,https://docs.google.com/spreadsheets/d/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8/edit#gid=1563040282,填坑、爬API、資料整理,爬 youtube API、資料整理,slack:shadowcrow,,,
+16,10:25,v,pm5,Y,g0v-intl、沖繩黑客松,CC BY 4.0,https://g0v.hackmd.io/3OIQMwCyT_iOl64y8otFMg#,https://pm5.github.io/talks/2019-03-09-g0v-intl/,國際交流、沖繩,,pm5 isabelhou chihao,,,
+,,,== 截止 ==,,,,,,,,,,,
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,相關連結,三個關鍵字,專案徵人,坑主聯絡方式,,,
+1,14:30,,曾偉誠,y,2019 g0v 獎助金獲獎團隊：農業災損幾多錢,,,https://drive.google.com/file/d/1yKE-C2BaseOmnV3R7WWibJRPsCPptGIn/view?usp=sharing,"無人機,農業災損,影像分析",,g0v slack @偉誠 @Tony Huang,,,
+2,14:35,,Scott Chen,y,2019 g0v 獎助金獲獎團隊：台灣開源義肢計劃,,https://drive.google.com/drive/folders/10vCvwHYpwG5IEIZs6bdop2dcc7al00UY,https://sites.google.com/view/twgodhand,"bionics,開源,義肢",調整參數 app工程師,twgodhand@gmial.com,,,
+3,14:40,,田君陽,y,2019 g0v 獎助金獲獎團隊：金流百科,,https://hackmd.io/4pyaJBQNSouvvtjdMbiuKQ?both,https://docs.google.com/presentation/d/126sVEA0O4WZ1oDhYIoTI4mm60hzk8y4XcIySPYGXcYE/edit?usp=sharing,政獻、標案、金流,,g0v slack @田,,,
+4,14:45,,高任翔,y,2019 g0v 獎助金獲獎團隊：大河小溪全民齊督工,,https://hackmd.io/s/HJ4ejcR8E#,https://drive.google.com/file/d/105AOZ5E8VAjNBQcEXDDsWnJDPjxDoS2I/view?usp=sharing,,,,,,
+5,14:50,,張淑貞,y,2019 g0v 獎助金獲獎團隊：資料申請小幫手,,https://beta.hackfoldr.org/opengovdata/https%253A%252F%252Fhackpad.tw%252Fv4htasilFZK,https://docs.google.com/presentation/d/1yNRjadvWYBsVOgRnoMDH8vGOSv0-aJ88YE5Zy1em7h0/edit#slide=id.g5067275c6d_0_92,"opendata, 文字分析, 網站","文字分析, 網站, 開放資料申覆","g0v slack@shuchen
+個人臉書 https://www.facebook.com/siokjin.deun
+資料申請小幫手臉書",,,https://docs.google.com/presentation/d/1yNRjadvWYBsVOgRnoMDH8vGOSv0-aJ88YE5Zy1em7h0/edit#slide=id.g5067275c6d_0_92
+6,14:55,,魏伯任,y,議題分享：（313就要環評大會的）淡水河北側平面道路,,https://hackmd.io/V9iGREz-TJCXMY6SECkcyw,https://docs.google.com/presentation/d/1BOcqqdWogKX63cb1vMqOZHLYXtXfAmBBKBA4XCB9H_w/edit?usp=sharing,交通、環境、城市,,hsnu98662@gmail.com,,,
+7,15:03,,bil/比鄰,y,嗨我沒上啊,,,https://docs.google.com/presentation/d/1a8FvYWeL8BuU1eAb-xarAwBmTeWk538xUR_ce_LXvs4/edit#slide=id.p,"pfp, NGO, 交換",,g0v slack @bil,,,
+,本期開放2位8分鐘,,== 截止 ==,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"17:00【 present project】 規則：於106-7會議室舉行
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,
+1,17:00,v,雨蒼,y,新一代健保憑證協作會議,,https://docs.google.com/presentation/d/1DsKV30qQPrfebdZTrerayex_-CN6o9vO7QPz_Jey0-0/edit,,,,,,,
+3,17:05,v,小蟹,Y,阿美語萌典,CC0 1.0,https://github.com/g0v/amis-moedict,https://amis.moedict.tw/,阿美語、台灣原住民語與南島語、台灣原住民族文化,前端工程師,g0v slack: #amis channel,,,https://docs.google.com/presentation/d/1UUd_WHhfrrlXBace68uQvxBoIcWooKewyQm6gm-NMtw/edit?usp=sharing
+2,17:10,v,紫彤,Y,ARThon,,,,,,,,,
+4,17:15,v,Ronny,Y,廢文編碼器,MIT,,,,,,,,
+5,17:20,v,Michael_LI,,假新聞與媒體素養的社會教育,,https://hackmd.io/xKxQdm4bQrGr8Ib9inZtRw,,,,,,,
+6,17:25,v,許赫,y,老老相伴說故事聚會社群化,cc,https://docs.google.com/presentation/d/1ECp91S05phT4z6JdKoQC11QoT9Id0qb4sbHE2gJzGTM/edit?fbclid=IwAR2Zo2U87z09H4FWbaNhNyiO3IdCE4S5Uwn94aoPKJO5hrk6HYPLMNq8RbQ#slide=id.g46a2e5c3b7_0_60,https://docs.google.com/presentation/d/1ECp91S05phT4z6JdKoQC11QoT9Id0qb4sbHE2gJzGTM/edit?fbclid=IwAR2Zo2U87z09H4FWbaNhNyiO3IdCE4S5Uwn94aoPKJO5hrk6HYPLMNq8RbQ#slide=id.g46a2e5c3b7_0_60,初老、老老相伴、說故事,社群經營,harshmyth@gmail.com,,,
+7,17:30,v,"Hal Seki
+(chihao)",y,Code for Japan Summit 2019: Spark Joy,cc-by,https://drive.google.com/file/d/1PpNcGV-TFFwBtoX4EICgBFSOQIDvztia/view?fbclid=IwAR05sCO9oVghi5IC2nnWHCe9w5ulMFgoXU3T_6BCLLPIn6d7xTfia6CZMW4,https://docs.google.com/presentation/d/108QsoxbM8nlCv4OBFQMsUbrSG-xTaD2181Ta82abb6s/edit?fbclid=IwAR05sCO9oVghi5IC2nnWHCe9w5ulMFgoXU3T_6BCLLPIn6d7xTfia6CZMW4#slide=id.p,國際交流、C4J、日本,專案發表,hal@code4japan.org,,,
+8,17:35,v,Irvin,Y,Common Voice,cc0,https://moztw.hackpad.tw/Common-Voice-g0v33,"1. 行政 - 寫文解釋為什麼不能在台灣要大家切成簡體版錄京片子
+2. CC0 句庫 - 新增來自全國司改會議籌備會紀錄的500句新句，歡迎廢文取用 https://github.com/mozilla/voice-web/pull/1874/commits/f37762c419b2841c4c3c361bfd52737d2576849b
+3. Slack - 推倒 random 重建 rand0m",語音、句庫、語言學,"缺人整理句子
+缺人計算中文語音辨識需要多少資料
+缺人錄音，一人來錄個兩百句吧！ > voice.mozilla.org",g0v slack @irvin,,,
+9,17:40,v,chihao,Y,g0v-intl 第一坑：沖繩黑客松,,https://g0v.hackmd.io/FyvU-oD-SS-rF_7_oOF2Ig,,國際交流、沖繩,,,,,
+10,17:45,v,mrorz,Y,Cofacts 真的假的 ＆ 我愛家我解惑 資料庫,"兩個專案均為：
+程式 MIT
+文字 CC0","Cofacts: https://cofacts.g0v.tw/hack
+我愛家我解惑: https://g0v.hackmd.io/c/B1iHBvVPQ","Cofacts: https://cofacts.g0v.tw
+
+我愛家我解惑：https://answerfamily.org",群眾協作、闢謠、婚姻平權,願意回應網路訊息的人、熟悉法律 / 婚姻平權相關法律的人,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,
+11,17:50,v,fly,Y,Oops! siri,MIT,,https://heysiri.dev,聊天機器人、轉址、專案整合,,@fly,,,
+12,17:55,v,英勛,Y,資料申請小幫手,,,,,,g0v slack @chewei,,,
+13,18:00,,,,,,,,,,,,,
