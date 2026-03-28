@@ -1,21 +1,92 @@
-"晚來的朋友可以看 http://hack.g0v.tw
-會議室禁止飲食 !!14:00 8min 短講!!",,,,,,
-坑名,坑主,位置,English,,,
-選舉支出監測,彥圖,第一會議室左側第3排中,Election Campaign Expense Monitoring,,,https://g0v.hackpad.com/--E9X1LqXJZz9
-環境資訊全球推動計畫,灰色formotse,第一會議室右側第1排右,Environmental Knights,,,
-眾志成城；2015台北數位藝術節,chihao,第一會議室第一排靠門口,Let's Build a Fucking Castle Together; Digital Arts Festival Taipei 2015,,,
-Data+Design 翻譯,nchild,,Translating Data+Design Book,,,
-BatDrone,kevinphy,,BatDrone,,,
-自主生產計劃書產生器,ipa,,birthing autonomy - plan sheet generator,,,
-情境網頁遊戲,雨蒼/poga,,Interactive Story Teller,,,
-阿美語萌典,miaoski,,Amis moedict,,,
-IoT 空污偵測,miaoski,,IoT for PM2.5 pollution,,,
-doit,yutin,,"Collaborate with Dep of IT, Taipei City Government",,,
-判決書之一句話激怒書記官,ronny,中央.第二排.第一會議室,Annotated Judicial Verdict Document,,,
-河圖-跨議題資訊整合介面,三,,Atlas Of Dao,,,https://goo.gl/aJXGSY
-八仙塵爆的新聞報導分析,Michael_LI,,News Hackathon,,,
-公有地大行動,chewei,,Public-Owned Property,,,
-itaigi,Liz,第一會議室第一排靠內側,itaigi,,,
-Issue Taiwan台灣好問題,Nicky,第一會議室第三排右側,Issue Taiwan,,,
-政治承諾網,MrOrz,第一會議室第三排右側,Political Promise Tracker,,,
-2016總統大選承諾一覽表,MrOrz,第一會議室第三排右側,2016 Presidential Campaign Promise Coding and Tracking,,,
+,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題,專案授權,相關連結,專案三個關鍵字,專案徵人（專長）,youtube url: 專案報告,youtube url: 成果報告,slides url
+8/22 09:50【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,
+1,9:50,V,mrorz,y,2016 總統大選承諾一覽表,CC BY 4.0,http://beta.hackfoldr.org/president2016-folder,"總統大選,立場比較,MRG coding scheme",新聞工作者/政治學者/社會學者 (政見分類)、網路行銷 (網宣文案)、視覺傳達設計 (og:image),,,http://www.slideshare.net/JohnsonLiang1/2016-g0v-hackath15n
+2,9:53,V,mrorz,y,政治承諾追蹤網,code: MIT / text: CC BY 4.0,http://beta.hackfoldr.org/ppt,"政治承諾整理,地方政府研考會",新聞工作者/政治學者/社會學者 (承諾進度整理)、react.js,,,http://www.slideshare.net/JohnsonLiang1/g0v-hackath15n
+3,9:56,V,ipa,y,自主生產計劃書產生器,CC BY / MIT,http://beta.hackfoldr.org/b1rth/,"生產,懷孕,小黑客",文字工作者/ 後端,,,
+4,10:02,V,formotse,y,環境資訊全球推動計畫 Environmental Knights ,CC BY 4.0,https://g0v.hackpad.com/Environmental-Knights-YZtxPge4Xbq,環境新聞 經驗分享 全球資訊,新聞工作者、行銷人,,,https://goo.gl/QoAMM7
+5,10:04,V,ronny,y,判決書懶人包,CC BY 4.0 ,https://g0v.hackpad.com/suxchYnyCBR,判決書 司法,前端、法律人、文字處理,,,
+6,10:09,V,chihao,y,眾志成城：基進、人本、科學的開放協同議論平台,"GPL 2.0
+CC BY-SA 4.0",https://g0v.hackpad.com/jLVacJPjj5D,協同議論、筆戰的意義,思辨者、資訊系統設計,,,
+7,10:12,V,chihao,y,g0v @ 台北數位藝術節,"不確定
+",http://goo.gl/r8gIlG, ,不會寫程式會整理資料的人,,,
+8,,V,miaoski,y,IoT 空污偵測,CC0 / MIT,https://g0v.hackpad.com/IoT-DIY-B1xkj9fUqqH,"空污, PM2.5",前端、維修,,,
+9,,V,miaoski,y,阿美語萌典,CC BY-NC,,"阿美語, 萌典",測試、資料編輯、PDF 處理,,,
+10,10:23,V,Michael_LI,y,這個社會的新聞樣貌：以八仙塵爆意外為起點,"有待確定
+","
+https://drive.google.com/folderview?id=0B6ASgY1GMSOhfmdnbVlKMlNadjBfb3NPMnhGNkl5dUlQMnBMRnRxZk9henh6U0Rab0lJX3c&usp=sharing",文字的新聞稿不算　側錄１２家電視台影片共計１００天高達２萬８千８百小時以上,檢查員（文職）　工程技術（不限）　其它,,,
+11,10:25,V,kevinphy,,BatDrone（婦幼治安犯罪危險地點提醒、監測）,CC BY 4.0,https://g0v.hackpad.com/BatDrone--BB8UPY6SPCD,晚上、回家、無人機,"資料收集者, iOS, Android",,,https://goo.gl/FvvfAU
+12,10:30,V,chewei,y,地政司火車組不給玩怎麼辦,cc0,https://g0v.hackpad.com/z3C6ZqUlvMk,"地號建照地圖化, 厝邊隔壁來畫圖, 合法爭取公有空間實踐憲法143條","爬資料,地圖化,OpenStreetMap",,,https://docs.google.com/presentation/d/1dxcrHnTRdkaejmtZb3l7Ws8LJ31d1sL1oHlAOpiuc08/edit?usp=sharing
+13,11:01,V,nchild,y,Data + Design 資料＋設計 正體中文版翻譯,CC BY-NC-SA 4.0（翻譯）/ CC BY 4.0 (文件),bit.ly/data-design-zh,"data, design, zh-Hant",翻譯者、校對者、23日成果展示者,,,
+14,10:38,V,3,y,河圖-跨議題資訊整合介面,CC BY 4.0,http://aod.tw/,跨議題、互動、資料庫,D3工程師、網頁工程師,,,https://goo.gl/aJXGSY
+15,10:34,V,Aaron,y,TaipeiTimes特寫報告,CC BY ,https://hackpad.com/Taipei-Times-Feature-Article-on-g0v-TdhRNHamGAV,新聞,受訪者,,,
+16,10:42,V,billy3321,y,情境網頁遊戲框架,CC BY 4.0,https://g0v.hackpad.com/J84agQVmxG7,遊戲、互動、網頁,網頁設計師、前端設計師,,,https://docs.google.com/presentation/d/1Pt8IINb6h7xDgxAs-evh_DXkHl5zsF9uTV8SaVS2h04/pub?start=false&loop=false&delayms=3000
+17,10:45,V,ytsu,y,選舉支出回報系統,CC0,"https://g0v.hackpad.com/--E9X1LqXJZz9
+","選舉、支出、回報
+","App 設計師、前端、後端、公民
+",,,
+18,--,,ytsu,y,選舉媒體紀錄,CC0,"https://g0v.hackpad.com/--tCSj9sN15ZI
+",選舉、媒體曝光、支出,,,,
+,10:52,V,,y,台北市政府跟社群的合作,CC BY 4.0,https://g0v.hackpad.com/doit-20150820--uXVYkyc7ldE,,,,,
+,10:57,V,nicky,y,,CC BY 4.0 ,https://g0v.hackpad.com/IssueTaiwan--OCelk22n02v ,"全民參與, 還政於民, 永續發展","資訊系統設計, 視覺傳達設計
+新聞工作者/社會學者/政治學者",,,
+8/22 0?:?【3分鐘成果報告】每個 present 3min。,,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC BY 釋出?,主題,專案授權,相關連結,專案三個關鍵字,專案徵人（專長）,youtube url: 專案報告,youtube url: 成果報告,slides url
+,,,formotse,y,環境資訊全球推動計畫 Environmental Knights ,CC BY 4.0,https://g0v.hackpad.com/Environmental-Knights-YZtxPge4Xbq,,,,,
+,,,,,,,,,,,,
+,,,MrOrz,"y
+",2016總統大選一覽表 & 政治承諾追蹤網,CC BY 4.0,http://beta.hackfoldr.org/president2016-folder,"總統大選,立場比較,MRG coding scheme",新聞工作者/政治學者/社會學者 (政見分類)、網路行銷 (網宣文案)、視覺傳達設計 (og:image),,,
+,,,chewei,"y
+","天龍特公地觸發行動的方法＋公有資產願景思考方式 
+---
+自己的種源自己留（代「種子野台」介紹）",,"https://g0v.hackpad.com/09RaHIX5QCC
+-
+http://wildseedlibrary.strikingly.com/",,,,,
+5,,,Trevor Huang,,"選舉支出回報系統
+",CC0,https://g0v.hackpad.com/--E9X1LqXJZz9,,,,,
+6,,,chihao,"y
+",眾志成城：基進、人本、科學的開放協同議論平台,"GPL 2.0
+CC BY-SA 4.0",https://g0v.hackpad.com/jLVacJPjj5D,,,,,
+,,N,雨蒼,Y,法院流程小知識,CC-BY 4.0,https://g0v.hackpad.com/0fbjjkLPhEk,法院，流程,圖像化,,,
+,,,chewei,"y
+",social physics,,https://docs.google.com/presentation/d/1WT5h8yHw81pDWlUP7WfAelNeKDdIyAd_nZRmjr9xg24/edit?pli=1#slide=id.ga543784b3_1_190,,,,,
+,,,seventysecond,y,勞動局資料登打,,,,,,,
+8/23 14:00【8分鐘短講】,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,b,主題,,相關連結,三個關鍵字,專案徵人,,,
+1,,,justin arenstein,,,,,,,,,
+2,,,david eads,,,,,,,,,
+3,,,"cedric
+",,,,,,圖像化,,,
+4,,,ronny,yes,解析政府組織,,https://g0v.hackpad.com/--QOPMtKMNnvZ,,,,,
+5,,,,,,,,,,,,
+,本期開放5位8分鐘,,,,,,,,,,,
+,中場短講playlist,,https://www.youtube.com/playlist?list=PLdwQWxpS513CkU-YLRPcdv21IKC8KJm2v,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"8/23 16:05【資料科學 present project】 規則：於國際會議廳舉行
+每個 present 3min （請於 15:30 R1 找 clkao 報到)",,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC BY 釋出?,主題,專案授權,相關連結,專案三個關鍵字,專案徵人（專長）,youtube url: 專案報告,youtube url: 成果報告,slides url
+1,16:10,V,Yuren Ju,Y,蘋果日報留言分析,MIT,http://tinyurl.com/ne5g72e,"新聞, 分析",,https://youtu.be/ZkaOMyxxoe8,,
+2,16:13,V,Ronny,Y,判決書懶人包,MIT,http://judicial.ronny.tw/,,,,,
+3,16:16,,,,,,,,,,,
+4,16:19,,,,,,,,,,,
+5,16:22,V,Michael_LI,y,這個社會的新聞樣貌：以八仙塵爆意外為起點,"有待確定
+",https://drive.google.com/folderview?id=0B6ASgY1GMSOhfmdnbVlKMlNadjBfb3NPMnhGNkl5dUlQMnBMRnRxZk9henh6U0Rab0lJX3c&usp=sharing,,,,,
+6,16:25,V,stella,y,治癒魔法,,"https://itunes.apple.com/app/id1021085374
+https://play.google.com/store/apps/details?id=com.tin.blood
+
+",,,,,
+7,16:28,V,Liz Lin,y,愛台語iTaigi,,https://g0v.hackpad.com/moed7ct-taigi-neologism#,台語、查詢、好玩,影音製作、圖文製作、台語書寫,,,
+8,16:31,V,mg lee,y,Data + Design 資料＋設計 正體中文版翻譯,CC BY-NC-SA 4.0（翻譯）/ CC BY 4.0 (文件),https://g0v.hackpad.com/Data-Design--l5qLhp0515j,,,,,
+9,16:34,V,"soidid
+",y,一句話父權大賽,MIT,https://github.com/soidid/event-post-rank,,,,,
+10,16:37,V,MrOrz,y,2016總統大選一覽表,CC BY 4.0,http://beta.hackfoldr.org/president2016-folder,"政治承諾整理,地方政府研考會",新聞工作者/政治學者/社會學者 (承諾進度整理)、react.js,,,
+11,16:40,V,chihao,y,眾志成城,GPL 2.0（程式碼）/ CC BY-SA 4.0（平台內容）,https://g0v.hackpad.com/jLVacJPjj5D,,,,,
+12,16:43,V,miaoski,y,IoT 空污偵測,CC0 / MIT,https://g0v.hackpad.com/IoT-DIY-B1xkj9fUqqH,"空污, PM2.5",前端、維修,,,
+13,16:46,V,miaoski,y,阿美語萌典,CC BY-NC,,"阿美語, 萌典",測試、資料編輯、PDF 處理,,,
+14,16:49,V,"kevinphy
+",y,BatDrone 婦幼犯罪熱點提醒、無人機巡航,CC BY 4.0,https://g0v.hackpad.com/BatDrone--BB8UPY6SPCD,"晚上、回家、無人機尾行
+","前端設計、嵌入式、mobile app
+",,,
+15,16:52,V,RSChiang,y,SliGen,MIT,https://github.com/Inndy/sligen,"Buzzword,大數據",,,,
+,,,往上填坑～,,,,,,,,,

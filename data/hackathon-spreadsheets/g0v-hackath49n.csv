@@ -1,80 +1,63 @@
-,,,,活動前準備流程表,,,,,,
-時間／分組（人數）,,揪松,"食物（1 人）
-jingwen","主持（5 人）
-RS、ddio","報到（2 - 3 人）
-hsinyu, kowei, ael",顧門（6 人）,"場務（3 人）
-tiff、ying、analeigh","直播（1 人）
-daisuke","錄影（1 人）
-daisuke","照相（2 人）
-捷克、粽子"
-大松前一個月,,開啟命名共筆,,,,,,,,
-大松前兩周的周五,,一鍵開大松,,,,,,,,
-大松前一周的周一 9:00,,寄出電子報,,,,,,,,
-大松前一周的周一 12:00,,kktix 開始售票,與廠商訂食物,,,,,,,
-大松前兩周的周五,,貢獻者票申請開始,,,,,,,,
-大松前一周的周五,,貢獻者票申請截止,,,,,,,,
-大松前的周一,,寄出貢獻者票,,,,,,,,
-大松前的周三,,行前通知寄出,,,,,,,,
-大松前一天 21:00,,,,"松前哈拉（宣傳、共筆）
-RS",,,,,,
-,,,,大松當日流程,,,,,,
-時段／注意事項,大松活動timeline,確認流程,當日擺盤順序,串場,隨時都要有人在,注意進出的人,場佈、撤場,可告知網路規格,可告知網路規格,
-8:00,,物品抵達C-HUB,,,,,搬桌椅、擺設,,,場佈拍攝
-,"報到
-9:30-10:00",,,,"指導參與者掃實聯制、
-量體溫（嘉華、韶昀）",,,,,
-10:00 - 10:10,"新手教學
-10:00-10:10",,,,"噴酒精
-（淋齊、kowei）","時段 A
-9:00 - 10:30",,,,
-10:10 - 10:20,"開場
-10:10-10:20",,,,"kktix 掃描報到
-（ael、hsinyu）",,,,,
-10:20 - 10:30 ,"三分鐘提案
-10:20 - 11:10",,,新手教學（投影片）,,,,,,提案者拍攝
-10:30 - 10:40,,,"上午飲料
-10:30",,,,,,,
-10:40 - 11:00,,,,"提案主持
+,,,,,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題（Topic）,"專案授權
+（Open source licensing）","共筆／討論連結
+（Discussion notes）","目前成果／投影片連結
+（Slides, progress）","新參者友善（Y/?）
+（Newbie friendly?）","專案三個關鍵字
+（3 keywords for the proposal）","專案徵人（專長）
+（People (skills) needed）","坑主聯絡方式
+(Project owner contact)",youtube url: 專案報告,youtube url: 成果報告,slides url
+LineBot 開發、爬蟲處理、UI/UX、任何對教育有興趣的人～,,,,,,,,,,,,,,,
+1,10:20,,JoeyHsu,Y,大學科系查詢系統 🔍 ,CC BY-NC-SA 3.0,TBC,https://drive.google.com/file/d/1njIVBsssUsbwyTcV2vJlGAcFgBN8TijW/view?usp=sharing,Y,爬蟲、LineBot、K12教育,"UIUX designer,
+engineer,
+PM.
+educator",Facebook: https://www.facebook.com/joeyhsu6 slack：https://reurl.cc/Wkjzy7,,,
+2,10:23,,xing,,學習鏈,,,https://docs.google.com/presentation/d/1-3HwvWUUdFqlkrR1b6O_mvmvZO5ZBbC5sGvReCMtImU/edit#slide=id.p,,學習歷程檔案、學習網絡、連結平台,,slack @xing,,,
+3,10:26,,Jason de Anthropologist,,"Bilingual Nation, language learning, AI and who is and who shoud be in charge of the data?",,,,,,,,,,
+4,10:29,,jingwen,Y,Reopen疫情解封指引,CC0,https://hackmd.io/@World-Can-Help-Us/BkbqCjTXc,,Y,covid-19、疫情後新生活、國際政策比較,對疫情關心的朋友、他國語言精通可以一起看其他國家解封指引、歡迎沒有專長但想一起討論的你！,slack #reopen、@jingwen,,,
+5,10:32,,Christina,N,香港愛國愛黨法官檔案 ,CC-BY,TBC,https://drive.google.com/file/d/1FLijj5a4JcpjpwWFLdNQJTwAi1fgGnck/view?usp=sharing,Y,中文資料庫、網頁製作、資安,網頁設計及安全維護、內容編寫、資料搜集,,,,
+6,10:35,,Teemo,Y,批踢踢不能亡,GPLv3,https://hackmd.io/@twbbs/guide,https://drive.google.com/file/d/1d9I1gXBu-_QC5HVK6GmpbHtJiOk8WErG/view?usp=sharing,Y,"Ptt, 社群, app",來聊聊,,,,
+7,10:38,,Kowei,y,Aray 公民科技貢獻者的專案與任務視覺化平台,CC-BY 4.0,https://g0v.hackmd.io/@jothon/ARAY/,https://aray.g0v.tw/,y,,,,,,
+8,10:41,,Lulu,,網路疫情資訊資料庫 COVID-19 Chinese Archive,CC-by & fairuse,https://hackmd.io/jMINZPr4QSu_p4xPyBPJrQ,https://cov19zharc.net/,y,中英資料庫、線上疫情資料、備份,data management、對網路上的疫情資料備份有興趣的、翻譯,slack @Lulu Keng,,,
+9,10:44,,chihao,Y,g0v 10 週年嘉年華,cc-by,https://g0v.hackmd.io/@chihao/g10v-book/,,y,,,,,,
+10,10:47,,chewei,y,製作臺南市減碳機會地圖 - 碳匯城鄉,CC-by,https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FwSvlrDnQRWCVEOOE7N5ZaA%3Fview,https://sites.google.com/view/emission-reduction/,y,爬資料、線上地圖，公有資產減碳,爬資料、線上地圖、減碳產業,"FB 社團：https://www.facebook.com/groups/1417173811903954/
+slack @chewei #gis",,,
+11,10:50,,sam,y,g0v podcast,cc-by,https://g0v.hackmd.io/Wp9FwmktQXKfx5zCucR_2g,,y,,,,,,
+12,10:53,,David,Y,智慧健檢平台,CC-BY,https://g0v.hackmd.io/@chewei/rkpcSByX9,https://docs.google.com/presentation/d/16mamO2o-w7ukE_r2taY1IdeH1fkhVY8w-UxqKFZpXK0/edit#slide=id.g123b2d56f63_0_0,y,健康檢查、健檢平台,醫學背景、法律背景、想改變健檢現況的人,"slack #health
+視訊會議空間
+https://meet.jit.si/health-examination-tw",,,
+13,10:56,,"bil, mrorz",Y,Cofacts 真的假的,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,https://cofacts.tw/,Y,"crowd sourcing, fact-checking, chatbot",關心公投假訊息、會上網google的人,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,https://docs.google.com/presentation/d/1L79LGKG4kntUNvR6ylcuToI3PEE7gHGZPrYJHWWy36U/edit
+14,10:59,,"Holo, Vic",Y,白色恐怖體驗網頁遊戲,CC-by,TBC,https://docs.google.com/presentation/d/1gtjRDRiJx4ldGpqhyhcSle5FV7GXym5k/edit?usp=sharing&ouid=101311416682262359897&rtpof=true&sd=true,Y,"白色恐怖生存遊戲,網頁設計,櫻桃魔法師",網頁遊戲設計、網頁互動設計、流程構思優化、對議題有興趣的夥伴,"FB:https://www.facebook.com/holo.wang
 
-請大家自我介紹
-RS",,,,,,
-11:00 - 11:20,,,,,,,,,,
-11:20 - 11:40,"自我介紹
-11:10 - 11:30",,,,,,,,,自我介紹拍攝
-11:40 - 12:00,"分組開工
-11:30 - 16:30",,,,,"時段 B
-10:30 - 12:00",,,,
-12:00 - 12:20,"午餐 
-12:00 - 13:00",,"午餐時段
-12:00 - 13:00
-",,,,,,,食物拍攝
-12:20 - 12:40,,,,,,,,,,
-12:40 - 13:00,,,,,,,,,,
-13:00 - 13:20,"分組開工
-11:30 - 16:30",,,,,"時段 C
-12:00 - 13:30",,,,分組討論拍攝
-13:20 - 13:40,,,,"新手導覽團
-kowei",,,,,,
-13:40 - 14:00,,,,,,,,,,
-14:00 - 14:20,,,,,,,,,,
-14:20 - 14:40,"隨喜短講
-14:30 - 15:30",,,,,,,,,短講拍攝
-14:40 - 15:00,,,,"短講主持
-ddio",,"時段 D
-13:30 - 15:00",,,,
-15:00 - 15:20,,,"下午小點
-15:00 ",,,,,,,
-15:20 - 15:40,,,,,,,,,,
-15:40 - 16:00,"分組開工
-11:30 - 16:30",,,,,,,,,
-16:00 - 16:20,,寄出會後問卷,,,,"時段 E
-15:00 - 16:30",,,,
-16:20 - 16:40,,,,,,,,,,
-16:40 - 17:00,"成果報告
-16:30 - 17:30",,,"成果報告
-ddio",,,,,,成果發表拍攝
-17:00 - 17:20,,,,,,,,,,
-17:20 - 17:40,,,,,,,搬桌椅、擺設、收廚餘、收牌子,,,
-17:40 - 18:00,,,,,,"時段 F
-16:30 - 18:00",,,,
-18:00 - 18:20,,物品載回飯店,由場地廠商清潔,,,,,,,
+Slack @Holo",,,
+15,11:02,,"ael, deeper",,Disfactory 農地違章工廠回報系統,CC-BY,https://g0v.hackmd.io/@yukaii/Disfactory/%2F_hmkJ64tRrGKBXeYso5HcA,,Y,,,g0v slack: #disfactory channel,,,https://docs.google.com/presentation/d/1kOkvZZibfquY2ayIPNHcWpqVlxtpgp9JqBBGsHlaN-w/edit?usp=sharing
+,,,== 截止 ==,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,相關連結,,三個關鍵字,專案徵人,坑主聯絡方式,,,
+1,14:30,,Kuan,,#decentralizehk 區塊鏈技術分享,,,https://docs.google.com/presentation/d/1WyW2n8CAJiHORbXkK070-DdQcK1eafdk_ZJqU9nOPNg/edit?usp=sharing,,#紀錄歷史 #內容索引 #ISCN,,g0v slack #decentralizehk,,,
+2,14:40,,嚴婉玲,y,分享亞太社會創新高峰會,CC-by,簡報連結：https://docs.google.com/presentation/d/1BIlIHOfUCM0RLnOyPwTzICLvUGv1SM-Q/edit?usp=sharing&ouid=110275427304928095932&rtpof=true&sd=true,高峰會官網：https://apsis.tw/preSummit,,社會創新、合作經濟、淨零碳排,用HackMD做活動紀錄,sycheng@tnsprout.org,,,
+3,14:50,,RSChiang,y,簡訊實聯制的開放資料問題,簡報 CC BY-SA 4.0,https://speakerdeck.com/rschiang/the-curious-case-of-1922-sms-open-data,https://infolaw.iias.sinica.edu.tw/?p=5002,,簡訊實聯制、COVID-19、開放資料,,g0v slack @rschiang @slc,,,
+4,15:00,,fly,y,接觸即興：對話視覺化，以身體作為「平台」,CC-BY 4.0,https://facebook.com/events/s/sun-jam-%E8%88%87%E6%97%A5%E5%8D%B3%E8%88%88%E8%81%9A/966494670905626/,https://youtu.be/sQYq06UqqCE?t=840,Y,"開放、即興、自然 #openness, #improvisation, #nature",任何想以身體為平台的人，請找Fly來跳舞,g0v #body #art #dance @fly,,,
+,,,,,,,,,,,,,,,
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"16:30【 present project】 規則：於 成大 C-HUB 1F 舉行
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,
+1,16:30,,Irvin,Y,CC0國台語句庫 + common voice 語音庫,CC0,https://hackmd.io/@moztw/common-voice-doc-archive,http://github.com/irvin/cc0-sentences/,Y,"語音語料庫, 語言學, 台語","a. 說中文 / 國中以上國文
+or b. 台文能力","#rand0m @irvin
+t.me/moztwCV",,,https://hackmd.io/@moztw/cc0-corpus-slide#/
+2,16:35,,Teemo,Y,PTT 未來架構,CC0,,https://hackmd.io/@twbbs/guide,,,,,,,
+3,16:40,,"bil, MrOrz",Y,Cofacts 真的假的,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,https://cofacts.tw/,Y,"crowd sourcing, fact-checking, chatbot",關心公投假訊息、會上網google的人,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,https://docs.google.com/presentation/d/1L79LGKG4kntUNvR6ylcuToI3PEE7gHGZPrYJHWWy36U/edit
+4,16:45,,mglee,Y,十週年生日趴,CC0,https://g0v.hackmd.io/rE3PCNb5QlWd3rX9irS24w,https://g0v.hackmd.io/@k_gLcFP-S0OPYEjfnyoQgw/S1X2e307q#/,Y,十週年、社群、數位典藏,https://drive.google.com/file/d/1VpPjZ4ntgZv4F9C-JB2fsjdsYk9ghE58/view?usp=sharing,"g0v slack: #10th-anniversary , g0v slack @mglee",,,
+5,16:50,,chihao,Y,10 週年嘉年華,cc by,https://g0v.hackmd.io/@chihao/g10v-book/,,,,,,,,
+6,16:55,,yukai,Y,Disfactory,,,https://github.com/Disfactory/frontend/pulls,,,,,,,
+7,17:00,,Ronny,Y,lysayit 立委說些什麼,,https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/HyGhI8flc/%2FhB3sA1nEQNCttznYBEUMTg,,,,,,,,
+8,17:05,,David,Y,智慧健檢平台,CC BY,,https://docs.google.com/presentation/d/16mamO2o-w7ukE_r2taY1IdeH1fkhVY8w-UxqKFZpXK0/edit#slide=id.g123bffbb5b3_2_5,,,,"slack #health
+視訊會議空間
+https://meet.jit.si/health-examination-tw",,,
+9,17:10,,Joey,Y,大學科系查詢系統 🔍 LineBot,CC BY-NC-SA 3.0,,https://drive.google.com/file/d/1njIVBsssUsbwyTcV2vJlGAcFgBN8TijW/view?usp=sharing,,,,,,,
+10,17:15,,isabel,y,g0v underground 零時電台,CC BY-NC-SA 3.0,,https://g0v.hackmd.io/VZCj9NHaQzChQ7Acl-VpZw?view,,,,,,,
+11,17:20,,Ｗinnie、宏信、浴光,y,學習鏈3.0,,https://shy-xylocarp-1f9.notion.site/687f48c1f8e54b348335361d0f88dfaf,https://hackmd.io/@A5cFdTjgTKe9TKX2IGrjKw/r1pKS2C79,y,學習歷程、區塊鏈、ISCN,網頁前端工程師、UI/UX設計師,slack #學習鏈 https://g0v-tw.slack.com/archives/C03AMQPPXPG,,,
+12,17:25,,chewei,y,製作臺南市減碳機會地圖 - 碳匯城鄉,CC-by,https://g0v.hackmd.io/@chewei/carbon-uptake/https%3A%2F%2Fg0v.hackmd.io%2FwSvlrDnQRWCVEOOE7N5ZaA%3Fview,https://docs.google.com/presentation/d/1rkOUknETJa5ZL1ajsCzTrijwszVKOiJnpLKFYGvdSxA/edit#slide=id.g1199d5191ae_6_23,Y,爬資料、線上地圖，公有資產減碳,爬資料、線上地圖、減碳產業,FB 社團：https://www.facebook.com/groups/1417173811903954/,,,
