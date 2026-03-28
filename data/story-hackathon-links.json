@@ -1,0 +1,39 @@
+{
+  "_note": "Maps story slug → list of hackathon refs. Each ref is either a string (show all Ronny entries) or {id, keyword} (filter entries by keyword in project name).",
+  "newsdiff": ["g0v-hackath3n", "g0v-hackath10n"],
+  "newshelper": [
+    "g0v-hackath4n",
+    {"id": "g0v-hackath22n", "keyword": "新聞"},
+    {"id": "g0v-hackath24n", "keyword": "新聞"}
+  ],
+  "jobhelper": ["g0v-hackath28n"],
+  "pcc.g0v.ronny.tw": [{"id": "g0v-hackath25n", "keyword": "標案"}],
+  "tw-campaign-finance": [
+    "g0v-hackath8n",
+    {"id": "g0v-hackath56n", "keyword": "政治獻金"},
+    {"id": "g0v-hackath57n", "keyword": "政治獻金"}
+  ],
+  "campaign-finance-advocacy": [
+    {"id": "g0v-hackath56n", "keyword": "政治獻金"},
+    {"id": "g0v-hackath57n", "keyword": "政治獻金"}
+  ],
+  "twcompany": ["g0v-hackath6n"],
+  "twbudget": [{"id": "g0v-hackath44n", "keyword": "預算"}],
+  "pdf-table-extractor": ["g0v-hackath18n"],
+  "g0v-slack-archive": ["g0v-hackath50n"],
+  "lawtrace": [{"id": "g0v-hackath66n", "keyword": "LawTrace"}],
+  "congressthon": [
+    {"id": "g0v-hackath62n", "keyword": "國會"},
+    {"id": "g0v-hackath64n", "keyword": "國會"},
+    {"id": "g0v-hackath65n", "keyword": "國會松"},
+    "g0v-hackath67n",
+    "g0v-hackath68n"
+  ],
+  "openbudget": [
+    {"id": "g0v-hackath65n", "keyword": "預算"},
+    {"id": "g0v-hackath66n", "keyword": "預算"},
+    {"id": "g0v-hackath69n", "keyword": "預算"}
+  ],
+  "twtvnews": [{"id": "g0v-hackath34n", "keyword": "鄉民"}],
+  "political-candidate": [{"id": "g0v-hackath34n", "keyword": "立委"}]
+}

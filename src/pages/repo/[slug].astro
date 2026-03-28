@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import RepoCard from '../../components/RepoCard.astro';
 import { getAllStories, getStoryBySlug } from '../../lib/stories.js';
 import { marked } from 'marked';
+import { readFileSync, existsSync } from 'fs';
+import { join } from 'path';
 
 export async function getStaticPaths() {
   const stories = getAllStories();
@@ -15,19 +17,107 @@ const base = import.meta.env.BASE_URL;
 
 if (!story) return Astro.redirect(`${base}/`);
 
-// 同語言或同 topic 的相關 repo
+// ── Hackathon entries ─────────────────────────────────────────────────────
+const hackathonLinksPath = join(process.cwd(), 'data', 'story-hackathon-links.json');
+const hackathonDataPath  = join(process.cwd(), 'data', 'g0v-hackathon-data.json');
+const hackathonListPath  = join(process.cwd(), 'data', 'g0v-hackathons-list.json');
+
+const storyHackathonLinks: Record<string, string[]> = existsSync(hackathonLinksPath)
+  ? JSON.parse(readFileSync(hackathonLinksPath, 'utf-8'))
+  : {};
+const hackathonData: Record<string, any> = existsSync(hackathonDataPath)
+  ? JSON.parse(readFileSync(hackathonDataPath, 'utf-8'))
+  : {};
+const hackathonList: any[] = existsSync(hackathonListPath)
+  ? JSON.parse(readFileSync(hackathonListPath, 'utf-8'))
+  : [];
+
+const hackathonNameMap: Record<string, string> = {};
+for (const h of hackathonList) {
+  hackathonNameMap[`g0v-hackath${h.num}n`] = h.name || '';
+}
+
+const RONNY = ['ronny', 'ronnywang', '王向榮'];
+function isRonny(name: string | undefined) {
+  if (!name) return false;
+  return RONNY.some(r => name.toLowerCase().includes(r));
+}
+
+interface HackathonSection {
+  hackathonId: string;
+  num: number;
+  date: string;
+  name: string;
+  entries: { type: string; entry: any }[];
+}
+
+const hackathonSections: HackathonSection[] = [];
+
+const rawLinks: (string | { id: string; keyword?: string })[] = storyHackathonLinks[slug] || [];
+for (const ref of rawLinks) {
+  const hid = typeof ref === 'string' ? ref : ref.id;
+  const keyword = typeof ref === 'string' ? null : (ref.keyword || null);
+  const h = hackathonData[hid];
+  if (!h) continue;
+  const entries: { type: string; entry: any }[] = [];
+  for (const [type, list] of [['提案', h.proposals || []], ['短講', h.lightning || []], ['成果報告', h.reports || []]] as [string, any[]][]) {
+    for (const e of list) {
+      if (!isRonny(e.presenter)) continue;
+      if (keyword) {
+        const proj = (e.project || e.topic || '').toLowerCase();
+        if (!proj.includes(keyword.toLowerCase())) continue;
+      }
+      entries.push({ type, entry: e });
+    }
+  }
+  if (entries.length > 0) {
+    hackathonSections.push({
+      hackathonId: hid,
+      num: h.num,
+      date: h.date,
+      name: hackathonNameMap[hid] || h.name || '',
+      entries,
+    });
+  }
+}
+
+// ── Related stories ───────────────────────────────────────────────────────
 const all = getAllStories();
+const topics = Array.isArray(story.topics) ? story.topics : [];
+
+// Generic topics that are too broad for matching
+const GENERIC_TOPICS = new Set(['g0v', 'open-data', 'crawler', 'open-gov']);
+
+// Explicit related repos from frontmatter (relatedRepos or also)
+const explicitRelated: string[] = [
+  ...(Array.isArray(story.relatedRepos) ? story.relatedRepos : []),
+  ...(story.also ? [story.also] : []),
+].filter(Boolean);
+
+const specificTopics = topics.filter(t => !GENERIC_TOPICS.has(t));
+
 const related = all
-  .filter(s => s.slug !== slug && (
-    s.language === story.language ||
-    (Array.isArray(s.topics) && Array.isArray(story.topics) &&
-     s.topics.some(t => story.topics.includes(t)))
-  ))
-  .slice(0, 4);
+  .filter(s => s.slug !== slug)
+  .map(s => {
+    const sTopics = (Array.isArray(s.topics) ? s.topics : []).map((t: string) => t.toLowerCase());
+    const mySpecific = specificTopics.map(t => t.toLowerCase());
+    const sharedSpecific = sTopics.filter(t => mySpecific.includes(t));
+    const isExplicit = explicitRelated.includes(s.slug);
+    return { s, score: isExplicit ? 100 : sharedSpecific.length * 2, isExplicit, hasSpecific: sharedSpecific.length > 0 };
+  })
+  .filter(({ isExplicit, hasSpecific }) => isExplicit || hasSpecific)
+  .sort((a, b) => b.score - a.score)
+  .slice(0, 4)
+  .map(({ s }) => s);
 
 const year = story.date ? story.date.slice(0, 4) : '';
-const topics = Array.isArray(story.topics) ? story.topics : [];
 const contentHtml = story.content ? marked.parse(story.content) : '';
+
+const typeColor: Record<string, string> = {
+  '提案':   'bg-indigo-50 border-indigo-200 text-indigo-600',
+  '短講':   'bg-amber-50 border-amber-200 text-amber-700',
+  '成果報告': 'bg-emerald-50 border-emerald-200 text-emerald-700',
+};
 ---
 
 <BaseLayout title={`${story.slug} — Ronny 的開源回憶錄`} description={story.summary || ''}>
@@ -108,9 +198,61 @@ const contentHtml = story.content ? marked.parse(story.content) : '';
     )}
   </article>
 
+  <!-- Hackathon entries -->
+  {hackathonSections.length > 0 && (
+    <section class="border-t border-stone-200 pt-8 mt-4 max-w-3xl">
+      <h2 class="text-lg font-bold text-stone-800 mb-4">在 g0v 大松的紀錄</h2>
+      <div class="space-y-3">
+        {hackathonSections.map(section => (
+          <div class="border border-stone-200 rounded-xl overflow-hidden">
+            <div class="bg-stone-50 px-4 py-2.5 flex items-center gap-3 border-b border-stone-200">
+              <a href={`${base}/events/g0v-hackathon/th${section.num}n`}
+                 class="text-xs font-mono bg-amber-100 border border-amber-300 text-amber-800 px-2 py-0.5 rounded hover:bg-amber-200 transition-colors">
+                第{section.num}n
+              </a>
+              <span class="text-sm font-medium text-stone-600">{section.name}</span>
+              <span class="text-xs text-stone-400 ml-auto">{section.date}</span>
+            </div>
+            <div class="divide-y divide-stone-100">
+              {section.entries.map(({ type, entry }) => (
+                <div class="px-4 py-2.5 flex items-start gap-3">
+                  <span class={`text-xs px-2 py-0.5 rounded border font-medium shrink-0 mt-0.5 ${typeColor[type]}`}>
+                    {type}
+                  </span>
+                  <div class="flex-1 min-w-0">
+                    <div class="text-sm text-stone-700 truncate">
+                      {entry.project || entry.topic || '（未命名）'}
+                    </div>
+                    {entry.brief && (
+                      <div class="text-xs text-stone-400 mt-0.5">{entry.brief}</div>
+                    )}
+                  </div>
+                  <div class="flex gap-2 shrink-0">
+                    {entry.hackmd && (
+                      <a href={entry.hackmd} target="_blank" rel="noopener"
+                         class="text-xs text-stone-400 hover:text-indigo-600 transition-colors" title="共筆">
+                        📝
+                      </a>
+                    )}
+                    {entry.slides && (
+                      <a href={entry.slides} target="_blank" rel="noopener"
+                         class="text-xs text-stone-400 hover:text-indigo-600 transition-colors" title="簡報">
+                        🖼
+                      </a>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
   <!-- Related -->
   {related.length > 0 && (
-    <section class="border-t border-stone-200 pt-8 mt-4">
+    <section class="border-t border-stone-200 pt-8 mt-8">
       <h2 class="text-lg font-bold text-stone-800 mb-4">相關專案</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
         {related.map(s => <RepoCard story={s} compact={true} />)}
