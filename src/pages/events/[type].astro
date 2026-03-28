@@ -147,21 +147,21 @@ const ronnyCount = sessions.filter((s: any) => s.hasRonny).length;
                   s.hasRonny ? 'bg-amber-100 border-amber-400 text-amber-800' : chipCls
                 }`}>第{s.num}n</span>
                 <span class="text-xs text-stone-400">{s.date}</span>
-                {s.hasRonny && <span class="text-[10px] bg-amber-200 text-amber-800 px-1 py-0.5 rounded font-semibold ml-auto">Ronny</span>}
+                <div class="ml-auto flex items-center gap-1.5">
+                  {s.hasRonny && <span class="text-[10px] bg-amber-200 text-amber-800 px-1 py-0.5 rounded font-semibold">Ronny</span>}
+                  {s.kktix && (
+                    <a href={s.kktix} target="_blank" rel="noopener"
+                      class="text-[10px] text-stone-400 hover:text-indigo-500 transition-colors"
+                      onclick="event.stopPropagation()">
+                      🎟
+                    </a>
+                  )}
+                </div>
               </div>
               {s.name && <div class="text-sm text-stone-700 truncate">{s.name}</div>}
-              {s.location && <div class="text-xs text-stone-400 mt-1 truncate">📍 {s.location}</div>}
-              <div class="flex items-center justify-between mt-1">
-                <div class={`text-xs group-hover:opacity-100 ${s.hasRonny ? 'text-amber-600' : 'text-indigo-400 group-hover:text-indigo-600'}`}>
-                  查看詳情 →
-                </div>
-                {s.kktix && (
-                  <a href={s.kktix} target="_blank" rel="noopener"
-                    class="text-[10px] text-stone-400 hover:text-indigo-500 transition-colors"
-                    onclick="event.stopPropagation()">
-                    🎟 KKTIX
-                  </a>
-                )}
+              {s.location && <div class="text-xs text-stone-400 mt-0.5 truncate">📍 {s.location}</div>}
+              <div class={`text-xs mt-1 group-hover:opacity-100 ${s.hasRonny ? 'text-amber-600' : 'text-indigo-400 group-hover:text-indigo-600'}`}>
+                查看詳情 →
               </div>
             </a>
           ))}
