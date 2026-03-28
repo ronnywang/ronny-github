@@ -16,8 +16,10 @@ const summitYears = Object.keys(summitData).sort((a, b) => Number(b) - Number(a)
 
 // Build hackathon name lookup
 const hackNameMap: Record<number, string> = {};
+const hackLocationMap: Record<number, string> = {};
 for (const h of allHackathons) {
   hackNameMap[h.num] = h.name;
+  hackLocationMap[h.num] = h.location || '';
 }
 
 const base = import.meta.env.BASE_URL;
@@ -34,6 +36,7 @@ interface Entry {
   num: number;
   date: string;
   hackathonName: string;
+  location: string;
   type: 'proposal' | 'lightning' | 'report';
   entry: any;
 }
@@ -43,17 +46,17 @@ const entries: Entry[] = [];
 for (const [key, h] of Object.entries(hackathonData) as any) {
   for (const p of (h.proposals || [])) {
     if (isRonny(p.presenter)) {
-      entries.push({ hackathonId: key, num: h.num, date: h.date, hackathonName: h.name || hackNameMap[h.num] || '', type: 'proposal', entry: p });
+      entries.push({ hackathonId: key, num: h.num, date: h.date, hackathonName: h.name || hackNameMap[h.num] || '', location: hackLocationMap[h.num] || '', type: 'proposal', entry: p });
     }
   }
   for (const p of (h.lightning || [])) {
     if (isRonny(p.presenter)) {
-      entries.push({ hackathonId: key, num: h.num, date: h.date, hackathonName: h.name || hackNameMap[h.num] || '', type: 'lightning', entry: p });
+      entries.push({ hackathonId: key, num: h.num, date: h.date, hackathonName: h.name || hackNameMap[h.num] || '', location: hackLocationMap[h.num] || '', type: 'lightning', entry: p });
     }
   }
   for (const p of (h.reports || [])) {
     if (isRonny(p.presenter)) {
-      entries.push({ hackathonId: key, num: h.num, date: h.date, hackathonName: h.name || hackNameMap[h.num] || '', type: 'report', entry: p });
+      entries.push({ hackathonId: key, num: h.num, date: h.date, hackathonName: h.name || hackNameMap[h.num] || '', location: hackLocationMap[h.num] || '', type: 'report', entry: p });
     }
   }
 }
@@ -164,6 +167,9 @@ const reportCount = entries.filter(e => e.type === 'report').length;
               <div>
                 <span class="text-sm font-semibold text-stone-700">{first.hackathonName}</span>
                 <span class="text-xs text-stone-400 ml-2">{first.date}</span>
+                {first.location && first.location !== '未記錄' && (
+                  <span class="text-xs text-stone-400 ml-1">· 📍 {first.location}</span>
+                )}
               </div>
             </div>
             <div class="flex gap-1">

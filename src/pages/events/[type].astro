@@ -43,7 +43,7 @@ export async function getStaticPaths() {
       description: 'g0v 社群從 2012 年起每兩個月舉辦一次黑客松，以「人、坑、松」為核心，去中心化運作，沒有老大、沒有門檻，任何人都可以提案、任何人都可以參加。至今已超過 70 次，是台灣最重要的公民科技社群活動之一。',
       sessions: allHackathons.map((h: any) => ({
         num: h.num, date: h.date, name: h.name,
-        location: null, kktix: h.kktix || null, notes: null,
+        location: h.location || null, kktix: h.kktix || null, notes: null,
         hasRonny: ronnyNums.has(h.num),
         hasData: !!hackathonData[`g0v-hackath${h.num}n`],
       })),
