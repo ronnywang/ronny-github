@@ -10,6 +10,29 @@ export async function getStaticPaths() {
   const eventSessions = JSON.parse(
     readFileSync(join(process.cwd(), 'data', 'event-sessions.json'), 'utf-8')
   );
+  const hackathonData = JSON.parse(
+    readFileSync(join(process.cwd(), 'data', 'g0v-hackathon-data.json'), 'utf-8')
+  );
+
+  // 計算哪些大松有 Ronny 的提案/短講/成果
+  const RONNY = ['ronny', 'ronnywang', '王向榮'];
+  function hasRonny(entries: any[]) {
+    return entries.some(e => {
+      const n = (e.presenter || '').toLowerCase();
+      return RONNY.some(r => n.includes(r));
+    });
+  }
+  const ronnyNums = new Set<number>();
+  for (const [key, h] of Object.entries(hackathonData) as any) {
+    const num = h.num as number;
+    if (
+      hasRonny(h.proposals || []) ||
+      hasRonny(h.lightning || []) ||
+      hasRonny(h.reports || [])
+    ) {
+      ronnyNums.add(num);
+    }
+  }
 
   const g0vPath = {
     params: { type: 'g0v-hackathon' },
@@ -18,21 +41,23 @@ export async function getStaticPaths() {
       title: 'g0v 黑客松',
       color: 'indigo',
       description: 'g0v 社群從 2012 年起每兩個月舉辦一次黑客松，以「人、坑、松」為核心，去中心化運作，沒有老大、沒有門檻，任何人都可以提案、任何人都可以參加。至今已超過 70 次，是台灣最重要的公民科技社群活動之一。',
-      sessions: allHackathons.map(h => ({
+      sessions: allHackathons.map((h: any) => ({
         num: h.num, date: h.date, name: h.name,
         location: null, kktix: null, notes: null,
+        hasRonny: ronnyNums.has(h.num),
+        hasData: !!hackathonData[`g0v-hackath${h.num}n`],
       })),
     },
   };
 
-  const eventPaths = Object.entries(eventSessions).map(([key, ev]) => ({
+  const eventPaths = Object.entries(eventSessions).map(([key, ev]: any) => ({
     params: { type: key },
     props: {
       key,
       title: ev.label,
       color: ev.color,
       description: ev.description || '',
-      sessions: ev.sessions,
+      sessions: ev.sessions.map((s: any) => ({ ...s, hasRonny: false, hasData: false })),
     },
   }));
 
@@ -65,6 +90,8 @@ for (const s of sessions) {
   byYear[y].push(s);
 }
 const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+
+const ronnyCount = sessions.filter((s: any) => s.hasRonny).length;
 ---
 
 <BaseLayout title={`${title} — Ronny 的開源回憶錄`}>
@@ -72,7 +99,31 @@ const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
     <a href={`${base}/timeline`} class="text-sm text-stone-400 hover:text-indigo-500 mb-4 inline-block">← 時間軸</a>
     <h1 class={`text-3xl font-bold mb-3 ${headerColor}`}>{title}</h1>
     {description && <p class="text-stone-600 max-w-2xl leading-relaxed">{description}</p>}
-    <p class="text-stone-400 text-sm mt-3">共 {sessions.length} 場</p>
+    <div class="flex items-center gap-4 mt-3">
+      <p class="text-stone-400 text-sm">共 {sessions.length} 場</p>
+      {ronnyCount > 0 && (
+        <p class="text-amber-600 text-sm">
+          <span class="inline-block bg-amber-100 border border-amber-300 rounded px-1.5 py-0.5 text-xs font-semibold mr-1">Ronny</span>
+          出現在 {ronnyCount} 場
+        </p>
+      )}
+    </div>
+    {key === 'g0v-hackathon' && (
+      <div class="mt-3 flex gap-3">
+        <span class="text-xs text-stone-400 flex items-center gap-1">
+          <span class="inline-block w-3 h-3 rounded bg-amber-100 border border-amber-300"></span>
+          有 Ronny 的提案或成果分享
+        </span>
+        <span class="text-xs text-stone-400 flex items-center gap-1">
+          <span class="inline-block w-3 h-3 rounded bg-indigo-50 border border-indigo-200"></span>
+          已有資料
+        </span>
+        <span class="text-xs text-stone-400 flex items-center gap-1">
+          <span class="inline-block w-3 h-3 rounded bg-stone-50 border border-stone-200"></span>
+          尚無資料
+        </span>
+      </div>
+    )}
   </div>
 
   <div class="space-y-10">
@@ -80,18 +131,29 @@ const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
       <section>
         <h2 class="text-lg font-bold text-stone-600 mb-3 border-b border-stone-100 pb-1">{year}</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {byYear[year].map(s => (
+          {byYear[year].map((s: any) => (
             <a
               href={`${base}/events/${key}/th${s.num}n`}
-              class="block border border-stone-200 rounded-lg p-3 hover:border-indigo-300 hover:shadow-sm transition-all group"
+              class={`block border rounded-lg p-3 hover:shadow-sm transition-all group ${
+                s.hasRonny
+                  ? 'bg-amber-50 border-amber-300 hover:border-amber-400'
+                  : s.hasData
+                    ? 'border-stone-200 hover:border-indigo-300'
+                    : 'border-stone-100 hover:border-stone-300 opacity-70'
+              }`}
             >
               <div class="flex items-center gap-2 mb-1">
-                <span class={`text-xs font-mono px-1.5 py-0.5 rounded border ${chipCls}`}>第{s.num}n</span>
+                <span class={`text-xs font-mono px-1.5 py-0.5 rounded border ${
+                  s.hasRonny ? 'bg-amber-100 border-amber-400 text-amber-800' : chipCls
+                }`}>第{s.num}n</span>
                 <span class="text-xs text-stone-400">{s.date}</span>
+                {s.hasRonny && <span class="text-[10px] bg-amber-200 text-amber-800 px-1 py-0.5 rounded font-semibold ml-auto">Ronny</span>}
               </div>
               {s.name && <div class="text-sm text-stone-700 truncate">{s.name}</div>}
               {s.location && <div class="text-xs text-stone-400 mt-1 truncate">📍 {s.location}</div>}
-              <div class="text-xs text-indigo-400 mt-1 group-hover:text-indigo-600">查看詳情 →</div>
+              <div class={`text-xs mt-1 group-hover:opacity-100 ${s.hasRonny ? 'text-amber-600' : 'text-indigo-400 group-hover:text-indigo-600'}`}>
+                查看詳情 →
+              </div>
             </a>
           ))}
         </div>

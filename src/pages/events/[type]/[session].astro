@@ -10,11 +10,16 @@ export async function getStaticPaths() {
   const eventSessions = JSON.parse(
     readFileSync(join(process.cwd(), 'data', 'event-sessions.json'), 'utf-8')
   );
+  const hackathonData = JSON.parse(
+    readFileSync(join(process.cwd(), 'data', 'g0v-hackathon-data.json'), 'utf-8')
+  );
 
   const paths = [];
 
   // g0v 大松場次
   for (const h of allHackathons) {
+    const key = `g0v-hackath${h.num}n`;
+    const hdata = hackathonData[key] || null;
     paths.push({
       params: { type: 'g0v-hackathon', session: `th${h.num}n` },
       props: {
@@ -22,6 +27,7 @@ export async function getStaticPaths() {
         typeLabel: 'g0v 黑客松',
         color: 'indigo',
         session: { num: h.num, date: h.date, name: h.name, location: null, kktix: null, notes: null },
+        hdata,
       },
     });
   }
@@ -36,6 +42,7 @@ export async function getStaticPaths() {
           typeLabel: ev.label,
           color: ev.color,
           session: s,
+          hdata: null,
         },
       });
     }
@@ -44,7 +51,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { type, typeLabel, color, session } = Astro.props;
+const { type, typeLabel, color, session, hdata } = Astro.props;
 const base = import.meta.env.BASE_URL;
 
 const headerColor = {
@@ -70,6 +77,12 @@ const btnCls = {
   orange: 'bg-orange-600 hover:bg-orange-700',
   teal: 'bg-teal-600 hover:bg-teal-700',
 }[color] || 'bg-stone-600 hover:bg-stone-700';
+
+const RONNY_NAMES = ['ronny', 'ronnywang', '王向榮'];
+function isRonny(name: string | undefined) {
+  if (!name) return false;
+  return RONNY_NAMES.some(r => name.toLowerCase().includes(r));
+}
 ---
 
 <BaseLayout title={`${typeLabel} 第${session.num}n — Ronny 的開源回憶錄`}>
@@ -84,7 +97,9 @@ const btnCls = {
       <span class={`text-sm font-mono px-2 py-1 rounded border ${chipCls}`}>第{session.num}n</span>
       <h1 class={`text-2xl font-bold ${headerColor}`}>{typeLabel}</h1>
     </div>
-    {session.name && <p class="text-stone-600 text-lg">{session.name}</p>}
+    {(session.name || (hdata && hdata.name)) && (
+      <p class="text-stone-600 text-lg">{session.name || hdata?.name}</p>
+    )}
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
@@ -96,16 +111,25 @@ const btnCls = {
           <span class="text-stone-400 text-sm w-12 shrink-0">日期</span>
           <span class="text-stone-700 text-sm">{session.date}</span>
         </div>
-        {session.location && (
+        {session.location ? (
           <div class="flex items-start gap-2">
             <span class="text-stone-400 text-sm w-12 shrink-0">地點</span>
             <span class="text-stone-700 text-sm">{session.location}</span>
           </div>
-        )}
-        {!session.location && (
+        ) : (
           <div class="flex items-start gap-2">
             <span class="text-stone-400 text-sm w-12 shrink-0">地點</span>
             <span class="text-stone-300 text-sm italic">未記錄</span>
+          </div>
+        )}
+        {hdata && (
+          <div class="flex items-start gap-2 pt-1 border-t border-stone-200">
+            <span class="text-stone-400 text-sm w-12 shrink-0">資料</span>
+            <span class="text-stone-500 text-sm">
+              {hdata.proposals_count > 0 && `${hdata.proposals_count} 提案`}
+              {hdata.lightning_count > 0 && ` · ${hdata.lightning_count} 短講`}
+              {hdata.reports_count > 0 && ` · ${hdata.reports_count} 成果`}
+            </span>
           </div>
         )}
       </div>
@@ -129,6 +153,12 @@ const btnCls = {
             <span>📝</span> 活動共筆（HackMD）
           </a>
         )}
+        {type === 'g0v-hackathon' && (
+          <a href={`https://g0v.hackmd.io/@jothon/g0v-hackath${session.num}n`} target="_blank"
+            class="flex items-center gap-2 text-sm text-stone-600 bg-white border border-stone-200 px-3 py-2 rounded-lg hover:border-stone-300 transition-colors">
+            <span>📖</span> hackfoldr（@jothon）
+          </a>
+        )}
       </div>
     </div>
   </div>
@@ -137,6 +167,148 @@ const btnCls = {
     <div class="bg-white border border-stone-200 rounded-xl p-5 mb-6">
       <h2 class="text-sm font-semibold text-stone-500 uppercase tracking-wide mb-2">活動說明</h2>
       <p class="text-stone-700 leading-relaxed">{session.description}</p>
+    </div>
+  )}
+
+  {/* 提案列表 */}
+  {hdata && hdata.proposals && hdata.proposals.length > 0 && (
+    <div class="mb-8">
+      <h2 class="text-base font-semibold text-stone-700 mb-3 flex items-center gap-2">
+        <span class="text-lg">🚀</span> 提案（{hdata.proposals_count}）
+      </h2>
+      <div class="space-y-2">
+        {hdata.proposals.map((p: any) => {
+          const ronny = isRonny(p.presenter);
+          return (
+            <div class={`rounded-lg px-4 py-3 border ${ronny ? 'bg-amber-50 border-amber-300' : 'bg-white border-stone-200'}`}>
+              <div class="flex items-start gap-3">
+                <span class="text-stone-300 text-xs font-mono w-5 shrink-0 pt-0.5">{p.seq}</span>
+                <div class="flex-1 min-w-0">
+                  <div class="flex items-center gap-2 flex-wrap">
+                    <span class={`text-sm font-medium ${ronny ? 'text-amber-800' : 'text-stone-800'}`}>
+                      {p.project || p.topic || '（未命名）'}
+                    </span>
+                    {ronny && <span class="text-[10px] bg-amber-200 text-amber-800 px-1.5 py-0.5 rounded font-semibold">Ronny</span>}
+                  </div>
+                  <div class="flex items-center gap-2 mt-1 flex-wrap">
+                    {p.presenter && <span class="text-xs text-stone-400">{p.presenter}</span>}
+                    {p.time && <span class="text-xs text-stone-300">{p.time}</span>}
+                    {p.brief && <span class="text-xs text-stone-400 bg-stone-50 px-1.5 py-0.5 rounded">{p.brief}</span>}
+                  </div>
+                  {p.topic && p.topic !== p.project && (
+                    <div class="text-xs text-stone-500 mt-1">{p.topic}</div>
+                  )}
+                  {p.hackmd && (
+                    <a href={p.hackmd} target="_blank" class="text-xs text-indigo-400 hover:text-indigo-600 mt-1 inline-block">
+                      📝 共筆
+                    </a>
+                  )}
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  )}
+
+  {/* 短講列表 */}
+  {hdata && hdata.lightning && hdata.lightning.length > 0 && (
+    <div class="mb-8">
+      <h2 class="text-base font-semibold text-stone-700 mb-3 flex items-center gap-2">
+        <span class="text-lg">⚡</span> 短講（{hdata.lightning_count}）
+      </h2>
+      <div class="space-y-2">
+        {hdata.lightning.map((p: any) => {
+          const ronny = isRonny(p.presenter);
+          return (
+            <div class={`rounded-lg px-4 py-3 border ${ronny ? 'bg-amber-50 border-amber-300' : 'bg-white border-stone-200'}`}>
+              <div class="flex items-start gap-3">
+                <span class="text-stone-300 text-xs font-mono w-5 shrink-0 pt-0.5">{p.seq}</span>
+                <div class="flex-1 min-w-0">
+                  <div class="flex items-center gap-2 flex-wrap">
+                    <span class={`text-sm font-medium ${ronny ? 'text-amber-800' : 'text-stone-800'}`}>
+                      {p.project || p.topic || '（未命名）'}
+                    </span>
+                    {ronny && <span class="text-[10px] bg-amber-200 text-amber-800 px-1.5 py-0.5 rounded font-semibold">Ronny</span>}
+                  </div>
+                  <div class="flex items-center gap-2 mt-1 flex-wrap">
+                    {p.presenter && <span class="text-xs text-stone-400">{p.presenter}</span>}
+                    {p.time && <span class="text-xs text-stone-300">{p.time}</span>}
+                    {p.brief && <span class="text-xs text-stone-400 bg-stone-50 px-1.5 py-0.5 rounded">{p.brief}</span>}
+                  </div>
+                  {p.topic && p.topic !== p.project && (
+                    <div class="text-xs text-stone-500 mt-1">{p.topic}</div>
+                  )}
+                  {p.hackmd && (
+                    <a href={p.hackmd} target="_blank" class="text-xs text-indigo-400 hover:text-indigo-600 mt-1 inline-block">
+                      📝 共筆
+                    </a>
+                  )}
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  )}
+
+  {/* 成果報告列表 */}
+  {hdata && hdata.reports && hdata.reports.length > 0 && (
+    <div class="mb-8">
+      <h2 class="text-base font-semibold text-stone-700 mb-3 flex items-center gap-2">
+        <span class="text-lg">📊</span> 成果報告（{hdata.reports_count}）
+      </h2>
+      <div class="space-y-2">
+        {hdata.reports.map((p: any) => {
+          const ronny = isRonny(p.presenter);
+          return (
+            <div class={`rounded-lg px-4 py-3 border ${ronny ? 'bg-amber-50 border-amber-300' : 'bg-white border-stone-200'}`}>
+              <div class="flex items-start gap-3">
+                <span class="text-stone-300 text-xs font-mono w-5 shrink-0 pt-0.5">{p.seq}</span>
+                <div class="flex-1 min-w-0">
+                  <div class="flex items-center gap-2 flex-wrap">
+                    <span class={`text-sm font-medium ${ronny ? 'text-amber-800' : 'text-stone-800'}`}>
+                      {p.project || p.topic || '（未命名）'}
+                    </span>
+                    {ronny && <span class="text-[10px] bg-amber-200 text-amber-800 px-1.5 py-0.5 rounded font-semibold">Ronny</span>}
+                  </div>
+                  <div class="flex items-center gap-2 mt-1 flex-wrap">
+                    {p.presenter && <span class="text-xs text-stone-400">{p.presenter}</span>}
+                    {p.time && <span class="text-xs text-stone-300">{p.time}</span>}
+                    {p.brief && <span class="text-xs text-stone-400 bg-stone-50 px-1.5 py-0.5 rounded">{p.brief}</span>}
+                  </div>
+                  {p.topic && p.topic !== p.project && (
+                    <div class="text-xs text-stone-500 mt-1">{p.topic}</div>
+                  )}
+                  {(p.hackmd || p.slides) && (
+                    <div class="flex gap-3 mt-1">
+                      {p.hackmd && (
+                        <a href={p.hackmd} target="_blank" class="text-xs text-indigo-400 hover:text-indigo-600">
+                          📝 共筆
+                        </a>
+                      )}
+                      {p.slides && (
+                        <a href={p.slides} target="_blank" class="text-xs text-indigo-400 hover:text-indigo-600">
+                          🖼 投影片
+                        </a>
+                      )}
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  )}
+
+  {/* 無資料提示 */}
+  {type === 'g0v-hackathon' && !hdata && (
+    <div class="text-sm text-stone-400 italic bg-stone-50 rounded-xl p-5 mb-6">
+      這次黑客松的提案資料尚未整理入庫。
     </div>
   )}
 
