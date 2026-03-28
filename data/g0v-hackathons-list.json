@@ -339,9 +339,10 @@
     "num": 42,
     "date": "2021-01-23",
     "year": 2021,
-    "name": "黑客松",
+    "name": "g0v hackath42n｜生命、宇宙以及萬事萬物的終極答案黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath42n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath42n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath42n",
+    "location": "線上（Gather Town）"
   },
   {
     "num": 43,
@@ -363,17 +364,19 @@
     "num": 45,
     "date": "2021-08-21",
     "year": 2021,
-    "name": "g0v hackath45n｜",
+    "name": "g0v hackath45n｜原本在台中黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath45n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath45n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath45n",
+    "location": "線上（Gather Town）"
   },
   {
     "num": 46,
     "date": "2021-10-23",
     "year": 2021,
-    "name": "g0v hackath46n｜",
+    "name": "g0v hackath46n｜九週年黑客松",
     "kktix": "https://g0v-jothon.kktix.cc/events/g0v-hackath46n",
-    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath46n"
+    "hackfoldr": "https://beta.hackfoldr.org/g0v-hackath46n",
+    "location": "集思交通部國際會議中心，台北"
   },
   {
     "num": 47,
