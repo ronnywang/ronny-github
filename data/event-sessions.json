@@ -99,5 +99,17 @@
       {"num": 24, "date": "2024-04-20", "location": "NPO HUB Taipei 4F 社群廚房", "kktix": "https://g0v-jothon.kktix.cc/events/infrath24n", "notes": null},
       {"num": 25, "date": "2024-10-06", "location": "NPO HUB Taipei 2F 論壇空間", "kktix": "https://g0v-jothon.kktix.cc/events/infrath25n", "notes": null}
     ]
+  },
+  "g0v-summit": {
+    "label": "g0v Summit",
+    "color": "violet",
+    "description": "g0v 社群每兩年舉辦一次的大型國際峰會，匯聚全球公民科技社群共同討論開放政府、數位民主等議題。Ronny 從 2014 年起歷屆參與，在 2014、2018、2020、2024 年均有上台分享，主題涵蓋政府開放資料、政治獻金透明化、數位身分證、開放國會等。",
+    "sessions": [
+      {"num": 2014, "date": "2014-11-08", "name": "g0v Summit 2014", "location": "中央研究院人文社會科學館", "hasRonny": true},
+      {"num": 2016, "date": "2016-05-07", "name": "g0v Summit 2016", "location": "中央研究院", "hasRonny": false},
+      {"num": 2018, "date": "2018-10-06", "name": "g0v Summit 2018", "location": "台北", "hasRonny": true},
+      {"num": 2020, "date": "2020-12-03", "name": "g0v Summit 2020", "location": "台南（多場館）", "hasRonny": true},
+      {"num": 2024, "date": "2024-11-16", "name": "g0v Summit 2024", "location": "台北", "hasRonny": true}
+    ]
   }
 }

@@ -1,0 +1,114 @@
+{
+  "2014": {
+    "year": 2014,
+    "startDate": "2014-11-08",
+    "endDate": "2014-11-09",
+    "location": "中央研究院人文社會科學館",
+    "city": "台北",
+    "url": "https://summit.g0v.tw/2014",
+    "scheduleUrl": "https://summit.g0v.tw/2014/zh-TW/schedule.html",
+    "ronny": [
+      {
+        "title": "解放政府圖檔資料行動",
+        "day": "2014-11-08",
+        "time": "14:10-14:40",
+        "room": null,
+        "type": "talk",
+        "role": "主講"
+      }
+    ]
+  },
+  "2016": {
+    "year": 2016,
+    "startDate": "2016-05-07",
+    "endDate": "2016-05-08",
+    "location": "中央研究院",
+    "city": "台北",
+    "url": "https://summit.g0v.tw/2016",
+    "scheduleUrl": "https://summit.g0v.tw/2016/schedules",
+    "ronny": []
+  },
+  "2018": {
+    "year": 2018,
+    "startDate": "2018-10-06",
+    "endDate": "2018-10-07",
+    "location": null,
+    "city": "台北",
+    "url": "https://summit.g0v.tw/2018",
+    "scheduleUrl": "https://summit.g0v.tw/2018/agenda",
+    "ronny": [
+      {
+        "title": "政治獻金開放資料從社群、媒體到政府的實作旅程",
+        "day": "2018-10-06",
+        "time": "11:00-11:20",
+        "room": "R2",
+        "type": "talk",
+        "role": "主講"
+      }
+    ]
+  },
+  "2020": {
+    "year": 2020,
+    "startDate": "2020-12-03",
+    "endDate": "2020-12-06",
+    "location": "台南市美術館 2 館・成大綠色魔法學校・吳園藝文中心・C-Hub 成大創意基地・好想工作室",
+    "city": "台南",
+    "url": "https://summit.g0v.tw/2020",
+    "scheduleUrl": "https://summit.g0v.tw/2020/agenda/2020-12-04",
+    "ronny": [
+      {
+        "title": "線上揪松「揪己家」工作坊",
+        "day": "2020-12-04",
+        "time": "17:00-18:00",
+        "room": "Room A・台南市美術館 2 館 跨域展演廳",
+        "type": "workshop",
+        "role": "主持",
+        "category": "東亞齊揪松",
+        "note": "與 Sean Gau 共同主持，跨越東亞各地的線上揪松"
+      },
+      {
+        "title": "談台灣與國際的數位身分證發展與隱憂",
+        "day": "2020-12-04",
+        "time": null,
+        "room": null,
+        "type": "panel",
+        "role": "主持人"
+      },
+      {
+        "title": "將資料思維帶進政府",
+        "day": "2020-12-05",
+        "time": null,
+        "room": "R1・成大綠色魔法學校",
+        "type": "talk",
+        "role": "主講"
+      }
+    ]
+  },
+  "2024": {
+    "year": 2024,
+    "startDate": "2024-11-16",
+    "endDate": "2024-11-17",
+    "location": null,
+    "city": "台北",
+    "url": "https://summit.g0v.tw/2024",
+    "scheduleUrl": "https://summit.g0v.tw/2024/agenda/",
+    "ronny": [
+      {
+        "title": "開放國會四年回顧",
+        "day": null,
+        "time": null,
+        "room": null,
+        "type": "talk",
+        "role": "主講"
+      },
+      {
+        "title": "開源文化×政府協作",
+        "day": null,
+        "time": null,
+        "room": null,
+        "type": "talk",
+        "role": "主講"
+      }
+    ]
+  }
+}

@@ -9,6 +9,10 @@ const hackathonData = JSON.parse(
 const allHackathons = JSON.parse(
   readFileSync(join(process.cwd(), 'data', 'g0v-hackathons-list.json'), 'utf-8')
 );
+const summitData = JSON.parse(
+  readFileSync(join(process.cwd(), 'data', 'g0v-summit-data.json'), 'utf-8')
+);
+const summitYears = Object.keys(summitData).sort((a, b) => Number(b) - Number(a));
 
 // Build hackathon name lookup
 const hackNameMap: Record<number, string> = {};
@@ -94,6 +98,53 @@ const reportCount = entries.filter(e => e.type === 'report').length;
       <span class="px-3 py-1 bg-indigo-50 border border-indigo-200 text-indigo-700 rounded-full">🚀 {proposalCount} 提案</span>
       <span class="px-3 py-1 bg-amber-50 border border-amber-200 text-amber-700 rounded-full">⚡ {lightningCount} 短講</span>
       <span class="px-3 py-1 bg-emerald-50 border border-emerald-200 text-emerald-700 rounded-full">📊 {reportCount} 成果報告</span>
+    </div>
+  </div>
+
+  {/* g0v Summit 參與 */}
+  <div class="mb-10">
+    <div class="flex items-center justify-between mb-4">
+      <h2 class="text-xl font-bold text-violet-700">🌐 g0v Summit 參與</h2>
+      <a href={`${base}/events/g0v-summit`} class="text-sm text-violet-500 hover:text-violet-700 transition-colors">
+        查看詳細頁面 →
+      </a>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-3">
+      {summitYears.map(year => {
+        const s = summitData[year];
+        const hasRonny = s.ronny.length > 0;
+        return (
+          <a
+            href={`${base}/events/g0v-summit`}
+            class={`block border rounded-xl p-4 hover:shadow-sm transition-all ${
+              hasRonny ? 'border-violet-200 bg-violet-50 hover:border-violet-400' : 'border-stone-200 bg-stone-50 hover:border-stone-300 opacity-70'
+            }`}
+          >
+            <div class="flex items-center gap-2 mb-2">
+              <span class={`text-base font-bold ${hasRonny ? 'text-violet-700' : 'text-stone-500'}`}>
+                {year}
+              </span>
+              {hasRonny && (
+                <span class="text-[10px] bg-amber-100 border border-amber-300 text-amber-700 px-1.5 py-0.5 rounded font-semibold">
+                  Ronny
+                </span>
+              )}
+            </div>
+            <div class="text-xs text-stone-500 mb-1">
+              {s.city}{s.location && s.location !== s.city ? ` · ${s.location.split('・')[0]}` : ''}
+            </div>
+            {hasRonny ? (
+              <div class="space-y-1">
+                {s.ronny.map((r: any) => (
+                  <div class="text-xs text-violet-700 leading-tight">🎤 {r.title}</div>
+                ))}
+              </div>
+            ) : (
+              <div class="text-xs text-stone-400 italic">觀眾參與</div>
+            )}
+          </a>
+        );
+      })}
     </div>
   </div>
 

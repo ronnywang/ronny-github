@@ -38,6 +38,7 @@ const colorMap: Record<string, string> = {
   purple:  'border-purple-200 bg-purple-50 text-purple-700',
   orange:  'border-orange-200 bg-orange-50 text-orange-700',
   teal:    'border-teal-200 bg-teal-50 text-teal-700',
+  violet:  'border-violet-200 bg-violet-50 text-violet-700',
 };
 const headerColorMap: Record<string, string> = {
   indigo:  'text-indigo-600',
@@ -46,6 +47,7 @@ const headerColorMap: Record<string, string> = {
   purple:  'text-purple-600',
   orange:  'text-orange-600',
   teal:    'text-teal-600',
+  violet:  'text-violet-700',
 };
 
 const events = [
@@ -62,6 +64,10 @@ const events = [
   ...Object.entries(eventSessions).map(([key, ev]: any) => {
     const sessions = ev.sessions || [];
     const dates = sessions.map((s: any) => s.date).filter(Boolean).sort();
+    // For g0v-summit, count sessions where hasRonny is true
+    const ronnyCount = key === 'g0v-summit'
+      ? sessions.filter((s: any) => s.hasRonny).length
+      : null;
     return {
       key,
       label: ev.label,
@@ -70,7 +76,7 @@ const events = [
       count: sessions.length,
       latestDate: dates[dates.length - 1] || null,
       latestName: sessions.find((s: any) => s.date === dates[dates.length - 1])?.name || null,
-      ronnyCount: null, // 非 g0v 大松不統計
+      ronnyCount,
     };
   }),
 ];

@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { readFileSync } from 'fs';
+import { join } from 'path';
+
+const summitData = JSON.parse(
+  readFileSync(join(process.cwd(), 'data', 'g0v-summit-data.json'), 'utf-8')
+);
+
+const base = import.meta.env.BASE_URL;
+
+const years = Object.keys(summitData).sort((a, b) => Number(b) - Number(a));
+
+const typeLabel: Record<string, string> = {
+  talk: '演講',
+  workshop: '工作坊',
+  panel: '座談',
+};
+const typeColor: Record<string, string> = {
+  talk: 'bg-violet-50 border-violet-200 text-violet-700',
+  workshop: 'bg-amber-50 border-amber-200 text-amber-700',
+  panel: 'bg-sky-50 border-sky-200 text-sky-700',
+};
+
+const totalRonny = years.reduce((sum, y) => sum + summitData[y].ronny.length, 0);
+---
+
+<BaseLayout title="g0v Summit — Ronny 的開源回憶錄" description="Ronny 在歷屆 g0v Summit 的參與紀錄">
+  <div class="mb-8">
+    <a href={`${base}/hackathons`} class="text-sm text-stone-400 hover:text-violet-500 mb-4 inline-block">← 黑客松</a>
+    <h1 class="text-3xl font-bold text-violet-700 mb-3">g0v Summit</h1>
+    <p class="text-stone-600 max-w-2xl leading-relaxed mb-4">
+      g0v 社群每兩年舉辦一次的大型國際峰會，匯聚全球公民科技社群共同討論開放政府、數位民主等議題。
+      Ronny 從 2014 年首屆起歷屆參與，在多屆 Summit 中上台分享，主題涵蓋政府開放資料、政治獻金透明化、數位身分證、開放國會等。
+    </p>
+    <div class="flex flex-wrap gap-3 text-sm">
+      <span class="px-3 py-1 bg-stone-800 text-white rounded-full font-mono">5 屆 Summit</span>
+      <span class="px-3 py-1 bg-violet-50 border border-violet-200 text-violet-700 rounded-full">🎤 {totalRonny} 場分享</span>
+    </div>
+  </div>
+
+  <div class="space-y-8">
+    {years.map(year => {
+      const s = summitData[year];
+      const hasRonny = s.ronny.length > 0;
+      return (
+        <div class={`border rounded-xl overflow-hidden ${hasRonny ? 'border-violet-200' : 'border-stone-200 opacity-80'}`}>
+          {/* Summit header */}
+          <div class={`px-5 py-4 flex items-start justify-between ${hasRonny ? 'bg-violet-50' : 'bg-stone-50'} border-b ${hasRonny ? 'border-violet-200' : 'border-stone-200'}`}>
+            <div>
+              <div class="flex items-center gap-3 mb-1 flex-wrap">
+                <span class={`text-xl font-bold ${hasRonny ? 'text-violet-700' : 'text-stone-600'}`}>
+                  g0v Summit {year}
+                </span>
+                {hasRonny && (
+                  <span class="text-xs bg-amber-100 border border-amber-300 text-amber-800 px-2 py-0.5 rounded font-semibold">
+                    Ronny 有上台
+                  </span>
+                )}
+              </div>
+              <div class="flex flex-wrap gap-x-4 gap-y-1 text-sm text-stone-500">
+                <span>📅 {s.startDate}{s.endDate && s.endDate !== s.startDate ? ` ～ ${s.endDate}` : ''}</span>
+                {s.location && <span>📍 {s.location}</span>}
+                {!s.location && s.city && <span>📍 {s.city}</span>}
+              </div>
+            </div>
+            <a
+              href={s.url}
+              target="_blank"
+              rel="noopener"
+              class="text-xs text-violet-500 hover:text-violet-700 border border-violet-200 hover:border-violet-400 rounded px-2.5 py-1.5 transition-colors shrink-0"
+            >
+              官網 →
+            </a>
+          </div>
+
+          {/* Ronny's sessions */}
+          {hasRonny ? (
+            <div class="divide-y divide-stone-100">
+              {s.ronny.map((session: any) => (
+                <div class="px-5 py-3.5 flex items-start gap-3">
+                  <span class={`text-xs px-2 py-0.5 rounded border font-medium shrink-0 mt-0.5 ${typeColor[session.type] || 'bg-stone-50 border-stone-200 text-stone-600'}`}>
+                    {typeLabel[session.type] || session.type}
+                  </span>
+                  <div class="flex-1 min-w-0">
+                    <div class="text-sm font-semibold text-stone-800">{session.title}</div>
+                    <div class="flex flex-wrap gap-x-3 gap-y-0.5 mt-1 text-xs text-stone-400">
+                      {session.day && <span>📅 {session.day}</span>}
+                      {session.time && <span>⏰ {session.time}</span>}
+                      {session.room && <span>📍 {session.room}</span>}
+                      {session.role && (
+                        <span class="text-violet-500 font-medium">{session.role}</span>
+                      )}
+                      {session.category && (
+                        <span class="bg-sky-50 border border-sky-200 text-sky-600 px-1.5 py-0.5 rounded">{session.category}</span>
+                      )}
+                    </div>
+                    {session.note && (
+                      <div class="text-xs text-stone-400 mt-1 italic">{session.note}</div>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div class="px-5 py-4 text-sm text-stone-400 italic">
+              以觀眾身分參與，無上台紀錄
+            </div>
+          )}
+
+          {/* Schedule link */}
+          {s.scheduleUrl && (
+            <div class="px-5 py-2.5 bg-stone-50 border-t border-stone-100">
+              <a href={s.scheduleUrl} target="_blank" rel="noopener"
+                class="text-xs text-stone-400 hover:text-violet-500 transition-colors">
+                查看完整議程 →
+              </a>
+            </div>
+          )}
+        </div>
+      );
+    })}
+  </div>
+</BaseLayout>

@@ -56,6 +56,7 @@ const colorMap = {
   purple:  { chip: 'bg-purple-50 border-purple-300 text-purple-700' },
   orange:  { chip: 'bg-orange-50 border-orange-300 text-orange-700' },
   teal:    { chip: 'bg-teal-50 border-teal-300 text-teal-700' },
+  violet:  { chip: 'bg-violet-50 border-violet-200 text-violet-700' },
 };
 
 const base = import.meta.env.BASE_URL;
@@ -75,6 +76,7 @@ function monthPos(dateStr) {
       {[
         { cls: 'bg-indigo-50 border-indigo-200 text-indigo-500', label: 'g0v 大松' },
         { cls: 'bg-amber-100 border-amber-400 text-amber-800', label: '有我的專案' },
+        { cls: 'bg-violet-50 border-violet-200 text-violet-700', label: 'g0v Summit' },
         { cls: 'bg-emerald-50 border-emerald-300 text-emerald-700', label: '數位韌性松' },
         { cls: 'bg-rose-50 border-rose-300 text-rose-700', label: '國會松' },
         { cls: 'bg-purple-50 border-purple-300 text-purple-700', label: '黑魔法防禦松' },
@@ -148,18 +150,26 @@ function monthPos(dateStr) {
             {/* 自辦活動 */}
             {Object.entries(yearEvents).map(([key, sessions]) => (
               <div class="flex items-center gap-2">
-                <a href={`/ronny-github/events/${key}`} class="text-xs text-stone-400 w-16 shrink-0 hover:text-indigo-500 text-right pr-2 truncate">{sessions[0].label}</a>
+                <a href={`${base}/events/${key}`} class="text-xs text-stone-400 w-16 shrink-0 hover:text-indigo-500 text-right pr-2 truncate">{sessions[0].label}</a>
                 <div class="flex-1 relative h-6">
-                  {sessions.map(s => {
+                  {sessions.map((s: any) => {
                     const cls = colorMap[s.color]?.chip || 'bg-stone-50 border-stone-300 text-stone-600';
+                    const isSummit = key === 'g0v-summit';
+                    const href = isSummit
+                      ? `${base}/events/g0v-summit`
+                      : `${base}/events/${key}/th${s.num}n`;
+                    const chipText = isSummit ? String(s.num) : `${s.num}n`;
+                    const summitCls = isSummit && s.hasRonny
+                      ? 'bg-violet-100 border-violet-400 text-violet-800 font-bold'
+                      : cls;
                     return (
                       <a
-                        href={`${base}/events/${key}/th${s.num}n`}
-                        title={s.date}
-                        class={`absolute -translate-x-1/2 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-mono border leading-tight hover:scale-110 transition-transform ${cls}`}
+                        href={href}
+                        title={isSummit ? s.name : s.date}
+                        class={`absolute -translate-x-1/2 inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-mono border leading-tight hover:scale-110 transition-transform ${summitCls}`}
                         style={`left: ${monthPos(s.date)}%`}
                       >
-                        {s.num}n
+                        {chipText}
                       </a>
                     );
                   })}
