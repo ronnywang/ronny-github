@@ -105,7 +105,7 @@ def detect_section(row):
     # it's a general description row, not a section header.
     has_proposal_kw  = bool(re.search(r'提案', full))
     has_lightning_kw = bool(re.search(r'短講|lightning talk|8.?分鐘|8.?min', full))
-    has_report_kw    = bool(re.search(r'成果報告|present project|project report|成果分享', full))
+    has_report_kw    = bool(re.search(r'成果報告|成果發表|present project|project report|成果分享', full))
 
     # If the row mentions 2+ different sections, it's a schedule/agenda row, not a section marker
     section_types_mentioned = sum([has_proposal_kw, has_lightning_kw, has_report_kw])
@@ -315,7 +315,7 @@ def main():
     result = {}
 
     # hackath2n spreadsheet is a self-introduction sheet, not a proposal sheet
-    SKIP_IDS = {'g0v-hackath2n'}
+    SKIP_IDS = set()
 
     csv_files = sorted(glob.glob(os.path.join(SHEET_DIR, '*.csv')))
     print(f"Found {len(csv_files)} CSV files")
