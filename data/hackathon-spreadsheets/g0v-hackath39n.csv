@@ -1,0 +1,154 @@
+23,,,,,,,,,,,,,,,,,
+,"發表時間
+Time","發表者
+Presenter","坑主
+Slack ID
+必填","直播與錄影
+CC-BY 釋出？
+筆譯員","主題
+Topic","專案授權
+Licensing","共筆／討論連結
+Notes, contact","提案預錄雲端連結 or Youtube連結
+Pre-record link of proposal","專案聊天頻道
+slack channel","討論視訊會議網址
+meet.jit.si URL","目前成果／投影片連結
+Slides, progress","新參者友善？
+Newbie friendly?","三個關鍵字
+3 keywords","專案徵人
+People (skills) needed","坑主聯絡方式
+Project owner contact","報告 YouTube 連結
+YouTube link","相關連結
+Related link"
+【3 分鐘提案報名】本次鼓勵預錄提案，每個 3min，記得徵人！,,,,,,,,,,,,,,,,,
+Sign up for a 3-min proposal here. Remeber to list people (skills) needed for the project!,,,,,,,,,,,,,,,,,
+"英文發表主題請排 1-5 並在標題最前面使用 [ENGLISH]。 Topic in English, please choose 1-5 and use [ENGLISH].",,,,,,,,,,,,,,,,,
+1,9:50,seangau,@seangau,"y
+chihao",陳東甫老師教學系統開源計畫,MIT,https://g0v.hackmd.io/ajSfucZcQLO2_UpBaHMDRg,https://youtu.be/jBpkep4HT8M,,,,,,,,,
+2,9:53,chewei,@chewei,"y
+acechen",臺灣好植地 Patch by Planting,cc-by,https://beta.hackfoldr.org/tree/,https://youtu.be/kBImYiSQgyY,g0v slack #gis #tree,,http://bit.ly/tree-taiwan-ppt,Y,"gis, crowd sourcing, policy advocacy","今天想研究 Treepedia 街景綠視率用於臺灣道路, 若有入選總統盃的話也會研擬一些拜訪文件(參考專案每月進度說明: https://bit.ly/tree-taiwan-update)",g0v slack @chewei,,https://sites.google.com/view/tree-taiwan/
+3,9:56,Bil,"@bil
+@mrorz","Y
+sam",Cofacts 真的假的,"程式 MIT
+文字 CC0",https://cofacts.g0v.tw/hack,https://youtu.be/WONH8IgJJ1I,g0v slack #cofacts,"
+https://tico.chat/powercall?room=cofactshack&type=memberFirst",https://docs.google.com/presentation/d/15XLEbPk7eRfwsmF1xncoEVDe0q9fdixgKFB1B2sE5QU/edit,super friendly❤️translation provided,"crowd sourcing, fact-checking, chatbot",願意回應網路訊息的人、chatbot愛好者、少女、喜歡上網的人,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,有實體坑、科技大樓站workis、有食物，很好吃
+4,9:59,chientai,"JR, chientai","y
+sam",數位農民曆,cc-by-sa,https://g0v.hackmd.io/mO0kN-H_Qtm-9xfDgYWotQ?view,已過預錄影片上傳時間，請週六現場發表，勿上傳,g0v slack #super-argi,,,Y,農食知識、,,,,
+5,10:02,okcool,@okcool @Zuyi,chihao,Ptt 不能亡：社群機制重構與降低使用者進入門檻,cc-by,https://g0v.hackpad.tw/Ptt--ctwZwU7BxcJ,,g0v slack #ptt,,https://docs.google.com/presentation/d/17chZNw9UQrMARC0fL8qk_Mc7cXdZHHl71GfyfvjOtw4/edit#slide=id.g815c6bd433_2_75,Y，有使用過沒使用過Ptt的都歡迎，我們需要你,沒有人要上Ptt、社群運作機制、簡單操作Ptt,系統規劃師、社群經營者、UXUI設計師、iOS工程師、Android工程師、前端工程師、後端工程師、有興趣提供Ptt怎麼進化的的各領域大大,g0v slack #ptt channelg0v slack @okcool,,
+6,10:05,eli,＠eli,"y
+chihao",踏出同溫層，中(多)立資訊平台,MIT,https://docs.google.com/document/d/1G_oncGAQtPMUNEVuOLdMz8f_U6XXaTgasCjHeA56qM0/edit,,g0v slack #neutral-info,,https://drive.google.com/open?id=19RQefmXoK9RmGkrk6iNwQuw62n12TR67,y,"中立多立場,偏頗消息,輿情系統",網站前後端、UI/UX、關心議題、人工智慧,g0v slack #neutral-info,,
+7,10:08,ronny,Ronny,"y
+acechen",線上揪松 & 2D 揪松,BSD License,https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg,https://drive.google.com/file/d/1K_FsjmYSwffD_0GI3JnXhheYdgHWPd9r/view?usp=sharing,g0v slack #jothon,,,,,,,,
+8,10:11,chihao,"@chihao
+@pm5
+@wenyi","y
+sam",0archive 零時檔案局,MIT,https://g0v.hackmd.io/@chihao/0archive/%2FyMcLa2oxSJyCGLegxTzbfQ,已過預錄影片上傳時間，請週六現場發表，勿上傳,g0v slack #disinfo,,https://0archive.tw/,,,,,,
+9,10:14,Phoebe,"@phoebe
+@kinko","y
+chihao",LikeCoin 狂想曲,"程式 gplv3
+文字 cc-by-sa",https://docs.like.co/v/zh/,,g0v slack #likecoin,https://meet.jit.si/likecoinsharing#config.startWithVideoMuted=true&config.startWithAudioMuted=true,LikeCoin 狂想曲: https://www.matters.news/@daisy/matters-%E7%A4%BE%E5%8D%80%E5%9F%BA%E9%87%91%E9%85%8D%E6%8D%90%E6%8F%90%E6%A1%88-like-coin-%E7%8B%82%E6%83%B3%E6%9B%B2-%E5%AE%8C%E6%BB%BF%E7%B5%90%E6%9D%9F-%E5%A0%B1%E5%91%8A-%E5%8F%A6%E4%B8%80%E5%80%8B%E6%96%B0%E9%96%8B%E5%A7%8B-bafyreihsqh7hbvzb32srioibaacjyzgufdhuixfml7tuvuirqi2ybcwywy,Welcome!,"content attribution, monetization, distribution",技術人員，幫忙把點子實現出來～,g0v slack #likecoin,,"https://www.facebook.com/Liker.Land/
+
+https://like.co/
+
+LikeCoin 狂想曲:
+https://www.matters.news/@daisy/matters-%E7%A4%BE%E5%8D%80%E5%9F%BA%E9%87%91%E9%85%8D%E6%8D%90%E6%8F%90%E6%A1%88-like-coin-%E7%8B%82%E6%83%B3%E6%9B%B2-%E5%AE%8C%E6%BB%BF%E7%B5%90%E6%9D%9F-%E5%A0%B1%E5%91%8A-%E5%8F%A6%E4%B8%80%E5%80%8B%E6%96%B0%E9%96%8B%E5%A7%8B-bafyreihsqh7hbvzb32srioibaacjyzgufdhuixfml7tuvuirqi2ybcwywy"
+10,10:17,wildjcrt,@wildjcrt,"Y
+acechen",阿美語萌典,CC0 1.0,,,g0v slack #amis,,https://docs.google.com/presentation/d/1HOO9oJ-MjsJC_xn6Bsj7hWSDc2bMBpy5Jpf14BSdxqM/edit?usp=sharing,,原住民族、阿美語、萌典,,g0v slack #amis,,https://amis.moedict.tw/
+11,10:20,ael,ael,"y
+sam",Herstory in East Asia,"Content: CC-BY
+Code: MIT",https://g0v.hackmd.io/EYSWYz8ZRB2oN6RHrVNf5g?both,,g0v Slack #herstory,https://meet.jothon.online/meet/channel/g0v-hackath39n/58,"https://herstory-of-east-asia.netlify.com/
+https://docs.google.com/spreadsheets/d/1-L6aI3TWipm4Rj995KLVg29bf7hCieuRdQ7jZkYkrAU/edit#gid=1683764614",y,"feminist, east asia, herstory","translation, 翻譯（中英日韓任兩種語言）, feminisism content、性別意識",g0v Slack: @ael,,
+12,10:23,pm5,"@pm5
+@chihao
+@bess","Y
+chihao",g0v Summit 2020,,https://g0v.hackmd.io/@summit2020/book/,,#summit,,https://docs.google.com/presentation/d/1ELNTmRuyKRPCv79rWMO3KQODV7TE4sU0ljiOXbpFZuE/edit?usp=sharing,Y,"兩年一次,上百人,台南","徵件,徵件,徵件",#summit,,https://summit.g0v.tw/2020/
+13,10:26,Isabel,isabel,"y
+acechen",社群60秒,cc-by-sa,,,#jothon,https://meet.jothon.online/event/show/g0v-hackath39n-6,https://meet.jothon.online/event/show/g0v-hackath39n-6`,Y,,,,,
+14,10:29,停止提案,,,[reserved for edu],,,,,,,,,,,,
+15,10:32,停止提案,,,[reserved for edu],,,,,,,,,,,,
+,,"三分鐘提案登記
+將於 5/19 12:00 截止",,,"提案只有 15 個，就在這裡截止，不要再加了。
+Only 15 proposals. Please don’t add more.",,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+【8分鐘短講報名】14:30 開始，每個 8min，分享議題、專案、研究、技術皆可。,,,,,,,,,,,,,,,,,
+Sign up for a 8-min talk here.,,,,,,,,,,,,,,,,,
+,"發表時間
+Time","發表者
+Presenter","坑主
+Slack ID
+必填","錄影 CC-BY
+釋出？
+Video CC-BY?","主題
+Topic","專案授權
+Licensing","共筆／討論連結
+Notes, contact","提案預綠雲端連結 or Youtube連結
+Pre-record link of proposal","專案聊天頻道
+slack channel","討論視訊會議網址
+meet.jit.si URL","目前成果／投影片連結
+Slides, progress","新參者友善？
+Newbie friendly?","三個關鍵字
+3 keywords","專案徵人
+People (skills) needed","坑主聯絡方式
+Project owner contact","報告 YouTube 連結
+YouTube link","相關連結
+Related link"
+1,14:30,Phoebe,phoebe,Y,Republic of Liker Land 讚賞公民共和國,"程式 gplv3
+文字 cc-by-sa",https://github.com/likecoin,,g0v slack #likecoin,https://meet.jit.si/likecoinsharing#config.startWithVideoMuted=true&config.startWithAudioMuted=true,https://docs.google.com/presentation/d/1s3YzKDZ5mqrzLGH9NNt9EjJBAvRwX5EoZtR5MOUWzUA/edit#slide=id.g7c06a933ee_0_0,,"content attribution, monetization, distribution",,g0v slack #likecoin,,
+2,14:40,,,,,,,,,,,,,,,,
+3,14:50,ronny,ronnywang,Y,怎麼用 2D 揪松畫地圖，分割畫面小幫手如何用,程式：BSD,https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg,,g0v slack #jothon,,,,,,,,
+4,15:00,ael,ael,Y,Disfactory 農地違章工廠回報系統開發心得,"程式：MIT
+文字：CC-BY",,,g0v slack #disfactory,,,,,,,,
+5,15:10,sherry,@Sherry Chung,Ｙ,自己的資料自己記 - 後疫情時代我的防疫日記,CC-BY,https://hackmd.io/z4R96_ooRfuj8qRxRyaXTA,,g0v slack #mylog14,,"https://youtu.be/CG8_yDhGbiI
+https://youtu.be/vt3aNC3kNB4",super friendly❤️,#MyData #Data right #Data economy,"UI Designer, UX, 推廣大使, 文件翻譯, 文件維護","g0v slack: #mylog14 channel , g0v slack @sherry chung, @Tammy @Sofia",,"https://github.com/MyDataTaiwan/mylog14
+https://devpost.com/software/mylog14"
+,,,,,"本期開放 5 位 8 分鐘，就只有 5 個，截止就不要再加了。
+Only 5 talks. Please don’t add more.",,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+【5 分鐘成果報告】17:00 開始，每個 5min，分享今天做了什麼，接下來的計劃。,,,,,,,,,,,,,,,,,
+Sign up for a 5-min presentation here. Share what you have done today.,,,,,,,,,,,,,,,,,
+"英文發表主題請排 1-5 並在標題最前面使用 [ENGLISH]。 Topic in English, please choose 1-5 and use [ENGLISH].",,,,,,,,,,,,,,,,,
+,"發表時間
+Time","發表者
+Presenter","發表者
+Slack ID
+必填","錄影 CC-BY
+釋出？
+Video CC-BY?","主題
+Topic","專案授權
+Licensing","共筆／討論連結
+Notes, contact","專案聊天頻道
+slack channel","討論視訊會議網址
+meet.jit.si URL","目前成果／投影片連結
+Slides, progress","新參者友善？
+Newbie friendly?","三個關鍵字
+3 keywords","專案徵人
+People (skills) needed","坑主聯絡方式
+Project owner contact","報告 YouTube 連結
+YouTube link","相關連結
+Related link",
+1,17:00,Sherry Chung,@Sherry Chung,"Y
+",[ENGLISH] How MyLog14 and LogBoard help to support the front-line medical staff,CC-BY,https://hackmd.io/z4R96_ooRfuj8qRxRyaXTA,#mylog14,,"https://youtu.be/CG8_yDhGbiI
+https://youtu.be/vt3aNC3kNB4",super friendly❤️,#MyData #Data right #Data economy,"UI Designer, UX, 推廣大使, 文件翻譯, 文件維護","g0v slack: #mylog14 channel , g0v slack @sherry chung, @Tammy @Sofia",,"https://github.com/MyDataTaiwan/mylog14
+https://devpost.com/software/mylog14",
+2,17:05,Patrice Tsai,@Pei4,Y,[ENGLISH] Herstory - Feminism issues in East Asia,CC-BY,https://g0v.hackmd.io/EYSWYz8ZRB2oN6RHrVNf5g?both,#herstory,,,Welcome!,#Feminism #EastAsia #translation,"translation, 翻譯（中英日韓任兩種語言）, feminisism content、性別意識","g0v slack: #herstory,
+g0v slack: @ael",,,
+3,17:10,ael,@ael,Y,"[ENGLISH] Disfactory – Crowdsourcing Reporting Platform of Illegal Factories on Farmland（if anyone need this slot, feel free to move me out of top5）","Content: CC-BY
+Code: MIT",https://github.com/Disfactory/Disfactory/,#disfactory,,,https://docs.google.com/presentation/d/15TJl1mE7mh42zmXIGO78_SzT_iZz_Z4inww0gU46oMs/edit#slide=id.g85b7aabc09_0_139,,,,,,
+4,17:15,Hanyu,@yoyosoco,Y,阿美語萌典,CC0 1.0,,g0v slack #amis,,https://docs.google.com/presentation/d/1HOO9oJ-MjsJC_xn6Bsj7hWSDc2bMBpy5Jpf14BSdxqM/edit?usp=sharing,,原住民族、阿美語、萌典,,g0v slack #amis,,https://amis.moedict.tw/,
+5,17:20,stimim,@stimim,Y,2D揪松傳送門,BSD License,,#jothon,,https://stimim.github.io/2d-online-chat/,Y,,,,,,
+6,17:25,Bil,"@bil
+@mrorz",Y,Cofacts 真的假的,"程式 MIT
+文字 CC0",https://cofacts.g0v.tw/hack,g0v slack #cofacts,"
+https://tico.chat/powercall?room=cofactshack&type=memberFirst",https://docs.google.com/presentation/d/15XLEbPk7eRfwsmF1xncoEVDe0q9fdixgKFB1B2sE5QU/edit,super friendly❤️translation provided,"crowd sourcing, fact-checking, chatbot",願意回應網路訊息的人、chatbot愛好者、少女、喜歡上網的人,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,
+7,17:30,bess,"@pm5
+@chihao
+@bess",Y,g0v Summit 2020,https://g0v.hackmd.io/@summit2020/book/,https://g0v.hackmd.io/@summit2020/book/,g0v Slack #summit,,,,,想要投稿 g0v Summit 議程的人、想要揪親朋好友在年底一起去台南的人、喜歡全糖手搖飲的人,g0v Slack #summit,,,
+8,17:35,停止提案,,,[reserved for edu],,,,,,,,,,,,
+9,17:40,停止提案,,,[reserved for edu],,,,,,,,,,,,
+10,17:45,Ronny,@ronnywang,Y,線上揪松 & 分割畫面小幫手成果,BSD License,https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg,,,,,,,,,,
+11,17:50,chihao,"@chihao
+@pm5
+@wenyi",Y,0archive,,,g0v Slack #disinfo,,,,,,,,,
+12,17:55,,,,,,,,,,,,,,,,
+13,18:00,,,,,,,,,,,,,g0v #irvin,,,
+14,18:05,雨蒼,@billy3321,Y,網路上的理性討論，有可能嗎？,cc-by,,,,,https://miro.com/app/board/o9J_ksf9XtU=/,,,,,,
+15,18:10,jothon,#jothon,Y,社群一分鐘,,,,,,,,,,,,

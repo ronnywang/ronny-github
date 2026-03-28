@@ -12366,6 +12366,355 @@
       }
     ]
   },
+  "g0v-hackath39n": {
+    "id": "g0v-hackath39n",
+    "num": 39,
+    "date": "2020-05-23",
+    "name": "又在家黑客松",
+    "proposals_count": 15,
+    "lightning_count": 5,
+    "reports_count": 15,
+    "proposals": [
+      {
+        "time": "9:50",
+        "presenter": "seangau",
+        "topic": "陳東甫老師教學系統開源計畫",
+        "project": "陳東甫老師教學系統開源計畫",
+        "hackmd": "https://g0v.hackmd.io/ajSfucZcQLO2_UpBaHMDRg",
+        "license": "MIT",
+        "seq": 1
+      },
+      {
+        "time": "9:53",
+        "presenter": "chewei",
+        "topic": "臺灣好植地 Patch by Planting",
+        "project": "臺灣好植地 Patch by Planting",
+        "hackmd": "https://beta.hackfoldr.org/tree/",
+        "slides": "http://bit.ly/tree-taiwan-ppt",
+        "license": "cc-by",
+        "brief": "gis, crowd sourcing, policy advocacy",
+        "manpower": "今天想研究 Treepedia 街景綠視率用於臺灣道路, 若有入選總統盃的話也會研擬一些拜訪文件(參考專案每月進度說明: https://bit.ly/tree-taiwan-update)",
+        "seq": 2
+      },
+      {
+        "time": "9:56",
+        "presenter": "Bil",
+        "topic": "Cofacts 真的假的",
+        "project": "Cofacts 真的假的",
+        "hackmd": "https://cofacts.g0v.tw/hack",
+        "slides": "https://docs.google.com/presentation/d/15XLEbPk7eRfwsmF1xncoEVDe0q9fdixgKFB1B2sE5QU/edit",
+        "license": "程式 MIT\n文字 CC0",
+        "brief": "crowd sourcing, fact-checking, chatbot",
+        "manpower": "願意回應網路訊息的人、chatbot愛好者、少女、喜歡上網的人",
+        "seq": 3
+      },
+      {
+        "time": "9:59",
+        "presenter": "chientai",
+        "topic": "數位農民曆",
+        "project": "數位農民曆",
+        "hackmd": "https://g0v.hackmd.io/mO0kN-H_Qtm-9xfDgYWotQ?view",
+        "license": "cc-by-sa",
+        "brief": "農食知識、",
+        "seq": 4
+      },
+      {
+        "time": "10:02",
+        "presenter": "okcool",
+        "topic": "Ptt 不能亡：社群機制重構與降低使用者進入門檻",
+        "project": "Ptt 不能亡：社群機制重構與降低使用者進入門檻",
+        "hackmd": "https://g0v.hackpad.tw/Ptt--ctwZwU7BxcJ",
+        "slides": "https://docs.google.com/presentation/d/17chZNw9UQrMARC0fL8qk_Mc7cXdZHHl71GfyfvjOtw4/edit#slide=id.g815c6bd433_2_75",
+        "license": "cc-by",
+        "brief": "沒有人要上Ptt、社群運作機制、簡單操作Ptt",
+        "manpower": "系統規劃師、社群經營者、UXUI設計師、iOS工程師、Android工程師、前端工程師、後端工程師、有興趣提供Ptt怎麼進化的的各領域大大",
+        "seq": 5
+      },
+      {
+        "time": "10:05",
+        "presenter": "eli",
+        "topic": "踏出同溫層，中(多)立資訊平台",
+        "project": "踏出同溫層，中(多)立資訊平台",
+        "hackmd": "https://docs.google.com/document/d/1G_oncGAQtPMUNEVuOLdMz8f_U6XXaTgasCjHeA56qM0/edit",
+        "slides": "https://drive.google.com/open?id=19RQefmXoK9RmGkrk6iNwQuw62n12TR67",
+        "license": "MIT",
+        "brief": "中立多立場,偏頗消息,輿情系統",
+        "manpower": "網站前後端、UI/UX、關心議題、人工智慧",
+        "seq": 6
+      },
+      {
+        "time": "10:08",
+        "presenter": "ronny",
+        "topic": "線上揪松 & 2D 揪松",
+        "project": "線上揪松 & 2D 揪松",
+        "hackmd": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+        "license": "BSD License",
+        "seq": 7
+      },
+      {
+        "time": "10:11",
+        "presenter": "chihao",
+        "topic": "0archive 零時檔案局",
+        "project": "0archive 零時檔案局",
+        "hackmd": "https://g0v.hackmd.io/@chihao/0archive/%2FyMcLa2oxSJyCGLegxTzbfQ",
+        "slides": "https://0archive.tw/",
+        "license": "MIT",
+        "seq": 8
+      },
+      {
+        "time": "10:14",
+        "presenter": "Phoebe",
+        "topic": "LikeCoin 狂想曲",
+        "project": "LikeCoin 狂想曲",
+        "hackmd": "https://docs.like.co/v/zh/",
+        "license": "程式 gplv3\n文字 cc-by-sa",
+        "brief": "content attribution, monetization, distribution",
+        "manpower": "技術人員，幫忙把點子實現出來～",
+        "seq": 9
+      },
+      {
+        "time": "10:17",
+        "presenter": "wildjcrt",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "slides": "https://docs.google.com/presentation/d/1HOO9oJ-MjsJC_xn6Bsj7hWSDc2bMBpy5Jpf14BSdxqM/edit?usp=sharing",
+        "license": "CC0 1.0",
+        "brief": "原住民族、阿美語、萌典",
+        "seq": 10
+      },
+      {
+        "time": "10:20",
+        "presenter": "ael",
+        "topic": "Herstory in East Asia",
+        "project": "Herstory in East Asia",
+        "hackmd": "https://g0v.hackmd.io/EYSWYz8ZRB2oN6RHrVNf5g?both",
+        "slides": "https://herstory-of-east-asia.netlify.com/\nhttps://docs.google.com/spreadsheets/d/1-L6aI3TWipm4Rj995KLVg29bf7hCieuRdQ7jZkYkrAU/edit#gid=1683764614",
+        "license": "Content: CC-BY\nCode: MIT",
+        "brief": "feminist, east asia, herstory",
+        "manpower": "translation, 翻譯（中英日韓任兩種語言）, feminisism content、性別意識",
+        "seq": 11
+      },
+      {
+        "time": "10:23",
+        "presenter": "pm5",
+        "topic": "g0v Summit 2020",
+        "project": "g0v Summit 2020",
+        "hackmd": "https://g0v.hackmd.io/@summit2020/book/",
+        "slides": "https://docs.google.com/presentation/d/1ELNTmRuyKRPCv79rWMO3KQODV7TE4sU0ljiOXbpFZuE/edit?usp=sharing",
+        "brief": "兩年一次,上百人,台南",
+        "manpower": "徵件,徵件,徵件",
+        "seq": 12
+      },
+      {
+        "time": "10:26",
+        "presenter": "Isabel",
+        "topic": "社群60秒",
+        "project": "社群60秒",
+        "slides": "https://meet.jothon.online/event/show/g0v-hackath39n-6`",
+        "license": "cc-by-sa",
+        "seq": 13
+      },
+      {
+        "time": "10:29",
+        "presenter": "停止提案",
+        "topic": "[reserved for edu]",
+        "project": "[reserved for edu]",
+        "seq": 14
+      },
+      {
+        "time": "10:32",
+        "presenter": "停止提案",
+        "topic": "[reserved for edu]",
+        "project": "[reserved for edu]",
+        "seq": 15
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間\nTime",
+        "presenter": "發表者\nPresenter",
+        "topic": "主題\nTopic",
+        "project": "主題\nTopic",
+        "license": "專案授權\nLicensing",
+        "brief": "三個關鍵字\n3 keywords",
+        "manpower": "專案徵人\nPeople (skills) needed",
+        "seq": 1
+      },
+      {
+        "time": "14:30",
+        "presenter": "Phoebe",
+        "topic": "Republic of Liker Land 讚賞公民共和國",
+        "project": "Republic of Liker Land 讚賞公民共和國",
+        "hackmd": "https://github.com/likecoin",
+        "slides": "https://docs.google.com/presentation/d/1s3YzKDZ5mqrzLGH9NNt9EjJBAvRwX5EoZtR5MOUWzUA/edit#slide=id.g7c06a933ee_0_0",
+        "license": "程式 gplv3\n文字 cc-by-sa",
+        "brief": "content attribution, monetization, distribution",
+        "seq": 1
+      },
+      {
+        "time": "14:50",
+        "presenter": "ronny",
+        "topic": "怎麼用 2D 揪松畫地圖，分割畫面小幫手如何用",
+        "project": "怎麼用 2D 揪松畫地圖，分割畫面小幫手如何用",
+        "hackmd": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+        "license": "程式：BSD",
+        "seq": 3
+      },
+      {
+        "time": "15:00",
+        "presenter": "ael",
+        "topic": "Disfactory 農地違章工廠回報系統開發心得",
+        "project": "Disfactory 農地違章工廠回報系統開發心得",
+        "license": "程式：MIT\n文字：CC-BY",
+        "seq": 4
+      },
+      {
+        "time": "15:10",
+        "presenter": "sherry",
+        "topic": "自己的資料自己記 - 後疫情時代我的防疫日記",
+        "project": "自己的資料自己記 - 後疫情時代我的防疫日記",
+        "hackmd": "https://hackmd.io/z4R96_ooRfuj8qRxRyaXTA",
+        "slides": "https://youtu.be/CG8_yDhGbiI\nhttps://youtu.be/vt3aNC3kNB4",
+        "license": "CC-BY",
+        "brief": "#MyData #Data right #Data economy",
+        "manpower": "UI Designer, UX, 推廣大使, 文件翻譯, 文件維護",
+        "seq": 5
+      }
+    ],
+    "reports": [
+      {
+        "time": "發表時間\nTime",
+        "presenter": "發表者\nPresenter",
+        "topic": "主題\nTopic",
+        "project": "主題\nTopic",
+        "license": "專案授權\nLicensing",
+        "brief": "專案徵人\nPeople (skills) needed",
+        "manpower": "坑主聯絡方式\nProject owner contact",
+        "seq": 1
+      },
+      {
+        "time": "17:00",
+        "presenter": "Sherry Chung",
+        "topic": "[ENGLISH] How MyLog14 and LogBoard help to support the front-line medical staff",
+        "project": "[ENGLISH] How MyLog14 and LogBoard help to support the front-line medical staff",
+        "hackmd": "https://hackmd.io/z4R96_ooRfuj8qRxRyaXTA",
+        "license": "CC-BY",
+        "brief": "UI Designer, UX, 推廣大使, 文件翻譯, 文件維護",
+        "manpower": "g0v slack: #mylog14 channel , g0v slack @sherry chung, @Tammy @Sofia",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "Patrice Tsai",
+        "topic": "[ENGLISH] Herstory - Feminism issues in East Asia",
+        "project": "[ENGLISH] Herstory - Feminism issues in East Asia",
+        "hackmd": "https://g0v.hackmd.io/EYSWYz8ZRB2oN6RHrVNf5g?both",
+        "license": "CC-BY",
+        "brief": "translation, 翻譯（中英日韓任兩種語言）, feminisism content、性別意識",
+        "manpower": "g0v slack: #herstory,\ng0v slack: @ael",
+        "seq": 2
+      },
+      {
+        "time": "17:10",
+        "presenter": "ael",
+        "topic": "[ENGLISH] Disfactory – Crowdsourcing Reporting Platform of Illegal Factories on Farmland（if anyone need this slot, feel free to move me out of top5）",
+        "project": "[ENGLISH] Disfactory – Crowdsourcing Reporting Platform of Illegal Factories on Farmland（if anyone need this slot, feel free to move me out of top5）",
+        "hackmd": "https://github.com/Disfactory/Disfactory/",
+        "slides": "https://docs.google.com/presentation/d/15TJl1mE7mh42zmXIGO78_SzT_iZz_Z4inww0gU46oMs/edit#slide=id.g85b7aabc09_0_139",
+        "license": "Content: CC-BY\nCode: MIT",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "Hanyu",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "license": "CC0 1.0",
+        "manpower": "g0v slack #amis",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "stimim",
+        "topic": "2D揪松傳送門",
+        "project": "2D揪松傳送門",
+        "license": "BSD License",
+        "seq": 5
+      },
+      {
+        "time": "17:25",
+        "presenter": "Bil",
+        "topic": "Cofacts 真的假的",
+        "project": "Cofacts 真的假的",
+        "hackmd": "https://cofacts.g0v.tw/hack",
+        "license": "程式 MIT\n文字 CC0",
+        "brief": "願意回應網路訊息的人、chatbot愛好者、少女、喜歡上網的人",
+        "manpower": "g0v slack: #cofacts channel , g0v slack @mrorz , @bil",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "bess",
+        "topic": "g0v Summit 2020",
+        "project": "g0v Summit 2020",
+        "hackmd": "https://g0v.hackmd.io/@summit2020/book/",
+        "brief": "想要投稿 g0v Summit 議程的人、想要揪親朋好友在年底一起去台南的人、喜歡全糖手搖飲的人",
+        "manpower": "g0v Slack #summit",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "停止提案",
+        "topic": "[reserved for edu]",
+        "project": "[reserved for edu]",
+        "seq": 8
+      },
+      {
+        "time": "17:40",
+        "presenter": "停止提案",
+        "topic": "[reserved for edu]",
+        "project": "[reserved for edu]",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "Ronny",
+        "topic": "線上揪松 & 分割畫面小幫手成果",
+        "project": "線上揪松 & 分割畫面小幫手成果",
+        "hackmd": "https://g0v.hackmd.io/dr66MVRCT4eF8E0WRweQSg",
+        "license": "BSD License",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "chihao",
+        "topic": "0archive",
+        "project": "0archive",
+        "seq": 11
+      },
+      {
+        "time": "18:00",
+        "manpower": "g0v #irvin",
+        "seq": 13
+      },
+      {
+        "time": "18:05",
+        "presenter": "雨蒼",
+        "topic": "網路上的理性討論，有可能嗎？",
+        "project": "網路上的理性討論，有可能嗎？",
+        "slides": "https://miro.com/app/board/o9J_ksf9XtU=/",
+        "license": "cc-by",
+        "seq": 14
+      },
+      {
+        "time": "18:10",
+        "presenter": "jothon",
+        "topic": "社群一分鐘",
+        "project": "社群一分鐘",
+        "seq": 15
+      }
+    ]
+  },
   "g0v-hackath40n": {
     "id": "g0v-hackath40n",
     "num": 40,
@@ -13109,7 +13458,7 @@
     "id": "g0v-hackath42n",
     "num": 42,
     "date": "2021-01-23",
-    "name": "黑客松",
+    "name": "g0v hackath42n｜生命、宇宙以及萬事萬物的終極答案黑客松",
     "proposals_count": 16,
     "lightning_count": 7,
     "reports_count": 13,
@@ -14181,7 +14530,7 @@
     "id": "g0v-hackath45n",
     "num": 45,
     "date": "2021-08-21",
-    "name": "g0v hackath45n｜",
+    "name": "g0v hackath45n｜原本在台中黑客松",
     "proposals_count": 10,
     "lightning_count": 4,
     "reports_count": 5,
@@ -14403,7 +14752,7 @@
     "id": "g0v-hackath46n",
     "num": 46,
     "date": "2021-10-23",
-    "name": "g0v hackath46n｜",
+    "name": "g0v hackath46n｜九週年黑客松",
     "proposals_count": 15,
     "lightning_count": 6,
     "reports_count": 11,
