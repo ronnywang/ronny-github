@@ -43,7 +43,7 @@ export async function getStaticPaths() {
       description: 'g0v 社群從 2012 年起每兩個月舉辦一次黑客松，以「人、坑、松」為核心，去中心化運作，沒有老大、沒有門檻，任何人都可以提案、任何人都可以參加。至今已超過 70 次，是台灣最重要的公民科技社群活動之一。',
       sessions: allHackathons.map((h: any) => ({
         num: h.num, date: h.date, name: h.name,
-        location: null, kktix: null, notes: null,
+        location: null, kktix: h.kktix || null, notes: null,
         hasRonny: ronnyNums.has(h.num),
         hasData: !!hackathonData[`g0v-hackath${h.num}n`],
       })),
@@ -151,8 +151,17 @@ const ronnyCount = sessions.filter((s: any) => s.hasRonny).length;
               </div>
               {s.name && <div class="text-sm text-stone-700 truncate">{s.name}</div>}
               {s.location && <div class="text-xs text-stone-400 mt-1 truncate">📍 {s.location}</div>}
-              <div class={`text-xs mt-1 group-hover:opacity-100 ${s.hasRonny ? 'text-amber-600' : 'text-indigo-400 group-hover:text-indigo-600'}`}>
-                查看詳情 →
+              <div class="flex items-center justify-between mt-1">
+                <div class={`text-xs group-hover:opacity-100 ${s.hasRonny ? 'text-amber-600' : 'text-indigo-400 group-hover:text-indigo-600'}`}>
+                  查看詳情 →
+                </div>
+                {s.kktix && (
+                  <a href={s.kktix} target="_blank" rel="noopener"
+                    class="text-[10px] text-stone-400 hover:text-indigo-500 transition-colors"
+                    onclick="event.stopPropagation()">
+                    🎟 KKTIX
+                  </a>
+                )}
               </div>
             </a>
           ))}
