@@ -1,4 +1,186 @@
 {
+  "g0v-hackath0n": {
+    "id": "g0v-hackath0n",
+    "num": 0,
+    "date": "2012-12-01",
+    "name": "動員勘亂黑客松",
+    "proposals_count": 29,
+    "lightning_count": 0,
+    "reports_count": 0,
+    "proposals": [
+      {
+        "seq": 1,
+        "project": "立法院公報 parser",
+        "presenter": "@clkao",
+        "topic": "解析立法院公報（院會紀錄、委員會紀錄、質詢事項）並提供 API",
+        "hackmd": "https://github.com/g0v/twlyparser"
+      },
+      {
+        "seq": 2,
+        "project": "立委基本資料 + avatar API",
+        "presenter": "ronnywang",
+        "topic": "提供立法委員基本資料與頭像 API，供其他專案引用",
+        "hackmd": "https://github.com/ronnywang/TWLegisllativeYuanData"
+      },
+      {
+        "seq": 3,
+        "project": "立委投票紀錄",
+        "presenter": "@snowlock650",
+        "topic": "解析立法院議事錄中的記名投票紀錄"
+      },
+      {
+        "seq": 4,
+        "project": "立法院公報閱讀器",
+        "presenter": "@clkao",
+        "topic": "網頁版立法院公報閱讀介面，支援全文搜索"
+      },
+      {
+        "seq": 5,
+        "project": "審議條文對照表 diff viewer",
+        "presenter": "@clkao",
+        "topic": "現行法條 vs 行政院/委員提案條文的視覺化比較工具"
+      },
+      {
+        "seq": 6,
+        "project": "立法院公報推薦系統",
+        "presenter": "@wush",
+        "topic": "收集公民瀏覽紀錄，建立個人化公報推薦系統"
+      },
+      {
+        "seq": 7,
+        "project": "立法院議事影音整理 (ivod)",
+        "presenter": "@jftsai",
+        "topic": "將立法院 ivod 影片轉存 YouTube，提供更易存取的議員問政影音"
+      },
+      {
+        "seq": 8,
+        "project": "立委 dashboard",
+        "presenter": "@hychen",
+        "topic": "讓選民追蹤自己選區立委的動態、對各議題之立場"
+      },
+      {
+        "seq": 9,
+        "project": "提案追蹤 dashboard",
+        "presenter": "@nameofevil",
+        "topic": "追蹤立法院各提案從提案到通過/否決的全程狀況"
+      },
+      {
+        "seq": 10,
+        "project": "政府預算視覺化",
+        "presenter": "@clkao",
+        "topic": "歷年政府預算變化視覺化，互動式泡泡圖呈現",
+        "hackmd": "https://github.com/g0v/twbudget"
+      },
+      {
+        "seq": 11,
+        "project": "政府標案爬蟲與分析",
+        "topic": "爬取政府採購網決標公告，進行統計分析"
+      },
+      {
+        "seq": 12,
+        "project": "地理資訊視覺化 for web",
+        "presenter": "@clkao",
+        "topic": "提供台灣地理資訊的 web 視覺化工具",
+        "hackmd": "https://github.com/g0v/twgeojson"
+      },
+      {
+        "seq": 13,
+        "project": "環保署即時空氣品質 pm2.5 視覺化"
+      },
+      {
+        "seq": 14,
+        "project": "輻射量測地圖 gigermap",
+        "presenter": "@hcchien",
+        "topic": "群眾外包輻射量測地圖，使用 Ushahidi 平台"
+      },
+      {
+        "seq": 15,
+        "project": "氣象站即時雨量地圖",
+        "topic": "整合中央氣象局資料的即時動態雨量地圖"
+      },
+      {
+        "seq": 16,
+        "project": "實價登錄資料開放",
+        "presenter": "ronnywang",
+        "topic": "整理實價登錄資料供地圖視覺化呈現"
+      },
+      {
+        "seq": 17,
+        "project": "監察院彈劾紀錄、公職人員財產申報、政治獻金",
+        "topic": "結構化監察院公開資料，提供可查詢介面"
+      },
+      {
+        "seq": 18,
+        "project": "考公職統計資料",
+        "topic": "整理考選部歷年考試報考/錄取統計資料"
+      },
+      {
+        "seq": 19,
+        "project": "全民大執政：選舉支票追蹤",
+        "topic": "追蹤每位候選人的選舉承諾及兌現程度"
+      },
+      {
+        "seq": 20,
+        "project": "全民大執法：公民檢舉 APP",
+        "topic": "讓民眾即時拍照上傳不法事件並聯絡相關單位"
+      },
+      {
+        "seq": 21,
+        "project": "開放資料平台 hub.opendata.tw",
+        "presenter": "@charlesc",
+        "topic": "台灣版 datahub.io，基於 CKAN 建立開放資料入口",
+        "hackmd": "https://github.com/opendatatw/ckan"
+      },
+      {
+        "seq": 22,
+        "project": "重要議題追蹤系統",
+        "presenter": "@kanru",
+        "topic": "剪貼簿式的議題追蹤工具，整合資料並追蹤行動進展"
+      },
+      {
+        "seq": 23,
+        "project": "創制權系統（公民立法平台）",
+        "topic": "讓公民能協作起草法條、連署送交立法院，類 GitHub PR 機制"
+      },
+      {
+        "seq": 24,
+        "project": "open311 地理報修服務",
+        "presenter": "@clkao",
+        "topic": "整合 open311 標準的台灣市政問題回報系統"
+      },
+      {
+        "seq": 25,
+        "project": "健保費用視覺化",
+        "presenter": "@pofeng",
+        "topic": "視覺化健保費用使用狀況，包含病床滿床率等資料"
+      },
+      {
+        "seq": 26,
+        "project": "404 失蹤兒童",
+        "presenter": "@hSATAC",
+        "topic": "讓網站主嵌入 script，在 404 頁面顯示失蹤兒童訊息",
+        "hackmd": "https://github.com/childnotfound"
+      },
+      {
+        "seq": 27,
+        "project": "行賄地圖（I paid a bribe 台灣版）",
+        "topic": "群眾外包揭露行賄資訊的平台，基於 Ushahidi"
+      },
+      {
+        "seq": 28,
+        "project": "法學資料檢索 API",
+        "topic": "為法學資料檢索系統提供 API，讓判決書資料可機器讀取"
+      },
+      {
+        "seq": 29,
+        "project": "台灣各鄉鎮市區人口密度視覺化",
+        "topic": "利用 twgeojson 呈現台灣人口密度與人口金字塔"
+      }
+    ],
+    "lightning": [],
+    "reports": [],
+    "_note": "資料來源：hackpad 共筆（archive.org 存檔），以自然語言處理方式整理提案，非結構化試算表"
+  },
   "g0v-hackath3n": {
     "id": "g0v-hackath3n",
     "num": 3,
