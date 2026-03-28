@@ -1,0 +1,87 @@
+,,,,,,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題,專案授權,共筆／討論連結,專案名稱,目前成果／投影片連結,"新參者友善
+（Y/?）",專案三個關鍵字,專案徵人（專長）,坑主聯絡方式,youtube url: 專案報告,youtube url: 成果報告,slides url
+"09:40開場，09:50提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。
+＊紅底色為 COSCUP 保留席",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+1,9:50,,"Sam, chihao",Y,我們問題很多。協力出訪：日本公民科技在幹嘛,CC BY 4.0,https://docs.google.com/document/d/1sLUNvTpovgAqSu9OrX--DW3famh_1U1MVGIdu-DoUPA/edit#,我們問題很多。協力出訪,https://docs.google.com/presentation/d/1feW1_ueGl5dNZQ71sfmWMRBWZYSK2jn_kFoAiKXjqes/edit?usp=sharing,Y,一起問問題,媒體，訪談，跨國合作,slack: Sam 羅翔鈞ㄙㄚㄇ; chihao,,,
+2,9:53,,Peter cui (怕搞混）,Y,g0v 10週年生日趴！歡迎大家一起來協作一個趴踢！,cc0 ,https://g0v.hackmd.io/@chihao/g10v-book/,一起來協作一個趴踢！,https://docs.google.com/presentation/d/1HAxGZPrJ0Px0pAFjZxytvteaHcIvZ-uQ1wdwKqIGGSA/edit?usp=sharing,Y,一起辦趴踢、名字、十週年,想辦趴踢的人、辦過活動的人,"slack: peter ; mglee
+channel: #10th-anniversary ",,,
+3,9:56,,Tiff、Pei,Y,島島阿學多元學習資源平台：功能優化,資源 CC BY，其他部分想與大家請教與討論,https://g0v.hackmd.io/Bu-QsJgaStu5T_F27v86aQ?both,島島阿學多元學習資源平台,https://drive.google.com/file/d/1mOtRdDycNLA__cLVgu5Ukb3jX8qcgWJk/view?usp=sharing,Y,自主學習、學習資源共創共享、民主教育,後端工程師、UIUX Designer、社群編輯、,"g0v slack: Tiff
+（ohtiffanylin@gmail.com）",,,
+4,9:59,,Teemo,Y,g0v 10 週年獎助金提案-第3案-沒有人互動燈箱，每個人零時政府,"提案CC0
+衍生專案LGPL",,沒有人互動燈箱，每個人零時政府,https://g0v.hackmd.io/@Teemo/2022LightBox,Y,燈箱、解謎、十周年,聊天,@Teemo in g0v slack,,,
+5,10:02,,Yvoone,Y,智慧健檢平台：徵求醫生分享健檢諮詢過程、Linebot 開發,,https://g0v.hackmd.io/@chewei/rkpcSByX9,智慧健檢平台,,Y,"健檢, Linebot, 健檢前問卷","*醫學能力者 - 協助使用者問卷回覆對應健檢項目建議的架構及內容, +更好協助智慧健檢使用者的idea
+*前後端能力者 - 網站記錄使用者回覆及彙整給使用者建議",slack channel #health,,,
+6,10:05,,宏信,Y,給我 RSS，許你一輩子：ISCN RSS Issuer,,,#decentralizehk,https://lancatlin.github.io/iscn-rss-issuer-slide/,Y,#備份香港 #區塊鏈 #文化保育,前端工程師、UI/UX 設計師、對內容備份、去中心化技術有興趣的朋友,g0v slack #decentralizehk,,,
+7,10:08,,pan 潘奕濬,Y,CourseAPI 開放式課程整合平台：前端頁面開發 /  設計稿 UI/UX 調整 / 爬蟲開發與 debug ,MIT License,https://toedu.notion.site/0df44af565e845498c1d3bb04d2a7a13,CourseAPI 開放式課程整合平台,https://www.figma.com/file/u10jKPePKZT3nKLoOFwCNm/CourseAPI-黑客松-(COSCUP)-簡報,Y,教育、開放式課程、磨課師,前端頁面開發、設計稿 UI/UX 調整、爬蟲開發與 debug ,"g0v slack #edu-open
+pan93412@gmail.com",,,
+8,10:11,,Peter,Y,將需要的PHP extensions加入到composer.json裡的require block中,BSD/MIT,https://github.com/bowphp/app/issues/50,Bow :a PHP Framework,https://github.com/bowphp/app,Y,PHP、Composer、Framework,基本composer.json運作了解,peter279k@gmail.com,,,https://slides.com/peter279k/coscup-open-source-contributor-workshop
+9,10:14,,Peter,Y,Migrating to GitHub Action for CI,MIT License,https://github.com/ar2labs/wiring/issues/30,Wiring :a PHP micro framework core with Interoperability,https://github.com/ar2labs/wiring,,PHP、Composer、Framework、GitHub Actions,了解Travis CI與GitHub Action 設定與運作機制,peter279k@gmail.com,,,https://slides.com/peter279k/coscup-open-source-contributor-workshop
+10,10:17,,marty1885,Y,Improve the Drogon C++ web app framework,MIT License,https://github.com/drogonframework/drogon/issues,Drogon: A C++14/17/20 based HTTP web application framework,https://docs.google.com/presentation/d/1kj_gP7iezPB1iuVxzbydLnYvjhj09zkGsmAkNMtiZXs/edit?usp=sharing,,C++、Web Framework、入門貢獻,想寫底層程式或了解網頁框架如何運作。或是對程式高度優化有興趣者,marty188586@gmail.com,,,https://docs.google.com/presentation/d/1kj_gP7iezPB1iuVxzbydLnYvjhj09zkGsmAkNMtiZXs/edit?usp=sharing
+11,10:20,,MrOrz,Y,Cofacts 真的假的,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,Cofacts 真的假的,https://cofacts.tw,Y,"crowd sourcing, fact-checking, chatbot",會上網google的人、fact checkers、React.JS 開發者,"#cofacts in g0v slack
+@mrorz in g0v slack",,,https://docs.google.com/presentation/d/1MLWSjgHLbHo-Pzh883LiV_YpZMPAszipBowV0Np8tO0/edit
+12,10:23,,Denny,Y,OPass Android 功能增進,GNU General Public License v3.0,"https://github.com/CCIP-App/CCIP-Android/issues/52
+https://github.com/CCIP-App/CCIP-Android/issues/53
+https://github.com/CCIP-App/CCIP-Android/issues/59",CCIP-Android aka OPass,https://github.com/CCIP-App/CCIP-Android,,Android / 活動 App / 開源貢獻,具 Android 開發經驗,denny0223@gmail.com,,,https://opass.app/
+13,10:26,,recca chao,Y,Laravel Framework 繁體中文文件翻譯,MIT License,https://github.com/laravel-taiwan/docs/issues,Laravel 9.x 文件翻譯,https://github.com/laravel-taiwan/docs/,,Laravel/ 教學文件/翻譯,"* 對 PHP 有基礎認識  
+  * 英文翻譯
+  * 有撰寫過 Laravel 經驗（加分項）", line 帳號： recca711,,,https://docs.google.com/presentation/d/1-siKe0I-kSptF73cxRsLbkt90ql-_bdnWqa-SSolQPU/edit?usp=sharing
+14,10:29,,Irvin,Y,"moztw.org Firefox 版本資訊翻譯更新, 
+CC0 國台語句庫 + Common Voice 語音庫",CC0,"https://hackmd.io/@moztw/firefox-release-notes-101
+https://hackmd.io/@moztw/common-voice-doc-archive","moztw.org Firefox 版本資訊翻譯更新, 
+CC0 國台語句庫 + Common Voice 語音庫","https://moztw.org/firefox/releases/
+https://github.com/irvin/cc0-sentences/
+https://commonvoice.mozilla.org/nan-tw/datasets",Y,"網頁, 語音語料庫, 台語","a. 說中文 / 國中以上國文
+or b. 台文能力
+or c. html / node","#rand0m @irvin
+t.me/moztwCV",,,"https://moztw.space
+https://hackmd.io/@moztw/cc0-corpus-slide#/"
+15,10:32,,toomore,,COSCUP 志工平台,AGPL-3.0,,COSCUP 志工平台,https://s3.toomore.net/coscup/volunteer/g0v.pdf,Y,志工庫,,toomore0929@gmail.com,,,
+,,,== 截止 ==,,,,,,,,,,,,,
+,,,== 排候補 ==,,,,,,,,,,,,,
+16,10:35,,Nick,,區塊鏈公投系統與民主化科普媒體 - DAO 模組開發,,,CiviCue - 社創 Social Innovation,"www.civicue.com
+https://si.taiwan.gov.tw/Home/Org?Fid=853
+https://www.youtube.com/watch?v=4g0gzkT7E00",Y,民主社群媒體，科普共同認知，公投民情文化,"新聞系，媒體工作者，MERN 開發者，Blockchain 開發者，行銷，意見領袖，UI/UX，法規，中英文能力，接觸過 Center for Humane Technology，RadicalXchange, Knight Foundation 或看過讀過任何以下作品：The Social Dilemma, The Man from Earth, Digital Maoism, Wisdom of the Crowds, The Great Hack",nickhchang@gmail.com,,,
+17,10:38,,ky,Y,g0v 新朋友的入坑傳送門,CC0,https://g0v.hackmd.io/D2nKI7djQUaUS3uKdkmI3w?view,人人有坑入 坑坑有人入,https://docs.google.com/presentation/d/1t9roOameb0Zd8xE_PJbIGehcEh0fWY5e9uhXkV5Ra9o/edit?usp=sharing,Y,g0v/新參者/入門,想徵志工的 g0v 專案坑主們、願意貢獻時間的 g0v 大使們、第一次參加 g0v 黑客松的新朋友,g0v slack @ky,,,https://docs.google.com/presentation/d/1t9roOameb0Zd8xE_PJbIGehcEh0fWY5e9uhXkV5Ra9o/edit?usp=sharing
+18,10:41,,Peggy,Y,"驚! 地獄惡魔就在你身邊 慣老闆篇
+(公民協力杜絕台灣人口販運之勞力剝削計劃)
+Anti-Labor Exploitation",MIT License,https://g0v.hackmd.io/4p7ITU5aQempp5VTv5xtrw?both,"公民協力杜絕台灣人口販運之勞力剝削計劃
+Anti-Labor Exploitation",,Y,人口販運，勞力剝削，政府補助,文書，資料視覺化，網頁前端，皆可,在g0v的Slack頻道#laborfree / 加我的slack：@Peggy Shih,,,https://drive.google.com/file/d/1F1Z1zCFFh_O___GDgagLm4NUg1RsMEvi/view?usp=sharing
+19,10:44,,Joshua,,政治獻金爬梳彙整,,,立委政治獻金系統化建置,https://docs.google.com/presentation/d/13EW9h4q6O2t4_Jrik3ZTfym6Z8Y0rQN6/edit?usp=sharing&ouid=112156183623214014629&rtpof=true&sd=true,Y,立法委員、政治獻金、系統化,對於立委政治獻金有興趣的朋友，歡迎來協助建置系統化資料,joshuakao@21stcentury.org.tw,,,
+20,10:47,,SeanGau,Y,藝文環境的補助資料視覺化,cc0,https://g0v.hackmd.io/@SeanGau/SyIidsF_c,藝文活水向哪流,https://g0v.hackmd.io/@SeanGau/HJwZAXcYq#/,Y,藝文環境、政府補助、資料視覺化,,g0v slack @seangau,,,
+21,10:50,,"ael, deeper",,Disfactory,"MIT, CC-BY",https://g0v.hackmd.io/@yukaii/Disfactory/,Disfactory,https://docs.google.com/presentation/d/1mepdqYYJz2tIkHjQryjP2lvk_SK9t9N2fTAY-LPbhOA/,Y,,,g0v Slack #disfactory,,,https://docs.google.com/presentation/d/1mepdqYYJz2tIkHjQryjP2lvk_SK9t9N2fTAY-LPbhOA/edit?usp=sharing
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,,相關連結,,三個關鍵字,專案徵人,坑主聯絡方式,,,
+1,14:30,,Teemo,Y,深度解析2022總統盃黑客松提案,,,,https://drive.google.com/file/d/1PvwMdxerqiDnbHGfMLbplG6eGsFgkMvG/view?usp=sharing,,,,,,,
+2,14:40,,Leaf/Renwei,Y,OSCVPass x 開源辦公軟體工具箱簡介,,,,,,,,,,,
+3,14:50,,areong,Y,COVID-19 確診足跡共筆&地圖 心路歷程,,http://bit.ly/TaiwanCovidMap,,https://docs.google.com/presentation/d/1kMlWMpo4eruVLOi9ECPrDQv_IN2v2Tiqm48vgrmHIwQ/edit?usp=sharing,,,,"@areong in g0v slack
+Discord 討論區
+https://discord.com/invite/ePKuRGE9sF",,,
+4,15:00,,stimim,Y,COVID-19 確診足跡共筆&地圖 心路歷程-技術分享,,,,https://docs.google.com/presentation/d/1KcqKBviyt6-Wz1Hs3I9PiGrCdZHo3C9iBWzrkQDrqE0/edit#slide=id.g12a83284982_0_8,,,,,,,
+,,,,,,,,,,,,,,,,
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,ww,,,,,,,,
+"17:00【 present project】
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,
+1,16:00,,peter cui ,y,十週年生日趴,,,,https://docs.google.com/presentation/d/1HAxGZPrJ0Px0pAFjZxytvteaHcIvZ-uQ1wdwKqIGGSA/edit?usp=sharing,,,,,,,
+2,16:05,,peii,,Disfactory,,https://g0v.hackmd.io/@yukaii/Disfactory/%2FBE3YMHm5R-CHFf8x_p9WEQ,,https://docs.google.com/presentation/d/18yi_DENKFD5VTZVxKBV04UgAD2VthNrE/edit#slide=id.p5,,,,,,,
+3,16:10,,Teemo,Y,PTT 不能亡-PTT 未來架構,CC0,https://hackmd.io/@twbbs/guide,,,,,,@Teemo in g0v slack,,,
+4,16:15,,,,,,,,,,,,,,,
+5,16:20,,小許、羊羊,,島島阿學,,https://g0v.hackmd.io/Bu-QsJgaStu5T_F27v86aQ?both,,,,,,,,,
+6,16:25,,weiting,Y,阿美語萌典,,,一堆沒發現的BUG,https://docs.google.com/presentation/d/1x0j951pMNr0YAvmpNhWLi8YzJaCfA0IepvHdlztJd2g/edit#slide=id.g1333b23edda_0_742,,,,@lafin in g0v slack,,,https://github.com/g0v/amis-moedict
+7,16:30,,宏信,Y,給我 RSS，許你一輩子,,https://g0v.hackmd.io/Y1S3ovOsRYmmxj6CjQdh7A?edit,RSS ISCN Issuer,http://192.168.11.14:8080/,,,,g0v slack #decentralizehk,,,
+8,16:35,,seangau,,藝文活水向哪流,,https://g0v.hackmd.io/El-4cuYrRm-2_Du_uMOmvg,,,,,,,,,
+9,16:40,,ronny,,g0v slack 對話記錄公開,,https://g0v.hackmd.io/GI5vlh4_TRCXDH_bFb8jHQ,,,,,,,,,
+10,16:45,,pan & chewei,Y,CourseAPI 的目前開發進度,MIT License,https://toedu.notion.site/0df44af565e845498c1d3bb04d2a7a13,CourseAPI 開放式課程整合平台,https://www.figma.com/file/u10jKPePKZT3nKLoOFwCNm/CourseAPI-黑客松-(COSCUP)-簡報,Y,教育、開放式課程、磨課師,前端頁面開發、設計稿 UI/UX 調整、爬蟲開發與 debug ,"g0v slack #edu-open
+pan93412@gmail.com",,,
+11,16:50,,chewei,Y,公民科學與群眾參與計畫資料集,,https://g0v.hackmd.io/@chewei/cs/,,https://g0v.hackmd.io/@chewei/cs/,Y,,,Group 討論社團：https://www.facebook.com/groups/437659989769965,,,
+12,16:55,,,,,,,,,,,,,,,
+13,17:00,,ael,y,網路語言狀態報告台灣華語版,"這份報告依照 姓名標示-非商業性 4.0 國際授權條款, 排除部分內容.https://internetlanguages.org/twn/license/",https://internetlanguages.org/twn/,,,,,,,,,
+,,,,,coscup pitch,,,,,,,,,,,
+,,,,,零時小學校 2022 夏日源力增能營,,https://g0v.hackmd.io/@jothon/Sch001SSR2022/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2FSch001SSR2022,,,,,,,,,

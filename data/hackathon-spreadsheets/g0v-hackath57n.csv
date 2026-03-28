@@ -1,0 +1,91 @@
+,,,,,,,,,,,,,,,,,,
+u,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出？,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)",坑主聯絡方式,youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title,
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,,,
+ ⭐️ 由於本次大松提案已經滿出來了，為了減少切換電腦的時間（以使用講台電腦為主），請大家公開投影片或共筆頁面權限，並填在 J 或 K 欄位唷，感謝大家！⭐️,,,,,,,,,,,,,,,,,,
+1,9:40,,tofus,實體出席,Y,g0v Design,開源設計協作模式討論,CC-BY,待補,https://docs.google.com/presentation/d/1aM-HvU2sP_3JxL7x5YEy0DOIGais2KOk/edit?usp=sharing&ouid=117117540953571876315&rtpof=true&sd=true,Y,設計、開源、討論,設計師、工程師、又或者是想開發專案然後會用到開源設計系統的朋朋,@tofus,,,g0v tw hackathXXn — 提案 — g0v Design ／ tofus — XXX黑客松,
+2,9:43,,ddio & Ning,實體,Y,開放永續企業永續資料庫,一起來玩工人智慧補完計畫！,"MIT
+CC-BY 4.0",https://g0v.hackmd.io/@ddio-io/open-csr-report/https%3A%2F%2Fg0v.hackmd.io%2FvQjhtpASQlygIIetTVAfUQ,"https://docs.google.com/presentation/d/17UZOjEWXwNjMWzsyd4H4__Tx4DQWfnffxaTzF_GBoek/edit?usp=sharing
+
+
+
+https://gcaa-org-tw.github.io/company-report-toolkit/",Y,ESG、工人智慧、UIUX,"關心 ESG 的一般人
+前端、UIUX、人工智慧專家",#thaubing-esg,,,,https://gcaa-org-tw.github.io/company-report-toolkit/
+3,9:46,,進良,實體,Y,LLM我的家鄉,自己家鄉的LLM,Apache License 2.0,https://g0v.hackmd.io/OpkxG9b_TZ2klz9p5mswKA,https://docs.google.com/presentation/d/1HDAzdcQ9iSkrPAx1ULOAmUHUJWlgmNXB9v54P2LOG0M/edit?usp=sharing,Y,LLM、在地、網站,"好奇願意一起討論整理資料的人, 後端, 前端",g0v slack#llm4myhometown @thomas chang,,,,
+4,9:49,,Zoey,實體,Y,社群活動志工的憑證計畫 x 開源遊樂場,回溯性公共投資實驗專案,CC-BY,,https://docs.google.com/presentation/d/1Z8sGb8MEhTbjvGZpZssd8i9d36YiRUioWyj-ynoQhuk/edit?usp=sharing,Y,開源、web3 、資源分配,想了解新型資源分配型態的人！,g0v slack da0 @zoeytseng,,,,
+5,9:52,,T,實體,Y,選戰攻防大事記,用時間軸來視覺化呈現選舉期間，各位總統候選人的議題論述與攻防,"CC0, CC BY-NC-SA 4.0",https://hackmd.io/@cyh2/H1yrFG8hn/edit,https://docs.google.com/presentation/d/1EYCQQ6KawurbEEAyQDFBBscouPxSA67qh9NjVHGw2wg/edit?usp=sharing,Y,選舉、視覺化、事實查核,網站前後端、社群媒體宣傳、任何對選戰感興趣的人~,g0v slack #election-timeline @T,,,,
+6,9:55,,SeanGau,實體,Y,Joinplus,來繪製總統府府前廣場的空間願景吧 🙋‍♀️ Collage 工具使用經驗蒐集,GNU GPL V3,http://jointw.plus/,https://plaza.jointw.plus/,y,"公民參與的數位工具, LLM+JOIN 平台, 空間改造意見蒐集工具 ",想運用數位工具擴大公民參與的人,"g0v slack #joinplus-關注公民參與的數位工具 @chewei
+https://www.facebook.com/groups/295496753001414",,,,
+7,9:58,,Paul,實體,Y,new safeID 換洩證號,"要背新的身分證字號好累喔🥵 
+咦為什麼我的身分證字號換了
+SRSLY I GOT MY NATIONAL ID NUM CHANGED?!",MIT,https://g0v.hackmd.io/yZd5nmZWRLqQ2R2kqvcNqg?edit,https://g0v.hackmd.io/@yz6FVjJVT4OiPCB8Xcz9Fw/S1aafNIa3#/,q,"個資隱私、反詐騙、低技術門檻
+data-privacy, anti-scam, low-tech","會做長輩圖的人, 會寫作文的人, 會打字的人, 平面設計師, 前端開發者, 會下 prompt 生圖的人, 會創作短影音的人
+who can make taiwanese boomer meme, who can compose social media post(or msg), who can type in mandarin chinese or english, graphic desinger, front-end dev, who can generate image or video with AIGC tools, who can shot or make short video (like tiktok)",g0v slack #privacy @paulplastic,,,,
+8,10:01,,Tiff,實體,Y,零時小學校,零時小學校數位公民課回饋與優化,CC BY 4.0,https://g0v.hackmd.io/@jothon/Sch001courses/%2F_qZzPfkmTFih6eQE7lCS6g,https://docs.google.com/presentation/d/1uKFWy9fmjBf0pC5BkVgFJHX-ZoYhZdplXo53wN9XH4I/edit?usp=sharing,Y,數位公民素養、與社群共學、PBL,工作坊希望能夠邀請有參與過零時小學校今年營隊的夥伴給予回饋,@Tiff @Yi,,,,
+9,10:04,,gavin,實體,Y,公民科技-去中心化通訊練習,去中心化通訊練習,CC BY-NC-SA 3.0 TW,,https://docs.google.com/presentation/d/18-ND2sDjtm-wF_09rRtqgc_sn0r78MptXpZMNag7LTY/edit?usp=sharing,Y,去中心化通訊、協力定位、COT,討論.實作.修改功能,@gavin,,,,
+10,10:07,,Yanyiyi(雁子),實體,Y,追逐記憶的孩子,追逐記憶的孩子！持續追追那些拿公帑建立與公開的文化資料後面怎麼了,"CC0, MIT",https://g0v.hackmd.io/prvzo96zSlu8P1IXmzu-6Q?edit,"專案：https://github.com/yanyiyi/TCMB_ApplyCollect
+爬下的資料：https://airtable.com/appzIl8Jc28a6YWuw/shrYASOGsYwtsYI0H
+簡報：
+https://g0v.hackmd.io/@Yanyiyi/Chasing#/",Y,文化、開放資料、應用,"1. 找找怎進一步解讀這些爬下來的資料的朋友
+2. 找有興趣一起「工人智慧」的
+3. 對各種文化資料有興趣的朋友",@yanyiyi,,,,
+11,10:10,,Peter / shu,實體,Y,vTaiwan ,Democratic Input to AI Project ,CC-BY,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/H12k3-Oqn,https://docs.google.com/presentation/d/1m78jkXtli04FLIDWujiv2KPJPzWC3CWbrIIZPzMOJsY/edit?usp=sharing,Y,"vTaiwan, AI, ",討論與紀錄、聯繫、擴散,@sylin @peter,,,,
+12,10:13,,Peter ,實體,Y,Summit ,Summit 開坑拉！！！！,CC-BY,https://g0v.hackmd.io/@summit2024/book,https://docs.google.com/presentation/d/1QZxDR1fKWGYguBr_lyh_sYgGfLgTTod2gIPdeFf0uLY/edit?usp=sharing,Y,"g0v Summit 2024, 網站設計媒體議程組徵人！",協助議程、聯繫、網站、媒體、設計,@peter,,,,
+13,10:16,,ky,實體,Y,g0v-siliconvalley,g0v 矽谷灣區社群之海外 g0v 社群的建構與治理？,CC-BY,https://g0v.hackmd.io/@jothon/B1W8Zewph,https://docs.google.com/presentation/d/1VH3Z7WtXNSvVDjKMmPMJHkGFpuXQ8D4bNC1XHWE1slw/edit?usp=sharing,y...?,"g0v, 基礎建設, 海外",Any,@ky,,,,
+14,10:19,,chewei,實體,Y,#gis channel,地點型營隊活動的數位基礎建設方案 - 10月份臺北關渡工作坊 / 苑裡鎮決標案件地圖,CC-BY,https://g0v.hackmd.io/@chewei/gis/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%2Fguandu%2F,https://sites.google.com/view/yuanlitown/%E9%A6%96%E9%A0%81,y,"關渡, GIS, 營隊","GIS, 辦營隊, Crowdsourcing",#gis @chewei,,,,
+15,10:22,,bil,實體,Y,Cofacts 真的假的,聊聊 HuggingFace 使用經驗、Securing public API、逐字稿協作經驗,"MIT, CC-BYSA",https://cofacts.tw/hack,https://docs.google.com/presentation/d/1KEosMzwvOU1fHtBLoMe_X7d-weecTJ_S213g9f7Cr3c/edit#slide=id.p,Y,程式開發、事實查核、AI,使用 HuggingFace 資料的人、NextJS / GraphQL 工程師、逐字稿協作,g0v slack #cofacts @bil @mrorz,,,,
+,,,== 截止 ==,,,用這個欄位來感謝辛苦的大松小幫手志工&揪松團職工與志工！感謝泥們！,,,,,,,,,,,,
+ \ 本次提案已滿XD /  \ 以下候補提案，將提供「一分鐘」提案發表時間 / ,,,,,,,,,,,,,,,,,,
+候補1,10:25,,Bestian,實體,Y,教育元語言,"一種專門為了教育方式或學習方法分享而設計的Markdown之子語言npm套件。例如：「步驟」(一種固定格式的小階梯說明文) meta languages for edu( a set of sublanguage of Markdown ) npm package, e.x. step",MIT,https://hackmd.io/gBL8KHmuQ6Gvm1sQmudDZw?both,,,教育元語言,,,,,,
+候補2,10:26,,恩濡,實體,,國際民主教育論壇（IDEC）線上年會,國際民主教育論壇（IDEC）線上年會規劃中，有沒有人有興趣~?,,https://hackmd.io/@Angie/2024idechybrid/edit,202310黑客松提案：IDEC2024虛擬年會 ,,民主教育，學習者中心，開源年會,"1.善於企劃虛擬會議
+2.善於製作網站
+3.善於操作虛擬軟體","g0v slack @恩濡
+discord @Angela就是恩濡",,,,
+候補3,10:27,,peii / yukai,實體,,disfactory,環境議題結合科技工具，抓出危害環境的違章工廠，監督政府好好執法,,https://g0v.hackmd.io/0r8-UYTHRCmp33nt59ogww,https://docs.google.com/presentation/d/1qENygOh17FvZyCswfEGskSZ21qKlTdkWTgLL3aN7RjI/edit#slide=id.g23ec3a47f94_2_75,Y,"環境議題, 麥當勞 , crowdsoucing","後端, pm , 資料研究",,,,,
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,,錄影以 CC-BY 釋出?,,主題,,,相關連結,,三個關鍵字,專案徵人,坑主聯絡方式,,,g0v tw hackathXXn — 中場短講 —  ／ 發表者 — XXX黑客松,
+1,14:30,,tofus,實體,Ｙ,Experience NTU,"Experience NTU：
+臺大的開源設計系統",CC-BY,待補,https://www.figma.com/proto/ylvyTJZ5T3bMet4Jd6smV1/Experience-NTU-Design-System?page-id=91%3A252&type=design&node-id=91-253&viewport=148%2C279%2C0.04&t=yeSugob6Nn9dYKxC-1&scaling=contain&mode=design,,,,@tofus,,,,
+2,14:40,,ronny,實體,,,開放政治獻金的連署歷程,,待補,https://docs.google.com/presentation/d/1Dknup0Kzd2vE3Apx7TD4lfimwGkKkW6vVAbxZTVpBas/edit#slide=id.p,,,,slack #open-moneyflow,,,,
+3,14:50,,Peter + chihao,實體,,,一起來去 CFJ SUMMIT 2023 + CFK SUMMIT 2023！,CC-BY,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/HkVfA6Ba2,https://docs.google.com/presentation/d/1Qn9pa7I8Ks1nDFstN1IEuFF0WyiAIVCzjNV8Fe6OTJs/edit?usp=sharing,,CFJ Summit 2023,,@peter,,,,
+4,15:00,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"17:00【 present project】 規則：
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,,,
+1,16:00,,Teemo,實體,,PTT不能亡, 2023夏季版本發布啦,MIT,https://hackmd.io/@twbbs/20230716_PTT_APP_ReleaseNotes,https://lihi3.cc/WE0v5,,,,@Teemo,,,g0v tw hackathXXn — 成果報告 — PTT不能亡 ／ Teemo — XXX黑客松,
+2,16:05,,RSChiang,實體,,summit,今日宣傳組 co-work 進度,,https://g0v.hackmd.io/@summit2024/book,2023-08 g0v summit 2024.pdf,https://www.figma.com/file/GyTPa3fixfTO4OkLA90Wba/summit-2024,,,,,,,
+3,16:10,,Ronny,實體,,戰爭網路模擬器,戰爭網路模擬器,BSD,https://g0v.hackmd.io/UkmNKU9AQKC1uDgVddEu-g?view,,,,,,,,,
+4,16:15,,ddio,實體,Y,開放永續企業永續資料庫,一起來玩工人智慧補完計畫！,一起來玩工人智慧補完計畫！,https://g0v.hackmd.io/@ddio-io/open-csr-report/https%3A%2F%2Fg0v.hackmd.io%2FvQjhtpASQlygIIetTVAfUQ,"https://docs.google.com/presentation/d/17UZOjEWXwNjMWzsyd4H4__Tx4DQWfnffxaTzF_GBoek/edit?usp=sharing
+
+
+
+https://gcaa-org-tw.github.io/company-report-toolkit/",Y,ESG、工人智慧、UIUX,"關心 ESG 的一般人
+前端、UIUX、人工智慧專家",#thaubing-esg,,,,
+11,16:20,,Peter ,實體,Y,vTaiwan ,Democratic Input to AI Project ,CC-BY,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/H12k3-Oqn,https://docs.google.com/presentation/d/1m78jkXtli04FLIDWujiv2KPJPzWC3CWbrIIZPzMOJsY/edit?usp=sharing,,"vTaiwan, AI, ",討論與紀錄、聯繫、擴散,@sylin @peter,,,,
+12,16:25,,Peter ,實體,Y,Summit ,Summit 開坑拉！！！！,CC-BY,https://g0v.hackmd.io/@summit2024/book,https://docs.google.com/presentation/d/1QZxDR1fKWGYguBr_lyh_sYgGfLgTTod2gIPdeFf0uLY/edit?usp=sharing,,"g0v Summit 2024, 網站設計媒體議程組徵人！",協助議程、聯繫、網站、媒體、設計,@peter,,,,
+7,16:30,,chihao,實體,Y,CoC 翻譯 by slc / Summit 贊助組進度,,,https://g0v.hackmd.io/Byh1FXqLRyOeXgnrR4NEgw?both,https://docs.google.com/document/d/1xeira2QFQ-Ka6XQH508PI_O_iAMJlW4GUZI9C_Z7fw8/edit,,,,,,,,
+8,16:35,,chewei,實體,Y,Joinplus,Joinplus 問卷進度、Collage 工具應用,,http://jointw.plus/,https://plaza.jointw.plus/,,"公民參與的數位工具, LLM+JOIN 平台, 空間改造意見蒐集工具 ",想運用數位工具擴大公民參與的人,"g0v slack #joinplus-關注公民參與的數位工具 @chewei
+https://www.facebook.com/groups/295496753001414",,,,
+9,16:40,,"Jonas, chewei",實體,Y,關渡 workshop,Guandu Hackathon,,www.hackyourdistrict.com,,,,,,,,,
+10,16:45,,irvin,實體,Y,代名詞貼紙,代名詞貼紙新版,CC0,http://moztw.org/tg (pridezilla 頻道),https://hackmd.io/@moztw/pronoun_stickers,Ｙ,"性別, DEI, pronoun 代名詞","設計, 宣傳",@irvin,,,,
+11,16:50,,MrOrz,實體,Y,Cofacts 真的假的,謝謝貢獻者：https://g0v.hackmd.io/uO2pc1SlQCqtK7WZBknBZw?view#%E5%8D%94%E4%BD%9C,"MIT, CC-BYSA",https://g0v.hackmd.io/uO2pc1SlQCqtK7WZBknBZw?view#%E5%8D%94%E4%BD%9C,https://docs.google.com/presentation/d/1KEosMzwvOU1fHtBLoMe_X7d-weecTJ_S213g9f7Cr3c/edit#slide=id.p,Y,,,g0v slack #cofacts @bil @mrorz,,,,
+12,16:55,,Yi,實體,Y,零時小學校,分享收集到營隊的回饋,CC-BY,https://g0v.hackmd.io/@jothon/Sch001courses/%2F_qZzPfkmTFih6eQE7lCS6g,https://g0v.hackmd.io/@jothon/Sch001courses/%2F_qZzPfkmTFih6eQE7lCS6g,Y,,,,,,,
+13,17:00,,揪松團,實體,Y,,歡迎大家填寫影響力問卷,,中文版：https://bit.ly/0123g0vsurvey,英文版：https://forms.gle/t9CrFEHtMGQ253JBA,Y,,,,,,,

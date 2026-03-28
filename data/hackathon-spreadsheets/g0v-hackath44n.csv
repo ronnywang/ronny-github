@@ -1,0 +1,61 @@
+,,,,,,,,,,,,,,,
+,發表時間,房號,"發表者
+(slack ID)",錄影以 CC-BY 釋出？,主題,專案授權,共筆／討論連結,目前成果／投影片連結,新參者友善（Y/?）,專案三個關鍵字,專案徵人（專長）,坑主聯絡方式,youtube url: 專案報告,youtube url: 成果報告,slides url
+09:00開場，09:20提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,
+1,9:20,1,TJ,Y,政府機關面對政府資訊公開申請的態度與回應性調查,CC BY-SA 4.0,請聯絡坑主（右方有聯絡方式）,43次黑客松提案開始，目前進度請見右方slide連結,Y,政府資訊公開申請、實驗、調查分析,"1.寫公文和政府資訊公開申請書與政府機關交涉的人（最重要）、2.蒐集（爬蟲）／分析／編碼標記法院判決以及訴願決定前例資料的人、3.進行實驗設計／統計分析的人（資料科學家、會算treatment effect）、4.產生研究計劃、分析報告、文獻回顧／論文寫作的人、5. PM 專案管理者、6.爭取grant, sponsor的人、7.對這個領域有概念、理論、假說的人",tingjhenjiang/gmail https://meet.google.com/cio-aqzo-uak,,,https://docs.google.com/presentation/d/1m0nPEWlzjiaaxnGdRO4Z2bjCyN1sCBptk4rfdBXLjDY/edit?usp=sharing 
+2,9:23,2,peter,Y,疫情紓困資訊彙整 💰,MIT / CC BY-SA 4.0,https://g0v.hackmd.io/2iYwwJMATOSFhl22Fh633g?view,http://bit.ly/relief-money,Y,紓困資訊、加標籤、網頁前端,"願意幫忙整理資料、會用或想學 Airtable 的人
+提供「民間主辦的紓困措施資訊」與捐款資訊
+爬 1988 中央專區 上面的資料
+歡迎 網頁前端架設 查找網頁","g0v slack #vtaiwan 
+g0v slack @peter",,,
+3,9:26,3,isabel,Y,Slack 歡迎訊息與 Channel 完補計畫 🙋,CC0,https://g0v.hackmd.io/@jothon/S1pZe539_,,Y,,,g0v slack #jothon,,,
+4,9:29,4,deeper,Y,disfactory 新增違章工廠空拍圖比對計畫 🛰,CC0,https://g0v.hackmd.io/@yukaii/Disfactory/%2F5QH2TlaXQR21wMo3UIKZug,https://www.figma.com/proto/TVAEC28E3ojabGHc8BawbI/%E8%A1%9B%E6%98%9F%E7%A9%BA%E7%85%A7%E5%9C%96?node-id=50%3A2&scaling=min-zoom&page-id=0%3A2,Y,群眾標注、空拍圖、變異點,,"g0v slack #disfactory
+g0v slack @deeper",,,https://docs.google.com/presentation/d/1I7j1Ozr9H7Vxm6NBdFQwia0dMPoTeYkOFoFSkioYB3A/edit?usp=sharing
+5,9:32,5,Bess / John Huang,Y,ARAY 公民科技貢獻者的專案與任務視覺化平台,CC BY 4.0,https://g0v.hackmd.io/vJ7_irbLRQGMYF29C9mZGA,https://tst.aray.g0v.dev/,Y,"g0v基礎建設, 社群, 開源","ReactJS, AWS Amplify, 專案管理",g0v slack #edu-aray,https://youtu.be/7bH8ABnEzgo,,https://docs.google.com/presentation/d/1JCexqSiWvbPlecx_551aOZx_vAWzClMlONKBX47MZH0/edit?usp=sharing
+6,9:35,6,ronny,Y,中央政府總預算 改,,,https://govmoney.g0v.ronny.tw/,,"政府預算, 決算, 資料整理",,"g0v slack #gov_procurement_case
+",,,https://docs.google.com/presentation/d/1lb4ipVzX_9j4uIcM-n95YVDCp4ALO0pZaa1RBR7GQIc/edit?usp=sharing
+7,9:38,7,bil / MrOrz,Y,Cofacts 真的假的  ,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,https://cofacts.tw/,Y,"crowd sourcing, fact-checking, chatbot","Node.js, React.js engineers, data scientists, 會上網google、討厭假訊息的人","g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,https://docs.google.com/presentation/u/0/d/1jEzQHbwZmzYh7eOrQ9eWymLpOsld0etGgXflWeNY5CY/edit?fromCopy=true
+8,9:41,8,Allen,Y,Wikidata,CC0,https://hackmd.io/@wikidata-tw/H1q_IpzEu,https://www.wikidata.org/,Y,跨資料庫、CC0、資料整理,願意幫忙整理資料、很會用google sheet的人,@allenwang 或是加入 #wikidatataiwan(g0v-slack),,,https://slides.com/allenwang6212/wikidata-g0v-43n/
+9,9:44,5,Bess (jothon),Y,零時小學校 Sch001,CC BY 4.0,https://g0v.hackmd.io/@jothon/Sch001-2021/%2F%40jothon%2FSch001_camp_infras,https://sch001.g0v.tw/,Y,"g0v 新手村, 社群學習, 自學","1. 對教育科技有興趣的人
+2. 想要學習怎麼開始在 g0v 開專案的人
+3. 暑假願意繼續宅在家救台灣的人","g0v Slack #edu 
+g0v Slack @bess",,,https://docs.google.com/presentation/d/1K3sCbw16jypzARVzNU0fTaNBUTnnf71et_D5AP2yfAA/edit?usp=sharing
+10,9:47,9,fly,Y,skioji 來把 emoji 翻成譯成你的技能吧！,CC0,https://g0v.hackmd.io/@flyo/skioji,http://flyis.me/skioji,,infra,愛好抽象、語言可協助圖像與意圖做連結的人,@fly #skioji (g0v-slack),,,
+11,9:50,9,fly,Y,就地運動運動 jody.gq,CC0,jody.gq,https://www.youtube.com/channel/UCcGfjxoq4-dAKWEB9GRD3Tg/videos,Y,即興/運動/啦,好動者/壓力大者/想放鬆者,@fly (g0v-slack),,,
+12,9:53,10,SL,Y,vaxx.tw 2.0,MIT,https://g0v.hackmd.io/@jothon/Hyo_C_XFd,https://docs.google.com/presentation/d/13cowWSJzfDl0DjUQ4NfXMP6PfZbLd6Q1XrfsegADcEs/edit?usp=sharing,Y,爬資料大坑  疫苗施打  超前部署,工程師、設計師、醫療公衛背景的人,@SL (g0v-slack),,,https://docs.google.com/presentation/d/13cowWSJzfDl0DjUQ4NfXMP6PfZbLd6Q1XrfsegADcEs/edit?usp=sharing
+13,9:56,11,小ㄐ,Y,開源星手村,CC BY 4.0,https://hackmd.io/1B3eCm8sSbqDTdcMI7o85g,https://docs.google.com/presentation/d/1OH5ubHWaAzhd6yEZmQGt5KcYl7QN6aOgEN1EYTaQLfQ/edit#slide=id.p,Y,推廣開源、桌遊、工人放置,尋找設計師、幫忙測試桌遊的玩家、一同推廣的開源大使,,,,
+14,9:59,12,eli,y,"踏出同溫,多立資訊",MIT,https://docs.google.com/document/d/1G_oncGAQtPMUNEVuOLdMz8f_U6XXaTgasCjHeA56qM0/edit#,https://drive.google.com/file/d/10J_DPPk2g9ewasw2nqN3Te4yY9abjV5q/view,y,偏頗資訊 立場分析 資訊攻擊,"對假消息 偏頗消息 資訊攻擊有興趣的人
+工程師：資訊爬蟲 關鍵字斷詞 文章語意分析 圖形辨識 UI/UX",g0v slack #eli,,,https://drive.google.com/file/d/10J_DPPk2g9ewasw2nqN3Te4yY9abjV5q/view
+15,10:02,13,denkeni,Y,批踢踢不能亡 - iOS App 子專案現況,GPLv3,https://docs.google.com/presentation/d/1hwWNxYbXUv2Bnwh4yRvbelekv5fTe-Z-AdKsBauw_DE/edit?usp=sharing,g0v slack #ptt,Y,"Ptt, 社群, app","Golang, Android app (Kotlin), iOS app (Swift)",g0v slack #ptt,,,
+,候補,,irvin,Y,Firefox release notes 翻譯 / 摩茲工寮 2020 營運報告 / CC0 語料庫,CC0 / MPL,g0v #rand0m,"- https://github.com/moztw/www.moztw.org/tree/master/firefox/releases
+- https://github.com/irvin/cc0-sentences/",Y,"Firefox, 開放句庫, 摩茲工寮","- 技術文件英翻中
+- g0v slack rand0m 頻道對話紀錄整理成單句",g0v slack #rand0m,,,
+,候補,,,,,,,,,,,,,,
+,,,== 截止 ==,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,相關連結,,三個關鍵字,專案徵人,坑主聯絡方式,,,
+1,14:30,,fly,,伸展運動,,,,,,,,,,
+2,14:40,,irvin,y,Mozilla Hubs,,,"示範場地 - https://hub.link/yNiJaqv
+開新副本 - https://hubs.mozilla.com/scenes/J3d6ySn 
+https://discourse.mozilla.org/t/pridezilla-2021/82087",,"WebVR, 線上社交場地",,,,,
+3,14:50,,,,,,,,,,,,,,
+4,15:00,,,,,,,w,,,,,,,
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"16:00【 present project】 規則：於大會議室舉行
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,
+1,16:00,,Allen,Y,把資料整理進wikidata能幹嘛:以河川資料為例,CC0,https://hackmd.io/@wikidata-tw/H1q_IpzEu,https://www.wikidata.org/wiki/Wikidata:WikiProject_Taiwan/Water/WRA,Y,跨資料庫、CC0、資料整理,願意幫忙整理資料、很會用google sheet的人,@allenwang 或是加入 #wikidatataiwan(g0v-slack),,,
+2,16:05,,Isabel,Y,Slack 歡迎訊息與 Channel 完補計畫 🙋,CC0,https://g0v.hackmd.io/jg7YTX4sTN6eFNqZc0Za7g?view,https://g0v.hackmd.io/jg7YTX4sTN6eFNqZc0Za7g?view,,,,,,,
+3,16:10,,deeper,Y,disfactory 新增違章工廠空拍圖比對計畫 🛰,CC0,https://g0v.hackmd.io/@yukaii/Disfactory/%2F5QH2TlaXQR21wMo3UIKZug,https://www.figma.com/proto/TVAEC28E3ojabGHc8BawbI/%E8%A1%9B%E6%98%9F%E7%A9%BA%E7%85%A7%E5%9C%96?node-id=50%3A2&scaling=min-zoom&page-id=0%3A2,Y,群眾標注、空拍圖、變異點,,"g0v slack #disfactory
+g0v slack @deeper",,,https://docs.google.com/presentation/d/1I7j1Ozr9H7Vxm6NBdFQwia0dMPoTeYkOFoFSkioYB3A/edit?usp=sharing
+4,16:15,,peter,,疫情紓困資訊彙整 💰：提出資訊架構討論，與加掛縣市標籤：嘉義縣市、台北、新北、台中,CC BY-SA 4.0,https://g0v.hackmd.io/2iYwwJMATOSFhl22Fh633g#嘉義市,https://airtable.com/tbl3sKnrv4svKvRZD/viwHDxxUILzrF0XLR?blocks=hide,,,,,,,
+5,16:20,,Ronny,,中央政府總預算 改,BSD,https://g0v.hackmd.io/Syq10LC1Qmu2uDe0-ezBYw,,,,,,,,
+6,16:25,,,,,,,,,,,,,,
+7,16:30,,bess (jothon),Y,ARAY x Code for Japan,,https://g0v.hackmd.io/@jothon/ARAY,,,,,,,,
+8,16:35,,bil / MrOrz,Y,Cofacts 真的假的  ,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,https://cofacts.tw/,Y,"crowd sourcing, fact-checking, chatbot","Node.js, React.js engineers, data scientists, 會上網google、討厭假訊息的人","g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,
+9,16:40,,irvin,y,moztw.org: firefox release notes 88~89,MPL,https://github.com/moztw/www.moztw.org/commits/master,moztw.org,,"firefox, html, internet",,moztw.org/tg,,,
+10,16:45,,yoyow,y,vaxx.tw 2.0,MIT,https://g0v.hackmd.io/Hio1gaGBTuymJH18_73BVg?both,,,,,,,,
+11,16:50,,fly,y,skioji x jody x hackath44n,CC0,jody.gq g0v.hackmd.io/@flyo/skioji,jody.gq g0v.hackmd.io/@flyo/skioji,y,即興 運動 概念,,@fly,,,
+12,16:55,,ichieh,y,會後問卷填寫,CC BY 4.0,https://bit.ly/0123g0vsurvey,,,,,,,,

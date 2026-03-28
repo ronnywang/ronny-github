@@ -1,0 +1,84 @@
+,,,,,,,,,,,,,,,,,,
+,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出？,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","g0v Podcast
+松後推坑電台
+受訪意願? (Y/?)","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)",坑主聯絡方式,youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,,,
+0,9:30,,揪松團,實體出席,,開場,感謝 台灣資訊環境研究中心 IORG 贊助本次大松 😇,,,https://docs.google.com/presentation/d/1Z9h5gJkCF70iq9k3rJlnZAT6bd9AC1OxwTpOquU5IxI/edit?usp=sharing,,,,,,,,g0v tw hackath62n — 提案 — 開場 ／ 揪松團 —  帶我去月球黑客松
+,,,,,,,,,,,,,,,,,,g0v tw hackath62n — 提案 —  ／  —  帶我去月球黑客松
+1,9:40,,Dong,實體出席,Y,AMO ── An Agenda Maker Based on Opass Schedule Format,一個將議程資料，轉換成好看議程表的小工具（使用 Opass 資料結構）,CC-BY,Y,https://hackmd.io/@Dong-/AMO/https%3A%2F%2Fg0v.hackmd.io%2FtTYHgZPnR960R3Q-q4RkUQ,https://g0v.hackmd.io/@WbB98FoNTsivbcUIrjQILQ/SkegDsPuC#/,Y,"開源 Conf, 設計師, Summit 2024","設計師, 曾參與籌辦各大開源 Conf 的朋友, 會 ReactJS 的人","g0v slack #amo- 
+@Dong",,,g0v tw hackath62n — 提案 — AMO ── An Agenda Maker Based on Opass Schedule Format ／ Dong —  帶我去月球黑客松
+2,9:43,,ziaosen,實體,Y,星河計畫-自學生經驗匯流, ,CC-BY,Y,https://galacticproject.notion.site/40485be542274bb3936b0972a21b673f?pvs=4,https://galacticproject.notion.site/,Y,"自學生, 經驗開放, 詮釋資料","notion UIUX, 社群經營, 各種意見",@ziaosen ,,,g0v tw hackath62n — 提案 — 星河計畫-自學生經驗匯流 ／ ziaosen —  帶我去月球黑客松
+3,9:46,,"chewei, 任翔 Sean",實體,,Collage,一秒變身空間設計師 ! 空間改造的網頁工具,GNU GPL V3,Y,https://github.com/SeanGau/city-collage,https://collage.collective.tw,Y,"空間改造的畫面創作, 網頁工具, 公眾可以使用","工程師 (程式使用 python3 flask 做框架), 網頁推廣的活動企劃","g0v Slack #joinplus
+@chewei",,,"g0v tw hackath62n — 提案 — Collage ／ chewei, 任翔 Sean —  帶我去月球黑客松"
+4,9:49,,bil,實體,Y,Cofacts 真的假的 & Open165,Cofacts 在旁邊修issue 跟查核假資訊／讓 165 反詐資訊在搜尋引擎上打敗二次詐騙,"MIT, 
+CC-BY-SA",y,https://cofacts.tw/hack,https://docs.google.com/presentation/d/1ivYoq6-urRHUYQw92Rm1Y2tIM4F98NTS1EMGXbcs6z4/edit#slide=id.g28caf866bb2_1_0,Y,程式開發、事實查核、搜尋引擎最佳化,"會 Google 找資料的人
+會 NodeJS / ReactJS 的人
+SEO 高手、UI / UX Designer",g0v slack #cofacts @mrorz @bil,,,g0v tw hackath62n — 提案 — Cofacts 真的假的 & Open165 ／ bil —  帶我去月球黑客松
+5,9:52,,Ronny,實體,,台灣人的開放國會行動方案,來收集台灣人對開放國會的想像吧！,CC-BY,Y,https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/SJ93ZW5XR/%2F8uTwZDmoR_yHT_Z-ahUYWw,https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit#slide=id.p,,,,,,,g0v tw hackath62n — 提案 — 台灣人的開放國會行動方案 ／ Ronny —  帶我去月球黑客松
+6,9:55,,Tofus,實體,Y,#design,一起來切豆腐！,CC-BY,Y,https://g0v.hackmd.io/DlyCaahFR9-yA41PlAoBzQ,https://www.figma.com/deck/YlBxRUV5nff75CEaQUiYDJ/0720?node-id=1-53&viewport=139%2C-17%2C0.54&t=hY65vpKKMm2LQMo4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1,,,,,,,g0v tw hackath62n — 提案 — #design ／ Tofus —  帶我去月球黑客松
+7,9:58,,Peter,實體,,數位公共參與工具survey與議題小聚,一起來找世界上有哪些數位公共參與的工具！,CC-BY,Y ,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR,https://docs.google.com/presentation/d/1iDZK7apnp-pw6vId-rRHeSfol8DpRddycU_S3HBQcMk/edit?usp=sharing,v,公共討論、數位工具研究、審議式民主,對於數位公共參與工具有興趣的人、對於審議式民主與議題討論有興趣的人、想要更有效討論公共議題的人,"g0v slack #vtaiwan 
+@peter ",,,g0v tw hackath62n — 提案 — 數位公共參與工具survey與議題小聚 ／ Peter —  帶我去月球黑客松
+8,10:01,,宏信,實體,Y,Linux Odyssey,給開發者的電腦入門課,GPL,Y ,https://g0v.hackmd.io/@wancat/linux-odyssey-0720,https://www.canva.com/design/DAGLXdS36Io/a3PKwW01Zo6YIMclVJLEgw/view?utm_content=DAGLXdS36Io&utm_campaign=designshare&utm_medium=link&utm_source=editor,Y,資訊教育、指令教學、遊戲化學習,設計師、前端開發者、教育工作者、程式初學者,https://matrix.to/#/#linux-odyssey:linchpins.cloud,,,g0v tw hackath62n — 提案 — Linux Odyssey ／ 宏信 —  帶我去月球黑客松
+9,10:04,,OKHand,實體,,ChanceTix,一起打造台灣售票平台的淨土,"程式碼：AGPL-3.0
+文件： CC-BY-SA",Y,https://g0v.hackmd.io/A4Vqa-T6QoqwIsKcz2NIXw?view,https://docs.google.com/presentation/d/18wddOPBj_I-S17uo0DpoSuVStynUGLpaSg7ZcmCEZ44/edit?usp=sharing,,"反黃牛, 售票系統, 非營利組織","Web前後端, UIUX, 有開發過售票平台, 有串過金流平台 , 有興趣交流與參與的人",@OKHand ZiYu ,,,g0v tw hackath62n — 提案 — ChanceTix ／ OKHand —  帶我去月球黑客松
+10,10:07,,冰川,實體,,APCS Guide,一起建立一個高品質的程式學習平台！,CC-BY,Y,https://hackmd.io/@c_I6awIzTxyxIF6PaOEtSg/Hkp_PcuOR,https://slides.com/dada878/deck-b2f99c,Y,教育創新、線上學習平台、APCS,UI / UX、Next.js 前端、任何後端、有興趣參與討論或提供意見的人,@dada878,,,g0v tw hackath62n — 提案 — APCS Guide ／ 冰川 —  帶我去月球黑客松
+11,10:10,,T,實體,Y,論證-公共議題論述匯整平台,一同建立高品質的公共議題論述匯整平台，化解分歧並凝聚社會共識！,MIT,Y,,https://docs.google.com/presentation/d/1SAW5gS00zzU8J9yy_shwWZ605N0fqStcc1-qfXOat3k/edit?usp=sharing,Y,資訊視覺化、AI、事實查核,UI/UX、前後端開發人員、希望提升台灣社會民主韌性的人,"@T
+g0v slack  #statement_proof-論證平台",,,g0v tw hackath62n — 提案 — 論證-公共議題論述匯整平台 ／ T —  帶我去月球黑客松
+12,10:13,,isabel,實體,,jothon,g0v 首頁社群治理頁面,,Y,https://g0v.hackmd.io/Ki8oBtnjTjitnyp84ckYbA?view,https://g0v.hackmd.io/Ki8oBtnjTjitnyp84ckYbA?view,,,,,,,g0v tw hackath62n — 提案 — jothon ／ isabel —  帶我去月球黑客松
+13,10:16,,鄭淑麗,實體,,一屋兩賣,一屋兩賣,,,,https://docs.google.com/presentation/d/1NWnHCVZ-g7eLKy70jdUsP6IY4IR0AQum/edit?usp=sharing&ouid=117196307703279761842&rtpof=true&sd=true,,,,,,,g0v tw hackath62n — 提案 — 一屋兩賣 ／ 鄭淑麗 —  帶我去月球黑客松
+14,10:19,,Eli,實體,,司法判決資料庫,,,Y,,dodgydogg/judical_data_tw (github.com),,,,@Eli,,,g0v tw hackath62n — 提案 — 司法判決資料庫 ／ Eli —  帶我去月球黑客松
+15,10:22,,Zoey,實體,,台灣 AI 共創實驗室,AI 價值對齊專案,,,https://docs.google.com/document/d/1x7sOW1ZxyHrkuRqZShvVUgT03-WEVnJ3fHL-3wzccIg/edit?tab=t.0#heading=h.jjrgrg9jdgqd,https://docs.google.com/spreadsheets/d/1gzjCVPMnH7VC4OGtQ38ecTAaxWuBT-6r-hqVzdWbbwc/edit?usp=sharing,,,,,,,g0v tw hackath62n — 提案 — 台灣 AI 共創實驗室 ／ Zoey —  帶我去月球黑客松
+,,,== 截止 ==,,,,,,,,,,,,,,,g0v tw hackath62n — 提案 —  ／ == 截止 == —  帶我去月球黑客松
+,,,,,,,,,,,,,,,,,,g0v tw hackath62n — 提案 —  ／  —  帶我去月球黑客松
+,,,,,,,,,,,,,,,,,,g0v tw hackath62n — 提案 —  ／  —  帶我去月球黑客松
+,,,,,,,,,,,,,,,,,,g0v tw hackath62n — 提案 —  ／  —  帶我去月球黑客松
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,"短講形式
+Form",錄影以 CC-BY 釋出?,"專案名稱
+Project Name",主題,"短講授權
+Talk License ",是否授權上架 大松實況電台?(Y/?),,相關連結,,三個關鍵字,專案徵人,坑主聯絡方式,,,"g0v tw hackath62n — 中場短講 — 專案名稱
+Project Name ／ 發表者 —  帶我去月球黑客松"
+1,14:30,,Stamford,預錄影片,Y,$LOCAL,地方互助系統 （前“影響力市場”）,CC-BY,Y,,"預錄影片 - https://youtu.be/Ou0S2GMrbPI 
+測試網站 - https://arm0ry.g0v.tw/playground/",,區塊鏈、社區發展、地方互助,,"Slack: @Stamford 
+Slack 頻道: #arm0ry",,,g0v tw hackath62n — 中場短講 — $LOCAL ／ Stamford —  帶我去月球黑客松
+2,14:40,,Karen,實體,,2024臺北秋季程式設計節,以「台北通」為經驗，運用開放原始碼方式，舉辦「2024臺北程式設計節」，廣邀各界高手，在良好基礎上提出創意方案，藉此優化台北通模擬器,CC-BY,Y,https://codefest.taipei/,https://drive.google.com/file/d/1jIesIhr6zIgp6Oey6U9tNo4QECmcxUw5/view?usp=sharing,,開源競賽、公私協力、數據驅動生活,,,,,g0v tw hackath62n — 中場短講 — 2024臺北秋季程式設計節 ／ Karen —  帶我去月球黑客松
+3,14:50,,Tofus,實體,,Jamie's Gap Year Program,跟社群的大家解釋一下為什麼今年會休學，以及休學之後到底要幹嘛,CC-BY,Y,,https://g0v.hackmd.io/@tofus/gapyear/https%3A%2F%2Fg0v.hackmd.io%2F%40tofus%2Fgapyear,,"JGP, Bluesky, civictech",,,,,g0v tw hackath62n — 中場短講 — Jamie's Gap Year Program ／ Tofus —  帶我去月球黑客松
+4,15:00,,揪松團,實體,,公民科技專案與社群手冊,g0v 公民科技專案與社群手冊,CC-BY,Y,https://g0v.hackmd.io/@jothon/ctpbook,https://g0v.hackmd.io/@summit2024/notes/%2FzdVFxFC1Rhu84TyBQiLbtQ,,"civic tech, handbook, 國際經驗交流",,g0v slack #jothon 頻道,,,g0v tw hackath62n — 中場短講 — 公民科技專案與社群手冊 ／ 揪松團 —  帶我去月球黑客松
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"16:10【 present project】 規則：
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,,,
+1,16:10,,Zoey + 黃惠貞,實體,,台灣 AI 教育共創實驗室, 給 AI 的多輪問答題目分享,,,https://docs.google.com/spreadsheets/d/1R1uKNdTzaiiWxc0K2c7SIj5eFSKscHYHz5-wneem1_g/edit?gid=1167343817#gid=1167343817,,,,,,,,g0v tw hackath62n — 成果報告 — 台灣 AI 教育共創實驗室 ／ Zoey + 黃惠貞 —  帶我去月球黑客松
+2,16:15,,chewei,實體,Y,好連街 - 連續型行人路徑繪製步驟,,,,https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ,,,,,,,,g0v tw hackath62n — 成果報告 — 好連街 - 連續型行人路徑繪製步驟 ／ chewei —  帶我去月球黑客松
+3,16:20,,貝吉樂＋MrOrz,實體,,Cofacts,Cofacts 本日有小學生貢獻＋open 165有css,"MIT, 
+CC-BY-SA",y,https://cofacts.tw/hack,https://cofacts.tw/hack,Y,,,,,,g0v tw hackath62n — 成果報告 — Cofacts ／ 貝吉樂＋MrOrz —  帶我去月球黑客松
+4,16:25,,荊輔翔,實體,Y,數位韌性松,"meshtastic, 數位韌性松",,,,https://docs.google.com/presentation/d/1YdNWhUEk9KKbeyaiPmt04auEin59SnqxIbbDnvaB9Bc/edit?usp=sharing,,,,,,,g0v tw hackath62n — 成果報告 — 數位韌性松 ／ 荊輔翔 —  帶我去月球黑客松
+5,16:30,,,,,,,,,,,,,,,,,g0v tw hackath62n — 成果報告 —  ／  —  帶我去月球黑客松
+6,16:35,,宏信,實體,Y,Linux Odyssey,給開發者的電腦入門課,GPL,Y,,,,,,,,,g0v tw hackath62n — 成果報告 — Linux Odyssey ／ 宏信 —  帶我去月球黑客松
+7,16:40,,OKHand,實體,,ChanceTix,一起打造台灣售票平台的淨土,"程式碼：AGPL-3.0
+文件： CC-BY-SA",,https://g0v.hackmd.io/A4Vqa-T6QoqwIsKcz2NIXw?view,https://docs.google.com/presentation/d/1zKJWqDbgqM3rjycOIBqE9utvRHy2_piIzPa_hwmbNas/edit?usp=sharing,,,,,,,g0v tw hackath62n — 成果報告 — ChanceTix ／ OKHand —  帶我去月球黑客松
+8,16:45,,,,,,,,,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR,https://docs.google.com/presentation/d/1iDZK7apnp-pw6vId-rRHeSfol8DpRddycU_S3HBQcMk/edit?usp=sharing,Y,公共討論、數位工具研究、審議式民主,對於數位公共參與工具有興趣的人、對於審議式民主與議題討論有興趣的人、想要更有效討論公共議題的人,"g0v slack #vtaiwan 
+@peter ",,,g0v tw hackath62n — 成果報告 —  ／  —  帶我去月球黑客松
+9,16:50,,Ronny,實體,,國會松,開放國會行動方案整理 & 國會松預告,,,,https://docs.google.com/presentation/d/1S8bZWYAvyweEFHVt6frD7NXpCAV8xC1OQTZdVIRZUn4/edit#slide=id.g2ed3cfb9d0f_0_0,,,,,,,g0v tw hackath62n — 成果報告 — 國會松 ／ Ronny —  帶我去月球黑客松
+10,16:55,,T,實體,Y,論證-公共議題論述匯整平台,專案建議整理 & 近期實作規劃,MIT,Y,,https://docs.google.com/presentation/d/1SAW5gS00zzU8J9yy_shwWZ605N0fqStcc1-qfXOat3k/edit?usp=sharing,Y,資訊視覺化、AI、事實查核,UI/UX、前後端開發人員、希望提升台灣社會民主韌性的人,"@T
+g0v slack  #statement_proof-論證平台",,,g0v tw hackath62n — 成果報告 — 論證-公共議題論述匯整平台 ／ T —  帶我去月球黑客松
+11,17:00,,Eli,實體,y,司法判決資料庫,整理司法院公開資料，變成人可以用的狀態,,,,https://docs.google.com/presentation/d/1BF6RKt5Ji78sQ35jPhljYnHtM1bhkzj_V3IormY2l98/edit?usp=sharing,,,Python、SQL、法律、資料科學,,,,g0v tw hackath62n — 成果報告 — 司法判決資料庫 ／ Eli —  帶我去月球黑客松
+12,17:05,,ichieh,實體,Y,g0v.tw 社群治理頁面,增加 g0v 社群的各種共識和治理機制曝光,,,https://g0v.hackmd.io/Ki8oBtnjTjitnyp84ckYbA?view,https://g0v.tw/intl/zh-TW/g0vernance/,,,,,,,g0v tw hackath62n — 成果報告 — g0v.tw 社群治理頁面 ／ ichieh —  帶我去月球黑客松
+13,17:10,,揪松團,實體,,,歡迎大家填寫影響力問卷,,,https://bit.ly/0123g0vsurvey,,,,,,,,g0v tw hackath62n — 成果報告 —  ／ 揪松團 —  帶我去月球黑客松

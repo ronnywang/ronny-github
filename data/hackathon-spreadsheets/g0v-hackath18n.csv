@@ -1,0 +1,66 @@
+,,,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題,專案授權,共筆／討論連結,目前成果／投影片連結,專案三個關鍵字,專案徵人（專長）,youtube url: 專案報告,youtube url: 成果報告,slides url
+2016/3/5 09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,
+https://www.youtube.com/watch?v=SGOMsAvFVOE,,,,,,,,,,,,,
+4,9:49,,poga,ok,資料新聞產生器,MIT,https://g0v.hackpad.com/SfuUIP4TA80,https://speakerdeck.com/poga/xin-wen-chan-sheng-qi,資料新聞、產生器、視覺化,視覺化經驗者,,,
+5,10:02,,ronny,ok,1. Excel 小工具  2. 地址轉經緯度 API,BSD,1. https://g0v.hackpad.com/Excel--jkpco57DjJH   2. https://github.com/ronnywang/taiwan-address-lookup,"1. http://g0v.github.io/excel-data-tool/merge-sheets/
+ ","1. excel, data, javascript
+2. 地址, 經緯度, 地理","1. excel 轉 csv 需求者, 想練習 js 的人
+2. 地址轉經緯度需求者",,,
+6,10:05,,chewei ,ok,戰後臺灣規劃史料資料庫,cc-by,https://g0v.hackpad.com/-Taiwan-Spatial-Planning-Data-Base-Jk9DUGUvgla,https://docs.google.com/presentation/d/1O8IQv-IUYFPsSx9H0RGyq3jWaYtt0jI7S8TC0Z0YPzc/edit,泛黃文件OCR、老舊地圖數化、都市計畫 ,,,,https://docs.google.com/presentation/d/1O8IQv-IUYFPsSx9H0RGyq3jWaYtt0jI7S8TC0Z0YPzc/edit
+7,10:08,,林宗弘,,社會變遷全記錄 - 議題資料連結小幫手,MIT / CC-By,https://g0v.hackpad.com/UssOWtAVda9,https://goo.gl/WRELny,研究、問卷、統計,,,,
+8,10:11,,Peggy,ok,公務員開放資料Lesson 4,cc-by,http://beta.hackfoldr.org/1y53yMePrhGHqYRiLnpGxRBCkEbq6gk72eswTGewx2mc,1,API白話文運動,有耐心的工程師大大、也有推動開放資料經驗的公務員,,,
+9,10:14,,Arshain,ok,開放資料csv產生器,cc-by,https://g0v.hackpad.com/-Excel-.csv--vDLLZbbikXF,https://www.dropbox.com/s/w2hixqsm30ow09q/20160305_ExcelToCsv.pptx?dl=0,excel、csv、自動化,VBA or other coders、公務員或替代役等開放資料釋出者或協助者、開放資料使用者,,,
+10,10:17,,Faraday Jeffrey,,一個社會公共事務社群的 UX2.0,,後補,後補," 社會公共事務, 透明中立, User experience","UX designer, APP & Web developers",,,
+11,10:20,,LY,ok,Summit 支援前線,cc-by,https://g0v.hackpad.com/g0v-summit-2016--n6mtHE69Kzg,,,,,,
+12,10:23,,Tin,ok,性別統計資料庫,MIT,"https://g0v.hackpad.com/--I6TyKqNg0Yz
+",https://drive.google.com/a/womany.net/file/d/0B-yEKOH7xVMKSlhKMXFZUFhfODA/view?usp=sharing,性別議題、資料庫、駭客松,文書、對性別議題有興趣的人（資料API化）,,,
+13,10:26,,Lafudoci,ok,g0v 零時空汙觀測網,MIT,https://g0v.hackpad.com/g0v--TexkKFNmqZP,http://g0vairmap.3203.info/,空氣汙染、物聯網、公民科學,前端工程師、資料工程師、關注空汙議題者、感測站放置志願者,,,
+14,10:29,,Lafin,Ok,阿美語萌典,cc-by,https://g0v.hackpad.com/3Ydp2FGteEs,https://docs.google.com/presentation/d/1Mm1kubR0HPNBcKK-d9znURDhPmcWIccY0etTVa7LGWE/edit?usp=sharing,阿美語、萌典、辭典,後端工程師、OCR工人、對於阿美語有興趣的人,,,
+15,10:32,,Fumi,ok,災害議題管理Hackfoldr,cc-by,http://beta.hackfoldr.org/em/,http://www.slideshare.net/JessieWang29/hackfoldr,災害議題管理、台南大地震,願意分享防災議題Hackpad一同彙整的人/希望相關研究者互相實體認識/共筆,,,
+16,10:35,,Fumi,ok,立委咖電喂,cc-by,https://g0v.hackpad.com/t5nla4R4Dft,http://www.slideshare.net/JessieWang29/18g0v,立委、通訊錄,工程師/設計師/願意討論介面/應用的人/想出更好名字的人,,,
+17,10:38,,楊緬因,ok,叛民城市地圖資料集,cc-by,https://hackpad.com/JAhnEkKAxoi,http://www.slideshare.net/BrandinYang/hackath18n,,前端工程師、網頁設計、精通美日語者,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,== 截止 ==,,,,,,,,,,
+"2016/3/5 14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,相關連結,三個關鍵字,專案徵人,,,
+1,14:30,,chihao,ok,《眾志成城》／Eco_Hack,《眾志成城》是CC BY-SA 4.0 International,https://g0v.hackpad.com/g0v-qzCvrF0x7Ih,http://biomearts.net/,,,,,
+2,14:40,,Fumi,ok,2015路過數位藝術節感想,cc-by,http://www.slideshare.net/JessieWang29/201602092,http://beta.hackfoldr.org/%E7%9C%BE%E5%BF%97%E6%88%90%E5%9F%8E,台北數位藝術節、g0v、零時藝術,,,,
+3,14:50,,Toby,ok,Pepperlands - 智慧市民平台,cc-by,http://www.slideshare.net/TobyLiu1/pepperlands-g0v-hackath18n,"http://pepperlands.com
+http://blog.torchmanx.com",市民熱線1999、資料探勘、語音辨識,"1. 資料科學家（語音辨識、深度學習、人工智慧）
+2. 資料視覺化（Google Maps API、d3.js）",,,
+4,15:00,,Michael_LI,ok,"1.自己的新聞（媒體）自己救
+
+2.開源攝影棚",cc-by,,首次公開發表，萌典松（2016-02-22週六）,"1.　自幹節目製作、議題散播、Live直播
+
+2.　開源程式設計、降低製作成本、副控室的軟硬體","1.　雜工（文字整理）、軟體工程師（Python or PHP）、網頁與美術設計
+
+2.　C語言工程師、通訊協定（RTMP or RTSP）、嵌入式硬體",https://www.youtube.com/watch?v=tb5dpcUBLEI,,本次投影片下載
+,,,,,,,,首次公開的投影片,,,,,
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"2016/3/5 17:00【 present project】 規則：於106-7會議室舉行
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,
+1,17:00,,小四,ok,台北史上最大防災型聯誼,"cc-by, MIT(code)",https://www.facebook.com/macpaul/posts/10153889439272910,,,,,https://www.youtube.com/watch?v=UpHI748W9pI&list=PLdwQWxpS513DncV-LZJ99Vg_Cyjj43-1s,https://github.com/sheethub/2016electionchart
+2,17:05,,Saul,ok,叛民城市（半天進度）,cc-by,https://hackpad.com/JAhnEkKAxoi,https://drive.google.com/file/d/0B66ThUqEYSu2MlJvY0hiT1dTMmc/view?usp=sharing,文化恐怖份子、暗黑旅遊誌,前端工程師（python、Ruby、JS）,,,
+3,17:10,,johnny,ok,"Excel 小工具
+立委投票指南",BSD,https://g0v.hackpad.com/Excel--jkpco57DjJH,,,,,,
+4,17:15,,,,,,,,,,,,"https://goo.gl/0dTDuv
+"
+5,17:20,,Fumi/GLYN,,立委咖電喂,cc-by,https://g0v.hackpad.com/t5nla4R4Dft,http://meisheep.github.io/g0v-call-liwei/#/,立委、聯繫資料,,,,https://hackmd.io/s/NkyjgG4We
+6,17:25,,Tin,ok,性別統計資料庫,MIT,https://g0v.hackpad.com/I6TyKqNg0Yz,https://drive.google.com/a/womany.net/file/d/0B-yEKOH7xVMKMVpGMElGMXA1c3M/view,性別議題、資料庫、駭客松,"文字工作者
+關心性別議題者",,,
+7,17:30,,weiting,Y,萌典阿美語 -- 開放 vs. 半開放,cc-by,https://g0v.hackpad.com/--0dhleAxPa9c,https://docs.google.com/presentation/d/1Mm1kubR0HPNBcKK-d9znURDhPmcWIccY0etTVa7LGWE/edit?usp=sharing,阿美語、萌典、辭典,後端工程師、OCR工人、對於阿美語有興趣的人,,,
+8,17:35,,miaoski,Y,判決書資料探勘,CC0 (code),https://g0v.hackpad.com/jzBYLYjZ2J4,,司改會、判決書,"data miner, 後端",,,
+9,17:40,,Arshain,OK,開放資料csv產生器,cc-by,https://g0v.hackpad.com/-Excel-.csv--vDLLZbbikXF,,excel、csv、自動化,VBA or other coders、公務員或替代役等開放資料釋出者或協助者、開放資料使用者,,,
+10,17:45,,LY,ok,Summit 支援前線,cc-by,https://g0v.hackpad.com/g0v-summit-2016--n6mtHE69Kzg,,,,,,
+11,17:50,,,,,,,,,,,,
+12,17:55,,,,,,,,,,,,
+13,18:00,,,,,,,,,,,,

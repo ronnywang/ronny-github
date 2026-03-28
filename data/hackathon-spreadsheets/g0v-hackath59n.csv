@@ -1,0 +1,126 @@
+,,,,,,,,,,,,,,,,,,
+順序,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出？,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","g0v Podcast
+松後推坑電台
+受訪意願? (Y/?)","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)","坑主聯絡方式
+Contacts",youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
+09:50 開場，10:00 提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。Project Registration,,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」We recommand you pre-record a project introduction video if you can't make it on-site.,,,,,,,,,,,,,,,,,,
+1,10:00,,Teemo,實體,Y,TW-Bench,給大語言模型的台灣考卷,CC0,Y,,https://www.canva.com/design/DAF2YSlSkpg/cumqxJl2_OtfQa-rJDRL5Q/view,Y,台灣人的、民主化、LLM,很多問題想提問的人,"g0v slack @Teemo #tw-bench
+",,,g0v tw hackathXXn — 提案 — TW-Bench ／ Teemo — XXX黑客松
+2,10:03,,Isabel,實體,Ｙ,Taiwan AI Assembly「以審議探索台灣 AI 發展與治理共識」,生成式 AI 與教師工作的整合，一起來審議討論吧 !,CC BY,Y,https://hackmd.io/k0hMoHegRYOCNjCIWdJ7tA?edit,https://docs.google.com/presentation/d/165-tD9YLeY_YA6bTiySZ2IYbFjKzP1GRHJq0Z_c3JRo/edit#slide=id.g263348d5d4d_0_151,Y,"生成式 AI, 審議, 教師工作","邀請老師們
+(1) 填寫問卷 https://docs.google.com/forms/d/e/1FAIpQLSfsravUrHsUbJNbxbHSbafLUXQrYI6xt-1KESL9atMEs7NyQQ/viewform
+(2) 參加當天 11:30 AI 審議活動",@isabelhou,,,
+3,10:06,,chihao,實體,Y,2024 選舉開放資料,2024 選舉、台灣政治,CC BY,Y,https://g0v.hackmd.io/aUKn-iDeSXmR4HXk2yIvXQ,https://docs.google.com/presentation/d/1r67TPSa20Uw_IfMVTODSC4WOb_SwiWw7BDWvRYVJrWQ/edit#,Y,選舉、開放資料,玩資料、建資料、爬資料,@chihao,,,
+4,10:09,,Stamford,實體,,鏈上大松,用 QR Code 鏈上參與大松,CC BY,Y,,https://docs.google.com/presentation/d/1j_tyHc_fpaFLkyPJCylNV_h2eevYU8I4rVfNdYZBFHs/edit#slide=id.g29c2703d9af_0_8,,,,,,,
+5,10:12,,fly,預錄影片,Y,醬活,開放、即興、自然地活著,CC0,Y,https://g0v.hackmd.io/@flyo/flyism,https://k.flyism.org,Y,開放、即興、自然,閱讀、聊天、遊戲、擁抱,g0v slack #flyism @fly / fb.me/flyism / LINE: leovgrace,https://youtu.be/NfnmWEhiBtg,https://youtu.be/NfnmWEhiBtg,開放、即興、自然醬活著
+6,10:15,,施逸翔,預錄影片,Y,台灣人權促進會,遠洋漁工可以使用wi-fi嗎？ 那些漁船有裝沒裝看透透,CC-BY ,Y,https://www.tahr.org.tw/news/3322,https://drive.google.com/file/d/1FCGJcKsregQW-y-W75STqis_xTqqlZww/view?usp=sharing,Y,漁工 、wi-fi 、強迫勞動,,LINE：riverrain30801,,,
+7,10:18,,Peter,實體,,vTaiwan ,vTaiwan x 司法院,CC-BY ,y,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/r1fHm24Sa,https://docs.google.com/presentation/d/1ZEN8iqXjGNo8mV_3isWebKO5xYFckmn_ZbAOzhVRsEM/edit?usp=sharing,Y,"vTaiwan, AI, 司法院",設計審議活動的人、對人工智慧有興趣的人,@peter #vTaiwan ,,,
+8,10:21,,MrOrz,實體,Y,Cofacts 真的假的,"Cofacts 真的假的要被選舉訊息淹沒啦／
+台灣選務謠言筆記","MIT, 
+CC-BY-SA",y,https://cofacts.tw/hack,https://docs.google.com/presentation/d/1KPqx0DCLR_h-6FfOv3qa94QuO70ZGwYSnOZNwAOBMZM/edit,Y,程式開發、事實查核、AI,"關心選務謠言的人
+會 NodeJS / ReactJS 的人",g0v slack #cofacts @mrorz ,,,
+9,10:24,,卓致遠,實體,,防災習慣養成,任務化提升台灣防災準備,,,https://www.notion.so/c534c381f1d24cbf89a2879b399f441f?pvs=4,https://docs.google.com/presentation/d/1oWQyOfGsYmBAV75vg2A5tZFW_wwxNTAMn0voseBmEcc/edit?usp=sharing,,防災、UX、,UX writing有興趣的人、工程師,g0v slack #disaster-prevent @卓致遠,,,
+10,10:27,,Ronny,實體,,OGP 體檢,開放國會/開放政府行動方案總體檢,CC-BY ,y,https://docs.google.com/presentation/d/1M0F1ysUS8gq5NSCbc-8437khHZEXCfg7zdsunlQdIAQ/edit#slide=id.p,https://docs.google.com/presentation/d/1M0F1ysUS8gq5NSCbc-8437khHZEXCfg7zdsunlQdIAQ/edit#slide=id.p,Y,,,,,,
+11,10:30,,RS Chiang,實體,,g0v Summit ,g0v Summit 2024 ,CC-BY ,y,https://g0v.hackmd.io/@summit2024/book/https%3A%2F%2Fg0v.hackmd.io%2FdttYgGq1SmqCCp4ZntffZw,https://docs.google.com/presentation/d/1Dh9wg_WWV6HhF7-vExUzGFyTomHAlzK8OBAyafMoYOI/edit?usp=sharing,,,,,,,
+12,10:33,,Irvin,實體,Y,"韌性松、
+數位韌性、
+戰時韌性","#civil-defense
+
+第一次韌性松 12/30 ＠NPO Hub 
+報名串 -> https://www.facebook.com/groups/g0v.general/posts/6804552242954457/
+
+@paulpengtw
+@billy3321
+@chihao
+
+災難分級表、重要網站列表與檢測、P2P通訊軟體測試     @Irvin      
+數位韌性有很多面向，從海纜不通到導彈洗地到解放軍上門，不同的情境各有不同的需求與因應方案。今天我們將收集並歸納大家對於「災難」的不同想像，並且 mapping 公民社會 / g0v 現有的數位韌性相關提案。
+
+網路模擬報告、重要防災資訊分流、防災地圖圖資        @ronny
+防災資訊鏡像站點、防空避難所座標和圖資",CC0,Y,https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ#自由提案報名區,https://g0v.hackmd.io/oyNRfe4lTuaZ5RbcPSS7TQ#提案紀錄,Y,數位韌性、網路障礙、災難預防,請到 #civil-defense 參考各專案的說明,g0v slack #civil-defense,,,
+13,10:36,,嗡嗡,實體,,Pride Watch ,Pride Watch 彩虹選民投票指南！看比不看更好投！,,Y,https://g0v.hackmd.io/s/ryxLkgDCbh,https://pridewatch.tw/,Y,政治選舉、多元性別、投票指南,關心多元性別、政治選舉議題的人,,,,
+14,10:39,,May,實體,Y,美好食光,減少超商剩食,CC-BY ,Ｙ,,https://reurl.cc/E1kzjv,Y,食物浪費、剩食、改善飢餓,,,,,
+15,10:42,,YI,實體,,自己的大松自己捐,「自己的大松自己捐」熱烈募款中 &「定期定額大鱔人」紀念貼紙試營運 & 社群影響力報告 (2022.07-2023.06) 出爐囉 !＆龍年賀詞募集,CC-BY ,y,龍年賀詞募集：https://g0v.hackmd.io/@jothon/ry5TjRBhD,"自己的大松自己捐
+影響力報告",Y,捐款支持社群、社群對於整體社會的影響力、來當大善人,,,,,
+,,,== 截止 ==,,,,,,,,,,,,,,,
+以下是候補（一分鐘）已截止XD,,,,,,,,,,,,,,,,,,
+,1 分鐘分享,,Moritz,實體,,,,,,,,,,,,,,
+11:30-12:30 數位公共財哥來投票 - QV 平方投票 FOSS and Open data Playground,,,,,,,,,,,,,,,,,,
+0,11:30,,Zoey,實體,Y,FOSS and Open Data Playground回溯性獎助計畫,成果發表開場及QV投票要點說明,CC-BY,,https://g0v.hackmd.io/@XGx1OsqUTxqdSyZuNx_F5w/rkhXC70S6,https://docs.google.com/presentation/d/1VcdjyZxEyVv833oVG5Xlp5JAozRao7Gm4Q6ip1Z_pdU/edit#slide=id.g29162202532_0_34,,,,,,,
+1,11:33,,黃宜品,實體,Y,Desci - OpenDesign BioFabrication Device Project,如何創造一個數位設計交流機制，以生物設計為範例出發,CBE-Public Domain,Y,https://open-design-obygtm.flutterflow.app/,https://docs.google.com/presentation/d/14Cj0MWqZXFvPGDTJW7JOhZAVMQ6HsQuM4JK1ANxfzJQ/edit#slide=id.p,,生物自造、共享設計、設計授權,對生物自造、模組化NFT機制設計、新授權機制有興趣的人,g0v slack #desci,,,
+2,11:40,,ddio,實體,Y,Thaubing ESG 開放企業永續資料庫,打造開源、開放的企業ESG資料庫,"程式碼 MIT ,文件與資料 CC-BY-NC 4.0",Y,https://g0v.hackmd.io/@ddio-io/open-csr-report/https%3A%2F%2Fg0v.hackmd.io%2F-wNbQMKHSm6vNhLoMjYIFw,https://docs.google.com/presentation/d/1DdcFoj170Xoez1QleAhUg4NwhLzFMLNHIm6rXetpsBI/edit#slide=id.g2633659470e_5_106,Y,ESG、工人智慧、UIUX,前端、UIUX 回饋,#thaubing-esg,,,
+3,11:47,,Denken,預錄影片,Y,立法院大小聲,開放國會的最後一哩路,公眾領域,Y,https://www.craft.me/s/h8UBAHERtcXXcS,https://youtu.be/2yo21QR0PK8,Y,立法院、人工智慧、理性討論,,g0v slack @denkeni,https://youtu.be/2yo21QR0PK8,,立法院大小聲 @ 數位公共財哥來投票 × g0v hackath59n
+4,11:54,,Peii,實體,,disfactory,Disfactory：一群想用科技工具改變政府的下班族,"Code (MIT), Doc (MIT) https://license.disfactory.tw/",Y,https://g0v.hackmd.io/Lk9KiihIS7qQU6iZUTptWQ?both,https://docs.google.com/presentation/d/1qENygOh17FvZyCswfEGskSZ21qKlTdkWTgLL3aN7RjI/edit#slide=id.g2633f6a4874_1_75,Y,違章工廠、群眾標記、遊戲,"PM、對使用者經驗有興趣的UI/UX設計師、前端 (Vue.js)、後端 (Python , Django Template)",g0v slack #disfactory,,,
+5,12:01,,MrOrz,實體,Y,Cofacts,投資 Cofacts 查核協作者的影響力,CC BY-SA,Y,https://cofacts.tw/hack,https://docs.google.com/presentation/d/10h3WEA2gUZDCiTJ-ay9geUrFPhP6vSPOgqZm1d0y3QI/edit#slide=id.g28caf866bb2_1_0,Y,程式開發、事實查核、AI,"會 google 的人
+會 NodeJS / ReactJS 的人",g0v slack #cofacts @mrorz ,,,
+6,12:08,,王信堯,預錄影片,Y,DeSci - DARTA,創造一個醫療AI模型的機制，提供個人、學者或是醫療院所一個永續機制平台,CBE-Public Domain,Y,https://darta-q6nbl0.flutterflow.app,https://youtu.be/qu5J-2nWx0Q,,資料擁有權、永續模型、醫療AI,對醫療模型共享機制、聯邦學習、web3技術有興趣的人,g0v slack #desci,https://youtu.be/qu5J-2nWx0Q,,
+7,12:15,,傅昶惟,實體,Y,Shoutout,Shoutout 感謝大聲公,"軟體 GPL 3.0
+資料 CC BY-NC-ND 4.0",Y,https://airtable.com/appaXYbUbwh2fg528/shrzrw8ksuBi6KbzC/tblGGarQke7hMFwND/viwucpvgdUOF088o3?blocks=bipfObSSWl1KqPU7e,https://www.canva.com/design/DAF2ZQlWXcU/u0LlVFgvkw8AkjcM052bWw/edit?utm_content=DAF2ZQlWXcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton,Y,"行走的激勵機制
+聚集和呈現使用者各種貢獻
+去中心化個人履歷","1. Developer
+(1) Blockchain Dev：協助評估功能、架構的資安風險
+(2) FE Dev：設計展示 SO 紀錄的前端頁面
+
+2. Designer
+(1) UIUX：設計前端網頁的交互流程、SO Bot logo、前端畫面展示元素
+
+3. Researcher
+(1) 發想與研究 SO 使用場域、情境以及功能，並回饋給團隊實作","g0v slack #da0-shoutout
+@昶惟
+@Kay",,,
+,12:22,,Sejal,實體,Y,Gitcoin QF Tool,,,,,,,,,,,,
+13:00-16:20【零時小學校師培】- Sch001 Education Lecture,,,,,,,,,,,,,,,,,,
+,"13:00
+-13:40",,林穎俊老師,實體,-,零時小學校師培講座,【講座】「把問題問好」，教孩子如何與 AI 協作,-,-,,https://docs.google.com/presentation/d/1VoRG8r0HPpvz53MeDw7myN-54wfizMJAb4Tq_FEFBE4/edit#slide=id.g28bedf46c23_496_6885,Y,,,,,,
+,"15:00
+-15:20",,韓中梅老師,實體,,零時小學校師培工作坊,【講座】PBL 課程實作：從自己做專案到陪學生做專案解決日常問題,-,Y,,師培分享投影片,Y,,,,,,
+,"15:30
+-16:20",,零時小學校,實體,,零時小學校師培工作坊,"【工作坊】
+- PBL 數位解方案例與資源運用
+- 共創 PBL 各階段資源盤點與應用
+- 擬定數位工具、社群資源應用於課程／工作之計畫
+- Q&A",-,Y,,https://docs.google.com/presentation/d/1SGDclSt9va9U_hZQN1seotgX5HdIDOTtmD7i0IllSNI/edit?usp=sharing,Y,,,,,,
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。Talk Registration",,,,,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,"發表者
+Presenter","短講形式
+Form",錄影以 CC-BY 釋出?,,"主題
+Topic","短講授權
+Talk License ",是否授權上架 g0v 零時電台?(Y/?),,相關連結,"新參者友善（Y/?）
+Newcomer-friendly?","三個關鍵字
+3 Keywords of talk","專案徵人（專長）
+Recruitment (talents?)","坑主聯絡方式
+Contacts",,,"g0v tw hackathXXn — 中場短講 —  ／ 發表者
+Presenter — XXX黑客松"
+1,14:30,,Teemo,實體,Y,hackath59n,東興圳與周邊傳統民宅(客語海陸腔),CC-BY ,N,https://youtu.be/_6fbAS-ltsY,https://www.canva.com/design/DAFyJo1jDzQ/ddMYWwPf9LfgplBCJm-xWQ/view,Y,竹北、東興圳、傳統民宅,,,,https://youtu.be/_6fbAS-ltsY,
+2,14:40,,Peter ,實體,,,把 vTaiwan 帶進 OpenAI 跟 CFJ ,cc-by,Y,,https://docs.google.com/presentation/d/1ZLR3-np0rJRW5e0RC0EKmVlc_rCUMtECakoTCW1o5j4/edit?usp=sharing,Y,,,,,,
+2.5,14:45,,Sejal,實體,,,QF workshop @FtC,,,,https://docs.google.com/presentation/d/1EvGnxmAsDm0lXhNMFOg_C8eukaTuy0LcIu-EfsfHVss/edit#slide=id.g26359fbba1e_0_307,,,,,,,
+3,14:50,,Christian Grothoff ,實體,,數位發展部引介國際社群,"The privacy-preserving GNU Taler
+payment system",AGPLv3+,Y,http://docs.taler.net,https://demo.taler.net,Y,,,,,,
+,本期開放3位8分鐘,,== 截止 ==,,,,,,,,,,,,,,,
+"16:30【present project】 規則：
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,,,
+1,16:30,,Christian Grothoff ,實體,,GNUnet,RFC 9498: The GNU Name System,GPLv3+,,https://gnunet.org,,,,,,,,g0v tw hackathXXn — 成果報告 — GNUnet ／ Christian Grothoff  — XXX黑客松
+2,16:35,,tmonk,實體,,2024 選舉開放資料,2023 台灣政治總回顧,MIT,,https://g0v.hackmd.io/aUKn-iDeSXmR4HXk2yIvXQ,https://docs.google.com/presentation/d/1a4A3V-N-5Vcd31d2XBwj47bkKTZHt4Y5VQV2COdsxsE/edit?usp=sharing,Y,,,g0v slack @tmonk,,,
+3,16:40,,Peter ,實體,,vTaiwan ,vTaiwan X 司法院,,,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/r1fHm24Sa,https://docs.google.com/presentation/d/1ZEN8iqXjGNo8mV_3isWebKO5xYFckmn_ZbAOzhVRsEM/edit?usp=sharing,,,,,,,
+4,16:45,,Stamford,實體,,鏈上大松💗,Impact Markets / 影響力市場,CC-BY,,,https://docs.google.com/presentation/d/1j_tyHc_fpaFLkyPJCylNV_h2eevYU8I4rVfNdYZBFHs/edit#slide=id.g29c2703d9af_0_8,,,,,,,
+5,16:50,,查理,實體,,選前大補帖,專案狀態與未來規劃,,,www.voting-guide.tw,,Y,,,taiwan.voting.guide@gmail.com,,,
+6,16:55,,May,實體,Y,平安走路許願帳戶,公民參與交通治理,CC-BY,Ｙ,專案共筆連結,成果展示平台,Ｙ,群眾標註、公民參與、交通治理,專案管理、資料分析、GIS、UX、UI,tmayhan@mail.ctsh.hcc.edu.tw,,,
+7,17:00,,RS chiang,實體,,g0v Summit ,g0v Summit 2024 ,,Y,,https://docs.google.com/presentation/d/1Dh9wg_WWV6HhF7-vExUzGFyTomHAlzK8OBAyafMoYOI/edit?usp=sharing,,,,,,,
+8,17:05,,Irvin,實體,Y,數位韌性,災難分級表,CC0,Y,,https://g0v.hackmd.io/@irvin/digital-disaster-level,Y,,,g0v slack #civil-defense,,,
+9,17:10,,QV,實體,,數位公共財哥來投票 - QV 平方投票 FOSS and Open data Playground,邀請大家參與QV 平方投票，支持打造數位公共財的專案們！！,CC-BY,Y,https://g0v.hackmd.io/@XGx1OsqUTxqdSyZuNx_F5w/rkhXC70S6,https://docs.google.com/presentation/d/1VcdjyZxEyVv833oVG5Xlp5JAozRao7Gm4Q6ip1Z_pdU/edit#slide=id.g29162202532_0_34,,,,,,,
+10,17:15,,"Tiff, chewei",實體,Y,零時小學校 & Taiwan AI Assembly「以審議探索台灣 AI 發展與治理共識」,零時小學校師培工作坊成果分享 & 生成式 AI 結合教師工作-審議討論成果,,Y,,https://docs.google.com/presentation/d/1604E2mO-q1sGejour36_Hq22KKBVvP_FoBlGgAgQcXE/edit,Y,數位公民、師培、教育現場與 g0v 社群,,,,,
+11,17:20,,卓致遠,實體,,防災習慣養成,任務化提升台灣防災準備,,,https://hackmd.io/mdt6FTWOSdi0CAAYwvVoeg?both,,,,,,,,
+12,17:25,,Ronny,實體,Y,,OGP 健檢 / 數位候選人,,,https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/HJITWUbLa/%2FrV4_fGbJRM-agjnjcu7v5g,https://docs.google.com/presentation/d/1-A6b9JgqZ32KUJyi0LUZeZkIokDmzW-c3d_9v2d412w/edit#slide=id.p,Y,,,,,,
+13,17:30,,揪松團,實體,Y,,歡迎大家填寫影響力問卷 & 自己的大松自己捐 !,,Y,,,Y,,,,,,

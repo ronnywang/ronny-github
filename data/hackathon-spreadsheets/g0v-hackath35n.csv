@@ -1,0 +1,63 @@
+,,,,,,,,,,,,,,,
+s,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題,專案授權,共筆／討論連結, ,新參者友善（Y/?）,專案三個關鍵字,專案徵人（專長）,坑主聯絡方式,youtube url: 專案報告,youtube url: 成果報告,slides url
+09:30 開場 Opening，09:40 提案開始 Pitch【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+1,9:40,,tmonk,Y,林崔馬克,CC0 1.0 通用,,https://g0v.hackmd.io/p/Sy10d3JfH#/,Y,電子發票、Link Data、商標,"Backend、Frontend、Database Scheme Design、
+熟悉電子發票API、A.I. Trainer
+法律人、熟悉授權條款",typingmonkey@protonmail.com,,,
+3,9:46,,YuTin,Y,亞洲模擬人權法院,MIT / CC-BY 4.0,https://www.facebook.com/AHRCS.org/,https://ahrc.legal/,Y,人權、法院、國際,設計師、小編、志工,@yutin,,,
+4,9:49,,易樓網 - 鄭淑麗,cc-by,實價登錄 2.0 & 臺灣公寓大廈資料庫,API-待討論,https://g0v.hackpad.tw/--Rxf1DaPMR6D,https://docs.google.com/presentation/d/1m48FSnC2cImYTYgfkb063bWAk6hMrXjIYjxRiOWcglY/edit?usp=sharing,,實價登錄2.0  公寓大廈  使用執照,不動產相關,service@eb31.asia,,,
+5,9:52,,阿旺,Y,"回音森林 (for 學校/教師) 
+- 用 AI 訓練學生口說的 Website","程式 MIT
+語料 CC BY",https://g0v.hackmd.io/OAq3-ouBTBScLk7TOYCQtg,https://github.com/wangchou/echo-mori,,教育 語言學習 口說,設計、Web (Svelte)、後端 (nodejs)、對語言教育有興趣的人,"@awan
+g0v slack: #echo-mori",,,
+6,9:55,,Eddie,Y,好新聞連播網,MIT,https://github.com/agameofprivacy/news-vj,https://agameofprivacy.github.io/news-vj/,,新聞 好選擇 懶人,"React, Firebase, Node.js",g0v slack: #news-vj,,,https://docs.google.com/presentation/d/1lgpRS-fne-Q5Gy7hayDZS7Dk1r-4Q0Zng5xd7OFLll0/edit?usp=sharing
+7,9:58,,台灣維基社群,Y,反制中共網軍入侵中文維基百科,,https://g0v.hackmd.io/yD6PSK2tTSmPh6ZGAHpKVw?both,https://docs.google.com/presentation/d/1f_bT5TKJdUieWkCqZQFOi_Qlax740FPwQYzQSmRetpI/edit?fbclid=IwAR35Ili5MC_SOwJU-kQ_Jg5GXCbrX5eZel8mn3Ygg-SddlG7lQIEi-QDXlo#slide=id.g5dd698e344_6_1236,,網軍 維基 資訊戰,能構思低成本反制策略的人,jamielinliyun@gmail.com,,,
+8,10:01,,BBC,,BBC 拍攝,,,https://www.youtube.com/channel/UCu0Uc1oNDF36jRY_sskl8bA,,,,,,,
+9,10:04,,bil,Y,Cofacts 真的假的,"程式 MIT
+文字 CC0",https://cofacts.g0v.tw/hack,https://docs.google.com/presentation/d/1CAZRoi7aF_zaJ98_AdWcHzLiul1im1rGIk7ESZvJgc0/edit,Y,群眾協作、闢謠,願意回應網路訊息的人、熟悉法律,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,https://docs.google.com/presentation/d/1CAZRoi7aF_zaJ98_AdWcHzLiul1im1rGIk7ESZvJgc0/edit
+10,10:07,,邦宇,Y,2020投票指南,MIT,https://www.figma.com/file/JUzNk4lDjWAKiHea6vH9lfxF/%E6%8A%95%E7%A5%A8%E6%8C%87%E5%8D%97?node-id=500%3A192,"
+https://docs.google.com/presentation/d/1xJA_ot_cbBcy9PNE-N4H9YyLZo_ZbDn7dY0Fdzt3D-4/edit#slide=id.gd9c453428_0_16",Y,"2020, 立委, 選舉",行銷/公關/軟體工程師/任何有興趣的人,"bangyuwen@gmail.com
+g0v slack #2020voting-guide",,,
+11,10:10,,淑貞,Y,誠徵一日資料申請小幫手 ^^,CC BY 4.0 ,https://ppt.cc/fBROjx,https://docs.google.com/presentation/d/1DBcZPfyFUfBjZh4t4pUOkW_JaxpInyMAfe_y34_tsi8/edit#slide=id.p,,開放資料、資訊自由、我想要更多,對政府資訊公開法、申請政府資料有興趣的熱血鄉民,"臉書：資料申請小幫手
+g0v slack: #shuchen, #chewei",,,
+12,10:13,,克羅依 / ddio,Y,Rentea 設計給租屋者的開源找屋工具,CC-BY-NC 4.0,https://g0v.hackmd.io/Bv_1JeHoT1O8gIjFBEJROg,https://beta.hackfoldr.org/rentea/,Y,租屋者、租屋平台、開放資料,爬蟲、租屋議題跨界,g0v slack: #rentea,,,https://g0v.hackmd.io/p/HyFMmuS-H#/
+13,10:16,,Allen,Y,立志收羅全球知識，機器看得懂的維基百科--Wikidata,CC0,wikidata.org,https://slides.com/allenwang6212/deck-27-28/,Y,CC0、LoD、open data,想要結構化紀錄資料的人、有興趣做資料應用的人,alllenwang6212@gmail.com,,,
+14,10:19,,HC,Y,全民一起參與2020 總統候選人事實查核,CC0 + CC SA-NC-BY 4.0,,https://www.readr.tw/project/fact-check-2020 ,Y,事實查核、2020總統大選,逐字稿撰寫、逐字稿驗證,,,,
+15,10:22,,Ronny,Y,g0v 社群治理討論 ,CC0 + CC SA-NC-BY 4.0,https://g0v.hackmd.io/vYdTfaYeR7SnIU3zT5evOw,,,g0v、社群、治理,Nobody,@hcchien @zoee @tinchen,,,
+16,10:25,,小海,Y,違章工廠舉報系統,,https://drive.google.com/file/d/1MB3xjIwZd8NbgH39ax6ojsy76HjaN6Rh/view?usp=sharing,,,違章工廠、監督政府、群眾協作,對檢舉農地違章工廠有興趣的人,oriyaroriyar@cet-taiwan.org,,,
+17,10:28,,cotton,Y,NT01 地球上的夢幻逸品線上型錄,,,,,夢幻逸品、網站、地球資源,想要徵建造網頁的人,cottondisco@gmail.com,,,
+,,,== 截止 ==,,,,,,,,,,,,
+"14:30【《本次不開放短講!!!》(･`ε･´●)】
+每個 present 8min，g0v 獎助金 2019 獲獎專案的期中報告 g0v Grant 2019 Mid-term Report",,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,相關連結,,三個關鍵字,專案徵人,坑主聯絡方式,,,
+1,14:30,,Scott,Y,台灣開源義肢計劃,CC BY 4.0 ,,https://sites.google.com/view/twgodhand,,"開源,電子,義肢",會寫網頁的夥伴,twgodhand@gmail.com,,,
+2,14:40,,田,Y, 選舉/金流百科,MIT、CC BY-NC 3.0,https://drive.google.com/file/d/1BfiBD-ci_NY3Z6j8YHs3Tde8KCHAaRsD/view?usp=sharing,https://g0v-money-flow.github.io/candidates/356,,政獻、標案、2020,,Email：tty791002@gmail.com；g0v slack：#open-moneyflow,,,
+3,14:50,,淑貞,Y,資料申請小幫手,CC BY 4.0 ,https://hackmd.io/fFbrJ_40TqWf-k0DxWsgmw?view,https://docs.google.com/presentation/d/1E6tir9b_JSmbvKjHatg00LdlKtzsK7_ov4Ox5JzBTrQ/edit#slide=id.g5d0c62be30_0_106,,開放資料、資訊自由、我想要更多,對政府資訊公開法、申請政府資料有興趣的熱血鄉民,"臉書：資料申請小幫手
+g0v slack: #shuchen, #chewei",,,
+4,15:00,,Tony Huang,Y,農業災損幾多錢,CC BY-NC-SA 4.0,Line群組http://line.me/ti/g/bM06NUeeM8                                                共筆https://hackmd.io/5X6RfsXnSrefP3PuiS9hTA?view,https://drive.google.com/file/d/1uw2SxmXA7F0N3U8LaTS7hcJznol8-YAZ/view?usp=sharing,,災損﹑農業﹑無人機,懂農政資訊﹑懂飛無人機﹑懂技術,"Email：hzc1033@smail.nchu.edu.tw, disapear1997@gmail.com；g0v slack #Tony Huang, #偉誠",,,
+5,15:10,,SeanGau,Y,大河小溪全民齊督工,CC BY-SA 4.0,https://g0v.hackmd.io/V-sOs8JGScWQNftME6HJNQ,https://beta.hackfoldr.org/bcsrcsp,,開放資料、標案、水系地圖,一同維護河川相關資料的夥伴,"g0v slack: #SeanGau, Heidi Chen",,,
+,,,,,,,,,,,,,,,
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"17:00【present project】 規則：於大會議室舉行
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,
+1,17:00,,小海,Y,違章工廠舉報系統,,https://docs.google.com/document/d/102m47zR9ifDG-kP3_QqNdWRzsl-_4AaN4Alty6jH9uE/edit?ts=5d32d5e2,,,,,,,,
+2,17:05,,Ulysses,Y,反制中共網軍入侵中文維基百科,,https://g0v.hackmd.io/yD6PSK2tTSmPh6ZGAHpKVw?both,,,,,,,,
+3,17:10,,mrorz,Y,Cofacts 真的假的,"程式 MIT
+文字 CC0",https://cofacts.g0v.tw/hack,https://docs.google.com/presentation/d/1CAZRoi7aF_zaJ98_AdWcHzLiul1im1rGIk7ESZvJgc0/edit,Y,群眾協作、闢謠,願意回應網路訊息的人、熟悉法律,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,
+4,17:15,,Allen,Y,嘿你知道嗎? Wikidata 這樣收政治人物,CC0,,,,,,,,,
+5,17:20,,,,,,,,Y,,,,,,
+6,17:25,,林立,,Kialo 之政治人物施政品質評論網,CC0,https://hackmd.io/@standfast97/HJrYmIezH,,,,,,,,
+7,17:30,,ddio,Y,Rentea 設計給租屋者的開源找屋工具,CC-BY-NC 4.0,https://g0v.hackmd.io/Bv_1JeHoT1O8gIjFBEJROg,https://beta.hackfoldr.org/rentea/,,租屋者、租屋平台、開放資料,爬蟲、租屋議題跨界,g0v slack: #rentea,,,https://g0v.hackmd.io/p/HyFMmuS-H#/5
+8,17:35,,YuTin,Y,資料申請小幫手,CC BY 4.0 ,https://hackmd.io/fFbrJ_40TqWf-k0DxWsgmw?view,https://opengovdatatw.github.io/dataopener/,,開放資料、資訊自由、我想要更多,對政府資訊公開法、申請政府資料有興趣的熱血鄉民,"臉書：資料申請小幫手
+g0v slack: #shuchen, #chewei",,,https://docs.google.com/presentation/d/1hRT-ISx5IPz5sarhsBmCfHC5CLrwVZ_jJjzNho8sVeU/edit?usp=sharing
+9,17:40,,YuTin,Y,社運空拍圖,CC0,https://hackmd.io/@36QRHHqpQ2uNVSXLGEThQg/rkDwZEgMH#/,https://github.com/lostsar/,,,,,,,
+10,17:45,,chihao,Y,g0v.news 社群治理,CC BY,https://g0v.hackmd.io/s/H1Gvq8Nlr,,,,,,,,
+11,17:50,,阿旺,,回音森林,,https://g0v.hackmd.io/OAq3-ouBTBScLk7TOYCQtg,,,教育、語言學習、口說,,g0v slack #echo-mori,,,
+12,17:55,,Ronny,,g0v 行事曆,,https://g0v.tw/zh-TW/actinfo.html,,,,,,,,
+13,18:00,,,,,,,,,,,,,,

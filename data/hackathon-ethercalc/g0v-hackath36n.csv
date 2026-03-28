@@ -1,0 +1,27 @@
+#url,#title,#options,#tag,,OXdone
+,g0v第參拾陸次開放台北市議會黑客松共筆,,,,
+,,,,,
+https://g0v.hackmd.io/@jothon/rylYcs_SmH,"2019/09/07 09:00 活動資訊  Event info",,行前準備:important,,done
+http://g0v-jothon.kktix.cc/events/g0v-hackath36n,"報名網址 Registration",,"08/19 正午開始:warning",,done
+https://kiwiirc.com/client/irc.freenode.net/#g0v.tw,"IRC 聊天室 IRC channel",,"blue 即時聊天",,done
+http://join.g0v.today,"slack 聊天室 Slack channel",,"pink 同步 irc","pink red green blue",
+https://g0v.hackmd.io/-g0v-Community-Hangout-12th,"松前哈拉 Pre-hackathon community hangout",,"green 來聊聊吧",,
+https://g0v.hackmd.io/s/COC,"與會守則 Code of conduct",,行前請讀,,done
+,,,,,
+,"提案流程 Propose your idea","{""expand"":true}",,,
+https://docs.google.com/spreadsheets/d/1RPuEYKVTyNqjEyHCE-HqIgZguGIBbBKzrFnkyCoxkzM/edit,"要提案！看提案！ Sign up for a 3-min pitch here",,提案在這登記:warning,,
+https://zbryikt.github.io/quick-timer/,"簡報計時器 Timer",,,,done
+,,,,,
+,"黑客松初心者 Newcomer","{""expand"":true}",,,
+https://docs.google.com/spreadsheets/d/1T6tf1Fvh-ZTKh5Clp_2PNO65UMHWsDB_slhbOgv7NeY/edit#gid=0,"有事情，我幫忙！ Volunteer",,大松小幫手募集！:warning,,
+https://docs.google.com/presentation/d/1M1QDq3CjN584LY29Fhb0CVy4zviVEvOG0A4gopBcS7A/edit#slide=id.g3cdbdd729c_2_51,"g0v新手教學投影片 Newcomer intro",,,,done
+https://docs.google.com/document/d/1zBIhj7MX6jUWrNkDW15_XsLsUjihclgx0rmSLtww9F8/edit,"新手任務小紙條 Newcomer checklist",,,,done
+https://middle2.com/,"公民開放伺服器 Middle2 中二 Community server",,,,done
+http://ipa.logdown.com/posts/166655-g0v-hackathon-nongeek,"非資訊人參與指南 Non-techie participation guide","{""target"":""_blank""}",,,done
+http://ipa.logdown.com/posts/143277-g0v-proposal-tips,"非資訊人提案小訣竅 Non-techie proposal guide","{""target"":""_blank""}",,,done
+,,,,,
+,,,,,
+,"空白模版 Blank templates","{""expand"":false}",,,
+" https://g0v.hackpad.tw/Project-Readme-aCZGg48I5pX","專案介紹空白模版 Project README",,常用:important,,done
+https://g0v.github.io/grants-landing-template/,"產品入口頁空白模版 Project landing page",,,,done
+" https://g0v.hackpad.tw/dwimzocKjEL","免責聲明模版 Disclaimer",,,,done

@@ -1,0 +1,662 @@
+{
+  "g0v-hackath0n": {
+    "num": 0,
+    "spreadsheet": null,
+    "hackmd": null,
+    "notes": "empty"
+  },
+  "g0v-hackath1n": {
+    "num": 1,
+    "date": "2013-01-27",
+    "name": "公地放領黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath2n": {
+    "num": 2,
+    "date": "2013-03-23",
+    "name": "九大建設黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath3n": {
+    "num": 3,
+    "date": "2013-06-08",
+    "name": "客廳工廠黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath4n": {
+    "num": 4,
+    "date": "2013-08-10",
+    "name": "國民大會黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath5n": {
+    "num": 5,
+    "date": "2013-10-20",
+    "name": "美麗島黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath6n": {
+    "num": 6,
+    "date": "2013-12-21",
+    "name": "勞動基準黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath7n": {
+    "num": 7,
+    "date": "2014-02-22",
+    "name": "自由時代黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath8n": {
+    "num": 8,
+    "date": "2014-04-19",
+    "name": "解除戒嚴黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath9n": {
+    "num": 9,
+    "date": "2014-06-21",
+    "name": "還我土地黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath10n": {
+    "num": 10,
+    "date": "2014-08-30",
+    "name": "資料科學黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath11n": {
+    "num": 11,
+    "date": "2014-12-20",
+    "name": "開放報禁黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1TydoWXOGv-U-vkOeZccpvK6eWLY7Wi7rLRhR46FjzhI/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1TydoWXOGv-U-vkOeZccpvK6eWLY7Wi7rLRhR46FjzhI/edit#gid=1"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath12n": {
+    "num": 12,
+    "date": "2015-02-14",
+    "name": "不得宣傳罷免黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1dnBiLCAQwNr3uShvcITL6I8Pn00sJu3mJH0uVSO3oaM/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1dnBiLCAQwNr3uShvcITL6I8Pn00sJu3mJH0uVSO3oaM/edit#gid=1"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath13n": {
+    "num": 13,
+    "date": "2015-04-18",
+    "name": "無殼蝸牛黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath14n": {
+    "num": 14,
+    "date": "2015-06-13",
+    "name": "野百合黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath15n": {
+    "num": 15,
+    "date": "2015-08-22",
+    "name": "資料科學黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1hQ8x2SunHbAPKfSQdDDmmL8bEZavg9RPORR_7cU1cLo/edit#gid=0",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1hQ8x2SunHbAPKfSQdDDmmL8bEZavg9RPORR_7cU1cLo/edit#gid=0"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath16n": {
+    "num": 16,
+    "date": "2015-10-24",
+    "name": "刑法一百黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1qUCkG3JkIS8b5boq1leZ4HAn8Fe_eQBc63z2s4aStxc/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1qUCkG3JkIS8b5boq1leZ4HAn8Fe_eQBc63z2s4aStxc/edit#gid=1"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath17n": {
+    "num": 17,
+    "date": "2015-12-26",
+    "name": "立委改選黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1k73A2qi-dMWjBz7WM941yE42hlgwcxHoR0b9L9CMWis/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1k73A2qi-dMWjBz7WM941yE42hlgwcxHoR0b9L9CMWis/edit"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath18n": {
+    "num": 18,
+    "date": "2016-03-15",
+    "name": "亞太營運黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1JZkKDGSi0GMoDxNVKn82458-chqxVm0vHfYv7aBHowg/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1JZkKDGSi0GMoDxNVKn82458-chqxVm0vHfYv7aBHowg/edit"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath19n": {
+    "num": 19,
+    "date": "2016-06-18",
+    "name": "飛彈試射黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath20n": {
+    "num": 20,
+    "date": "2016-08-06",
+    "name": "總統直選黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1V9eamtV6VjWFNc__rY9t39XkVp4qflf9McZcfa2voOQ/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1V9eamtV6VjWFNc__rY9t39XkVp4qflf9McZcfa2voOQ/edit"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath21n": {
+    "num": 21,
+    "date": "2016-10-15",
+    "name": "根留台灣黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath22n": {
+    "num": 22,
+    "date": "2016-12-17",
+    "name": "公民科學黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1W_eK0Pw4vGJseVdxD3RWDA882nnFoV18VBC8NMPM0WA/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1W_eK0Pw4vGJseVdxD3RWDA882nnFoV18VBC8NMPM0WA/edit#gid=1"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath23n": {
+    "num": 23,
+    "date": "2017-03-04",
+    "name": "開放資料黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1h8YA0zGtsRDD91ZmbHkK-dsWFTl6OIkoxgfvJkIr8G4/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1h8YA0zGtsRDD91ZmbHkK-dsWFTl6OIkoxgfvJkIr8G4/edit#gid=1"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath24n": {
+    "num": 24,
+    "date": "2017-05-06",
+    "name": "凍省黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1w5CePsWN78SIlUf3BnMvwlCa8a5OqNtWD9-xICqnVrI/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1w5CePsWN78SIlUf3BnMvwlCa8a5OqNtWD9-xICqnVrI/edit"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath25n": {
+    "num": 25,
+    "date": "2017-07-01",
+    "name": "一綱多本黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1KZb0Ltw9ql_Y2t_m3lotv0ebwaQLBVDD1FQ2vZ_Pozw/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1KZb0Ltw9ql_Y2t_m3lotv0ebwaQLBVDD1FQ2vZ_Pozw/edit"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath26n": {
+    "num": 26,
+    "date": "2017-09-16",
+    "name": "五週年黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1SPjtKQhv9nGDegHbqUevp8n63gKzfDx9xRMIK6O_Qfo/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1SPjtKQhv9nGDegHbqUevp8n63gKzfDx9xRMIK6O_Qfo/edit"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath27n": {
+    "num": 27,
+    "date": "2017-11-25",
+    "name": "全球開放立法黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1v2g3E3eUQztmypnALMOboqBwnROLJXQ8oaSzisL8PcM/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1v2g3E3eUQztmypnALMOboqBwnROLJXQ8oaSzisL8PcM/edit"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath28n": {
+    "num": 28,
+    "date": "2018-01-13",
+    "name": "高牆功德黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/11y-rM8QGGSAf9kCklOP8tkPi7T5mkuxNqU0tp39qkaY/edit?rm=minimal#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/11y-rM8QGGSAf9kCklOP8tkPi7T5mkuxNqU0tp39qkaY/edit?rm=minimal#gid=1"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath29n": {
+    "num": 29,
+    "date": "2018-03-03",
+    "name": "開放資料黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1F_-IXj3EDop6lX250kz_t8yQg3FrPZvOOdbZv2nkEDQ/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1F_-IXj3EDop6lX250kz_t8yQg3FrPZvOOdbZv2nkEDQ/edit#gid=1",
+      "https://docs.google.com/spreadsheets/d/1bHXJ2qfcAAV4YhC_4PQAxKU6a8WLxoh_zDdn3GFNkAQ"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath30n": {
+    "num": 30,
+    "date": "2018-05-05",
+    "name": "佛系黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1IeR8Nif1ph2C5QHnU0qEuENJeOPZhIu5OaU6uk3T-qU/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1IeR8Nif1ph2C5QHnU0qEuENJeOPZhIu5OaU6uk3T-qU/edit#gid=1"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath31n": {
+    "num": 31,
+    "date": "2018-07-07",
+    "name": "香蕉吃到飽松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1zDQQXTsGU8Y_ViE9ewNjuoKZAyJNSGQ7M_J19666_2c/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1zDQQXTsGU8Y_ViE9ewNjuoKZAyJNSGQ7M_J19666_2c/edit"
+    ],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath32n": {
+    "num": 32,
+    "date": "2018-12-08",
+    "name": "台灣零時政府第参拾貳次蜂蜜檸檬",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1awW_T5J5MmDizsgu5FRJj7LzYHfL9HsTgj3y499ENqk/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1awW_T5J5MmDizsgu5FRJj7LzYHfL9HsTgj3y499ENqk/edit#gid=1"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/g0v-hackath32n"
+  },
+  "g0v-hackath33n": {
+    "num": 33,
+    "date": "2019-03-09",
+    "name": "不顧北京反對___黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": "https://g0v.hackmd.io/g0v_hackath33n"
+  },
+  "g0v-hackath34n": {
+    "num": 34,
+    "date": "2019-05-25",
+    "name": "再開放空總黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1BpBNsxvyEYb1cDddUlU3m6ciXddeM0nWoYWJXr2OV5Y/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1BpBNsxvyEYb1cDddUlU3m6ciXddeM0nWoYWJXr2OV5Y/edit"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/g0v-hackath34n"
+  },
+  "g0v-hackath35n": {
+    "num": 35,
+    "date": "2019-07-20",
+    "name": "最旁邊黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1USJdfE8FW5L4cYeE0yXiQZNLYzA38IFW--GKbacNP-4/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1USJdfE8FW5L4cYeE0yXiQZNLYzA38IFW--GKbacNP-4/edit"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/g0v-hackath35n"
+  },
+  "g0v-hackath36n": {
+    "num": 36,
+    "date": "2019-09-07",
+    "name": "開放台北市議會黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1RPuEYKVTyNqjEyHCE-HqIgZguGIBbBKzrFnkyCoxkzM/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1RPuEYKVTyNqjEyHCE-HqIgZguGIBbBKzrFnkyCoxkzM/edit",
+      "https://docs.google.com/spreadsheets/d/1T6tf1Fvh-ZTKh5Clp_2PNO65UMHWsDB_slhbOgv7NeY/edit#gid=0"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/rylYcs_SmH"
+  },
+  "g0v-hackath37n": {
+    "num": 37,
+    "date": "2019-12-21",
+    "name": "全臺首學黑客松 + 2019 ",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1W7m11EOosq2n-gc0w4SBht2CuwoYr5L6ZbuBaKyZ2RA/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1W7m11EOosq2n-gc0w4SBht2CuwoYr5L6ZbuBaKyZ2RA/edit",
+      "https://docs.google.com/spreadsheets/d/1-3hgSwxpw4mTKyk3BVOOTlVOwRo6eRaWXw0EUUCWmRo/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/HkcVxMW3r"
+  },
+  "g0v-hackath38n": {
+    "num": 38,
+    "date": "2020-03-14",
+    "name": "在家黑客松",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": null
+  },
+  "g0v-hackath39n": {
+    "num": 39,
+    "spreadsheet": null,
+    "hackmd": null,
+    "notes": "empty"
+  },
+  "g0v-hackath40n": {
+    "num": 40,
+    "date": "2020-07-25",
+    "name": "老地方黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1VzPFV6W2PC6Ctrgfz2Kvdj21oQZ70Jgbf-5wDBj6iMQ/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1VzPFV6W2PC6Ctrgfz2Kvdj21oQZ70Jgbf-5wDBj6iMQ/edit",
+      "https://docs.google.com/spreadsheets/d/1FRDQjSVtDd7fzd5cMN_iZIj6ljXqKg2CxOOzu92Xp4c/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/S1GRUhq08"
+  },
+  "g0v-hackath41n": {
+    "num": 41,
+    "date": "2020-10-24",
+    "name": "八週年黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1PJF8sLoJI3XFT__0jBYYKmBE0I6-hCTvGB34jcxSptY/edit?usp=sharing",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1PJF8sLoJI3XFT__0jBYYKmBE0I6-hCTvGB34jcxSptY/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/uiew4Y2ARty1PejK9gMVkQ"
+  },
+  "g0v-hackath42n": {
+    "num": 42,
+    "date": "2021-01-23",
+    "name": "黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1USnuADYZaIpn-SJqN1jq8QTQDPdtFkU31Ah-_RW7UFI/edit?usp=sharing",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1USnuADYZaIpn-SJqN1jq8QTQDPdtFkU31Ah-_RW7UFI/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/BkIl0KbCw"
+  },
+  "g0v-hackath43n": {
+    "num": 43,
+    "date": "2021-03-20",
+    "name": "源力犇騰黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1lYmZ5SNBbaIosE_1txPV0xfgw8QVxuhH-VwDWNtKW0g/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1lYmZ5SNBbaIosE_1txPV0xfgw8QVxuhH-VwDWNtKW0g/edit",
+      "https://docs.google.com/spreadsheets/d/1KN_2RbIpZPRpykj3flFKjraOFT4Jzkdg3TW9j7pG9dA/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/g0v-hackath43n"
+  },
+  "g0v-hackath44n": {
+    "num": 44,
+    "date": "2021-06-26",
+    "name": "世界最危險黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1AjdJ4fxErYmYLqgkOGQ7bUsp70wmqBOHxIvjT4AxryU/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1AjdJ4fxErYmYLqgkOGQ7bUsp70wmqBOHxIvjT4AxryU/edit"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/HJ2hz8Rwd"
+  },
+  "g0v-hackath45n": {
+    "num": 45,
+    "date": "2021-08-21",
+    "name": "g0v hackath45n｜",
+    "spreadsheet": null,
+    "all_sheets": [],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/S1yuTM6Ru"
+  },
+  "g0v-hackath46n": {
+    "num": 46,
+    "date": "2021-10-23",
+    "name": "g0v hackath46n｜",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1pbsq4Du33h60gy5olME31eOCXQt6C2aCecEBy10GRtU/edit?usp=sharing",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1pbsq4Du33h60gy5olME31eOCXQt6C2aCecEBy10GRtU/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/rkNBydx4F"
+  },
+  "g0v-hackath47n": {
+    "num": 47,
+    "date": "2021-12-11",
+    "name": "板橋油庫口黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1zwrsvZ-fKfxVZu4ARN3gJP-xKBgFk7FPHS_IH3CLNSo/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1zwrsvZ-fKfxVZu4ARN3gJP-xKBgFk7FPHS_IH3CLNSo/edit",
+      "https://docs.google.com/spreadsheets/d/1lkibaKHG6wU1zBvmQjPMmb_9T9UjEMoGamV41QRJqEg/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/HJnyYQMuY"
+  },
+  "g0v-hackath48n": {
+    "num": 48,
+    "date": "2022-02-19",
+    "name": "虎來俱進黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1Q38KWPAqctwv1nQtJl_WdZ6nACHBiZrcumxJ2RkGyEY/edit?usp=sharing",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1Q38KWPAqctwv1nQtJl_WdZ6nACHBiZrcumxJ2RkGyEY/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/rkYycf2hK"
+  },
+  "g0v-hackath49n": {
+    "num": 49,
+    "date": "2022-04-09",
+    "name": "全糖去冰黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/15_ROuM8AKwviTfmq2FX4Mh2nidPZXAy8YVH8OfR3FCE/edit?usp=sharing",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/15_ROuM8AKwviTfmq2FX4Mh2nidPZXAy8YVH8OfR3FCE/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/Sy2ayHoe9"
+  },
+  "g0v-hackath50n": {
+    "num": 50,
+    "date": "2022-06-18",
+    "name": "來電五十黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1ijhY4aQfv02SmTLeAP4kwXIp6H3GQzJ-YMSeb83NPg8/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1ijhY4aQfv02SmTLeAP4kwXIp6H3GQzJ-YMSeb83NPg8/edit#gid=1",
+      "https://docs.google.com/spreadsheets/d/1OFo0o3clrrdDTQQDOisEKAYdMnt_XrhlmL9WPS6rqfs/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/Skx90MZU5"
+  },
+  "g0v-hackath51n": {
+    "num": 51,
+    "date": "2022-08-20",
+    "name": "大肚山海豚黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1hor7BPyyqgp7hAvVFRnCbMYBHznM7_3vq2BuS7vsyac/edit?usp=sharing",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1hor7BPyyqgp7hAvVFRnCbMYBHznM7_3vq2BuS7vsyac/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/SJtxnnqs9"
+  },
+  "g0v-hackath52n": {
+    "num": 52,
+    "date": "2022-10-22",
+    "name": "十週年黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/14j-oFXO4PnZDVPErUuPKtCEHaWN9BUxjFWWHy-fPTog/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/14j-oFXO4PnZDVPErUuPKtCEHaWN9BUxjFWWHy-fPTog/edit#gid=1",
+      "https://docs.google.com/spreadsheets/d/1kw1auAdEfyR0T3o2ABnDMVY_HKf81h9-soy-sv0OrPw/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/BkMPNhTxj"
+  },
+  "g0v-hackath53n": {
+    "num": 53,
+    "date": "2022-12-17",
+    "name": "18 歲公民權黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1hor7BPyyqgp7hAvVFRnCbMYBHznM7_3vq2BuS7vsyac/edit?usp=sharing",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1hor7BPyyqgp7hAvVFRnCbMYBHznM7_3vq2BuS7vsyac/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/Hynfy0OBj"
+  },
+  "g0v-hackath54n": {
+    "num": 54,
+    "date": "2023-02-11",
+    "name": "兔兔黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1G-o_MbViRpxixQZ2EBKOAgbafwzAn8Jdyp8TIfDK44I/edit?usp=sharing",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1G-o_MbViRpxixQZ2EBKOAgbafwzAn8Jdyp8TIfDK44I/edit?usp=sharing",
+      "https://docs.google.com/spreadsheets/d/1kWv5jiySD_xqqM0sqCKffE0FVdv9o2VaOFw2WUiob_g/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/rJC3mDWci"
+  },
+  "g0v-hackath55n": {
+    "num": 55,
+    "date": "2023-04-08",
+    "name": "AI也想參加黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1qzsCWEWu209BmrDdzYN1-vAa7bTpIj8QOKTeKnfrwjU/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1qzsCWEWu209BmrDdzYN1-vAa7bTpIj8QOKTeKnfrwjU/edit#gid=1",
+      "https://docs.google.com/spreadsheets/d/1LPKMzTSz91UU4v4p0YhbdAJEvA6Vazhb2IcvdRQhVEk/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/HJ-HHyA0i"
+  },
+  "g0v-hackath56n": {
+    "num": 56,
+    "date": "2023-07-01",
+    "name": "真的假的黑客松 x 水保局",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1r7WaBD7qCLtQJi7sd_9IdGaymoGWvTW0C6NJTM6MhPU/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1r7WaBD7qCLtQJi7sd_9IdGaymoGWvTW0C6NJTM6MhPU/edit#gid=1",
+      "https://docs.google.com/spreadsheets/d/1YjX46g7FOkRjEEVlirOgimrK0jNmufaDfE53vAtKq_Q/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/S1zIFYOE3"
+  },
+  "g0v-hackath57n": {
+    "num": 57,
+    "date": "2023-08-26",
+    "name": "開源普渡黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1JarPBI46zjbHlNR9TjF1JJAFEzR2v3DESS6LXkkLKDU/edit#gid=1",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1JarPBI46zjbHlNR9TjF1JJAFEzR2v3DESS6LXkkLKDU/edit#gid=1",
+      "https://docs.google.com/spreadsheets/d/1PUFrKNqihtlarONdioEPWoZDChzZIzWxIT3VUqzKMfs/edit?usp=sharing",
+      "https://docs.google.com/spreadsheets/d/1JarPBI46zjbHlNR9TjF1JJAFEzR2v3DESS6LXkkLKDU/edit#gid=3"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/3XTK6VokSemF1_iRVo61kA"
+  },
+  "g0v-hackath58n": {
+    "num": 58,
+    "date": "2023-10-15",
+    "name": "11 歲生日快樂黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1LTSfw4zpi1brzKQqsfWhV8EwzshFCP5Vz070T8dJ4xQ",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1LTSfw4zpi1brzKQqsfWhV8EwzshFCP5Vz070T8dJ4xQ",
+      "https://docs.google.com/spreadsheets/d/1unjRft40F2nzQPK3g6Tvjm0riOSadEn9DnvItJ9yFSQ/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/S1fxd2HCh"
+  },
+  "g0v-hackath59n": {
+    "num": 59,
+    "date": "2023-12-09",
+    "name": "輪班寫code救台灣黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1C92bjNHXjRJOyOgtDSES13tWkvm99HQpQParkbC510c/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1C92bjNHXjRJOyOgtDSES13tWkvm99HQpQParkbC510c/edit",
+      "https://docs.google.com/spreadsheets/d/18eQBGtp1ivjItBpyG1AyUWPmA2YRf8n1iiLQ3IV0Kl4/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/HybDnvDMp"
+  },
+  "g0v-hackath60n": {
+    "num": 60,
+    "date": "2024-01-06",
+    "name": "記得投票黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/13fNyNRNAsZRvEjkIEfohyx4_5RMqJrJcFGPQQk1B0XY/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/13fNyNRNAsZRvEjkIEfohyx4_5RMqJrJcFGPQQk1B0XY/edit",
+      "https://docs.google.com/spreadsheets/d/16Qb6r0GCaeykXtvQ4P_pfPXjxT_3GuQA1_3oKE4zsrY/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/B1IwtQNrT"
+  },
+  "g0v-hackath61n": {
+    "num": 61,
+    "date": "2024-03-02",
+    "name": "龍來 Open Data Da",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1zGQJstlp7kU8_OTklxMs5zA_eI_5NwDgJ8h8ospW9MA",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1zGQJstlp7kU8_OTklxMs5zA_eI_5NwDgJ8h8ospW9MA",
+      "https://docs.google.com/spreadsheets/d/1zGQJstlp7kU8_OTklxMs5zA_eI_5NwDgJ8h8ospW9MA/edit#gid=3",
+      "https://docs.google.com/spreadsheets/d/1Ft76ELCvY_YxdlF7JECqYcChx6EOH7D3j6DcSvjNPL8/edit?usp=sharing"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/B1DqSeaK6"
+  },
+  "g0v-hackath62n": {
+    "num": 62,
+    "date": "2024-07-20",
+    "name": "帶我去月球黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/13vTsnnrVatf8WQV3luSQOt3zFUoBJmMS8drzs-grwH0/edit",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/13vTsnnrVatf8WQV3luSQOt3zFUoBJmMS8drzs-grwH0/edit"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/r1316tOBA"
+  },
+  "g0v-hackath63n": {
+    "num": 63,
+    "date": "2024-09-29",
+    "name": "公民科技園遊會黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1bd8QgmZK5TN4wQNreDuuPBv0mjzIDYha0ZwnNuXcyjI",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1bd8QgmZK5TN4wQNreDuuPBv0mjzIDYha0ZwnNuXcyjI"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/HJmFmRKjA"
+  },
+  "g0v-hackath64n": {
+    "num": 64,
+    "date": "2024-11-23",
+    "name": "黃金比例黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1rtqJHmMlrIYSm3let_yYYXKQpHpazDY5ImoJWLDY6FU",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1rtqJHmMlrIYSm3let_yYYXKQpHpazDY5ImoJWLDY6FU"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/HJXRuIQxyl"
+  },
+  "g0v-hackath65n": {
+    "num": 65,
+    "date": "2025-02-22",
+    "name": "平凡而自由的黑客松",
+    "spreadsheet": "https://docs.google.com/spreadsheets/d/1zGIMxre0lezdyjm0R19NMU3Gm1esiu7L3MsIb64DpBM",
+    "all_sheets": [
+      "https://docs.google.com/spreadsheets/d/1zGIMxre0lezdyjm0R19NMU3Gm1esiu7L3MsIb64DpBM"
+    ],
+    "hackmd_rundown": "https://g0v.hackmd.io/@jothon/r1K2Ixbh_"
+  },
+  "g0v-hackath66n": {
+    "num": 66,
+    "spreadsheet": null,
+    "hackmd": null,
+    "notes": "empty"
+  },
+  "g0v-hackath67n": {
+    "num": 67,
+    "spreadsheet": null,
+    "hackmd": null,
+    "notes": "empty"
+  },
+  "g0v-hackath68n": {
+    "num": 68,
+    "spreadsheet": null,
+    "hackmd": null,
+    "notes": "empty"
+  },
+  "g0v-hackath69n": {
+    "num": 69,
+    "spreadsheet": null,
+    "hackmd": null,
+    "notes": "empty"
+  }
+}

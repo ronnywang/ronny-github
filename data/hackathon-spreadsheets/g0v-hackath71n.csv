@@ -1,0 +1,119 @@
+,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form","錄影以 CC-BY 釋出？
+Can we record and release the video (cc-by) ?","是否參加零世代資金池計畫
+Link 目前 6666 元","專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)","坑主聯絡方式
+Project Lead Contact Info",youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
+"活動流程
+Run-down
+→","．10:20-10:30 Check-in 報到 
+．10:30-11:00 Event Introduction 活動介紹、g0v 社群簡介
+．11:00-12:00 Proposal Time 提案時間，每個提案 3 分鐘 
+．12:00-16:30 Happy Hacking 自由分組與實作
+Meals are not provided for this event; participants are responsible for their own food. Students who present a valid student ID on-site will be eligible to receive a meal. 
+午餐請自理，學生請於現場出示學生證可獲得餐飲補貼費
+．14:00-14:30 Project Tour 專案導覽團，帶您走訪當天的每個專案
+．16:30-17:30 Present Project 成果報告，每個成果報告 5 分鐘
+．17:30-17:40 END 活動結束 ",,,,,,,,,,,,,,,,,
+10:20-10:30 報到 Check-in,,,,,,,,,,,,,,,,,,
+,"點心茶點
+Food",,"Beverages
+水果茶： Fruit Tea
+黑咖啡： Black Coffee
+
+Cakes & Desserts
+起士蛋糕： Cheesecake
+芋泥蛋糕： Taro Paste Cake
+黑森林蛋糕： Black Forest Cake
+覆盆子巧克力： Raspberry Chocolate Cake
+咖啡核果： Coffee Walnut Cake
+水果塔： Fruit Tart
+千層蛋糕： Mille Crêpe Cake
+綜合餅乾： Assorted Cookies / Assorted Biscuits",,,"Salty & Savory
+素食三明治： Vegetarian Sandwich
+松露鹽可頌： Truffle Salt Croissant
+乳酪酥： Cheese Pastry / Cheese Turnover
+
+Sweet Pastries & Puffs
+紅豆迷你大福： Mini Red Bean Daifuku
+草莓迷你大福： Mini Strawberry Daifuku
+香草泡芙： Vanilla Cream Puff
+水果泡芙： Fruit Cream Puff
+提拉米蘇泡芙： Tiramisu Cream Puff
+
+Fresh Fruit Plate 水果盤",,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"10:30-11:00 Event Introduction and Important Reminders 
+活動開場，並介紹 g0v 黑客松與公民科技社群、 g0v 行為守則提醒",,,,,,,,,,,,,,,,,,
+0,10:30,,揪松團 Jothon,in person 實體出席,Y,"活動介紹簡報
+Slide ",https://docs.google.com/presentation/d/1fA22zCdG7LZhxIYKPge_kug8pWBCaQjv30ygbfPmPjM/edit?usp=sharing,,,,,,,,,,,g0v tw hackath71n — 提案 — https://docs.google.com/presentation/d/1fA22zCdG7LZhxIYKPge_kug8pWBCaQjv30ygbfPmPjM/edit?usp=sharing ／ 揪松團 Jothon — KHH 高雄黑客松
+,,,,,,"介紹 AI 培力
+學習資源",https://g0v.hackmd.io/@jothon/ai,,,,,,,,,,,
+,,,,,,"感謝本次合辦單位：CSCS 公民團體資安暨隱私交流計劃
+感謝本次大松之友贊助單位：「ReSchool 校地創生正循環」專案社群",,,,,,,,,,,,g0v tw hackath71n — 提案 —  ／  — KHH 高雄黑客松
+11:00 Proposal Time【提案時間】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,,,
+1,11:00,,,,,,,,,,,,,,,,,g0v tw hackath71n — 提案 —  ／  — KHH 高雄黑客松
+2,11:03,,,,,,,,,,,,,,,,,g0v tw hackath71n — 提案 —  ／  — KHH 高雄黑客松
+3,11:06,,,,,,,,,,,,,,,,,g0v tw hackath71n — 提案 —  ／  — KHH 高雄黑客松
+4,11:09,,傑哥,in person 實體出席,Y,N,台灣淡水魚3D圖鑑,數位典藏台灣淡水魚 + 保育推廣,CC BY,,https://taiwan-fish-fish-fe.vercel.app/,Y,淡水魚 河溪 外來種,,,,,g0v tw hackath71n — 提案 — 台灣淡水魚3D圖鑑 ／ 傑哥 — KHH 高雄黑客松
+5,11:12,,傑哥,in person 實體出席,Ｙ,N,外來種發財網,外來入侵種移除政策追蹤,CC BY,,https://taiwan-invasive-species-get-rich.vercel.app/,Y,淡水魚 河溪 外來種,,,,,g0v tw hackath71n — 提案 — 外來種發財網 ／ 傑哥 — KHH 高雄黑客松
+6,11:15,,Percy Huang,in person 實體出席,Y,Y,HePai | 合拍,彌平教育不平等的一小步,CC-BY-NC-SA,,https://docs.google.com/presentation/d/1QZuO44kACoZ3lLH-QMctvYtGgBPT5H9SN32tNj7kLm0/edit?usp=sharing,Y,音樂、教育、即時偵錯,,,,,g0v tw hackath71n — 提案 — HePai | 合拍 ／ Percy Huang — KHH 高雄黑客松
+7,11:18,,,,,,,,,,,,,,,,,g0v tw hackath71n — 提案 —  ／  — KHH 高雄黑客松
+8,11:21,,A4,in person 實體出席,Y,N,「麻瓜大躍進」summit 共同投稿徵集,徵集透過 AI 賦能加深專案參與的伙伴，一起撰稿/投稿,CC BY,https://g0v.hackmd.io/8FWipDiYTcq-MQMEmvw5Rg,https://g0v.hackmd.io/8FWipDiYTcq-MQMEmvw5Rg,Y,投稿、麻瓜、AI,有專案貢獻經驗的人,slack @A4,,,g0v tw hackath71n — 提案 — 「麻瓜大躍進」summit 共同投稿徵集 ／ A4 — KHH 高雄黑客松
+9,11:24,,SeanGau,in person 實體出席,Y,Y,OpenTransLive,開源 AI 即時字幕翻譯框架,AGPL-3.0,g0v/OpenTransLive,http://transcribe.g0v.tw/rt/test20260125,,,,,,,g0v tw hackath71n — 提案 — OpenTransLive ／ SeanGau — KHH 高雄黑客松
+10,11:27,,"Dong, 揪松團",in person 實體出席,Y,N,Civic Tech Guide TW,建立公民科技及數位工具應用指南與支持網絡,CC BY 4.0,https://g0v.hackmd.io/@jothon/guide,"https://g0v.hackmd.io/@jothon/guide
+https://g0v.hackmd.io/@Dong/H1NKQWQLWl",Y,公民科技資料庫、專案指南、資料整合,,Dong,,,"g0v tw hackath71n — 提案 — Civic Tech Guide TW ／ Dong, 揪松團 — KHH 高雄黑客松"
+11,11:30,,匿名網路社群 anoni.net,in person 實體出席,Y,,匿名網路社群,網站資源更新（隱私、大學計畫、匿名支付）,CC BY 4.0,https://cryptpad.anoni.net/pad/#/2/pad/edit/5Rd7s-gDie4QwwxWdnBxNrtR/,https://cryptpad.anoni.net/slide/#/2/slide/view/7hcLljMsF+vTIhtOvB56LsjyRXyYwRRs66-vCxka7Qg/present/,Y,匿名網路 網路自由 隱私保護,對匿名網路有興趣都可當日來討論交流，可以先參考 2026 年的規劃： https://anoni.net/docs/blog/2026/01/2025to2026/,toomore@anoni.net,,,g0v tw hackath71n — 提案 — 匿名網路社群 ／ 匿名網路社群 anoni.net — KHH 高雄黑客松
+12,11:33,,SITCON 學生計算機年會,in person 實體出席,Y,Y,SITCON 一群學生可以做的事情,來 SITCON 的社群攤位擺攤吧！,CC BY 4.0,,https://www.canva.com/design/DAG_Yj_lcjo/ICk5cWdELyoz6QKl8Helsw/edit?utm_content=DAG_Yj_lcjo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton,Y,學生、開源、資訊教育,03/28 年會！今天 20:00 開始索票喔喔喔，也在招募社群攤位來擺攤嘿嘿,橘子 tiffanylai.1103@gmail.com,,,g0v tw hackath71n — 提案 — SITCON 一群學生可以做的事情 ／ SITCON 學生計算機年會 — KHH 高雄黑客松
+13,11:36,,CSCS 公民團體資安暨隱私交流計劃,in person 實體出席,N,N,CSCS 公開教材,CSCS 公開教材編輯松,CC BY 4.0,https://docs.google.com/presentation/d/1EsjHOHCrwSGHHydozcIGnBpvg7jo9TmR/edit?usp=sharing&ouid=113807935181865693782&rtpof=true&sd=true,https://ocf.tw/p/cscs/,Y,"公民團體, 資安教材, 數位隱私",對改善公民團體資安條件有興趣的人 or 有資安工作經驗的人,contact@cscs.asia,,,g0v tw hackath71n — 提案 — CSCS 公開教材 ／ CSCS 公民團體資安暨隱私交流計劃 — KHH 高雄黑客松
+14,11:39,,RSChiang,in person 實體出席,Y,,g0v Summit 2026,g0v Summit 2026：從投緣到投稿,大概是 CC BY,https://g0v.hackmd.io/@summit2026/book,https://docs.google.com/presentation/d/106nEghotRXLz6FedaWB9oaPF9OgUPUBTMML2DK6vC9o/edit?slide=id.p#slide=id.p,Y,,,,,,g0v tw hackath71n — 提案 — g0v Summit 2026 ／ RSChiang — KHH 高雄黑客松
+15,11:42,,ReSchool 團隊,in person 實體出席,Y,N,ReSchool,,,https://g0v.hackmd.io/@chewei/reschool/https%3A%2F%2Fg0v.hackmd.io%2FbMRkbmnERO6r7GKsG0juDg%3Fview,"https://re-school-lyart.vercel.app/
+https://linktr.ee/reschool.tw",Y,,,,,,g0v tw hackath71n — 提案 — ReSchool ／ ReSchool 團隊 — KHH 高雄黑客松
+,,,== 截止 ==,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"12:00-16:30【自由分組實作】
+午餐請自理 Meals are not provided for this event; participants are responsible for their own food. 
+學生請於現場出示學生證可獲得餐飲補貼費 Students who present a valid student ID on-site will be eligible to receive a meal.",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+14:00-14:30【Project Tour 專案導覽團】,,,,,,,,,,,,,,,,,,
+,,,"散步走走助消化
+帶你走訪今天的每一個專案",,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+16:30 Present project【成果報告】 每個 present 5min，可視 project 數量和剩餘時間調整,,,,,,,,,,,,,,,,,,
+1,16:30,,chewei,,,,灣區社群 mini hack day 活動提案推廣,,,https://docs.google.com/spreadsheets/d/1uGOLdew8UrSvElJGnBAAT7RNJMOIfPyqKAfzB4jbz6I/edit?gid=1#gid=1,,Y,,,,,,g0v tw hackath71n — 成果發表 — 灣區社群 mini hack day 活動提案推廣 ／ chewei — KHH 高雄黑客松
+2,16:35,,橘子,in person 實體出席,Y,,SITCON,本日推廣成果,,,https://sitcon.org/2026/,Y,,,,,,g0v tw hackath71n — 成果發表 — SITCON ／ 橘子 — KHH 高雄黑客松
+4,16:40,,台灣淡水魚3D圖鑑＋外來種發財網,in person 實體出席,,,"數位典藏台灣淡水魚 + 保育推廣
+外來入侵種移除政策追蹤",,CC BY,,"https://taiwan-fish-fish-fe.vercel.app/
+https://github.com/SeanGau/river-watcher
+
+https://taiwan-invasive-species-get-rich.vercel.app/",Y,,,,,,"g0v tw hackath71n — 成果發表 — 數位典藏台灣淡水魚 + 保育推廣
+外來入侵種移除政策追蹤 ／ 台灣淡水魚3D圖鑑＋外來種發財網 — KHH 高雄黑客松"
+5,16:45,,CSCS,in person 實體出席,,,CSCS 公開教材,,,,https://docs.google.com/presentation/d/1EsjHOHCrwSGHHydozcIGnBpvg7jo9TmR/edit?usp=sharing&ouid=113807935181865693782&rtpof=true&sd=true,Y,,,,,,g0v tw hackath71n — 成果發表 — CSCS 公開教材 ／ CSCS — KHH 高雄黑客松
+6,16:50,,匿名網路社群,in person 實體出席,Y,,匿名網路社群,匿名支付,,https://cryptpad.anoni.net/pad/#/2/pad/edit/5Rd7s-gDie4QwwxWdnBxNrtR/,,,,,,,,g0v tw hackath71n — 成果發表 — 匿名網路社群 ／ 匿名網路社群 — KHH 高雄黑客松
+7,16:55,,A4,in person 實體出席,,,「麻瓜大躍進」summit 共同投稿徵集,徵集透過 AI 賦能加深專案參與的伙伴，一起撰稿/投稿,CC BY,https://g0v.hackmd.io/8FWipDiYTcq-MQMEmvw5Rg,https://g0v.hackmd.io/8FWipDiYTcq-MQMEmvw5Rg,Y,投稿、麻瓜、AI,有專案貢獻經驗的人,slack @A4,,,g0v tw hackath71n — 成果發表 — 「麻瓜大躍進」summit 共同投稿徵集 ／ A4 — KHH 高雄黑客松
+8,17:00,,Ronny,,,,憲法判決資料,,,https://g0v.hackmd.io/njOKlAIVQcmCgomNMr9cUg?view,https://github.com/g0v-data/cons.judicial.gov.tw,,,,#constitution,,,g0v tw hackath71n — 成果發表 — 憲法判決資料 ／ Ronny — KHH 高雄黑客松
+9,17:05,,Ronny,,,,戶政資料外洩，更換身份證自救！,,,https://g0v.hackmd.io/@paulpengtw/r1PZuWvyn,,,,,#privacy,,,g0v tw hackath71n — 成果發表 — 戶政資料外洩，更換身份證自救！ ／ Ronny — KHH 高雄黑客松
+10,17:10,,"Dong, 揪松團",,,,Civic Tech Guide TW,,,https://g0v.hackmd.io/@jothon/guide,"https://g0v.hackmd.io/@jothon/guide
+https://g0v.hackmd.io/@Dong/H1NKQWQLWl",,,,,,,"g0v tw hackath71n — 成果發表 — Civic Tech Guide TW ／ Dong, 揪松團 — KHH 高雄黑客松"
+11,17:15,,ReSchool 團隊,,,,ReSchool,,,https://g0v.hackmd.io/@chewei/reschool/https%3A%2F%2Fg0v.hackmd.io%2FbMRkbmnERO6r7GKsG0juDg%3Fview,https://docs.google.com/presentation/d/1Ah0BOUWSrsmnRyAL7DUzqK1u08oDpZ8_y0gNvvvtqto/edit,Y,,,,,,g0v tw hackath71n — 成果發表 — ReSchool ／ ReSchool 團隊 — KHH 高雄黑客松
+12,17:20,,揪松團,,,,零世代資金池公布,零世代資金池公布 + 請填寫影響力問卷,,https://qv.seangau.xyz/event/351f95bf-dba3-4dde-8c37-457030c5e68a,,Y,,,,,,g0v tw hackath71n — 成果發表 — 零世代資金池公布 ／ 揪松團 — KHH 高雄黑客松
+,,,,,,,,,,,,,,,,,,g0v tw hackath71n — 成果發表 —  ／  — KHH 高雄黑客松
+,"👋👋👋
+Keep in touch, and see you online ~
+g0v Slack Chat Room 文字聊天頻道 https://g0v.hackmd.io/@jothon/joing0vslack",,,,,,,,,,,,,,,,,
+"請留意自身物品 Common Lost items ! Don’t forget to bring them home!
+．充電線、插座頭、USB Charging items: Wires & Plugs
+．無線耳機 Wireless Headphones 
+．保溫杯、環保餐具與筷子 Waterbottles, tablewares and chopsticks
+．外套、圍巾 Clothes: Jacket, Scarf
+．錢包、各種卡片、手機 Wallet, cellphones",,,,,,,,,,,,,,,,,,

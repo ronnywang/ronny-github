@@ -1,0 +1,71 @@
+,,,,,,,,,,,,,,,,
+ ,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出？,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)",坑主聯絡方式,youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告
+09:30開場，09:50提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,
+1,9:50,,RSChiang,實體,是,翻譯社群語彙庫,g0v Language Portal,,https://g0v.hackmd.io/kXJetmRdTHqEjx3iN7e-Ig,https://speakerdeck.com/rschiang/g0v-language-portal-hackath52n-proposal,Y,翻譯、軟體在地化、語彙庫,翻譯參與者（使用者）、可以一起幫忙寫 code 的人,Slack: @RS,,
+2,9:53,,mglee,實體,是,十週年生日趴,零宇宙大爆炸,,https://g0v.hackmd.io/@eaKkAb8HRjOKJ4erd2STnA/10Anni-Party/,https://docs.google.com/presentation/d/1zw43T-RyL0K3vbCFhKOzHNG0HjKrRQk1_r8kLK5rp24/edit?usp=sharing,Y,十週年、生日趴、社群同樂會,,slack: @mglee @peter,,
+3,9:56,,,,,,,,,,,,,,,
+4,9:59,,周樂生,實體,是,全民辦教育(命名中),政府教育補助計畫開放交流平台,,https://drive.google.com/drive/folders/1qZbsXtexTKRMC73035EbvF_yPJnDE9UN?usp=sharing,,Y,社會教育 政府補助 資訊交流,網站建置，美工，財務，領頭羊搜尋人員，實名帳號抽驗人員，擴大營運邀請人員,Slack @周樂生、#edu,,
+5,10:02,,Tiff,實體,是,零時小學校,零時小學校 2022-23 專案孵化競賽,CC BY 4.0,https://sch001.g0v.tw/,https://docs.google.com/presentation/d/1E4noelAmEXuE0MkHorTgPJRTjAynY0KNq_tXMcYi4qU/edit?usp=sharing,Y,數位公民教育、自主學習、專案培力,,Slack @tiff、#edu,,
+6,10:05,,Ronny,實體,是,g0v 成就系統,g0v 成就系統,BSD License,https://badge.g0v.tw/,https://docs.google.com/presentation/d/1wqy0rd6OEsk2KgODFh5-QCRP67AudzhaE0JpogOefVc/edit?usp=sharing,,,,Slack @ronnywang,,
+7,10:08,,MrOrz,實體,是,Cofacts 真的假的,Cofacts 真的假的,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,https://docs.google.com/presentation/d/1Bi1ulm_l6oMYPc6AidFAQ8fGNmKwuLuzmJPZBw8qsqE/edit#slide=id.p,Y,"crowd sourcing, fact-checking, chatbot",會上網google的人、fact checkers、React.JS 開發者,"#cofacts in g0v slack
+@bil, @mrorz in g0v slack",,
+8,10:11,,HC,實體,是,九合一選舉之政見收集平台,台灣政商人物資料庫子計畫：政見收集平台,MIT / CC 0,https://g0v.hackmd.io/zZDy8ihRQt2SGpOFNi5pmA?view,https://docs.google.com/presentation/d/1MQc8FgcGV6jEemPD9ZkmeHY_remJKugqsyc7Xw2ErBw/edit#slide=id.p,Y,選舉 crowd sourcing 投票指南,會上網 google 的人、認真想知道自己應該怎麼投票的人,@hcchien @zoee,,
+9,10:14,,Thomas,實體,是,智慧健檢平台,智慧健檢平台：徵求醫生分享健檢諮詢過程、Linebot 開發,,https://g0v.hackmd.io/@chewei/rkpcSByX9,https://docs.google.com/presentation/d/16mamO2o-w7ukE_r2taY1IdeH1fkhVY8w-UxqKFZpXK0/edit#slide=id.g123b2d56f63_0_0,Y,健康項目 翻譯蒟蒻 聊天機器人,"*醫學能力者 - 協助使用者問卷回覆對應健檢項目建議的架構及內容, +更好協助智慧健檢使用者的idea
+*前後端能力者 - 網站記錄使用者回覆及彙整給使用者建議",slack channel #health,,
+10,10:17,,chewei ,實體,Y,CourseAPI,開放式課程 open course 資訊整合查詢,CC-BY,https://toedu.notion.site/toedu/0df44af565e845498c1d3bb04d2a7a13,https://docs.google.com/presentation/d/12zBnPu7GHjzTGxYOH4T7HOv2riUdd--SS0cJiV-It4k/edit,Y,"開放式課程, 爬資料, 前端",填寫開放式課程網站使用經驗與功能期待問卷、用斷詞檢視相異課程簡介相近程度,slack #edu-open,,
+11,10:20,,Charles,實體,,重建網路互信,為社會互信而設計,,https://g0v.hackmd.io/@Charlesincities/r1wIODflo,https://docs.google.com/presentation/d/14QUDjJtXy9AM2bU1oPHIlmL2AYx6LKpOexPBIiJTzuE/edit?usp=sharing,,社會互信 科技 書,歷史研究者 協作者 研究人員,,,
+12,10:23,,Noah,實體,,da0,da0 的七個 web3 坑介紹,CC-BY,啟動台灣Web3x公共財會議,,Y,web3 好多坑 國際連結,任何對 web3 有興趣的人,@n0ah,,
+13,10:26,,ipa,實體,Y,"g0v三段式分散式自主口述歷史計畫
+",以 web0 技術為主的成就紀錄系統,CC-BY,https://g0v.hackmd.io/QzMRe-U-RXG36-F28zJcAQ?view,,,,,,,
+14,10:29,,Xing,實體,,Join8,以學習者為主體的人脈網路,,https://g0v.hackmd.io/0Ya-AfwOQu-qrbWUB12_KA,https://drive.google.com/file/d/1X5VoQTGO4x_QZ35xkNGOfG3Qy_MFgFcr/view?usp=sharing,Y,學習、連結、Purpose-based learning,,@xing,,
+15,10:32,,Jason de Anthropologist,,,Bilingual Nation AI,AI 語言學習 app,,https://g0v.hackmd.io/i-_ueV_CRoWdibfvEpyqLQ,https://drive.google.com/file/d/1fZg-m9otpJRQyCLRplsLvqObtJgmKQ3j/view?usp=sharing,Y,發音、自學、AI,"front end develpers, ","g0v slack @Jason de Anthropologist
+g0v slack #bilingualnationai",,
+,,,== 截止 ==,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"13:00【g0v 十週年論壇】場地優先開放給有報名論壇者入場喔 !
+12:30 報到，地點在第二會議室，十週年論壇資訊 👉 https://g0v.hackmd.io/@jothon/Sy1cpRWWs",,,,,,,,,,,,,,,,
+,"論壇時間
+Time","主題
+Topic",,,"主持人
+Host",,"來賓
+Guests",,,,,,,,,
+1,13:00,"主題論壇（一）
+g0v 黑客松，十年來為台灣 hack 了什麼",,,"瞿筱葳 ipa
+ ( g0v 零時政府共同發起人 )",,"劉嘉凱 CK（資料英雄計畫、智庫驅動執行長）
+陳正然 JR（數位經濟暨產業發展協會理事長）
+彭松嶽（國立陽明交通大學科技與社會研究所副教授）",,,,,,,,,
+2,14:00,"主題論壇（二）
+g0v as a DAO, 去中心化社群十年探索與未來追尋",,,"侯宜秀 Isabel
+ ( g0v 揪松團輪值主席 )",,"高嘉良 clkao（g0v 零時政府共同發起人） 
+唐鳳 au（digitalminister.tw）
+葉向林 Noah（Web3 創業者 / da0 共同發起人）",,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"16:00【成果報告 present project】 規則：
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,
+1,16:00,,,,,,,,,,,,,,,
+2,16:05,,,,,,,,,,,,,,,
+3,16:10,,,,,,,,,,,,,,,
+4,16:15,,,,,,,,,,,,,,,
+5,16:20,,,,,,,,,,,,,,,
+6,16:25,,chewei ,實體,y,公有地大行動,天龍特公地。八年後現況追蹤,CC by,https://g0v.hackmd.io/@chewei/poponfire/https%3A%2F%2Fg0v.hackmd.io%2Fqn1zVwvtQViiKDanjJ47LA%3Fview,https://docs.google.com/presentation/d/1OZUIkbuGzbDACeJAuNSby1E3d13_MXbQF9-9gtjjovo/edit#slide=id.g1666ad84fd1_0_302,Y,公有地、GIS、政策倡議,,#poponfire,,
+7,16:30,,,,,,,,,,,,,,,
+8,16:35,,,,,,,,,,,,,,,
+9,16:40,,,,,,,,,,,,,,,
+10,16:45,,MrOrz,實體,是,Cofacts 真的假的,Cofacts 真的假的,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,,,,,,,
+11,16:50,,Tiff,,,零時小學校,專案孵化競賽,,,,,,,,,
+12,16:55,,RS,實體,,g0v 十週年,,,,,,,,,,
+13,17:00,,揪松團,實體,y,,g0v 白板大亂鬥,,,,,,,,,
+,,,xing,實體,,Join8,,,,,,,,,,

@@ -1,0 +1,75 @@
+,,,,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題,專案授權,共筆／討論連結,目前成果／投影片連結,專案三個關鍵字,專案徵人（專長）,坑主聯絡方式(slack/fb/email),youtube url: 專案報告,youtube url: 成果報告,slides url
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+1,9:40,v,Mavis,,"g0v summit2018 協辦之黑客松活動提前曝光
+(2018 HackH2O)",,http://goo.gl/7entun,,水資料、創新水服務、黑客松,程式設計師、硬體設計師、創意發想者,llwblue@gmail.com,,,
+2,9:43,v,g0v.news,,徵求佛系讀者,CC BY,https://bit.ly/digest0505,https://g0v.news/,,,Slack #news,,,https://drive.google.com/file/d/1m2FKE36dvqRrxk1eLv-uQhTsbn1aMUYF/view?usp=sharing
+3,9:46,v,eddie,Y,信差 - 社運鄉民出來走,Code: MIT,https://g0v.hackpad.tw/Courier--zbl3CtRxsmg,,"decentralization, mobilization, AR","程式：Node.js, Swift
+設計：UI視覺, 使用者安全
+法律：開源社群資安管理",slack: #courier,,,https://www.icloud.com/keynote-live/sc:05JEkvGRtvF70NGzekzKd9F7novS-TAwoBjI_A7hoH2GkKkW9E9qRkZ6q0zEL31QtDj
+4,9:49,v,nchild,Y,DAOJO 道場,CC BY,https://g0v.hackpad.tw/daojo,http://bit.ly/djg0v01,"ico, event, license",目前 DAOJO Task Force（DJTF）暫分為：綜合規劃（制度、程序）、開放授權（DJ、DJx 制定）、場地經營（場務、紀錄）、社群經營（線上、實體）、技術開發（web、bot、blockchain）、文化傳播（CIS、白話文師傅、curator）、政策法律（整理、研究、倡議）。DJTF 邀請連結（5.25前有效）：http://bit.ly/2HTcIQ8,@nchild (Slack/Facebook/Telegram),,,
+5,9:52,v,denkeni,,大安森林公園花卉辨識：前線戰報,,,https://drive.google.com/open?id=1m4bMxpkpvNgGvLZGfEgRtgtiewGo5jzM,植物辨識 大安森林公園 花卉,"如果你對認識植物很有興趣
+或者認識 對植物很有研究的朋友",slack: denkeni / denkenie@gmail.com,,,https://drive.google.com/open?id=1m4bMxpkpvNgGvLZGfEgRtgtiewGo5jzM
+6,9:55,v,MrOrz,Y,Cofacts 真的假的,Code: MIT / Data: CC0,beta.hackfoldr.org/cofacts,cofacts.g0v.tw,"Fact-checking, crowd-sourcing, chatbot","編輯：會上網查證的人
+程式：Node.JS, React.JS
+玩資料：CSV
+設計：遊戲化相關",slack: #cofacts channel,,,https://docs.google.com/presentation/d/16oDrat6PxRsQy0yEDr4czbMezP1ksOVZCsGbKZiimmQ
+7,9:58,v,ddio,Y,開放租屋之不住頂加有多難？,Code: MIT / Data: CC0?,https://g0v.hackpad.tw/Ih7Jp4pUD5y,http://bit.ly/2HXuk9v,居住資料 頂加 工人智慧,"租屋族：一起來幫 591 標頂加
+法律人：討論資料開放條件
+玩資料：40k/day + ML 頂加辨識",slack: ddio,,,
+8,10:01,v,Macpaul,Y,聯發科技「智在家鄉」社會創新百萬獎金競賽推坑,,https://goo.gl/yNei1k,https://docs.google.com/presentation/d/1KvhSYUDhpLioBytVpoMW3m4qzJ2wjloDHjLrdjYKWUQ/present?token=AC4w5ViJ7O0MeRdiIFOzkSSqNAq03ZzoSA%3A1525484970236&includes_info_params=1#slide=id.p1,黑客松 數位社會 一百萬,,,,,
+9,10:04,v,ej04,,家用水偵探-來源水庫庫容與河川水質監看,,https://hackpad.tw/--jBgwNkPTdiW,,水質資料 水庫庫容資料 location,"程式 : objective-c, java, python
+設計：網頁或app ui設計",clshih73@gmail.com,,,https://docs.google.com/presentation/d/1XDSWULSKJjudGcbf2JlQGJ6JXryI8gyk69IWpmX278Y/edit?usp=sharing
+10,10:07,v,張淑貞,,餐桌上的違章工廠,,https://hackpad.tw/aydKwNKL7Ab,https://drive.google.com/drive/folders/1iIypiBRJXYrOD6_qHw1Yrzb3lmR2mUp_?ths=true,產銷履歷 有機 違章工廠,"地理資料擷取及清理
+架設地理圖資平台",changs@e-info.org.tw,,,https://drive.google.com/file/d/15TY1cv1aA_S5_oZloq2LoUSnYrLLaCpk/view?usp=sharing
+11,10:10,v,林燕如,,我們的島二十年資料庫關鍵字釋出,,,,資料庫 關鍵字 分析,會分析資料庫的人 會視覺化呈現數據的人,https://www.facebook.com/profile.php?id=659246084,,,https://docs.google.com/presentation/d/1iTnrQOsSc1PNJjyhBs5xg7TsbnEjETZI_IyZyzvNgoQ/edit#slide=id.p
+12,10:13,v,hychen,,sense.tw - 議題釐清工具,Code: MIT,,https://www.youtube.com/watch?v=tqSMOeai2-s,issue-based policy mapping,"政策分析：分析架構分享
+程式: TypeScript, React, Python",slack:hychen,,,https://docs.google.com/presentation/d/1ALbaRPTWSA-tctuP6wsPZfsZPXb-M-vD70YFFsHe4Bw/edit#slide=id.g39b2cdf8f2_0_190
+13,10:16,v,tkirby,,復活者聯盟,Code: MIT,https://makeweb.io/page/4eP+ut05os05zF0CaT04JuhtL/,https://makeweb.io/page/4eP+ut05os05zF0CaT04JuhtL/view,"landing,website,marketing","編輯：會網路考古、搜集資料的人
+視覺設計",slack: tkirby,,,
+14,10:19,v,Peace,y,vTaiwan,,https://vtw.link/1v_1Wwt5gqaUEJeBNR5XU6Hm3JpqSxDorROfCzpDK1bY/https%253A%252F%252Fg0v.hackpad.tw%252F20180502-vTaiwan-XClxInLEjfe,https://vtaiwan.tw/,open government,"1.研究開放政府組織
+2.研究方法/徵集意見專家
+3.UI/UX
+4.社群經營
+5.政府機關聯繫人
+6.法律人","slack: Peace
+https://www.facebook.com/groups/vtaiwan/ ",,,https://docs.google.com/presentation/d/1hlNJ-j9PEb5bW3m4HNM4pKqxyW7XpK_VPXz1-YWrbuo/edit?usp=sharing
+15,10:22,v,fly,y,uWikipedia.org 油雞百科,Code: MIT / Data: CC0,j.mp/y-tts-,Open by Firefox:  demo,"sound, wikipedia, truth","user, developer, designer",slack: @fly #uwikipedia,,,j.mp/y-tts
+16,10:25,v,Wen,n,公民協作二二八檔案資料庫,文件討論：cc by NC，影像檔在國史館和檔案館尚未開放,https://g0v.hackpad.tw/SWnxLFXNXLv,https://g0v.hackpad.tw/228OCR-zkGjwVuNRo5,"二二八, 資料庫, metadata, 協作","資訊技術, 會標註的人, 對二二八有興趣的人、歷史專業",hwchou@drnh.gov.tw,,,
+17,10:28,v,Bobby Tung,y,我終於搞懂健康存摺在幹什麼了，但資料能應用在iOS健康App上頭嗎？,,,,健康存摺 iOS CDA,衛福部的朋友 iPhoneUser iOSDeveloper(?),slack: @bobbytung,,,
+18,10:31,v,lulu,Y,珊瑚體檢十年數據怎麼看,,https://docs.google.com/document/d/152VmClLsG6PYIZdliEYNdEu-ZPTdcpKQwD52n6DfprI/edit,https://drive.google.com/file/d/1GH5mOLFntVclLde5PA2pz_bemrVaxdA8/view,海洋、公民科學、視覺化,想了解珊瑚體檢怎麼做的人、資料視覺化專長、Crowd-sourcing 專長,slack: @Lulu Keng,,,https://docs.google.com/presentation/d/10H-E3fzvyRQPzUM4tYmjCbFbzl13on8cZvXFu6-3AHQ/edit#slide=id.p8
+19,11:00,v,大威,Y,大電奉還：校園節電專案,呃呃不知道這格該怎麼辦,https://goo.gl/pJkfUK,http://slides.com/victorho/g0v30nep,氣候變遷、校園節電、資料視覺化,資料分析師、全端、機械電機（電力組）、想了解建築節電的人們、對節電有興趣的人們,"slack: @Dawei ／
+www.fb.com/sav1on",,,http://slides.com/victorho/g0v30nep
+,,,== 截止 ==,,,,,,,,,,,
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,相關連結,三個關鍵字,專案徵人,坑主聯絡方式,,,
+1,14:30,,johnny,Y,"2018 TICTEC 分享（Facebook, wiki）",,,,,,,,,
+2,14:40,,weiting,y,阿美語萌典經驗分享,,,https://docs.google.com/presentation/d/15oSVPUt5ifNMYz4nwZygqUDawCizusXvq4dSEg1aj5A/edit#slide=id.g2ed81a7a92_0_35,,,,,,
+3,14:50,,tmonk,y,兩個談到社群值得注意的事情,,,,,,,,,
+4,15:00,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"17:00【 present project】 規則：於106-7會議室舉行
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,
+1,17:00,,HsuWeiyen,,BAPP v2,,,直接操作展示,NativeAndroid/JavaScript/NoServer,UX/AndroidQC/專案對象,strength0179@gmail.com,,,
+2,17:05,,Lulu,,珊瑚體檢視覺化起始步,,https://docs.google.com/document/d/152VmClLsG6PYIZdliEYNdEu-ZPTdcpKQwD52n6DfprI/edit,,,,,,,
+3,17:10,,tkirby,,復活者聯盟,,https://makeweb.io/page/4eP+ut05os05zF0CaT04JuhtL,,,,tkirby@gmail.com,,,
+4,17:15,,,,,,,,,,,,,
+5,17:20,,Lafin/Kalang,y,阿美語萌典,,,,,,,,,
+6,17:25,,張淑貞,,餐桌上的違章工廠 開桌了～,,https://hackpad.tw/aydKwNKL7Ab,https://drive.google.com/file/d/1RH5NJND-1G1Jd1INrkbCSbLoZjafS5Lk/view?usp=sharing,,"地圖繪製
+網站設計與架設",changs@e-info.org.tw,,,
+7,17:30,,eddie,y,信差,,,,,,,,,
+8,17:35,,紅雨,y,228人工OCR測試成果,,https://g0v.hackpad.tw/SWnxLFXNXLv,https://makeweb.io/page/2m-w6w08xm05S-09q80hQFEe/view,,,,,,https://hackmd.io/gjmx63XfRK2a5HTf_swSfg
+9,17:40,,Ronny,y,台灣產業儀表板,,,,,,ronnywang,,,
+10,17:45,,ddio,y,開放租屋之不住頂加有多難？,,https://g0v.hackpad.tw/Ih7Jp4pUD5y#:h=%E6%94%AF%E7%B7%9A%E4%BB%BB%E5%8B%99---%E4%B8%8D%E4%BD%8F%E9%A0%82%E5%8A%A0%E6%9C%89%E5%A4%9A%E9%9B%A3,,,,,,,
+11,17:50,,,,,,,,,,,,,
+12,17:55,,大威,y,大電奉還：校園節電專案,,https://g0v.hackpad.tw/--m7g5w1GrDd8,https://energy-saving-ntu.000webhostapp.com/_site/tutorial.html,氣候變遷、校園節電、資料視覺化,資料分析師、全端、機械電機（電力組）、想了解建築節電的人們、對節電有興趣的人們,"slack: @Dawei ／
+www.fb.com/sav1on",,,
+13,18:00,,fly,y,真的假的？公共政策的油雞！,Code: MIT / Data: CC0,j.mp/y-tts-,Open by Firefox:  demo,"sound, wikipedia, truth","user, developer, designer",slack: @fly #uwikipedia,,,j.mp/y-tts

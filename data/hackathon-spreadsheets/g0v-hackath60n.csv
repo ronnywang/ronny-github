@@ -1,0 +1,121 @@
+,,,,,,,,,,,,,,,,,,
+,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出？,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","g0v Podcast
+松後推坑電台
+受訪意願? (Y/?)","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)","坑主聯絡方式
+Contacts",youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,,,
+1,9:40,,fly,預錄影片,Y,醬活,開放、即興、自然地活著,CC0,Y,https://g0v.hackmd.io/@flyo/flyism,https://k.flyism.org,Y,開放、即興、自然,閱讀、聊天、遊戲、擁抱,g0v slack #flyism @fly / fb.me/flyism / LINE: leovgrace,https://youtu.be/NfnmWEhiBtg,https://youtu.be/NfnmWEhiBtg,g0v tw hackath60n — 提案 — 醬活 ／ fly — 記得投票黑客松
+2,9:43,,揪松團,實體,Y,繁體中文 AI 開源實踐計畫,【繁體中文 AI 開源實踐計畫】單一專案獎助金最高 50 萬即日起開始徵件 Traditional Chinese AI Open Source Grant,CC-BY,Y,https://sch001.g0v.tw/means/,,Y,"繁體中文, LLM, 單一專案獎助金 20-50 萬",繁中 LLM 開源實作,"g0v slack #jothon
+g0v slack #ai-learning",,,g0v tw hackath60n — 提案 — 繁體中文 AI 開源實踐計畫 ／ 揪松團 — 記得投票黑客松
+3,9:46,,宏信,實體,Y,Linux Odyssey,互動式終端機教學網站,GPLv3,Y,https://g0v.hackmd.io/@wancat/linux-odyssey,https://hackmd.io/@wancat/linux-odyssey-20240106,Y,資訊教育、Linux、自由軟體,"試玩體驗者：零基礎佳！告訴我們你的感想
+UI/UX 設計師：提升網頁的使用者體驗
+網頁前後端開發者：NodeJS, VueJS, Docker
+資訊教育從業者：討論導入教學現場的可能性",g0v slack #linux-odyssey,https://linuxodyssey.xyz,,g0v tw hackath60n — 提案 — Linux Odyssey ／ 宏信 — 記得投票黑客松
+4,9:49,,Ted,實體,Y,開放學生自治社群,開放學生自治社群,CC-BY 4.0,Y,,https://g0v.hackmd.io/dF5TkVAzRI-A11RRFu4TaA,Y,學生自治、開放文化、推廣,對學生自治與開源文化推廣至不同領域有經驗或想法的夥伴,,,,g0v tw hackath60n — 提案 — 開放學生自治社群 ／ Ted — 記得投票黑客松
+5,9:52,,Sky / 蓋蓋,實體,Y,SITCON 編輯組,"開放社群媒體治理方式反思 / 建構
+feat. SITCON 2024 編輯組實體聚聚",CC0,Y,https://docs.google.com/document/d/1w5bsZc_jRilntL6jidODwvSUL7soIz09pzCScowE9VY/edit,https://docs.google.com/presentation/d/135b4_AhlPvTwcEyuLAmjnzxzN4Ul_tbSQX3D6rK61TM/edit#slide=id.p,Y,社群治理、協同經營、SITCON 3/9 在中研院,"對於 SNS 社群治理有興趣/經驗的人
+有經營粉絲專頁經驗、了解形象塑造的人
+了解 SITCON 會眾想知道哪些事情的人
+熟悉 Meta 拯救觸及方式或投放廣告方式的人",g0v slack @skyhong2002 #sns,,,g0v tw hackath60n — 提案 — SITCON 編輯組 ／ Sky / 蓋蓋 — 記得投票黑客松
+6,9:55,,ddio,實體,Y,Rentea,你想在 g0v Summit 聊什麼租屋議題？,CC-BY,Y,https://g0v.hackmd.io/kHm-7vUzSVa6piLJM3H7cA,https://g0v.hackmd.io/@ddio-io/By-bTOr_a#/,Y,居住者觀點、開源與團結經濟、行動主義,租屋族、認同居住權比財產權重要的人,g0v slack #rentea,,,g0v tw hackath60n — 提案 — Rentea ／ ddio — 記得投票黑客松
+7,9:58,,Bil,實體,Y,Cofacts 真的假的,"Cofacts 真的假的要被選舉訊息淹沒啦／
+台灣選務謠言筆記","MIT, 
+CC-BY-SA",y,https://cofacts.tw/hack,https://docs.google.com/presentation/d/1vCi5IpGvNEuNE7OP9o8shEiU0LYTjG_B6EX68-tY_A4/edit,Y,程式開發、事實查核、AI,"關心選務謠言的人
+會 NodeJS / ReactJS 的人",g0v slack #cofacts @mrorz @bil,,,g0v tw hackath60n — 提案 — Cofacts 真的假的 ／ Bil — 記得投票黑客松
+8,10:01,,零時小學校,實體,Y,零時小學校,數位公民教育專書 - 「專案實作」需要你一起共編！,CC-BY,y,https://g0v.hackmd.io/@jothon/sch001book2023,https://docs.google.com/presentation/d/1RmRK5q-v5zzbVXZs2tIIbYTuMjiR7CURnB30h0raQEM/edit?usp=sharing,Y,數位公民教育、出書、專案實作,任何對此書有興趣的夥伴都歡迎一起協作和回饋！也特別歡迎教育工作者回饋如何更適合教育工作者理解此些內容。,g0v slack #edu @tiff,,,g0v tw hackath60n — 提案 — 零時小學校 ／ 零時小學校 — 記得投票黑客松
+9,10:04,,RSChiang,實體,Y,Summit,✴️ ☆㊣↙煞氣 ê g0v Summit 2024 紀念品製作投票中↗㊣☆,CC BY-SA 4.0,Y,https://g0v.hackmd.io/@summit2024/book,https://docs.google.com/presentation/d/1ti_OnAg_lOjtJ83dOx5MFExqCP-4BplWtkk8CE6EdfI/edit#slide=id.p,Y,,"Summit 紀念品投票！
+有專案想投稿的你！（講者）
+熟悉多國語言的你！（翻譯）
+想來做浮誇紀念品的你！（設計師）
+想與多方人馬接觸的你！（議程助理）
+文筆充滿魅力的你！（社群小編）",g0v slack #summit-2024-bootstrap,,,g0v tw hackath60n — 提案 — Summit ／ RSChiang — 記得投票黑客松
+10,10:07,,嗡嗡,實體,,PrideWatch彩虹選民投票指南,"PrideWatch看比不看更好投！
+要選舉了你知道要投給誰了嗎","PrideWatch看比不看更好投！
+要選舉了你知道要投給誰了嗎",Y,https://www.youtube.com/watch?v=9qR-SyWal04,https://docs.google.com/presentation/d/1xZm9I6Erd7QN3ZWl1Qo_iGQxNPShah2X/edit?usp=sharing&ouid=111636375346861552084&rtpof=true&sd=true,Y,政治、多元性別、選舉,,,,,g0v tw hackath60n — 提案 — PrideWatch彩虹選民投票指南 ／ 嗡嗡 — 記得投票黑客松
+"以下 5 席保留給首次於黑客松提案的參與者 👍
+（保留至 1/3 週三 23:59，後續開放所有人提案！）",,,,,,,,,,,,,,,,,,g0v tw hackath60n — 提案 —  ／  — 記得投票黑客松
+11,10:10,,Peter,實體,,vtaiwan,Considerit 試玩與 vTaiwan for all ,CC-BY,Y,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkWxaiMS_T,https://docs.google.com/presentation/d/1Ehztx8BlTJxaKuWd6tSKEnrdJI0eW6gmb3Di7Ohscc0/edit?usp=sharing,Y,社群參與、活動、新的公民線上參與工具,"前端工程師：協助網頁設計與優化
+活動參與者：來吃吃喝喝跟聊天
+活動籌辦者：來讓大家吃吃喝喝跟聊天
+社群媒體經營者：來發文！","g0v slack #vTaiwan 
+g0v slack @peter @eli 
+sdfghj1001@gmail.com",,,g0v tw hackath60n — 提案 — vtaiwan ／ Peter — 記得投票黑客松
+12,10:13,,齊一,實體,N,綠洲計畫LZGH,綠洲計畫LZGH－－引領偏鄉學子走入特殊選才,CC BY,Y,,https://www.canva.com/design/DAF4qFDUtAo/EH1FW7bUrNfmIaioLtAkfQ/view,Y,教育、升學、特殊選才,關心特殊選才和升學機制的高中生、大學生,"g0v slack chiyi4488 (U010WH9GBB4)
+
+建議電郵: chiyi4869@gmail.com",https://youtu.be/Kj_2cx2xGP8,,g0v tw hackath60n — 提案 — 綠洲計畫LZGH ／ 齊一 — 記得投票黑客松
+13,10:16,,Yvonne,實體,,,g0v 參與者輪廓初探,CC BY,Y,,"Slide: https://drive.google.com/file/d/1S2k09nD9-RfFx_3u-u-FiJPmgy0SM0Za/view?usp=sharing 
+form: https://forms.gle/anNMonsUXwwepr2B9
+QR code: https://drive.google.com/file/d/1HiMrazK43BOxo3H5IOyPtsmUvopDk7bR/view?usp=sharing ",Y,參與、學生、g0v,參與 g0v 社群的學生（高中生、大學生、研究生）,g0V slack: Yvonne,,,g0v tw hackath60n — 提案 —  ／ Yvonne — 記得投票黑客松
+14,10:19,,Stanley,實體,Y,,公益專案到區塊鏈世界拉贊助！？,,Y,https://hackmd.io/J9uXJgrHTcuYDqO8nbkQxQ#/,https://hackmd.io/@greensofa/GitcoinGrantsWalkthrough?view,, 拉贊助、拉贊助、拉贊助,需要拉贊助的公益專案,"g0v Slack: Stanley, mashbean, denkeni",,,g0v tw hackath60n — 提案 —  ／ Stanley — 記得投票黑客松
+15,10:22,,paul,實體,Y,數位韌性松 digital resilience hackathon,數位韌性心慌（？）月報,"CC-BY-SA
+4.0",Y,https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home,https://gamma.app/public/-k2mshk2q40b53ck,Y,網路、韌性、民防,"for 開發者：請點這裡
+for 非軟硬體開發者：請點這裡
+for english services please press here",g0v slack #civil-defense channel,,,g0v tw hackath60n — 提案 — 數位韌性松 digital resilience hackathon ／ paul — 記得投票黑客松
+,,,== 截止 ==,,,,,,,,,,,,,,,g0v tw hackath60n — 提案 —  ／ == 截止 == — 記得投票黑客松
+,,,,,,,,,,,,,,,,,,g0v tw hackath60n — 提案 —  ／  — 記得投票黑客松
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,"發表者
+Presenter","短講形式
+Form",錄影以 CC-BY 釋出?,"專案名稱
+Project Name","主題
+Topic","短講授權
+Talk License ",是否授權上架 大松實況電台?(Y/?),,相關連結,,"三個關鍵字
+3 Keywords of talk","專案徵人（專長）
+Recruitment (talents?)","坑主聯絡方式
+Contacts",,,"g0v tw hackath60n — 中場短講 — 專案名稱
+Project Name ／ 發表者
+Presenter — 記得投票黑客松"
+1,14:30,,Stamford,預錄影片,Y,鏈上大松💗,鏈上大松💗,CC-BY,Y,,"PPT: https://docs.google.com/presentation/d/1j_tyHc_fpaFLkyPJCylNV_h2eevYU8I4rVfNdYZBFHs/edit#slide=id.g2650ad051d4_0_0
+預錄: https://youtu.be/U8YTMdU5nOQ ",,web3、代幣動力、資產為本社區發展應用,有興趣的都歡迎,g0v slack @Stamford,,,g0v tw hackath60n — 中場短講 — 鏈上大松💗 ／ Stamford — 記得投票黑客松
+2,14:40,,宏信,實體,Y,Linux Odyssey,Linux Odyssey 技術架構分享,CC-BY,Y,,,,,,,,,g0v tw hackath60n — 中場短講 — Linux Odyssey ／ 宏信 — 記得投票黑客松
+3,14:50,,Stanley、豆泥,實體,Y,Gitcoin Grants 國際贊助大攻略,Gitcoin Grants 國際贊助大攻略,CC-BY,Y,,https://hackmd.io/@greensofa/GitcoinGrantsWalkthrough?view#/4,, 拉贊助、拉贊助、拉贊助,需要拉贊助的公益專案,"g0v Slack: Stanley, mashbean, denkeni",,,g0v tw hackath60n — 中場短講 — Gitcoin Grants 國際贊助大攻略 ／ Stanley、豆泥 — 記得投票黑客松
+4,15:00,,YuTin,實體,Y,馬路如戰場 - 止血 Stop The Bleed,馬路如戰場 - 止血 Stop The Bleed,CC-BY,Y,,https://docs.google.com/presentation/d/1fO5RLj8tOezYEroLziuuGGLznYRfvtPSX30F52zFugg/edit?usp=sharing,,,,,,,g0v tw hackath60n — 中場短講 — 馬路如戰場 - 止血 Stop The Bleed ／ YuTin — 記得投票黑客松
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"16:00【 present project】 規則：
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,,,
+1,16:00,,peter ,實體,,vTaiwan ,Considerit 試玩與 vTaiwan for all ,CC-BY,Y,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkWxaiMS_T,https://docs.google.com/presentation/d/1Ehztx8BlTJxaKuWd6tSKEnrdJI0eW6gmb3Di7Ohscc0/edit?usp=sharing,Y,社群參與、活動、新的公民線上參與工具,"前端工程師：協助網頁設計與優化
+活動參與者：來吃吃喝喝跟聊天
+活動籌辦者：來讓大家吃吃喝喝跟聊天
+社群媒體經營者：來發文！","g0v slack #vTaiwan 
+g0v slack @peter @eli 
+sdfghj1001@gmail.com",,,g0v tw hackath60n — 成果報告 — vTaiwan  ／ peter  — 記得投票黑客松
+2,16:05,,Joey ,實體,,民防下午茶 CD T-Time,民防現況與挑戰，大家是否有在關心，可以如何開啟討論,CC-BY,,https://hackmd.io/@ATM_R5IeQ8aBci8yu46Jjw/B1ZTrOL_p,https://www.canva.com/design/DAF5BIGUn2M/--wnCAhvESdYXBFdsAVw3w/edit?ui=eyJHIjp7fX0,,,,,,,g0v tw hackath60n — 成果報告 — 民防下午茶 CD T-Time ／ Joey  — 記得投票黑客松
+3,16:10,,eric,實體,Y,Grapycal,A highly interactive visual programming language,BSD 3-clause,y,,https://docs.google.com/presentation/d/1akiVArknNCENGLJM0rpsFGGa7rCJWvuAAvfEU5B76Jk/edit?usp=sharing,Y,"Python
+圖形化程式語言
+","Python dev
+Frontend dev
+Extension 製作者","demo: https://frontend.grapycal.org
+email :contact@grapycal.org
+discord: https://discord.com/invite/adNQcS42CT",,,g0v tw hackath60n — 成果報告 — Grapycal ／ eric — 記得投票黑客松
+4,16:15,,peter ,實體,,summit ,g0v summit ,CC-BY,Y,https://g0v.hackmd.io/@summit2024/book/https%3A%2F%2Fg0v.hackmd.io%2FdttYgGq1SmqCCp4ZntffZw,https://docs.google.com/presentation/d/1ti_OnAg_lOjtJ83dOx5MFExqCP-4BplWtkk8CE6EdfI/edit?usp=sharing,Y,,,,,,g0v tw hackath60n — 成果報告 — summit  ／ peter  — 記得投票黑客松
+5,16:20,,Ted,實體,N,開放學生自治社群,開放學生自治社群,CC-BY,Y,,https://g0v.hackmd.io/@Ted-Lu/SyyKTx4_a,Y,學生自治、開放文化、推廣,,g0v Slack #open-student-org,,,g0v tw hackath60n — 成果報告 — 開放學生自治社群 ／ Ted — 記得投票黑客松
+6,16:25,,MrOrz,實體,Y,Cofacts 真的假的,"Cofacts 真的假的要被選舉訊息淹沒啦／
+台灣選務謠言筆記","MIT, 
+CC-BY-SA",y,https://cofacts.tw/hack,https://cofacts.tw/hack,,,,,,,g0v tw hackath60n — 成果報告 — Cofacts 真的假的 ／ MrOrz — 記得投票黑客松
+7,16:30,,,,,,,,,,,,,,,,,g0v tw hackath60n — 成果報告 —  ／  — 記得投票黑客松
+8,16:35,,chewei,實體,Y,WaytoSafety 隨時隨地知道避難場所位置,WaytoSafety 隨時隨地知道避難場所位置 - 蒐集臺日韓疏散避難及收容地點,CC-BY,Y,https://g0v.hackmd.io/@chewei/WaytoSafety,https://docs.google.com/presentation/d/1nxQ7S_vkNjG04i2ixLPt2Znuso2FJE6EXhWem4BMSpw/edit,Y,"防災, 日語, 韓語, gis data",,"臺灣資料討論頻道 g0v slack #disaster-go
+日韓資料討論頻道 g0v slack #facing-the-ocean",,,g0v tw hackath60n — 成果報告 — WaytoSafety 隨時隨地知道避難場所位置 ／ chewei — 記得投票黑客松
+9,16:40,,小K,實體,Y,EZ'shift ,青年組織人才媒合平台,CC-BY,Y,https://sch001.g0v.tw/dash/prj/PnW85Gc3Ab9mN37f5K6C96w203IqUV,https://www.canva.com/design/DAF5D8MJMr4/tUh5ITie0HDjIFcOGsuIJg/edit?utm_content=DAF5D8MJMr4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton,Y,青年組織、媒合、社會參與,網站工程師的技術開發支援：因為目前團隊沒有相關的技術人員，因此可能需要技術專家的協助，確保平台的穩定性和安全性。,g0v slack#ez-shift,,,g0v tw hackath60n — 成果報告 — EZ'shift  ／ 小K — 記得投票黑客松
+10,16:45,,Hsuan,實體,Y,綠洲計畫LZGH,綠洲計畫LZGH－－引領偏鄉學子走入特殊選才,CC BY,Y,https://sch001.g0v.tw/dash/prj/PnB4vTW30nTEyCRS51xCsJaLMXyCV2,https://www.canva.com/design/DAF4qFDUtAo/EH1FW7bUrNfmIaioLtAkfQ/view,Y,教育、升學、特殊選才,關心特殊選才和升學機制的高中生、大學生,"g0v slack chiyi4488 (U010WH9GBB4)
+
+建議電郵: chiyi4869@gmail.com",,,g0v tw hackath60n — 成果報告 — 綠洲計畫LZGH ／ Hsuan — 記得投票黑客松
+11,16:50,,Sean and Paul,實體,Y,數位韌性松 digital resilience hackathon,數位韌性松近期成果分享,"CC-BY-SA
+4.0",Y,https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home,"- https://gamma.app/docs/-k2mshk2q40b53ck?mode=doc#card-t88o70jp4f2ay65
+- https://g0v.hackmd.io/@paulpengtw/DigiResiTh0n-home/%2FoyNRfe4lTuaZ5RbcPSS7TQ",Y,網路、韌性、民防,"for 開發者：請點這裡
+for 非軟硬體開發者：請點這裡
+for english services please press here",g0v slack #civil-defense channel,,,g0v tw hackath60n — 成果報告 — 數位韌性松 digital resilience hackathon ／ Sean and Paul — 記得投票黑客松
+12,16:55,,揪松團,實體,,,歡迎大家填寫影響力問卷,,,https://bit.ly/0123g0vsurvey,定期定額贊助 g0v 黑客松：https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=30,,,,,,,g0v tw hackath60n — 成果報告 —  ／ 揪松團 — 記得投票黑客松

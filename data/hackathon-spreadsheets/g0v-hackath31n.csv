@@ -1,0 +1,67 @@
+,,,,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題,專案授權,共筆／討論連結,目前成果／投影片連結,專案三個關鍵字,專案徵人（專長）,坑主聯絡方式,youtube url: 專案報告,youtube url: 成果報告,slides url
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+1,9:40,,,,,,,,,,,,,
+2,9:43,v,紅雨,Y,228事件資料掃描檔文字化,CC,https://hackmd.io/GYU0UFBSRaqLsn16uGhkgA,https://g0v.hackpad.tw/SWnxLFXNXLv,228、打字、皮卡丘,鍵盤戰士、神眼、授權專家、網頁開發者,https://www.facebook.com/not1911,,,
+3,9:46,v,YuTin,Y,g0v tools,CC by g0v,http://x.co/g0vtools,https://docs.google.com/spreadsheets/d/1C7J-NDEuz_E91pt4-rzkcBhGlFK6bSef6YQOmmC5g2g/edit#gid=0,專案介紹、國際交流,,,,,
+4,9:49,v,幸延,Y,農夫小幫手,"非營利： 
+Code: MIT
+Data: CC0",https://hackmd.io/MqHL7ifzTamtn49SmNLn0w,https://docs.google.com/presentation/d/160Ebzw7lfqdsp5zUUUETf6ZN5yETcVOa5qTH7Ph4aFo/edit?usp=sharing,生態、農業、友善環境,UI、Social Crawler、喜歡植物&自然的人,https://www.facebook.com/HsingYanChen,,,
+5,9:52,v,ipa,Y,g0v summit 2018 線上交友大平台,CC,https://g0v.hackmd.io/POmvTZ-QQQWKcjUi52xOnA?view,,"summit, 交朋友，大平台","geek, UX","ipa on g0v-slack, fb: hsiao-wei chiu",,,
+6,9:55,v,Eddie,CC0,行動議題包,MIT,https://github.com/agameofprivacy/Movables-iOS,https://docs.google.com/presentation/d/1wtOrYUpSI5BypEZ4WBrSem5wOOgp38pNuYD2ELJy6QU/edit?usp=sharing,"公民參與, 街頭, 運動","JSON資料處理, 翻譯, Android, Node.js",#courier or @agameofprivacy,,,
+7,9:58,v,Ronny,Y,"1. 為什麼你還在 g0v
+2. 猛禽 FB",BSD,"1. https://g0v.hackpad.tw/-g0v-...-ogyZjIUFekF
+2. https://g0v.hackpad.tw/8RnmdP7IFFH",,"1. g0v 公民科技 社群
+2. 保育 猛禽 動物","1. 閒聊者
+2. 賞鳥者",ronnywang on g0v-slack,,,
+8,10:01,v,🐒 tmonk,CC0,🗳️ 連署《勞基法複決公投》🗳️,,https://g0v.hackpad.tw/ljYZfeJwMex,,勞基法、公投連署、廢除惡法,台灣國民，滿 18 歲以上,tmonk on g0v-slack,,,
+9,10:04,v,Sleep No More,Y,Dear Airlines,MIT,http://x.co/aircn,https://docs.google.com/presentation/d/1DeN2Qsg4CDHKAyCCjbFQU2-xG_WAyyYVgA1XAZj-kEw/edit?usp=sharing,公投連署,,,,,
+10,10:07,v,MrOrz,Y,Cofacts 真的假的,Code: MIT / Data: CC0,謠言.大平台.tw,cofacts.g0v.tw,"Fact-checking, crowd-sourcing, chatbot","編輯：會上網查證的人
+程式：Node.JS, React.JS
+玩資料：CSV
+設計：遊戲化相關",slack: #cofacts channel,,,https://docs.google.com/presentation/d/1GLbtTBHMSMtm3ASfVmxH5ZZA79gHrCXgMqvoB3zSLJU/edit?usp=drivesdk
+11,10:10,v,小蟹,Y,阿美語萌典,CC0,https://github.com/g0v/amis-moedict,https://amis.moedict.tw,阿美語、台灣原住民語與南島語、台灣原住民族文化,後端工程師、前端工程師、有興趣的人,,,,https://docs.google.com/presentation/d/1wiKwFIpF6MXjh9cMvAct5TR34Oz2owR7ih48RmRqB2U/edit?usp=sharing
+12,10:13,v,chewei ,Y,全國國土計畫.pdf,CC by,https://www.facebook.com/groups/g0v.general/permalink/1688334401242959/,https://hackmd.io/c/Hk9whmxbm,國土計畫、書圖文件、易讀好讀化,前端、ePub 、空間規劃,slack：chewei；https://www.facebook.com/groups/1502473446693278/,,,
+13,10:16,v,hychen,Y,g0v sense tw 介紹 + g0v 歷屆關心議題整理,MIT,https://beta.hackfoldr.org/sense-tw,https://staging.sense.tw,議題釐清、文獻管理,"編輯：有興趣整理 g0v 歷屆黑客松關心議題或是新一代健保卡規劃相關資料的人
+程式：TypeScript, ReactJS",slack: #sense channel,https://about.sense.tw/,,https://docs.google.com/presentation/d/15Re1oEGW3UycZTt_-M3jlM5AmR9VRDfFmyN1Y-Rfwnk/edit#slide=id.p
+14,10:19,v,育軒,Y,g0v.news介紹＋資訊失調圖表化,,https://docs.google.com/document/d/1Ihz43okSP36WV0GnmN4XdmFUGi2mMYXOq2j0VntHdKo/edit,,"fakenews, infographic, infodisorder",文案、資訊圖表設計師,Slack：yuhsuan,,,
+15,10:22,v,Lulu,Y,g0v 全球推坑,,https://ocftw.kktix.cc/events/usavisits,https://drive.google.com/file/d/1AH_oyz1jpKghgYVhFJ71l1t3509sAk9P/view,美國、日本、大坑,有興趣進行實體國際交流的人員,Slack：Lulu Keng,,,
+16,10:25,v,chihao,Y,公民科技以外、大松以外,CC by g0v,https://hackmd.io/k3aBxFUgTQ6EK5Dv23NQKw,,"reflect, reframe, re-open",想說故事的所有人,@chihao on g0v Slack,,,
+17,,,,,,,,,,,,,,
+,,,== 截止 ==,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"14:30【g0v Grant 期中報告】㊕㊕㊕ 本期不開放短講 ㊕㊕㊕
+每組 present 5min",,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,相關連結,三個關鍵字,專案徵人,坑主聯絡方式,,,
+1,14:30,,poga,OK,勞工守護神,,,tw-shift-schedule.firebaseapp.com,工時/勞基法,,slack: #labor @poga,,,https://docs.google.com/presentation/d/1sQek17F6ybFGgC4CodcmIHb-GEDAdsNc8snFAbrbrHU/edit?usp=sharing
+2,14:35,,David,OK,台灣路更平,,,https://collector.twsr.xyz,路平,,bosschen@gmail.com,,,https://drive.google.com/open?id=1qYf6zYHnWaSsHOcWTYRmi6rACRbGWWz18XsAjiCENWI
+3,14:40,,阿德,OK,無家者小幫手,,,http://homeless-helper.doyouaflavor.tw/,街友/群眾參與/端午節好多粽子,後端/前端/UIUX,welcome@doyouaflavor.tw,,,https://docs.google.com/presentation/d/1EGh87xm9d6k8vg8G2iuDQS_jmRmkTnYDF1FvWISMIfs/edit#slide=id.g3cdaaa591c_0_15
+4,14:45,,Denken,OK,大安森林公園花卉辨識,,,https://drive.google.com/open?id=1-ZHZlsYQc6ema4zfAk906Gr1rDCXIiQr,植物辨識/人工智慧,,denkenie@gmail.com,,,
+5,14:50,,Hê-bí,OK,ChhoeTaigi 找台語,,,https://github.com/ChhoeTaigi/ChhoeTaigiDatabase,台語/台語文/字詞資料庫,,ngoohebi@gmail.com,,,https://drive.google.com/file/d/1olwsVziyBfmDzPqUEErilS-LbMwXs6I1/view
+6,14:55,,田君,OK, 台電 30 億敦親睦鄰金追追追 ,,,https://hackmd.io/eRdvpj3RRtCxI51v4vSv7Q?view,立委與正副議長/小金庫/利益衝突,,tty791002@gmail.com,,,
+7,,,bess,,來填問卷吧！,,,https://goo.gl/forms/X8jewJeVEL6dD4Zd2,問卷/問卷/問卷,填問卷的人,,,,
+,,,,,,,,,,,,,,
+,本期不開放短講,,== 截止 ==,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"17:00【 present project】 規則：於106-7會議室舉行
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,
+1,17:00,,,,,,,,,,,,,
+2,17:05,,Sleep No More,Y,Dear Airlines,MIT,,,,,,,,
+3,17:10,,YuTin,Y,g0v our projects,CC by g0v,,,,,,,,
+4,17:15,,tmonk,Y,🗳️ 連署《勞基法複決公投》🗳️,,,,,,,,,
+5,17:20,,Ronny,Y,猛禽 FB,,,,,,,,,
+6,17:25,,ipa,Y,summit 交友平台,CC by g0v,https://g0v.hackmd.io/POmvTZ-QQQWKcjUi52xOnA?both,,,,,,,
+7,17:30,,ael,Y,sense.tw,MIT,staging.sense.tw,,,,,,,
+8,17:35,,MrOrz,Y,Cofacts 真的假的,Code: MIT / Data: CC0,謠言.大平台.tw,cofacts.g0v.tw,"Fact-checking, crowd-sourcing, chatbot","編輯：會上網查證的人
+程式：Node.JS, React.JS
+玩資料：CSV
+設計：遊戲化相關",slack: #cofacts channel,,,
+9,17:40,,幸延,Y,農夫小幫手 - Agri Dictionary,CC0,,,,,,,,
+10,17:45,,Eddie,,行動議題包,,https://github.com/agameofprivacy/Movables-iOS,,,,,,,
+11,17:50,,chihao,,g0v一句話,CC by g0v,https://hackmd.io/k3aBxFUgTQ6EK5Dv23NQKw?both,,,,,,,
+12,17:55,,紅雨,Y,228事件資料掃描檔文字化,CC,https://hackmd.io/GYU0UFBSRaqLsn16uGhkgA,https://g0v.hackpad.tw/SWnxLFXNXLv,228、打字、皮卡丘,鍵盤戰士、神眼、授權專家、網頁開發者,https://www.facebook.com/not1911,,,
+13,18:00,,weiting,Y,阿美語萌典,CC0,https://github.com/g0v/amis-moedict,https://amis.moedict.tw,阿美語、台灣原住民語與南島語、台灣原住民族文化,後端工程師、前端工程師、有興趣的人,https://www.facebook.com/amis.moedict/videos/590067224713482/,,,https://docs.google.com/presentation/d/1wiKwFIpF6MXjh9cMvAct5TR34Oz2owR7ih48RmRqB2U/edit?usp=sharing
+14,18:05,,noah,y,vTaiwan,,https://www.facebook.com/vtaiwan.tw/,,vtaiwan、提案、小松,,,,,

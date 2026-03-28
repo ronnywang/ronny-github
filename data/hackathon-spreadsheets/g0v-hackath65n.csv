@@ -1,0 +1,176 @@
+,,,,,,,,,,,,,,,,,
+,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form","錄影以 CC-BY 釋出？
+Can we record and release the video (cc-by) ?","專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)","坑主聯絡方式
+Project Lead Contact Info",youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
+"【飲料與限量早餐】Drinks 
+& Breakfast (Limited quantity, priority will be given to participants who arrive in a rush.)",,,,,,,,,,,,,,,,,
+,,,"熱香柚茶 Hot Grapefruit Tea
+熱紅茶 Hot Black Tea
+冰紅茶 Iced Black Tea
+柳橙汁 Orange Juice
+LAVAZZA 熱咖啡 Hot Coffee
+--------------------------------------
+素食_時鮮蔬菜潤餅捲 (Vegetarian) Seasonal Vegetable Spring Rolls (Limited quantity, priority will be given to participants who arrive in a rush.)
+可頌壽司捲 Croissant Sushi Roll (Limited quantity, priority will be given to participants who arrive in a rush.)",,,,,,,,,,,,,,
+"09:30 Event Introduction and Important Reminders 開場介紹與 g0v 行為守則提醒
+09:35 Beginner Tutorial Session Time 新手教學",,,,,,,,,,,,,,,,,
+0,9:30,,揪松團,in person 實體出席,Y,,"活動介紹與 g0v 行為守則事項提醒
+Event Introduction and Important Reminders",,,https://docs.google.com/presentation/d/1JBKqHgPHKhXoB3UIyO4C-SCbrrH6YVDjb4KzT_7r7bc/edit?usp=sharing,,,,,,,
+0,9:35,,"揪松團, RS, Paul",in person 實體出席,Y,,"新手教學時間 Beginner Tutorial Session Time 
+也歡迎參加 g0v 新手村 14:30-15:00
+認識與貢獻群眾協力型專案、認識線上課程資源、帶你來提案線上課程",,,,,,,,,,
+09:50 Proposal Time 【提案時間】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,,
+1,9:50,,"以婕, 方心, ipa",in person 實體出席,Y,AI 包容共學計畫 AI Inclusive Co-Learning Project,來完成 AI 線上學習課程，一起成為種籽講師吧 !,CC-by,https://docs.google.com/presentation/d/1TetOIDhmsF-TqFgcDLkToOl6sOdZHkG09aAubZg5bMc/edit#slide=id.p,https://forms.gle/xSV4d6ZyQAHNNnSz9 ,Y,"AI 線上課程共學, 人工智慧學校支援, 邀請種籽講師完成課程後一起擴大推廣線上學習資源",,g0v slack #jothon,,,"g0v tw hackathXXn — 提案 — AI 包容共學計畫 AI Inclusive Co-Learning Project ／ 以婕, 方心, ipa — XXX黑客松"
+2,9:53,,智遠,in person 實體出席,,全能住宅改造王 ,全能住宅改造王——以實作改善居住的將就 ,,https://g0v.hackmd.io/Xwd0lRj1RQidzBZdmn3MvA?both,https://docs.google.com/presentation/d/1NrkmP9zO8BM882h3V69QeMUogWcJJrf3KR5hn7-fdKQ/edit?usp=sharing,Y,居住、實作、與物的關係,擅長訪談與紀錄、參數式設計大師（可能grasshopper之類!?,hcytw0406@gmail.com,,,g0v tw hackathXXn — 提案 — 全能住宅改造王  ／ 智遠 — XXX黑客松
+3,9:56,,peter ,in person 實體出席,,vtaiwan 議題小聚,vTaiwan 議題小聚 vTaiwan issue meetup  / vTaiwan 101 ,CC-BY,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/HJsIEVXc1x,https://docs.google.com/presentation/d/1sF_sU3uG23S9pVo6ihZ7Fi5qccjUkhQ9u_-GebCPEWo/edit?usp=sharing,y,公共參與、數位工具、,擅長數位工具、喜歡帶討論、,"g0v slack #vtaiwan @peter
+vtaiwan.tw@gmail.com",,,g0v tw hackathXXn — 提案 — vtaiwan 議題小聚 ／ peter  — XXX黑客松
+4,9:59,,Caleb,pre-recorded videos 預錄影片,Y,The Cone Club,直接行動改善台灣的行人安全。Direct action to improve pedestrian safety in Taiwan. ,,https://hackmd.io/DQ8aX1rDT6K3XUOeGgJ-Dg,,y,cone all cars,"Social media enthusiasts, video editors, jaywalkers 社群媒體愛好者、影片編輯者、亂穿馬路者",g0v #road-safety caleb@calebjay.com ,https://youtu.be/iyW-9RH0PI8,,g0v tw hackathXXn — 提案 — The Cone Club ／ Caleb — XXX黑客松
+5,10:02,,Irvin,in person 實體出席,Y,"網站韌性檢測
+Website Resilience Testing",開發工具檢測生活中的常用網站是否能承受台灣對外斷網。 hacking around tools to check whether a website is resilient to international internet down.,CC0,https://g0v.hackmd.io/@irvin/digital-services-resilience/edit,"https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan
+
+https://github.com/irvin/digital-service-resilience",y,"resilience, web, cloud","熟悉網路架構 / DevOps / 雲端的人
+能把 node script 變成網站的人",g0v slack #civil-defense,,,"g0v tw hackathXXn — 提案 — 網站韌性檢測
+Website Resilience Testing ／ Irvin — XXX黑客松"
+6,10:05,,Tiff,in person 實體出席,Y,Civic Tech Project & Community Handbook,,CC BY-NC 4.0,https://g0v.hackmd.io/@jothon/ctpbook_en,https://docs.google.com/presentation/d/1Fg0GFbbbeJgs6IGzMroi_eEkZUNoyWuam9ZmpVSERH0/edit?usp=sharing,y,公民科技、跨國經驗、數位公民素養/教育,,,,,g0v tw hackathXXn — 提案 — Civic Tech Project & Community Handbook ／ Tiff — XXX黑客松
+7,10:08,,"Isabel, Tiff",in person 實體出席,,"負責任 AI 使用與開發指南
+Responsible AI Guide",用分享經驗與回饋，一起讓「負責任 AI 使用與開發指南」更符合使用者與開發者真實需求,CC-by,https://forms.gle/DjpoiYqCQ92FLY579,https://docs.google.com/presentation/d/1Ib8A4pX1gWYYnAh-8QkEmz2FdL5nVFvp/edit?usp=sharing&ouid=108684613353986701205&rtpof=true&sd=true,y,"AI 素養, 意見彙整",歡迎對於 AI 有興趣的朋友,g0v slack #ai-learning,,,"g0v tw hackathXXn — 提案 — 負責任 AI 使用與開發指南
+Responsible AI Guide ／ Isabel, Tiff — XXX黑客松"
+8,10:11,,Dennis,in person 實體出席,Y,"OpenStreetMap, Wikidata 開放內容貢獻",大家來貢獻開放內容，畫地圖與建立維基數據資料,,https://wikidata.org https://www.openstreetmap.org,https://hackmd.io/@osm-tw/rJiFDnlt1g#/,Y,"Open Content, OpenStreetMap, Wikidata",,dennis@wikimedia.tw,,,g0v tw hackathXXn — 提案 — OONI 臺灣網路自由觀察 ／ Toomore — XXX黑客松
+9,10:14,,kevin,in person 實體出席,Y,BMPP慢慢學中文：給印尼移工的中文學習工具,創造好用的線上工具，讓印尼移工可以更方便自學中文！,,,,Y,語言學習 移工 App,移動APP 語言學習 傳播推廣,phoenix000.taipei@gmail.com,,,g0v tw hackathXXn — 提案 — BMPP慢慢學中文：給印尼移工的中文學習工具 ／ kevin — XXX黑客松
+10,10:17,,bil,in person 實體出席,Y,Cofacts 真的假的 ,Cofacts 在旁邊修issue 跟查核假資訊 ,"MIT, 
+CC-BY-SA",https://cofacts.tw/hack,https://docs.google.com/presentation/d/17qIoOJ5x0vwnMWEOOt4q-F4qcptBUTR-uzz6XLLofI4/edit#slide=id.g1355b4bfa31_0_134,Ｙ,程式開發、事實查核、搜尋引擎最佳化,"會 Google 找資料的人
+會 NodeJS / ReactJS 的人
+SEO 高手、UI / UX Designer",g0v slack #cofacts @mrorz @bil,,,g0v tw hackathXXn — 提案 — Cofacts 真的假的  ／ bil — XXX黑客松
+11,10:20,,Toomore,in person 實體出席,Y,OONI 臺灣網路自由觀察,"OONI 既有的功能與臺灣網路現況搭配整合。
+https://ooni-research.ocf.tw/docs/",CC-BY 4.0,,https://docs.google.com/presentation/d/1vonxH016BKVcEgSqZk4PvUVhwscXf1Jz75h24HWDOjc/edit?usp=sharing,Y,網路審查、網站白名單、翻譯中文化,Python、資料處理、文字校閱,toomore@ocf.tw,,,g0v tw hackathXXn — 提案 — OONI 臺灣網路自由觀察 ／ Toomore — XXX黑客松
+12,10:23,,Brian & Dawei,in person 實體出席,,台灣高碳排企業ESG魯洨洨,台灣前十大高碳排企業永續表現研究，討論目前ESG漂綠及Green hushing評估問題,,,https://docs.google.com/presentation/d/1wyEjfsCNnevvb0ps0RELY0xCkpan_NEqCoT1B14bf3A/edit?usp=sharing,Y,高碳排企業、企業永續、ESG,,,,,g0v tw hackathXXn — 提案 — 台灣高碳排企業ESG魯洨洨 ／ Brian & Dawei — XXX黑客松
+13,10:26,,Joanne,in person 實體出席,,轉屋教育：Groundi 高中生的熱情專案平台,"媒合學生和社區/企業議題，引導學生從零到一開啟熱情專案。
+https://groundi.io/",,https://hackmd.io/7qKSM1pRSTGzjxJaZ9q3cA?view,https://pitch.com/v/return-inn-g0v-s7hr69,Y,108課綱、自主學習、設計思考,UI UX 設計、平面設計、行銷、前端工程,returninn@gmail.com,https://www.youtube.com/watch?v=Li4KNe6M2-4,,g0v tw hackathXXn — 提案 — 轉屋教育：Groundi 高中生的熱情專案平台 ／ Joanne — XXX黑客松
+14,10:29,,"宣蓉, 揪松團",in person 實體出席,Y,安全空間如何友善,共同建構性別友善空間！,CC-BY 4.0,https://g0v.hackmd.io/KehdQl1sTwyl28AnpPmvvQ?view,https://reurl.cc/eGK0xQ,Y,性騷擾防治、身體界線、知情同意、性別友善空間,對性別平等有興趣的人、空間設計相關背景,g0v slack #jothon,,,"g0v tw hackathXXn — 提案 — 安全空間如何友善 ／ 宣蓉, 揪松團 — XXX黑客松"
+15,10:32,,Nataliya Gumenyuk,in person 實體出席,,,  ,,https://docs.google.com/document/d/1doyfkURxkCrqoXk7uyt2Hj9ltx-rEYYHsEL0lcNJusY/edit?tab=t.0,https://docs.google.com/presentation/d/1U5NP92YJeTzOgRjDmPJ45xbiqwcqYsbU/edit?usp=drivesdk&ouid=115613229829145960960&rtpof=true&sd=true,,,,,,,g0v tw hackathXXn — 提案 —  ／ Nataliya Gumenyuk — XXX黑客松
+,,,== 截止 ==,,,,,,,,,,,,,,
+,候補,,"Peter, Fen",in person 實體出席,Y,長照監控警示系統,針對行動不便或是獨居等長照對象所設置的警示系統,,,https://docs.google.com/presentation/d/1majtto8HjAD50k39PVMDigejxMtGIcph/edit?usp=sharing&ouid=112543524398015585597&rtpof=true&sd=true,,,,,,,
+,候補,,游良福,in person 實體出席,Y,如何避免兩岸戰事？,擴大自己的政治影響力,"MIT, 
+CC-BY-SA",,https://docs.google.com/presentation/d/1fRoRC5mRMqUldpCE3hL9kKv4SIkjK6iIIE4msQhxGws/edit?usp=sharing,,,,,,,
+,候補,,宏信,in person 實體出席,Y,Linux Odyssey,互動式指令教學網站,GPL,https://hackmd.io/@linux-odyssey/g0v-20250202,https://hackmd.io/@linux-odyssey/project-intro,Y,指令、資訊教育、Linux,,Slack #linux-odyssey,,,
+,候補,,MT,in person 實體出席,Y,請支援造冊,total recall 效率化,CC-BY-SA,,https://drive.google.com/file/d/1ff94ncpP_xl3i7YvMxIbLZ84Ad3C1ZQJ/view?usp=drivesdk,Y,罷免 紙本 效率,專案管理 公民運動 數位化 空間規劃,https://facebook.com/manting,,,
+,候補,,Ronny,in person 實體出席,Y,預算資料公開群眾外包,預算資料公開群眾外包,CC0,https://g0v.hackmd.io/@jothon/budget/https%3A%2F%2Fg0v.hackmd.io%2F01j1yrIeQ_eEWQhvFI8Gyw%3Fview,https://docs.google.com/presentation/d/1TetOIDhmsF-TqFgcDLkToOl6sOdZHkG09aAubZg5bMc/edit#slide=id.p,,預算 國會,,Slack #ly,,,
+"10:50-11:30 【AI 包容共學計畫種籽師資招募說明會】主會場 Main Venue
+AI Inclusive Co-Learning Project",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"11:30-12:00 【負責任的 AI 工作坊】主會場 Main Venue
+Responsible AI Workshop",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"12:00-13:00 Lunch【午餐時間】Flavor of Resilience
+Recall the memories, Recipe for strength, Revive the resistance.",,,,,,,,,,,,,,,,,
+,,,"Commemorative Dishes for the 1947.02.28 Incident: 
+Porridge (Vegetarian Sweet Potato Congee), Rice Balls, Mung Bean Cake
+紀念 228 事件的餐點：粥 (素食_地瓜稀飯)、飯糰、綠豆潤",,,,,,,,,,,,,,
+,,,"Traditional Ukrainian Cuisine
+烏克蘭傳統菜色餐點：傳統沙拉 Olivie、煙燻肉 Balik、Meatball、克瓦司 Kvass、小點心",,,,,,,,,,,,,,
+,,,"Hackathon Signature Combo: Pizza, Fried Chicken, Cola
+黑客松任性套餐：披薩、炸雞、可樂",,,,,,,,,,,,,,
+,,,"Taiwanese Catering
+Vegetarian Taro Fried Rice Noodles, Vegetarian Double Mushroom & Cauliflower,
+Mouthwatering Chicken, Sweet and Sour Fish Fillets
+台式外燴：素-芋頭炒米粉、素-雙菇花椰菜、口水雞、糖醋魚塊",,,,,,,,,,,,,,
+,,,"Hong Kong Snacks (available from 12:30)
+Pineapple Bun , Siu Mai, Custard Bun, Hong Kong-Style Milk Tea
+香港茶點：菠蘿油、燒賣、奶黃包、港式奶茶",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"13:00-14:00【烏克蘭主題紀錄影像播放】主會場 Main Venue
+Documentary films about life under occupation and attacks on civilian infrastructure.
+What the Russian War Against Ukraine Looks Like. Crimes, Not Tragedies",,,,,,,,,,,,,,,,,
+,,,"Document &
+Video Links",https://docs.google.com/document/d/1doyfkURxkCrqoXk7uyt2Hj9ltx-rEYYHsEL0lcNJusY/edit?tab=t.0,,,,,,,,,,,,,
+,,,Shared Note,https://g0v.hackmd.io/@chihao/ukraine/https%3A%2F%2Fg0v.hackmd.io%2F07LyEBBiSYmV-Lplmqg0bg%3Fview,,,,,,,,,,,,,
+14:00 Afternoon Snacks【下午茶點時間】,,,,,,,,,,,,,,,,,
+,,,"Myanmar and Southeast Asian Snacks
+Burmese Palm Sugar Pancake, Coconut Milk Sago Cake, Bubur Cha Cha Sago Cake, Yunnan Cold Pea Jelly Salad
+Vietnamese Pandan Mung Bean Cake, Thai Coconut Milk Layer Cake, Double-Layer Coconut Jelly, 
+Burmese Milk Tea Pudding, Pandan Madeleines, Pandan Coconut Snowflake Crisp Cookies
+緬甸與東南亞茶點：緬甸棕糖鬆餅、椰奶西米露糕、摩摩渣渣西米露糕、雲南涼拌豌豆粉、
+越南香蘭綠豆糕、泰式椰奶千層糕、雙層椰奶凍、緬甸奶茶布丁、香蘭瑪德連、香蘭椰奶雪花酥餅",,,,,,,,,,,,,,
+,,,"Hong Kong Snacks
+Pineapple Bun , Siu Mai, Custard Bun, Hong Kong-Style Milk Tea
+香港茶點：菠蘿油、燒賣、奶黃包、港式奶茶",,,,,,,,,,,,,,
+,,,"Snacks from Island: Matsu, Penghu
+Matsu Mussel Potato Chips, Mussel Fries, Matsu Fish Noodle Crisps, 
+Red Yeast Bite-Sized Pastry, Penghu Scallop Sauce Rice Crackers
+島嶼前線的零嘴：馬祖淡菜洋芋片、淡菜薯條、馬祖魚麵片、紅麴一口酥、澎湖干貝醬米香",,,,,,,,,,,,,,
+,,,"Taiwan Snacks
+Pineapple Cake, Millet, red quinoa, purple rice, and brown rice caramelized peanut brittle.
+鳳梨酥, 小米, 紅藜, 紫米, 糙米焦香花生酥",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"14:30-15:00 Newcomer workshop: intro about g0v community & open resource
+【零時小學校新手村】主會場 Main Venue",,,,,,,,,,,,,,,,,
+,,,"歡迎參加 g0v 新手村
+認識與貢獻群眾協力型專案、認識線上課程資源、帶你來提案線上課程",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+15:30 Talk【短講報名】每個 present 8min，分享議題、專案、研究、技術皆可。,,,,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出?,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","共筆／討論連結
+HackMD link","相關連結
+Links","新參者友善（Y/?）
+Newcomer-friendly?","三個關鍵字
+3 Keywords of Project","專案徵人
+Recruitment (talents?)",坑主聯絡方式,,,"g0v tw hackathXXn — 中場短講 — 專案名稱
+Project Name ／ 發表者
+Presenter — XXX黑客松"
+1,15:20,,ipa,in person 實體出席,Y,訪父記,知識社群，到公民科技社群,,,,,,,,,,
+2,15:30,,peter ,in person 實體出席,,vTaiwan ,用 mentimeter 來做議題小聚,,https://docs.google.com/presentation/d/1GRT_R_xcsa2OqWc11E75cgZH3O-pQEsG97EcSjnmgPw/edit?usp=sharing,https://www.menti.com/alpe4zzw5uf3,Y,,,,,,
+3,15:40,,Ronny,in person 實體出席,Y,,g0v 國會松 Congressthon,,https://docs.google.com/presentation/d/1wDHdZWwurH64_6bfUV1cTQTI5vrWs_njVr5xyqbnk18/edit?usp=sharing,,,,,,,,
+4,15:50,,Vivian,in person 實體出席,,Reimagine Myanmar,Decentralized tech for pro democracy movement in Myanmar,,,,,,,,,,
+5,16:00,,Nataliya Gumenyuk,in person 實體出席,,,Building Resilience Through Social Networks,,,https://docs.google.com/presentation/d/1TG1h8FLrp4QToNOFUhjI7SY-bERv9eLuw3F0GInm-lQ/edit#slide=id.g338fea147b6_1_12,,,,,,,
+,,,== 截止 ==,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+16:30 Present project【成果報告】 每個 present 5min，可視 project 數量和剩餘時間調整,,,,,,,,,,,,,,,,,
+1,16:30,,caleb,in person 實體出席,y,The Cone Club,直接行動改善台灣的行人安全。Direct action to improve pedestrian safety in Taiwan. ,CC-BY,,https://docs.google.com/presentation/d/1ZNWRijFSKdRUBUFVlm4_4NkuRRHg-z9MG-ewMqWSZlU/edit?usp=sharing,,,,,,,g0v tw hackathXXn — 成果報告 — The Cone Club ／ caleb — XXX黑客松
+2,16:35,,MT,in person 實體出席,y,"請支援造冊
+Support Total recall",造冊效率化,CC-BY,https://www.canva.com/design/DAGfzEbPqKY/tdT6TvwgnB4xC_YoPaLIhA/view?utm_content=DAGfzEbPqKY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1faef6fdbe,https://g0v-tw.slack.com/archives/C02G2SXKX/p1740215069461269,Y,,"專案管理
+空間規劃
+OCR",https://signal.me/#eu/DTsSnbEbkjPbR4-u5Myq3xSOwKOej3v0Tz5Rtr77ag38nkSjmKJHxofZCoPXpL6K,,,
+3,16:40,,peter,in person 實體出席,Y,vtaiwan 議題小聚,vTaiwan 議題小聚 vTaiwan issue meetup  / vTaiwan 101 ,CC-BY,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/HJsIEVXc1x,https://docs.google.com/presentation/d/1sF_sU3uG23S9pVo6ihZ7Fi5qccjUkhQ9u_-GebCPEWo/edit?usp=sharing,Y ,,,,,,
+4,16:45,,宏信,in person 實體出席,Y,Linux Odyssey,互動式指令教學網站,GPL,,https://hackmd.io/@linux-odyssey/g0v-20250202,,,,,,,
+5,16:50,,Ronny,in person 實體出席,,預算資料公開群眾外包,預算資料公開群眾外包,,https://g0v.hackmd.io/@jothon/budget/https%3A%2F%2Fg0v.hackmd.io%2F01j1yrIeQ_eEWQhvFI8Gyw%3Fview,https://docs.google.com/presentation/d/1TetOIDhmsF-TqFgcDLkToOl6sOdZHkG09aAubZg5bMc/edit#slide=id.g338fefa1808_0_7,Y,,,,,,
+6,16:55,,"Tiff, Isabel",in person 實體出席,Y,"負責任 AI 使用與開發指南
+Responsible AI Guide",用分享經驗與回饋，一起讓「負責任 AI 使用與開發指南」更符合使用者與開發者真實需求,CC-by,https://docs.google.com/document/d/1z7P43rCTNL_KDOSOn824dLUWjOejeYouj-m_vQ9AX5k/edit?usp=sharing,,Y,,,,,,
+7,17:00,,MG Lee,in person 實體出席,Y,g0v民族誌,ID<>姓名對照表,,https://docs.google.com/spreadsheets/d/1V2A7alI26xWKVH3VE2uwap7M2lMR3EfVTEXmND1MDSE/edit?gid=0#gid=0,https://docs.google.com/presentation/d/1LQI8c2Ad8ACfIusJWznDoQsju5VlfHE29MoSLDHO_EA/edit?usp=sharing,Y,,,,,,
+8,17:05,,chewei,in person 實體出席,Y,"Crowdtribute
+公民科學與群眾參與計畫","Crowdtribute
+公民科學與群眾參與計畫
+案例蒐集與討論",CC-BY,https://g0v.hackmd.io/@chewei/crowdtribute/,,Y,,,,,,
+9,17:10,,游先生,in person 實體出席,,,,,,,,,,,,,
+10,17:15,,Ronny,in person 實體出席,,2300萬人個資外洩進度分享,2300萬人個資外洩進度分享,,https://g0v.hackmd.io/biVc1IjZQXull4mWrqhlKA,,,,,,,,
+11,17:20:00,,Jothon 揪松團,in person 實體出席,,,"歡迎大家填寫影響力問卷 
+Participation Satisfaction and Impact Survey",,"中文版：
+https://bit.ly/0123g0vsurvey
+English version：
+https://forms.gle/t9CrFEHtMGQ253JBA",,,,,,,,
+,,,irvin,in person 實體出席,,晚一步沒格子啦！,common voice 偷偷宣傳一下 (irvin),,錄台語 http://commonvoice.mozilla.org/nan-tw/listen,,,,,,,,
+,,,,,,,,,錄族語 https://medium.com/mozilla-related/common-voice-eight-formosan-languages-65b79fbd2c38,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"請留意自身物品 Common Lost items ! Don’t forget to bring them home!
+充電線、插座頭、USB Charging items: Wires & Plugs
+保溫杯、環保餐具與筷子 Waterbottles, tablewares and chopsticks
+外套、圍巾 Clothes: Jacket, Scarf
+錢包、手機 Important items: Wallet, cellphones",,,,,,,,,,,,,,,,,

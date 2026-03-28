@@ -1,0 +1,130 @@
+,,,,,,,,,,,,,,,,,,
+,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form","錄影以 CC-BY 釋出？
+Can we record and release the video (cc-by) ?",是否參加零世代資金池計畫,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)","坑主聯絡方式
+Project Lead Contact Info",youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
+9:30 【早餐】,,,,,,,,,,,,,,,,,,
+,,,【早餐】,"．阿杰手工蛋餅(自製燒肉蛋餅)＋阿杰炒奶
+．台南一味品碗粿＋魚羹
+．[素食] 清祺素食點心部的素食餐點",,,,,,,,,,,,,,
+"10:00 Event Introduction and Important Reminders 開場介紹與 g0v 行為守則提醒
+10:10 Beginner Tutorial Session Time 新手教學",,,,,,,,,,,,,,,,,,
+0,10:00,,揪松團,in person 實體出席,Y,-,,"活動介紹與 g0v 行為守則事項提醒
+Event Introduction and Important Reminders",,,https://docs.google.com/presentation/d/1HQDY1g6lwbKOp493LXPWyACDJz1VO_oTUoY9e7SqA9k/edit,,,,,,,
+0,10:10,,揪松團,in person 實體出席,Y,-,,"新手教學時間
+Beginner Tutorial Session Time 也歡迎參加 g0v 新手村，認識與貢獻群眾協力型專案、認識線上課程資源、帶你來提案線上課程",,,,,,,,,,
+10:30 Proposal Time 【提案時間】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,,,
+1,10:30,,揪松團,in person 實體出席,Y,N,零世代資金池 Generation Zero Vestment,零世代資金池計畫說明與本次參加團隊簡介 Vestment & Vantage: Adding Value for Gen Zero!,CC-by,https://g0v.hackmd.io/@jothon/20250329-bonus,,Y,,,,,,g0v tw hackath66n — 提案 — 零世代資金池 Generation Zero Vestment ／ 揪松團 — 台南黑客松
+2,10:33,,kiang,in person 實體出席,Y,N,違反勞動法令事業單位（雇主）查詢系統大改造,違反勞動法令事業單位（雇主）查詢系統大改造,mit/cc-by,https://g0v.hackmd.io/@kiang/SJgRKcREa1l,,Y,勞動部、地圖、被開放資料,設計、熟悉勞動法規實務的,g0v slack #tainan @kiang,,,g0v tw hackath66n — 提案 — 違反勞動法令事業單位（雇主）查詢系統大改造 ／ kiang — 台南黑客松
+3,10:36,,Ronny,in person 實體出席,Y,N,預算資料公開群眾外包,預算資料公開群眾外包,CC0,https://g0v.hackmd.io/@jothon/budget/https%3A%2F%2Fg0v.hackmd.io%2F01j1yrIeQ_eEWQhvFI8Gyw%3Fview,https://docs.google.com/presentation/d/1XimZHGOnliv0Cf6xhR6DotJO7qXSzGoZwDsPRg638-Q/edit?usp=sharing,,,,,,,g0v tw hackath66n — 提案 — 預算資料公開群眾外包 ／ Ronny — 台南黑客松
+4,10:39,,Allen,in person 實體出席,Y,Y,Wikidata ,用 Wikidata 收集你關注的資料！,CC0,\,https://slides.com/allenwang6212/wikidata-g0v-66,Y,開放資料、鏈結資料、資料再應用,想幫忙找資料的人,gov slack #wikidatataiwan,,,g0v tw hackath66n — 提案 — Wikidata  ／ Allen — 台南黑客松
+5,10:42,,"Tofus, Joey",in person 實體出席,Y,Y,vTaiwan,用 vibe coding 翻新 vTaiwan 的網站吧,cc-by,https://g0v.hackmd.io/Q3_hgovyRHusEq8-3nomPQ,https://docs.google.com/presentation/d/1wTfdtGarZ3XFvtJLFrhDUPEoWFrbiTPQkTwOuRq6TtI/edit?usp=sharing,Y,vibe coding,想玩 vibe coding 的人,g0v slack #vtaiwan,,,"g0v tw hackath66n — 提案 — vTaiwan ／ Tofus, Joey — 台南黑客松"
+6,10:45,,slc,in person 實體出席,,N,HRJust,數位防疫怎麼hack？公民科技社群的回顧,cc-by / cc0,,https://docs.google.com/presentation/d/1qfDwQUt0vmM-aWzRSuETaAkTdCpWufuwZ_wYaMoUwIA/edit#slide=id.g3171f6dd034_0_396,Y,數位防疫、資料開放、個資保護,填問卷的人、填過問卷想知道前一階段統計結果的人,g0v slack #general @slc,,,g0v tw hackath66n — 提案 — HRJust ／ slc — 台南黑客松
+7,10:48,,bil,in person 實體出席,Y,N,Cofacts 真的假的 ,Cofacts 真的假的 ,"MIT, 
+CC-BY-SA",https://cofacts.tw/hack,https://docs.google.com/presentation/d/1m0OnbiHzJZVhxJ8ebXH63214Lv73NN-DXV3nbl-YbzY/edit#slide=id.g28caf866bb2_1_0,Ｙ,程式開發、事實查核、搜尋引擎最佳化,"會 Google 找資料的人
+會 NodeJS / ReactJS 的人
+SEO 高手、UI / UX Designer",g0v slack #cofacts @mrorz @bil,,,g0v tw hackath66n — 提案 — Cofacts 真的假的  ／ bil — 台南黑客松
+8,10:51,,"明錡, chewei",in person 實體出席,Y,目前兩位成員都超過35歲@@ 十分歡迎至少再兩位青年跳坑 ! 請至專案的 hackmd 簽到~ 當天 11:00 前看參加結果而定,廢校預警 🚨,學校就學人口變化趨勢推測,CC BY 4.0,https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view,,Y,人口推估、學校轉型、公共設施轉型,csv 資料分析、地理資料視覺化、互動地圖、國中國小教育辦學,"FB 討論串
+https://www.facebook.com/groups/g0v.general/posts/9333292486747074/
+g0v slack #edu #gis",,,"g0v tw hackath66n — 提案 — 廢校預警 🚨 ／ 明錡, chewei — 台南黑客松"
+9,10:54,,RSChiang,in person 實體出席,Y,🥸,g0v 零宇宙護照 Passport to the g0v universe,一起來做給新参者的 g0v 零宇宙護照！🚀,CC BY 4.0,https://g0v.hackmd.io/8nYqYBChQliFk55hQlnP5Q?view,https://docs.google.com/presentation/d/1Bq5A4hB3ElXDn6GT9ILYvXkPORiTNzXd9JFn9ZV4bHQ/edit?usp=sharing,Y,,,#jothon,,,g0v tw hackath66n — 提案 — g0v 零宇宙護照 Passport to the g0v universe ／ RSChiang — 台南黑客松
+10,10:57,,Isabel,in person 實體出席,Y,N,負責任 AI 使用與開發指南,負責任 AI 使用與開發指南,,https://docs.google.com/presentation/d/1wJVO6XouesapW9lqI5kAUL694kLwuDzq/edit?usp=sharing&ouid=108684613353986701205&rtpof=true&sd=true,https://docs.google.com/presentation/d/1wJVO6XouesapW9lqI5kAUL694kLwuDzq/edit?usp=sharing&ouid=108684613353986701205&rtpof=true&sd=true,Y,AI素養、負責任使用AI、教材,任何對AI有興趣/好奇的人、有意願參與測試與回饋的人,g0v slack @isabel @tiff,,,g0v tw hackath66n — 提案 — 負責任 AI 使用與開發指南 ／ Isabel — 台南黑客松
+11,11:00,,Barry,in person 實體出席,,"Y 成員不夠
+兩年後必定會發","零防禦社交工程：
+資訊落差定標防詐",全面的居民社交工程,Barry,https://g0v.hackmd.io/@BarryYu/H1oT2Ozayg, 資安駭客就是詐騙首腦,,"社交工程 資安 防詐騙 
+城鄉資訊","資訊安全工程師, 找資料 ,
+提供資金  命理","barry.dc.yu@tac.com.tw
+doung1118@gmail.com",,,"g0v tw hackath66n — 提案 — 零防禦社交工程：
+資訊落差定標防詐 ／ Barry — 台南黑客松"
+12,11:03,,SeanGau、Dong,in person 實體出席,Y,,g0v Slack Archive 訊息迷因產生器,g0v Archive 名言佳句產生器,,https://g0v.hackmd.io/@SeanGau/Bk8XVE4aJl#/,https://g0v.hackmd.io/@SeanGau/Bk8XVE4aJl#/,Y,基礎建設、迷因、冷笑話,,g0v slack @SeanGau @Dong,,,g0v tw hackath66n — 提案 — g0v Slack Archive 訊息迷因產生器 ／ SeanGau、Dong — 台南黑客松
+13,11:06,,婉玲,in person 實體出席,,,開放地方預算資料 從台南開始,,,https://docs.google.com/presentation/d/17mw_qE8BZ5FczBWNSLsP84hPuW9I0BVeVzNFBrrY3bs/edit#slide=id.p,,,,,,,,g0v tw hackath66n — 提案 — 開放地方預算資料 從台南開始 ／ 婉玲 — 台南黑客松
+14,11:09,,kennyluck,in person 實體出席,Y,,新藥資訊大公開,TFDA 新藥審審批、健保會會議進度,CC0,https://lmspiq.fda.gov.tw/web/DRPIQ/DRPIQLicSearch,,,新藥、健保、跨國醫療比較,,g0v slack @kennyluck,,,g0v tw hackath66n — 提案 — 新藥資訊大公開 ／ kennyluck — 台南黑客松
+15,11:12,,chihao,in person 實體出席,Y,,Facing the Ocean 面海松 2025 在台灣,,,https://g0v.hackmd.io/@fto/book,https://docs.google.com/presentation/d/192uozQ1F4zC_RXdkVfzGGYkQ2BHLjy2EI9fwuM5SQR4/edit#slide=id.g33e1e206c21_0_169,,,,,,,g0v tw hackath66n — 提案 — Facing the Ocean 面海松 2025 在台灣 ／ chihao — 台南黑客松
+,,,== 截止 ==,,,,,,,,,,,,,,,g0v tw hackath66n — 提案 —  ／ == 截止 == — 台南黑客松
+,,,,,,,,,,,,,,,,,,g0v tw hackath66n — 提案 —  ／  — 台南黑客松
+"11:30-12:00 Newcomer workshop: intro about g0v community & open resource
+【零時小學校新手村】主會場",,,,,,,,,,,,,,,,,,
+,,,揪松團,in person 實體出席,Y,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+12:00-13:00 Lunch【午餐時間】,,,,,,,,,,,,,,,,,,
+,,,【午餐】,"．邱家小捲米粉(+魚丸、魚皮)
+．江川肉燥飯便當(肉燥+腿庫+香腸+滷蛋)
+．新美街恭仔意麵  
+．[素食] 三津製麵 或 清祺素食點心部的素食餐點",,,,,,,,,,,,,,
+,,,【活動飲料】,"公館手作：
+．[無咖啡因] 蔓越莓醋飲
+．康堤紅茶(微糖)
+．輕烏龍(無糖)",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+13:00-13:30 AI Responsibility Guide Sharing【負責任 AI 使用指南教材分享會】主會場,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+14:00 或 15:00 【下午點心】,,,,,,,,,,,,,,,,,,
+,,,【下午點心】,"．陳伯煎包子
+．林家茂子白糖粿蕃薯椪
+．台灣番薯丸地瓜球",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+14:30 Talk【短講報名】每個 present 8min，分享議題、專案、研究、技術皆可。,,,,,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出?,-,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","共筆／討論連結
+HackMD link","相關連結
+Links","新參者友善（Y/?）
+Newcomer-friendly?","三個關鍵字
+3 Keywords of Project","專案徵人
+Recruitment (talents?)",坑主聯絡方式,,,"g0v tw hackath66n — 中場短講 — 專案名稱
+Project Name ／ 發表者
+Presenter — 台南黑客松"
+1,14:30,,Tofus,in person 實體出席,Y,-,原本在做 vTaiwan 反而卻做出了焦慮戳戳樂,不會寫 SwiftUI，卻用 AI 寫出一度在 App Store 免費排行 #1 的 app？,CC-BY,https://www.gvm.com.tw/article/120015,https://docs.google.com/presentation/d/1G_FiXFCZYIx2UlBnhj7W9NAO_GjZdf8Uuyu5h0jVONw/edit?usp=sharing,Y,#焦慮 #戳戳樂 #vibe-coding,有人要寫安卓版嗎 xD,@tofus,,,g0v tw hackath66n — 中場短講 — 原本在做 vTaiwan 反而卻做出了焦慮戳戳樂 ／ Tofus — 台南黑客松
+2,14:40,,Ronny,in person 實體出席,Y,-,LawTrace 讓你查詢修法歷程,LawTrace 讓你查詢修法歷程,CC-BY,https://docs.google.com/presentation/d/1MAqfMF2U59iR-GD2dPdUOeofaI1be1PIRZhcoo-8EPQ/edit?usp=sharing,https://lawtrace.tw,,,,,,,g0v tw hackath66n — 中場短講 — LawTrace 讓你查詢修法歷程 ／ Ronny — 台南黑客松
+3,14:50,,Barry,in person 實體出席,,-,"零防禦社交工程：
+改善資訊落差防詐社交","不需要太多資訊技能○ 目標是總統盃黑客松
+只要會用LINE FB IG  會PO廣告 會騙人 OK拉",Barry什麼事ＣＣＢＹ,https://g0v.hackmd.io/@BarryYu/H1oT2Ozayg,https://docs.google.com/presentation/d/1RFmxjubfIaFT_6B6Lo9JqFBNJgZG8ow6davvAgLm82A/edit?slide=id.p1#slide=id.p1,,#永續#社會福利#成就感#發展性,"需要有熱誠 相信未來的樣貌
+想要成就感   懂得分享  高EQ",東承 Barry,,,"g0v tw hackath66n — 中場短講 — 零防禦社交工程：
+改善資訊落差防詐社交 ／ Barry — 台南黑客松"
+4,15:00,,Teemo,in person 實體出席,Y,-,無,網站做出來之後,CC0,https://www.canva.com/design/DAF-bZu-LsE/qX42vVNa_pIi7dTG_GHYwA/view,https://www.canva.com/design/DAF-bZu-LsE/qX42vVNa_pIi7dTG_GHYwA/view,Y,#跳坑 #網站 #助推,無,Teemo,,,g0v tw hackath66n — 中場短講 — 無 ／ Teemo — 台南黑客松
+5,15:10,,荊輔翔,in person 實體出席,Y,-,Meshtastic 數位韌性,Meshtastic介紹,CC-BY,https://www.facebook.com/groups/meshtastictw,https://docs.google.com/presentation/d/1UBMQ1lEWUdMpQhe12Gjlu-ShnFj15z5Bfbf787j5x3A/edit?usp=sharing,,,,就 輔翔 / Sean,,,g0v tw hackath66n — 中場短講 — Meshtastic 數位韌性 ／ 荊輔翔 — 台南黑客松
+,,,== 截止 ==,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+16:00 Present project【成果報告】 每個 present 5min，可視 project 數量和剩餘時間調整,,,,,,,,,,,,,,,,,,
+1,16:00,,揪松團,in person 實體出席,Y,-,零世代資金池 Generation Zero Vestment,零世代資金池計畫獎金公布,CC-by,https://g0v.hackmd.io/@jothon/20250329-bonus,,Y,,,,,,g0v tw hackath66n — 成果發表 — 零世代資金池 Generation Zero Vestment ／ 揪松團 — 台南黑客松
+2,16:05,,Sky Wind,in person 實體出席,Y,N,TNFSH Class Table,把學校的課表變成更好用的形式,MIT,https://hackmd.io/@Skywind5487/tnfsh_class_table,https://hackmd.io/@Skywind5487/tnfsh_class_table,,#學校#課表#數位化,無,discord: skywind5487,,,g0v tw hackath66n — 成果發表 — TNFSH Class Table ／ Sky Wind — 台南黑客松
+3,16:10,,kiang,in person 實體出席,Y,N,違反勞動法令事業單位（雇主）查詢系統大改造,違反勞動法令事業單位（雇主）查詢系統大改造,MIT/cc-by,https://g0v.hackmd.io/@kiang/SJgRKcREa1l,https://tainan.olc.tw/p/labor/,Y,,設計師、熟悉勞動法規人士,g0v slack #tainan @kiang,,,g0v tw hackath66n — 成果發表 — 違反勞動法令事業單位（雇主）查詢系統大改造 ／ kiang — 台南黑客松
+4,16:15,,Barry,,,-,,,,,,,,,,,,g0v tw hackath66n — 成果發表 —  ／ Barry — 台南黑客松
+5,16:20,,"bil, 喬閔",in person 實體出席,Y,N,Cofacts 真的假的 ,Cofacts 真的假的 ,"MIT, 
+CC-BY-SA",https://cofacts.tw/hack,https://docs.google.com/presentation/d/1m0OnbiHzJZVhxJ8ebXH63214Lv73NN-DXV3nbl-YbzY/edit#slide=id.g28caf866bb2_1_0,Ｙ,程式開發、事實查核、搜尋引擎最佳化,"會 Google 找資料的人
+會 NodeJS / ReactJS 的人
+SEO 高手、UI / UX Designer",g0v slack #cofacts @mrorz @bil,,,"g0v tw hackath66n — 成果發表 — Cofacts 真的假的  ／ bil, 喬閔 — 台南黑客松"
+6,16:25,,Allen,in person 實體出席,Y,Y,Wikidata,Wikidata 街景團與廟宇資料,CC0,,https://meta.wikimedia.org/wiki/Wikimedia_Taiwan/Wikidata_Taiwan/2025,Y,喜歡到處走走的人,會開車、會拍照、會上傳資料,g0v slack #wikidatataiwan @Allen,,,g0v tw hackath66n — 成果發表 — Wikidata ／ Allen — 台南黑客松
+7,16:30,,"chewei, 明錡, yellowsoar",in person 實體出席,Y,-,教育沙漠化 🚨 廢校預警 ,學校就學人口變化趨勢推測,CC-by,https://g0v.hackmd.io/TG6CtrxyRdudWawzTXfPiw?view,,,,,,,,"g0v tw hackath66n — 成果發表 — 教育沙漠化 🚨 廢校預警  ／ chewei, 明錡, yellowsoar — 台南黑客松"
+8,16:35,,Tofus,in person 實體出席,Y,-,vTaiwan,"成功推坑別人玩 vibe coding!
+(還收到了很多 credit）",,,,Y,,,,,,g0v tw hackath66n — 成果發表 — vTaiwan ／ Tofus — 台南黑客松
+9,16:40,,chihao,in person 實體出席,Y,-,Facing the Ocean 面海松 2025 在台灣,東亞公民科技聯盟、跨國開源協作,,https://g0v.hackmd.io/@fto/book,https://docs.google.com/presentation/d/192uozQ1F4zC_RXdkVfzGGYkQ2BHLjy2EI9fwuM5SQR4/edit#slide=id.g33e1e206c21_0_169,,,,,,,g0v tw hackath66n — 成果發表 — Facing the Ocean 面海松 2025 在台灣 ／ chihao — 台南黑客松
+10,16:45,,Tiff,in person 實體出席,Y,-,負責任 AI 使用與開發指南,負責任 AI 使用與開發指南,,https://docs.google.com/document/d/1z7P43rCTNL_KDOSOn824dLUWjOejeYouj-m_vQ9AX5k/edit?usp=sharing,https://docs.google.com/document/d/1z7P43rCTNL_KDOSOn824dLUWjOejeYouj-m_vQ9AX5k/edit?usp=sharing,,,,,,,g0v tw hackath66n — 成果發表 — 負責任 AI 使用與開發指南 ／ Tiff — 台南黑客松
+11,16:50,,Ronny,in person 實體出席,Y,-,預決算群眾外包,預決算群眾外包,,https://docs.google.com/presentation/d/1XimZHGOnliv0Cf6xhR6DotJO7qXSzGoZwDsPRg638-Q/edit#slide=id.g33e1ee4e0d6_0_5,https://docs.google.com/presentation/d/1XimZHGOnliv0Cf6xhR6DotJO7qXSzGoZwDsPRg638-Q/edit#slide=id.g33e1ee4e0d6_0_5,,,,,,,g0v tw hackath66n — 成果發表 — 預決算群眾外包 ／ Ronny — 台南黑客松
+12,16:55,,"RSChiang, Dong & tiwb",in person 實體出席,Y,Y,g0v 零宇宙護照 Passport to the g0v universe,,,,,,,,,,,"g0v tw hackath66n — 成果發表 — g0v 零宇宙護照 Passport to the g0v universe ／ RSChiang, Dong & tiwb — 台南黑客松"
+13,17:00,,Jothon 揪松團,in person 實體出席,,-,,"歡迎大家填寫影響力問卷 
+Participation Satisfaction and Impact Survey",,"中文版：
+https://bit.ly/0123g0vsurvey
+English version：
+https://forms.gle/t9CrFEHtMGQ253JBA",,,,,,,,g0v tw hackath66n — 成果發表 —  ／ Jothon 揪松團 — 台南黑客松
+"請留意自身物品 Common Lost items ! Don’t forget to bring them home!
+充電線、插座頭、USB Charging items: Wires & Plugs
+保溫杯、環保餐具與筷子 Waterbottles, tablewares and chopsticks
+外套、圍巾 Clothes: Jacket, Scarf
+錢包、各種卡片、手機、無線耳機 Important items: Wallet, cellphones",,,,,,,,,,,,,,,,,,

@@ -1,0 +1,51 @@
+,,,,,,,,,,,,,,,,
+,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出？,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)",坑主聯絡方式,youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,
+1,9:50,,MrOrz,實體,Y,Cofacts 真的假的,Cofacts 真的假的,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,https://docs.google.com/presentation/d/1eVlAAqQeG8unA4mQee-YZBrsjMuuxIF4_ScDK1ve4U8/edit#slide=id.p,Y,"crowd sourcing, fact-checking, chatbot",會上網google的人、fact checkers、React.JS 開發者,"#cofacts in g0v slack
+@bil, @mrorz in g0v slack",,
+2,9:53,,,,,,,,,,,,,,,
+3,9:56,,Zoey,實體,Y,da0 arm0ry,Playground,cc-by,https://github.com/arm0ry,Arm0ry Playground https://arm0ry.onrender.com/,,,,,,
+4,9:59,,Ronny,實體,,個資外洩元年可以做什麼,戶政資料、健保資料、iRent、格上都爆出個資外洩，可以做什麼？,cc-by,https://docs.google.com/presentation/d/1f0LQWIoPKCq1bvy4o436s2fbJWgOEif4zgutGMO2GvI/edit?usp=sharing,https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/rJo-rOV6j,,,,,,
+5,10:02,,Matt & 昶惟,實體,Y,da0 incentivize,靈魂代幣機制進展,cc-by,,"https://www.picchu.io/da0/demo.html
+https://opensea.io/collection/me0w-da0",,,,,,
+6,10:05,,Jacky,預錄影片,Y,da0 global comms,da0 podcasts,cc-by,https://drive.google.com/file/d/1Q_I-8NlDq8dD3C_UlWJe-U4LZUtaVeK_/view?usp=sharing,https://da0.g0v.tw/,,,,,,
+7,10:08,,豆泥,實體,Y,da0 hack & show,影響力憑證進展,cc-by,,,,,,,,
+8,10:11,,雨蒼,預錄影片,Y,da0 learning,學習分享,cc-by,https://drive.google.com/file/d/1gk9NSuXk-E2cGdoLhyd39mybx06Poili/view,,,,,,,
+9,10:14,,Jiahe ,實體,Y,da0 coordinate,da0 協作方式分享,cc-by,,https://docs.google.com/presentation/d/1vu0aEdRuPrry_eawjtSM5iSXfVAidY0bUEl_lKUdprk/edit?usp=sharing,,,,,,
+10,10:17,,Teemo,實體,Y,批踢踢不能亡,PTT官方App與數位中介服務,MIT,https://hackmd.io/@twbbs/Root,https://docs.google.com/presentation/d/1xfm19nR5NJtoClWEBywdKMU9WvK0gBrZ/edit?usp=sharing&ouid=104869530466485041629&rtpof=true&sd=true,N,,,,,
+11,10:20,,Peter,實體,Y,數位外交行動計畫合作,數位外交行動計畫：課程討論與規劃,cc-by, https://g0v.hackmd.io/@chihao/HJGMzwgYi ,https://g0v.hackmd.io/@chihao/HJGMzwgYi,,,,,,
+12,10:23,,chewei,實體,Y,坑主小聚,2023 坑主小聚活動海報整理,cc-by,"1. https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2FRBw75TiqReyPd4XBEsnlHw%3Fview%23%25E6%25B4%25BB%25E5%258B%2595%25E6%2588%2590%25E6%259E%259C%25E6%2595%25B4%25E7%2590%2586%25E5%25B7%25A5%25E4%25BD%259C%25E5%258D%2580
+2. 雲端資料夾 https://drive.google.com/drive/folders/1WtfAwDeHsjFYjKtNgOaMNq4Hz5BJgKAP?usp=share_link",https://docs.google.com/presentation/d/1torve2osAJqnXgGA8RrNndxuenvE2FX-Odnx9clU7WM/edit,y,"坑主指南, 經驗分享, 專案互助","海報內容拍照整理, 文字整理",g0v slack #jothon 頻道,,
+13,10:26,,Sky,實體,Y,UniCourse,UniCourse 大學課程搜尋資料庫,cc-by,https://discord.gg/aDUjjDf3yZ,https://drive.google.com/drive/folders/1rKQ9Vqai7i8DI0WYmFQJSJ7SFlGy388D?usp=share_link,Y,大學課程,"Course Packers, 前後端",@skyhong2002 in g0v slack  #edu-unicourse in g0v slack (還沒連到 Discord 討論區),,
+14,10:29,,Cartus,實體,Y,成就系統,成就系統：新手任務內容徵集,cc-by,https://g0v.hackmd.io/wou13wL4STO5_7MMKisArQ,https://docs.google.com/presentation/d/1nDJdSqqQnoKzeRBMv0EFHJjmzVN9f3Bvma3NrjAamfY/edit?usp=sharing,Y,成就系統、新手任務,前端、後端、美術,g0v #jothon,,
+15,10:32,,Lafin,實體,Y,阿美語萌典,阿美語萌典架構整理計畫,cc-by,,https://docs.google.com/presentation/d/1zmkHBj_rj1Ds9JHycJ2bdO-LR3SdCxeGby_gyXVxpew/edit#slide=id.g1ba2f17c9e9_0_7695,Y,猜解網站架構,阿美語萌典架構分析,g0v slack #amsi or lafin,,
+,,,= 以下候補 =,,,,,,,,,,,,,
+16,,,Teemo,實體,,畫文好譯圖卡,畫文好譯圖卡,MIT,,,,,,,,
+17,,,LUCHH,實體,Y,和平聯(臉)友,為了和平上傳簽名與照片吧,cc-0,,,,,,,,
+"16:00【 present project】 規則：
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,
+1,16:00,,博翔&倢綺,實體,,成就系統,進度報告 + 徵集使用者心得,cc-by,https://hackmd.io/@OywnX-ZdQs-SHv2CjfNDmw/HyutekK3j,https://docs.google.com/presentation/d/1KDC4z8LTwak8MG-nblD4XXlboN89CjKg9s8LWnKIiKo/edit?usp=sharing,,,,,,
+2,16:05,,加樂,預錄影片,,零時小學校,進度報告,,,https://youtu.be/jAuw_wAxs0U,,,,,,
+3,16:10,,Sc,實體,,g0v podcast,進度報告+專案心得,,,https://docs.google.com/presentation/d/1PoKuAsimqbrdue_tb95-5Jc5P1e9RbJ5/edit?usp=sharing&ouid=115614900687759635918&rtpof=true&sd=true,,,,,,
+4,16:15,,yukai,實體,,zuzugo,專案分享,MIT,https://github.com/Yukaii/zuzugo,https://hackmd.io/@zuzugo/intro-g0v-2302,,,,,,
+5,16:20,,,實體,,,,,,,,,,,,
+6,16:25,,MrOrz,實體,Y,Cofacts 真的假的,Cofacts 真的假的,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,,,,,,,
+7,16:30,,,,,,,,,,,,,,,
+8,16:35,,,,,,,,,,,,,,,
+9,16:40,,,,,,,,,,,,,,,
+10,16:45,,SeanGau,實體,,坑主小聚,2023 坑主小聚活動海報整理,cc-by,"1. https://g0v.hackmd.io/@jothon/keng/https%3A%2F%2Fg0v.hackmd.io%2FRBw75TiqReyPd4XBEsnlHw%3Fview%23%25E6%25B4%25BB%25E5%258B%2595%25E6%2588%2590%25E6%259E%259C%25E6%2595%25B4%25E7%2590%2586%25E5%25B7%25A5%25E4%25BD%259C%25E5%258D%2580
+2. 雲端資料夾 https://drive.google.com/drive/folders/1WtfAwDeHsjFYjKtNgOaMNq4Hz5BJgKAP?usp=share_link",https://github.com/g0v/blupa_digitalize,,,,,,
+11,16:50,,"Ronny, Paul",實體,,個資外洩元年可以做什麼,個資外洩元年,,https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/rJo-rOV6j,,,,,,,
+12,16:55,,揪松團,實體,,影響力問券,歡迎大家填寫影響力問卷,,,,,,,,,

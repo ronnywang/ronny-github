@@ -1,0 +1,123 @@
+,,,,,,,,,,,,,,,,,
+,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出？,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)",坑主聯絡方式,youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,,
+1,9:40,,揪松團,實體,y,繁體中文 AI 開源實踐計畫,六組專案開源成果推廣 ! 蒐集「公民科技專案如何運用生成式 AI？」實踐經驗與方向建議,,https://ai-grant.tw/,,Y,,,g0v Slack 頻道 #ai-learning,,,g0v tw hackath63n — 提案 — 繁體中文 AI 開源實踐計畫 ／ 揪松團 — 公民科技園遊會黑客松
+2,9:43,,SeanGau,實體,Y,g0v.tw 社群心得,大家一起來寫社群心得！讓 g0v.tw 更豐富,,拉人更輕鬆 - 專案進度回顧與未來目標 - HackMD,,,基礎建設、社群心得、g0vtw,沒有人,@seangau,,,g0v tw hackath63n — 提案 — g0v.tw 社群心得 ／ SeanGau — 公民科技園遊會黑客松
+4,9:49,,T,實體,Y,"論證: 
+公共議題論述匯整平台",開發進度說明 & 平台功能討論！,CC0,,https://docs.google.com/presentation/d/1EhV85QJGjojrn56yUAz7G-x8JQ17cxzI4GJLYnUXRsw/edit?usp=sharing,Y,數位公共參與、事實查核、視覺化,前後端、UI/UX,g0v Slack #statement_proof-論證平台 @T,,,"g0v tw hackath63n — 提案 — 論證: 
+公共議題論述匯整平台 ／ T — 公民科技園遊會黑客松"
+5,9:52,,Peter,實體,Y,vtaiwan ,"大家來找碴！數位公共參與工具！
+Let’s Survey more digital participatory tools!",CC-BY-SA,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR/%2FrxuKtr99SJ-eyvvFUDwr9A,"https://docs.google.com/presentation/d/1HPSeCMzVo5jWDm7DYOiLmx6HHv5_lHj15sVe34x3aSw/edit?usp=sharing
+
+詳細資料(多語言)
+Detailed Presentation - Multilingual
+https://drive.google.com/drive/folders/1z9p1_VgNhOrcDSEDDtFdVONmW1ex-w33?usp=drive_link
+",Y,"找資料、填空格、數位公共參與工具 
+We welcome foreigners to join!","能夠讀英文、或其他外文（資料是英文與其他外文）、搜尋資料、對於審議有興趣或經驗的人
+If you speak English, French, German, or other languages, it would be great! ",g0v slack #vtaiwan @Peter,,,"Q9=""g0v tw hackath63n — 提案 — ""&G9&"" ／ ""&D9&"" — 公民科技園遊會黑客松"""
+6,9:55,,a0kman,實體,,AgriPuzzle,農業~~~~~~~天坑,CC-BY-SA,,https://docs.google.com/presentation/d/1EnMFBHt-VRcHKJlW0_ItAaUAAdudZj2_cL4XkL0jH40/edit?usp=sharing,Y,農業、格式、跨國,"工程師，前端and後端
+資訊相關設計師
+各國農業研究者
+生成式AI中重度使用者
+文書資料整理需求(TXT)",g0v slack  @a0kman,,,g0v tw hackath63n — 提案 — AgriPuzzle ／ a0kman — 公民科技園遊會黑客松
+7,9:58,,Tofus,實體,Y,#design,給行動者的 figma 指南｜有人想做 canva 模板嗎？,CC-BY,https://g0v.hackmd.io/3GkM1QjnQwmatprMfsmSLg,https://www.figma.com/design/wij5K5OZtDm6q82roiuNDT/%E7%B5%A6%E8%A1%8C%E5%8B%95%E8%80%85%E7%9A%84%E7%B0%A1%E6%98%93%E7%89%88-Figma-%E6%95%99%E5%AD%B8?node-id=1-4&t=bygnJLI5DTZwCFeV-1,Y,設計、figma、canva,"會用 figma 的人
+想學 figma 的人
+會用 canva 的人",g0v slack #designer @tofus,,,g0v tw hackath63n — 提案 — #design ／ Tofus — 公民科技園遊會黑客松
+8,10:01,,Tiff,實體,Y,g0v 公民科技專案與社群手冊,g0v 公民科技專案與社群手冊 v2 邀請社群 review,CC BY-NC,https://docs.google.com/document/d/1l_yb8OsB4fFW_vpgObUoZoPIJ1FY8CFuW2xdrRh0VGQ/edit,https://docs.google.com/presentation/d/1WtpCfbQya2thSy-wmLkJE4WW3mosBewW7fQBGJbDiF8/edit?usp=sharing,Y,公民科技基礎建設、數位公民素養、各國公民科技經驗,有意願閱讀給予手冊回饋的好心人，適合新參者及任何對公民科技或數位公民有興趣者,g0v slack #jothon @tiff,,,g0v tw hackath63n — 提案 — g0v 公民科技專案與社群手冊 ／ Tiff — 公民科技園遊會黑客松
+9,10:04,,水保署與農科院,實體,,歷史照片加值應用,在歷史影像平台開放民眾進行歷史照片定位，了解歷史事件發生經過,CC-BY,https://docs.google.com/document/d/1XvwPzErp951BAQLKv7A5yO0sB5XZhnrb1ucWWroQ9YQ/edit,https://docs.google.com/presentation/d/141Yyrh36PxddrLFsnu3lUPf-Et57njVy/edit?usp=drive_link&ouid=108067934524761499772&rtpof=true&sd=true,Y,照片資料庫、公私協力、GIS及照片地理坐標,拍照、geo定位、網頁技術、資料應用(產品或服務),wsadjk47@mail.ardsrc.gov.tw,,,g0v tw hackath63n — 提案 — 歷史照片加值應用 ／ 水保署與農科院 — 公民科技園遊會黑客松
+10,10:07,,Irvin,實體,Y,繁體中文語料庫 / common voice,"建立高品質的繁體中文語料
+Common Voice 語音庫宣傳",CC0,https://hackmd.io/team/moztw?nav=search&q=common,https://hackmd.io/@moztw/cv-at-g0v-63,Y,"語料, 錄音, ","台語書寫
+華語/繁中
+族語","slack @irvin
+telegram: common voice ",,,g0v tw hackath63n — 提案 — 繁體中文語料庫 / common voice ／ Irvin — 公民科技園遊會黑客松
+11,10:10,,Caleb,實體,,Pedestrian Rights (Name TBD) 行人權利（名稱待定）,改善台北的行人權利。,AGPL-3 / CC-BY,https://hackmd.io/@i6x1MuXFR0q_Reh6_uOQDw/S16eR4nnR,https://youtu.be/ziuJRl-FL40,Y,"也許,我們是,皇帝","喜歡散步的人
+前端工程師或具有使用開源 CSV 資料在網路上建立地圖的經驗或興趣的人員
+有社群媒體經驗或攝影經驗的人
+有向地方政府施壓經驗的人","caleb@calebjay.com
+g0v slack: Caleb Rogers",https://youtu.be/ziuJRl-FL40,https://youtu.be/ziuJRl-FL40,g0v tw hackath63n — 提案 — Pedestrian Rights (Name TBD) 行人權利（名稱待定） ／ Caleb — 公民科技園遊會黑客松
+12,10:13,,Paul,實體,Y,數位韌性松,Meshtastic 推廣及應用開發,"GPL v3, 
+CC-BY-SA",s.g0v.tw/resi,,,,,,,,g0v tw hackath63n — 提案 — 數位韌性松 ／ Paul — 公民科技園遊會黑客松
+13,10:16,,chewei,實體,Y,Joinplus,「一年約 0.4 兆元政府採購行為與計畫應落實公民參與」決標資料分析方法介紹與招募跳坑資料更新,cc-by,https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fg0v.hackmd.io%2F%40chewei%2FHk7hOYwU3,https://docs.google.com/presentation/d/1hpgPPSbAfsYKMCDbYDZa0iwJHZA0DWYe339ft42Xf48/edit,Y,"政府採購標案資料, 公民參與, 數位工具","爬資料, 資料標記, 資料庫",g0v Slack #joinplus-關注公民參與的數位工具,,,g0v tw hackath63n — 提案 — Joinplus ／ chewei — 公民科技園遊會黑客松
+14,10:19,,MrOrz,實體,Y,Cofacts 真的假的 & Open165 反詐筆記,Cofacts 真的假的 /  幫 165 資料強化 SEO,"Cofacts: MIT, 
+CC-BY-SA
+Open165: AGPL",https://cofacts.tw/hack,https://docs.google.com/presentation/d/1HuEinyZqkE5WF0HuVFXznfaeMyLzN24ixAwUNxhIkqA/edit#slide=id.g28caf866bb2_1_0,Y,程式開發、事實查核、防詐文案,"會 Google 找資料的人
+會 NodeJS / ReactJS 的人
+被詐騙過 or 有防詐經驗的人
+UI / UX Designer",g0v slack #cofacts @mrorz,,,g0v tw hackath63n — 提案 — Cofacts 真的假的 & Open165 反詐筆記 ／ MrOrz — 公民科技園遊會黑客松
+15,10:22,,Le0n,實體,,GHC,G0V Housing Co-op,CC-BY,https://g0v.hackmd.io/SdjXJQzdS2-XSel830vO5w,https://g0v.hackmd.io/UkDDg__RQP237RL-5ltpxQ,Y,合作住宅、自地自建、地方創生,沒有人,g0v slack @Le0n,,,g0v tw hackath63n — 提案 — GHC ／ Le0n — 公民科技園遊會黑客松
+,,,== 截止 ==,,,感謝這一次所有幫忙活動的職工、志工與贊助單位！！！！！！,,,,,,,,,,,g0v tw hackath63n — 提案 — 感謝這一次所有幫忙活動的職工、志工與贊助單位！！！！！！ ／ == 截止 == — 公民科技園遊會黑客松
+,,,,,,,,,,,,,,,,,g0v tw hackath63n — 提案 —  ／  — 公民科技園遊會黑客松
+"公民科技園遊會攤位 🌟 闖關完成送獎品 🌟 
+＊1攤=半張長桌+1張椅子（無插座）。可於攤位上擺放宣傳品、意見徵集、專案成果展示、公民科技專案推廣等。",,,,,,,,,,,,,,,,,
+,擺攤時間,,攤位/專案名稱,,,,主題內容,,,相關連結,,,,,,,
+1,"10:30
+-
+16:00",請安排顧攤人員,繁體中文AI開源實踐計畫,,,,計畫專案成果展示與交流,,,https://ai-grant.tw/,,,,,,,
+2,,,FNF,,,,,,,,,,,,,,
+3,,,Collage 空間願景拼貼網頁操作體驗,,,,網頁工具操作體驗與回饋意見,,https://collage.collective.tw/#,,Y,,,,,,
+4,,,Joinplus,,,,六種公民參與數位工具問卷,,問卷填寫網址：https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSe-noavNs8g9HckRWhDocHjkEmURd5eCVG42_2tYKDmacFFPw%2Fviewform%3Fusp%3Dsf_link,,,,,,,,
+5,,,,,,,,,,,,,,,,,
+6,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,"提案形式
+Form",錄影以 CC-BY 釋出?,"專案名稱
+Project Name",主題,"專案授權
+Project License ","共筆／討論連結
+HackMD link",相關連結,"新參者友善（Y/?）
+Newcomer-friendly?",三個關鍵字,專案徵人,坑主聯絡方式,,,"g0v tw hackath63n — 中場短講 — 專案名稱
+Project Name ／ 發表者 — 公民科技園遊會黑客松"
+1,14:30,,FNF,實體,,FNF,"Friedrich Naumann Foundation Global Innovation Hub
+弗里德里希諾曼自由基金會最近在做什麼？",CC BY-NC,,https://drive.google.com/file/d/1jcAj2jZBAtgNkS6nOeImi-hBxQ3wKrOe/view?usp=sharing,Y,FNF做什麼？、之後會做什麼？、自由,,,,,g0v tw hackath63n — 中場短講 — FNF ／ FNF — 公民科技園遊會黑客松
+2,14:40,,a0kman,實體,N,,資訊專案民公民!?--農業資訊的經驗,,,https://docs.google.com/presentation/d/1B3FlK0CnA8LjpQ0FgcHHBKGsGTGpHRzufx3vDWNe_Yg/edit?usp=drive_link,,,,,,,g0v tw hackath63n — 中場短講 —  ／ a0kman — 公民科技園遊會黑客松
+3,14:50,,Tofus,實體,Y,#design,如何在 GPTs 之上進行開放協作 ,CC-BY 4.0,https://g0v.hackmd.io/_3hTKrJ-Sc2WpiTRBbL8_w,,,,,,,,g0v tw hackath63n — 中場短講 — #design ／ Tofus — 公民科技園遊會黑客松
+4,15:00,,Tiff,實體,Y,g0v 公民科技專案與社群手冊,德國公民科技現況分享、數位公民素養願景與推動策略探索,CC BY-NC,https://docs.google.com/document/d/1l_yb8OsB4fFW_vpgObUoZoPIJ1FY8CFuW2xdrRh0VGQ/edit,https://docs.google.com/presentation/d/1WtpCfbQya2thSy-wmLkJE4WW3mosBewW7fQBGJbDiF8/edit?usp=sharing,Y,數位公民素養教育、德日公民科技經驗、公民科技基礎建設,有意願閱讀給予手冊回饋的好心人，適合新參者及任何對公民科技或數位公民有興趣者,g0v slack #jothon @tiff,,,g0v tw hackath63n — 中場短講 — g0v 公民科技專案與社群手冊 ／ Tiff — 公民科技園遊會黑客松
+5,15:10,,Paul,實體,Y,數位韌性松,"Security and privacy concerns with the widespread implementation of Meshtastic radio in Taiwan, how to mitigate them",CC-BY-SA 4.0,,https://gamma.app/docs/Security-and-privacy-concerns-with-the-widespread-implementation--7w5vmnvj48z4aub,,,,,,,g0v tw hackath63n — 中場短講 — 數位韌性松 ／ Paul — 公民科技園遊會黑客松
+,,,,,,,,,,,,,,,,,g0v tw hackath63n — 中場短講 —  ／  — 公民科技園遊會黑客松
+,本期開放5位8分鐘,,== 截止 ==,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"16:10【 present project】 規則：
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,,
+1,16:10,,Tiff,實體,Y,g0v 公民科技專案與社群手冊,g0v 公民科技專案與社群手冊 v2 邀請社群 review,CC BY-NC,https://docs.google.com/document/d/1l_yb8OsB4fFW_vpgObUoZoPIJ1FY8CFuW2xdrRh0VGQ/edit,https://docs.google.com/presentation/d/1WtpCfbQya2thSy-wmLkJE4WW3mosBewW7fQBGJbDiF8/edit?usp=sharing,Y,公民科技基礎建設、數位公民素養、各國公民科技經驗,有意願閱讀給予手冊回饋的好心人，適合新參者及任何對公民科技或數位公民有興趣者,g0v slack #jothon @tiff,,,g0v tw hackath63n — 成果報告 — g0v 公民科技專案與社群手冊 ／ Tiff — 公民科技園遊會黑客松
+2,16:15,,,,,,,,,,,,,,,,g0v tw hackath63n — 成果報告 —  ／ chewei — 公民科技園遊會黑客松
+3,16:20,,,,,,,,,,,,,,,,g0v tw hackath63n — 成果報告 —  ／  — 公民科技園遊會黑客松
+4,16:25,,chewei,實體,Y,人本交通行動 Humanity-Oriented Traffic Environment Action,道路改造、路徑創造、行人自救,,"道路標線改造案例、民間已提出方案地點地圖 Road Reform Map
+https://g0v.hackmd.io/X8mWlCWIRkOfCIhTjp1oLA?view
+好連街-連續型行人路徑繪製步驟 Continuous Pedestrian Pathway
+https://g0v.hackmd.io/ErnTx4HXSly3E0I9J0zOxQ
+行人自救行動 Pedestrian Self-rescue Action
+https://photos.app.goo.gl/WBcFrxzvc1SiqvqN9",,Y,,,g0v slack #GIS @chewei,,,g0v tw hackath63n — 成果報告 — 人本交通行動 Humanity-Oriented Traffic Environment Action ／ chewei — 公民科技園遊會黑客松
+5,16:30,,Peter,實體,Y,vtaiwan ,"大家來找碴！數位公共參與工具！
+Let’s Survey more digital participatory tools!",CC-BY-SA,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/SkXZk8UdR/%2FrxuKtr99SJ-eyvvFUDwr9A,https://docs.google.com/presentation/d/1HPSeCMzVo5jWDm7DYOiLmx6HHv5_lHj15sVe34x3aSw/edit?usp=sharing,Y,"找資料、填空格、數位公共參與工具 
+We welcome foreigners to join!","能夠讀英文、或其他外文（資料是英文與其他外文）、搜尋資料、對於審議有興趣或經驗的人
+If you speak English, French, German, or other languages, it would be great! ",g0v slack #vtaiwan @Peter,,,g0v tw hackath63n — 成果報告 — vtaiwan  ／ Peter — 公民科技園遊會黑客松
+6,16:35,,tofus,實體,,#design,https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSe-noavNs8g9HckRWhDocHjkEmURd5eCVG42_2tYKDmacFFPw%2Fviewform%3Fusp%3Dsf_link,CC-BY,https://g0v.hackmd.io/3GkM1QjnQwmatprMfsmSLg,,,,,,,,g0v tw hackath63n — 成果報告 — #design ／ tofus — 公民科技園遊會黑客松
+7,16:40,,MrOrz,實體,Y,Cofacts 真的假的 & Open165 反詐筆記,Cofacts 真的假的 / Open165 內文設計討論,"Cofacts: MIT, 
+CC-BY-SA
+Open165: AGPL",https://cofacts.tw/hack,https://docs.google.com/presentation/d/1HuEinyZqkE5WF0HuVFXznfaeMyLzN24ixAwUNxhIkqA/edit#slide=id.g28caf866bb2_1_0,Y,程式開發、事實查核、防詐文案,"會 Google 找資料的人
+會 NodeJS / ReactJS 的人
+被詐騙過 or 有防詐經驗的人
+UI / UX Designer",g0v slack #cofacts @mrorz,,,g0v tw hackath63n — 成果報告 — Cofacts 真的假的 & Open165 反詐筆記 ／ MrOrz — 公民科技園遊會黑客松
+8,16:45,,SeanGau,實體,Y,拉人更輕鬆,改善 g0v.tw,,https://g0v.hackmd.io/s/BJaGHU5uR,https://g0v.tw,,g0v.tw 、基礎建設,沒有人要寫心得,,,,g0v tw hackath63n — 成果報告 — 拉人更輕鬆 ／ SeanGau — 公民科技園遊會黑客松
+9,16:50,,Ronny,實體,Y,meshtastic bridge slack,meshtastic bridge slack,BSD,https://g0v.hackmd.io/0bHi9giDQN66h0HGAVp9aw,,,,,#civil_defense,,,g0v tw hackath63n — 成果報告 — meshtastic bridge slack ／ Ronny — 公民科技園遊會黑客松
+10,16:55,,,,,,,,,,,,,,,,g0v tw hackath63n — 成果報告 —  ／  — 公民科技園遊會黑客松
+11,17:00,,,實體,,,,,,,,,,,,,g0v tw hackath63n — 成果報告 —  ／  — 公民科技園遊會黑客松
+12,17:05,,,,,,,,,,,,,,,,g0v tw hackath63n — 成果報告 —  ／  — 公民科技園遊會黑客松
+13,17:10,,揪松團,實體,,,歡迎大家填寫影響力問卷,,,,,,,,,,g0v tw hackath63n — 成果報告 —  ／ 揪松團 — 公民科技園遊會黑客松

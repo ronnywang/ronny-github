@@ -1,0 +1,79 @@
+,,,,,,,,,,,,,,,,,,
+,"發表時間
+Time",完成,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出？,"專案名稱
+Project Name","主題
+Topic",,"專案授權
+Project License ","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)",坑主聯絡方式,youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「P：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,,,
+ ⭐️ 由於本次大松提案已經滿出來了，為了減少切換電腦的時間（以使用講台電腦為主），請大家公開投影片或共筆頁面權限，並填在 J 或 K 欄位唷，感謝大家！⭐️,,,,,,,,,,,,,,,,,,
+1,9:40,V,Teemo,實體出席,,PTT,批踢踢不能亡,富蘭克林 Franklin,MIT,,PTT 2023年度里程碑.pptx,Y,新版APP、測試、文件,,,,,g0v tw hackath56n — 提案 — PTT ／ Teemo — XXX黑客松
+2,9:43,V,ael,預錄影片,Y,OpenLab,,, CC-BY 4.0,https://docs.google.com/document/d/1NNUDFu3RKBfCdwcB0Ue74Z2z3h7xjnhwJ1AbWHzhJT8/edit#heading=h.umnh812ileoc,https://docs.google.com/presentation/d/1B_jNh3R719Qw3LkLxGDkryLiTZXHSepR41XQE_VRv30/edit?usp=sharing,Y,農業、maker、分享,資料整理,g0v slack #openlab-mapping,https://meet.google.com/zzt-uxot-jmz?pli=1,,
+3,9:46,V,Ronny,實體,Y,開放政治獻金2023,開放政治獻金2023,富蘭克林 Franklin,,https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/,https://docs.google.com/presentation/d/1_cGF4CGLyLemViMfy4JYRT7gRfHV99qC_FtovIvgDi0/edit?usp=sharing,Y,政治獻金、JOIN平台提案中,歡迎來附議+1、宣傳組!、,g0v slack #open-moneyflow,,,
+4,9:49,V,嗡嗡,實體,,PrideWatch,PrideWatch 彩虹選民觀選網站,史蒂文生 Stephenson,,https://g0v.hackmd.io/s/ryxLkgDCbh,"https://docs.google.com/presentation/d/1IgoZ0y-F6Mfx5Dg4GL9lIAqp0ejmpVc7/edit?usp=sharing&ouid=111636375346861552084&rtpof=true&sd=true
+
+https://pridewatch.tw/",Y,同志、性別友善、2024大選,,g0v slack #pridewatch彩虹選民觀選指南,,,
+5,9:52,,Dennis (包達諾）,實體,,Cofacts 真的假的,Fact Checking: Finding a Common Ground,富蘭克林 Franklin,,, ,Y,,,,,,
+6,9:55,,Kazan (＊ 防災提案保留席，跟防災相關的提案可以優先填在保留席次中),實體,Y,救災民間動員量能地圖,救災民間動員量能地圖—提案,史蒂文生 Stephenson,MIT,https://hackmd.io/@KazanV/Sy9Z7vhu3,https://docs.google.com/presentation/d/1u-_PqzJk6kQe67x2mz16-f380_YxJ1scYaQsDe-_7PE/edit?usp=sharing,Y,民防救災、開放地圖、即時通報,前後端開發、基礎建設、民防救災組織,"g0v slack @kazanTW
+#civil-defense
+me@kazan.tw",,,
+7,9:58,,ddio,實體,Y,開放企業永續資料庫,開放企業永續資料庫 - 工人智慧補完計畫,富蘭克林 Franklin,"MIT, CC-BY",https://g0v.hackmd.io/K_N6QOg1QgC8lMneeJqdEg,https://docs.google.com/presentation/d/1bHlMC-KmLFsiB7g-XaL-ma5KrbNB-eXPtatbhB2_klM/edit#slide=id.g22b055e8671_0_144,Y,開放資料、企業永續報告書、資料治理,UX 設計師、資料、LLM 工程師、群眾外包專家,gov slack #thaubing-esg @ddio,,,
+8,10:01,,Paul,實體,Y,new safeID 換洩證號,親愛的，我們要做 haveibeenpwned.tw 了（提示：合法合規）,史蒂文生 Stephenson,MIT,https://g0v.hackmd.io/yZd5nmZWRLqQ2R2kqvcNqg,https://docs.google.com/presentation/d/1B4py_-fxZrsOeOUX6knMUkc1JGr7I7sh0pOX9JoS0l4/edit#slide=id.g22be16e9c5e_0_684,Y,,,g0v slack #privacy @paulplastic,,,
+9,10:04,,宥伯 (＊ 防災提案保留席，跟防災相關的提案可以優先填在保留席次中),實體,Y,歷史影像平台,災害或地景影像的提供、定位、再利用,富蘭克林 Franklin, CC-BY,https://docs.google.com/document/d/1XvwPzErp951BAQLKv7A5yO0sB5XZhnrb1ucWWroQ9YQ/edit?usp=sharing,https://docs.google.com/presentation/d/1tvBH63Ocz-fAqnuPPXgtGnQBOqwIYb9P/edit?usp=sharing&ouid=106480865234997671288&rtpof=true&sd=true,Y,照片資料庫、公私協力、GIS及照片地理坐標,"拍照、geo定位、網頁技術、資料應用(產品或服務)
+
+建議表單：
+https://forms.gle/rhLEzLrwAeLFmhBZ9
+
+技研小組-領域短講典藏
+https://www.youtube.com/@user-kc1pw5oy2p/about",unknow@mail.swcb.gov.tw ( 組改前 ),,,
+10,10:07,,chewei (＊ 防災提案保留席，跟防災相關的提案可以優先填在保留席次中),實體,Y,歷史影像平台,釐清史料影像以及國內外影像資料庫的災害照片是否適合匯入歷史影像平台,富蘭克林 Franklin, CC-BY,https://g0v.hackmd.io/@chewei/CultureandRisk/https%3A%2F%2Fg0v.hackmd.io%2FGZ60cIvrT4mNNMztG8g1NQ,,Y,平台之間圖像授權、資料庫、標記歷史影像,著作權與授權、文史資料庫營運經驗者、標記歷史影像,FB 社團：https://www.facebook.com/groups/646900492512861,,,
+11,10:10,,da0,實體,Y,da0-Shoutout激勵機制,da0-Shoutout激勵機制跟討論開源可能,富蘭克林 Franklin,NC-BY,,https://docs.google.com/presentation/d/1Nga5oUMfG3GkfFea7GImygRlZH_sX4ZJL5C7dYGK2OY/edit?usp=drivesdk,Y,激勵機制、社群互動、共創史詩,對社群動力、打造bot工具有興趣的人,g0v Slack #da0-shoutout,,,
+12,10:13,,Peter,實體,Y,2024 summit 議程組,2024 Summit 議程組歡迎＋＋跟參與討論,富蘭克林 Franklin,,https://g0v.hackmd.io/svv0mVGfQS-jpksPpBC7VA?both,https://docs.google.com/presentation/d/1hiU96MYICpigWIEKhOb6qCQ4hdqxCbscFn3ocg2_xxA/edit?usp=sharing,Y,summit、議程組、媒體組,,g0v Slack #summit-2024-bootstrap,,,
+13,10:16,,Allen,實體,Y,Wikidata,全球 Wikidata 雙年會：Wikidatacon 2023 在臺灣,史蒂文生 Stephenson,CC0,https://wikidatacon.tw/2023,https://slides.com/allenwang6212/wikidatacon-2023,Y,資料整理、開放資料、徵稿中！！！,不會寫程式但想貢獻開放資料的人、想彙整特定領域資料及的人、有跟開放資料議題想發表找不到地方投稿的人,g0v Slack #wikidatataiwan,,,
+14,10:19,,Fly,預錄影片,Y,醬即興 flyism.org,一歲大的開放即興自然社群： flyism.org  ,,CC0,https://ideas.flyism.org / https://g0v.hackmd.io/I7pJGaH8RCa-QL2o9QlRSQ,https://flyism.org ,Y,開放、即興、自然,開放、即興、自然的人,g0v slack @fly #flyism_org,https://youtu.be/kpNYm11OG5w,"醬即興文化計劃簡介 | 醬即興 flyism.org
+
+在 #self-intro 看到大家關鍵字都好想聊聊！Fly在 #flyism_org 有個「醬旅」計劃，歡迎約時間來聊聊彼此的關鍵字一起關心彼此在做想做的事~~
+歡迎加入開放、即興、自然的醬即興 flyism.org 臉書社團一起玩即興
+這邊可預約醬旅即興聊天時間 b.flyism.org ",
+15,10:22,,MrOrz,實體,Y,Cofacts 真的假的,聊聊 HuggingFace 使用經驗、Securing public API、逐字稿協作經驗,富蘭克林 Franklin,"MIT, CC-BYSA",https://cofacts.tw/hack,20230701 g0v-hackath56n,Y,程式開發、事實查核、AI,使用 HuggingFace 資料的人、NextJS / GraphQL 工程師、逐字稿協作,g0v slack #cofacts @bil @mrorz,,,
+16,,,揪松團 ,實體,Y,揪松團活動性騷擾防治措施,g0v 揪松團相關活動性騷擾事件之處理方式討論,食物飲料區,,https://g0v.hackmd.io/@jothon/HJTzQ6AP2,https://docs.google.com/presentation/d/1VmTX3TWtwM7-mEJJSjeZa6drQHLT1EAjfX73SVIQtL8/edit?usp=sharing,Y,社群活動性騷擾事件處理方式,,g0v slack #jothon,,,
+17,,,RR,實體,Y,Moda 數位發展部公民科技科,數位發展部公民科技試驗場域示範案,富蘭克林 Franklin,,https://g0v.hackmd.io/Zb7w_TT0ToSMpVEATfD_yA#,https://docs.google.com/presentation/d/1ZyWfa-UO3E9RH45Lg-RSXSnZScylkprI/edit?usp=sharing&ouid=109980936023800532674&rtpof=true&sd=true,Y,數位發展部、公民科技、開放原始碼,想要讓政府服務更好的人,"g0v slack 
+#moda
+@delightfullychoatic",,,
+18,,,Irvin,實體,Y,moztw.org,GA 大限到了！！快來升級 GA4,史蒂文生 Stephenson,MPL,moztw.org/tg (general版),moztw.org,,Firefox,JS HTML WEB,,,,
+19,,,Yian,實體,,磺溪NFT,環境教育與線上社群互動 ,,,,https://akaswap.com/akaobj/14471,,,,,,,
+ \ 本次候補已滿XD /  \ 以上候補提案，將提供「一分鐘」提案發表時間 / ,,,,,,,,,,,,,,,,,,
+"14:30【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者 Presenter,,錄影以 CC-BY 釋出?,,0,,,"共筆／討論連結
+HackMD link","相關連結 / 投影片連結
+Slide link",,三個關鍵字 3 Keywords of Project,專案徵人,坑主聯絡方式,,,g0v tw hackath56n — 中場短講 —  ／ 發表者 Presenter — XXX黑客松
+1,14:30,,Tiff ,實體,Y,零時小學校,台中女中、台大資工/網媒所、東吳政治、內湖高中：數位實作課程經驗分享,,,https://g0v.hackmd.io/@jothon/sch001pr0jectcourseplan/,https://docs.google.com/presentation/d/1zlQZ84LQhT6TduMlePtjvfd7Z7aWoESsNDfANg2s6Nk/edit?usp=sharing,Y,學校老師與社群講師合作、入校課程、專案實作,,g0v slack #edu,,,
+2,14:40,,Peter,實體,Y,,2024jeju面海松參加經驗分享,,,,https://docs.google.com/presentation/d/1QHTQmm0tzolwgA9Lq5wRX33ku_KUd1UkcKNa8cU2kXo/edit?usp=sharing,Y,面海松,,g0v slack #facing-the-ocean,,,
+3,14:50,,Ronny,預錄影片,Y,,白帽駭客？政治獻金資料分析,,,,https://docs.google.com/presentation/d/1aISoQqWdDf0LW0SJqwvThniHIPtaHErG9XOXgt45WQs/edit#slide=id.p,Y,,,,,,
+4,15:00,,Teemo,實體,Y,LLM 民主化,從 Dolly 2.0 談 LLM 民主化 ,,CC0,,https://www.canva.com/design/DAFlhBOE6v4/cF-yJ4mggSknbDMchREiSw/view,Y,LLM、民主化、未來展望,聊天,g0v slack @Teemo,,,
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,,,,,
+"16:00【 present project】 規則：
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,,,
+1,16:00,,Mariah (宋妍嫵),實體,,N/A,社會抵禦外來滲透的方式,,N/A,N/A,https://docs.google.com/presentation/d/1Esa2lm9wvWHU8MgSVY9lKADr-erZkdBH/edit?usp=sharing&ouid=106362271632988390597&rtpof=true&sd=true,Y,"抵禦統戰工作假訊息；
+社會教育； 科技的角色",,,,,g0v tw hackath56n — 成果報告 — N/A ／ Mariah (宋妍嫵) — XXX黑客松
+2,16:05,,chewei,實體,Y,Joinplus,Joinplus 數位公民參與功能發想,,,https://g0v.hackmd.io/@chewei/joinplus/,https://g0v.hackmd.io/@chewei/joinplus/https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1XPxlDUdEwhlCEoNGd89P-842pr_Mct5u%2Fedit?fbclid=IwAR3iwaeEq8vAMsO_fjAJUzQ92x1NunjAbvcqBdj0etkWJ_MlQkBzJsmXQ6s,Y,數位公民工具、JOIN平台,,g0v slack #vtaiwan,,,
+3,16:15,,Kazan,實體,Y,救災民間動員量能地圖,救災民間動員量能地圖—正式啟動,,MIT,https://hackmd.io/@KazanV/g0v-ngo-rescue-map,,Y,民防救災、開放地圖、即時通報,資料蒐集志願者、設計師、後端資料庫工程師,"g0v slack @kazanTW
+#civil-defense
+me@kazan.tw",,,
+4,16:20,,Ronny,實體,,開放政治獻金2023,開放政治獻金2023,,,https://g0v.hackmd.io/@SA7CD7VRSp6Fcqw9CaElcQ/ryrT2aQdn/%2F7QOtkjGkQxGNWnVlBXAhtQ,,Y,政治獻金、JOIN平台提案中,歡迎來附議+1、宣傳組!、,g0v slack #open-moneyflow,,,
+5,16:25,,Peter,實體,Y,2024 summit 議程組,2024 Summit 議程組歡迎＋＋跟參與討論,,MIT,https://g0v.hackmd.io/svv0mVGfQS-jpksPpBC7VA?both,https://g0v.hackmd.io/svv0mVGfQS-jpksPpBC7VA?both,Y,,,,,,
+6,16:30,,MrOrz,實體,Y,Cofacts 真的假的,聊聊 HuggingFace 使用經驗、Securing public API、逐字稿協作經驗,,"MIT, CC-BYSA",https://cofacts.tw/hack,20230701 g0v-hackath56n,Y,程式開發、事實查核、AI,使用 HuggingFace 資料的人、NextJS / GraphQL 工程師、逐字稿協作,g0v slack #cofacts @bil @mrorz,,,
+7,16:35,,ddio,實體,Y,開放企業永續資料庫,開放企業永續資料庫 - 工人智慧補完計畫,,"MIT, CC-BY",https://g0v.hackmd.io/K_N6QOg1QgC8lMneeJqdEg,https://g0v.hackmd.io/K_N6QOg1QgC8lMneeJqdEg#20230701-%E5%A4%A7%E6%9D%BE%E5%B0%8F%E8%A8%98,Y,開放資料、企業永續報告書、資料治理,UX 設計師、資料、LLM 工程師、群眾外包專家,gov slack #thaubing-esg @ddio,,,
+8,16:40,,宥伯,實體,Y,歷史影像平台,,,,,https://docs.google.com/presentation/d/1AcOlhqtU5cdqXZfJ7Zq_zZxV9xzifhHH/edit?usp=sharing&ouid=106480865234997671288&rtpof=true&sd=true,Y,,,FB 社團：https://www.facebook.com/groups/646900492512861,,,
+9,16:45,,Paul,實體,Y,new safeID 換洩證號,親愛的，我們要做 haveibeenpwned.tw 了（提示：合法合規）,,MIT,https://g0v.hackmd.io/yZd5nmZWRLqQ2R2kqvcNqg,https://docs.google.com/presentation/d/1B4py_-fxZrsOeOUX6knMUkc1JGr7I7sh0pOX9JoS0l4/edit#slide=id.g2563128cf78_0_15,Y,,,g0v slack #privacy @paulplastic,,,
+10,16:50,,tmonk,實體,Y,TranscribeExpress 逐字稿限掛,逐字稿、sayit、新聞媒體,,"code: MIT
+text: CC0",https://g0v.hackmd.io/@tmonk/transcrib_express,https://g0v.hackmd.io/@tmonk/transcrib_express,Y,新聞媒體採訪、voice2text、sayit,會使用 voice2text 工具的人，網頁前端後端,g0v slack @tmonk,,,
+11,16:55,,揪松團,實體,,,歡迎大家填寫影響力問卷,,,,https://docs.google.com/presentation/d/1LhIIaoKA3GLSyzZBq_DLnoGyxNhMQP7Gib_E-rK070Q/edit?usp=sharing,,,,,,,

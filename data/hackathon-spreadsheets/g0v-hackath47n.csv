@@ -1,0 +1,57 @@
+,,,,,,,,,,,,,,,
+,發表時間,完成,發表者,錄影以 CC-BY 釋出？,主題,專案授權,共筆／討論連結,目前成果／投影片連結,新參者友善（Y/?）,專案三個關鍵字,專案徵人（專長）,坑主聯絡方式,youtube url: 專案報告,youtube url: 成果報告,slides url
+"09:30開場，09:40提案開始【3分鐘提案報名】
+每個 present 3min，提案、徵人。",,,,,,,,,,,,,,,
+1,9:40,,Ted,Y,CourseAPI 開放式課程資訊匯流學院,專案原始碼以MIT授權釋出,https://www.notion.so/toedu/CourseAPI-4e8faffe36c144058176dec509f15366,https://docs.google.com/presentation/d/1eQjHooVfP8p4ZMndC7yVKq3Z9NCzxEJREdlWibVlYKc/edit?usp=sharing,Y,"開放式課程 Open Course, 開放資料 Open Data, 爬蟲 Scraper",,"slack @Ted (顥天)
+#edu-open",,,
+2,9:43,,Ted (同上),Y,零時樂團,文字檔、聲音檔、編曲工作檔以 CC BY-SA 釋出,https://g0v.hackmd.io/@Ted-Lu/SyciCm6wt,https://g0v.hackmd.io/@Ted-Lu/B1kXjXaDK,Y,開源協作音樂、滲透藝術界、g0v 樂團,樂器、編曲,"slack @Ted (顥天)
+#band",,,
+3,9:46,, tzutung, Y, Aesthetic Programming 美學程式設計,MIT / CC BY-SA 4.0,  https://ctp.cc.au.dk/pad/p/Aesthetic_Programming_-_TW,"目前成果 shorturl.at/xIW29
+投影片連結 
+shorturl.at/irALQ", Y,程式碼繁體中文化、女性主義網路、開源出版,1,"g0v Slack: #aestheticprogramming , @Lee Tzu Tung
+discord: https://discord.gg/wnNsYcwY",,,
+4,9:49,,"bil, mrorz",Y,Cofacts 真的假的,MIT / CC BY-SA 4.0,https://cofacts.tw/hack,https://cofacts.tw/,Y,"crowd sourcing, fact-checking, chatbot",關心公投假訊息、會上網google的人,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,https://docs.google.com/presentation/d/1c9wCHh4tpF7ClwJUy-y-pXYzLFDJtv4pjPXaqCyVZcI/edit
+5,9:52,,Sam (ㄙㄚㄇ）,Y,歷史好庫協作翻譯,CC BY-SA 4.0,https://hackmd.io/-VFY-6irSFuWZtdtt1g4ng,,Y,翻譯，合作，分工,可以翻譯，可以幫忙設計，擅長合作工具的人,slack #translation,,,https://docs.google.com/presentation/d/1kgdc1s5yWi45e0p9TJFvxknMDijAzdgOHkMCrHCxP4s/edit?usp=sharing
+6,9:55,,ronny,,立委 say it,CC-BY,https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit?usp=sharing,https://ronnywang.github.io/lysayit,,,,,,,
+7,9:58,,Claire,Y,開源星手村,MIT / CC BY-SA 4.0,https://hackmd.io/1B3eCm8sSbqDTdcMI7o85g#%E5%B7%A5%E4%BD%9C%E5%8D%80,https://docs.google.com/presentation/d/1Sixvc7KxTuMZBiA7wHbgr1fGNQm-u5SjZ_m8vfGv1OU/edit#slide=id.gb6f2269a96_2_8,Y,桌遊、推廣開源、找玩家！,找任何有興趣的人試玩給體驗回饋、尋找平面設計師,OCF slack #team_board-game,,,
+8,10:01,,提莫,Y,批踢踢不能亡,GPLv3,g0v slack #ptt  ,新手指引：https://hackmd.io/@twbbs/guide,Y,"Ptt, 社群, App","iOS, Android, Golang, UIUX",g0v slack #ptt,,,
+9,10:04,,靖婷（小翁）,N,你不知道的小琉球：觀光地景篇,,https://g0v.hackmd.io/@xCb2VQ6KR3K1Srpz3dU8Mw/BkuM45Vqt,https://docs.google.com/presentation/d/17c3bG9YTFWayqH5lsPyHaonY7YE3LAdSJyAFZznyalo/edit?usp=sharing,,,,,,,
+10,10:07,,ael,N,Disfactory 農地違章工廠回報系統,程式碼： MIT,https://g0v.hackmd.io/@yukaii/Disfactory/%2FL65HWu17S--qqVyXMmrH_A,https://docs.google.com/presentation/d/1p2xFhFqIEMpKUKjs1_GYIsgiKKEFiRL_7jZeyKyAuY0/edit#slide=id.g106ebe9e553_0_268,,"回報系統,小遊戲,環境議題","前端 Vue.js, 後端 Python, LINE bot 開發者, 
+遊戲設計, 路人來測試, 數位行銷, 產品經理, 家裏旁很多空地工廠",g0v Slack #disfactory,,,
+11,10:10,,雨蒼,Y,各國解封指引彙整,CC-BY,https://hackmd.io/@billy3321/HkKD6b-qF,,,,,g0v slack #reopen,,,
+12,10:13,,世界和平（Huanry）,Y,S-E-E 永續所得指標,先 CC BY-SA,https://g0v.hackmd.io/kRuCNIToRLmbOYe9mWUXTg,https://docs.google.com/presentation/d/1YEfnAtgC95fXl8eP3BnYjBFkElJWS7XK5Cc09YDZj4s/edit?usp=sharing,Y,所得，永續發展三要素，,對永續發展、合作經濟有興趣的所有人,g0v slack #silab,,,https://docs.google.com/presentation/d/1YEfnAtgC95fXl8eP3BnYjBFkElJWS7XK5Cc09YDZj4s/edit?usp=sharing
+13,10:16,,,,,,,,,,,,,,
+14,10:19,,chewei,Y,碳匯城鄉 - 桃園與臺南公有資產碳匯潛力地點盤點,CC-BY,https://g0v.hackmd.io/@chewei/carbon-uptake,https://docs.google.com/presentation/d/1bQ4p6GEmDwVT9M292gfdJrHf-amHVU8GZPIvyJiu9R4/edit,Y,公有資產、減碳措施潛力推動地點、媒合機制,"GIS, 資料工人, React","slack @chewei
+公有地大行動 FB 社團",,,https://docs.google.com/presentation/d/1bQ4p6GEmDwVT9M292gfdJrHf-amHVU8GZPIvyJiu9R4/edit#slide=id.p
+15,10:22,,eli,Y,"踏出同溫層,多立場資訊平台",MIT / CC BY-SA 4.0,https://docs.google.com/document/d/1G_oncGAQtPMUNEVuOLdMz8f_U6XXaTgasCjHeA56qM0/edit,https://drive.google.com/file/d/10J_DPPk2g9ewasw2nqN3Te4yY9abjV5q/view?usp=sharing,Y,"偏頗資訊,同溫層,多立場輿情",前端 後端 AI UI/UX 關心議題的人,g0v slack #neutral-info,,,
+16,10:25,,"tonychen, stacy chen",Y,mate your fellow: 以科技的力量尋找學伴及學習資源,專案原始碼以MIT授權釋出,以科技的力量有效率的尋找讀書夥伴專案和學習資源 The project to help you find learning partners more effective by the power of technologies - HackMD,Mate your fellows (canva.com),Y,學伴 學習資源 媒合,全端 網路爬蟲 塞選的演算法,"facebook: 陳韞同, email: tonychen9321@gmail.com",,,Mate your fellows (canva.com)
+17,10:28,,jothon(ichieh),Y,g0v Podcast,CC BY,https://g0v.hackmd.io/@chihao/HkceASC_K,,Y,,,,,,
+18,10:31,,Wei,N,#decentralizehk,MIT,https://g0v.hackmd.io/Y1S3ovOsRYmmxj6CjQdh7A?view,https://docs.google.com/presentation/d/1EcG65SGzsqtHQictV21MlkQnGUPUDvrICoFvJ66gkBs/edit?usp=sharing,Y,#備份香港 #紀錄歷史 #文化保育,後端(爬蟲) 資料彙整 關心議題的人,g0v slack #decentralizehk,,,
+,,,== 截止 ==,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"15:00【8分鐘短講報名】
+每個 present 8min，分享議題、專案、研究、技術皆可。",,,,,,,,,,,,,,,
+順序,發表時間（自填）,完成,發表者,錄影以 CC-BY 釋出?,主題,,,相關連結,,三個關鍵字,專案徵人,坑主聯絡方式,,,
+1,15:00,,Isabel,Y,揪松團影響力報告,CC-BY,https://docs.google.com/presentation/d/1fVExM8bEDWc7JXIUNsWheuOK1JwccGq_8rM9F8oY1iQ/edit#slide=id.gfa208f2a22_0_432,,,,,,,,
+2,15:10,,提莫,Y,批踢踢-社群未來架構,GPLv3,g0v slack #ptt,,,,,,,,
+3,15:20,,,,,,,,,,,,,,
+4,15:30,,Tai,Y,給新手工程師的開源貢獻小撇步,CC-BY,https://g0v.hackmd.io/knHY95HMQtSKQvG0nX_lXg?view,https://drive.google.com/file/d/1QZn4vFNqd1TA2yh2A1HoHh-HN5Lb9WxF/view?usp=sharing,,台灣黑熊 野生動物 保育,"vue.js, django, UX",g0v slack #tbbca,,,
+,本期開放4位8分鐘,,== 截止 ==,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"17:00【 present project】 
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,
+1,17:00,,young,y,Cofacts 真的假的,MIT//CC-BY-SA,https://cofacts.tw/hack,https://cofacts.tw/,Y,"crowd sourcing, fact-checking, chatbot",關心公投假訊息、會上網google的人,"g0v slack: #cofacts channel , g0v slack @mrorz , @bil",,,https://docs.google.com/presentation/d/1c9wCHh4tpF7ClwJUy-y-pXYzLFDJtv4pjPXaqCyVZcI/edit
+2,17:05,,Milo,n,SyncSlide - 萬人演講零延遲,,https://hackmd.io/@milochen0418/sync-slide-demos,https://jamboard.google.com/d/1TRpH32KhXLe_mgo_Z0pJ0lxB128g733M9SYFQGFgNWE/edit?usp=sharing,,,,,,,
+3,17:10,,gavin,y,幫助登山客,CC BY-NC-SA 4.0,https://bit.ly/3oK1i4V,左邊連結中,Y,救災.gis.通訊,開放資料收集.推廣.會使用手機的人,g0v slack . FB社團.FB,,,
+4,17:15,,秀吉,y,"高中生108課綱教育資源整合平台
+",CC BY 4.0,,https://docs.google.com/presentation/d/1k36WwCQbyHn9koPtpx_1hOevgpcgthmf/edit?usp=sharing&ouid=113296565415234841307&rtpof=true&sd=true,Y,偏鄉教育/108課綱/高中生,前後端開發人員 UI製作人員,g0v slack: #hctsai.be10,https://sites.google.com/view/change108,,
+5,17:20,,Milo,y,"建立開源為底, 全球化的 Metaversity ",,https://hackmd.io/@milochen0418/g0v-metaversity,https://www.canva.com/design/DAEn6nei_zg/_PJAMSJPL4ztzuDBf8NIDg/view?utm_content=DAEn6nei_zg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton,,,,,,,
+6,17:25,,Ronny,y,立法院 say it,,https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit#slide=id.g1070b1ab569_0_0,https://docs.google.com/presentation/d/1WcYS_K755l7v_oHpQ9K5168_zrfkI-uCv7AYVRAhVXo/edit#slide=id.g1070b1ab569_0_0,,,,,,,
+7,17:30,,Rhea,y,g0v Podcast 平台,CC BY-NC-SA 4.0,https://g0v.hackmd.io/Wp9FwmktQXKfx5zCucR_2g?view,,,,,,,,
+8,17:35,,chewei ,y,吉祥物特蒐 ! 超過700 個吉祥物與代言角色 !,CC-BY,https://g0v.hackmd.io/@chewei/actor/https%3A%2F%2Fg0v.hackmd.io%2FselhK2FGTPWv1gCuqL_Nig,https://g0v.hackmd.io/@chewei/actor/https%3A%2F%2Fg0v.hackmd.io%2FselhK2FGTPWv1gCuqL_Nig,Y,吉祥物基本資料彙整,資料手工蒐集、設計師、IP 企劃,g0v slack #吉祥物資料蒐集_マスコット_mascot,,,
+9,17:40,,,,,,,,,,,,,,
+10,17:45,,,,,,,,,,,,,,
+11,17:50,,,,,,,,,,,,,,
+12,17:55,,,,,,,,,,,,,,
+13,18:00,,,,,,,,,,,,,,

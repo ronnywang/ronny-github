@@ -1,0 +1,121 @@
+,,,,,,,,,,,,,,,,,,,
+aA,"發表時間
+Time",QQQQQ,"發表者
+Presenter","提案形式
+Form",錄影以 CC-BY 釋出？,"專案名稱
+Project Name","主題
+Topic","專案授權
+Project License ","g0v Podcast
+松後推坑電台
+受訪意願? (Y/?)","共筆／討論連結
+HackMD link","目前成果／投影片連結
+Slide link","新參者友善（Y/?）
+Newcomer-friendly?","專案三個關鍵字
+3 Keywords of Project","專案徵人（專長）
+Recruitment (talents?)","坑主聯絡方式
+Ways to contact the project owner",無法實體來到大松的坑主，請務必填寫 大松當天線上協作 連結（包含但不限於：google meet、Jitsi）,youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
+09:30開場，09:40提案開始【3分鐘提案報名】每個 present 3min，提案、徵人。,,,,,,,,,,,,,,,,,,,
+＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「R：youtube url 或是 預錄影片」，並於 Q 欄填寫線上開坑連結。新手教學投影片,,,,,,,,,,,,,,,,,,,
+開場互動遊戲：你是誰我是誰點我玩一下就知道 https://app.sli.do/event/wDpDgT6tsXS7ExP49cHwJz,,,,,,,,,,,,,,,,,,,
+1,9:40,,Stamford,預錄影片,,Arm0ry,鏈上大松 💗,CC BY,Y,,https://docs.google.com/presentation/d/1CHLvoQYPSa7tcdhI4a6lWD0mG_GzeCu0_SwnhB7WSZ8/edit?usp=sharing,Y,web3、代幣經濟、社區發展應用,前端設計（只要有興趣的都歡迎）,"g0v slack @Stamford, g0v slack @Zoey Tseng",現場請找代理坑主 Zoey!,https://youtu.be/hzMwGW9l_aM,,g0v tw hackathXXn — 提案 — Arm0ry ／ Stamford — XXX黑客松
+2,9:43,,irvin,實體,,中共封鎖台灣網路時，還能買 pchome 嗎？重要數位服務韌性檢測,台灣是個四面環海的島，當發生天災人禍時，都可能造成對外網路中斷。此時，歲月靜好的台灣人，還能上網買 pchome 嗎？,CC0,Y,https://g0v.hackmd.io/@irvin/digital-services-resilience,https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A#服務韌性檢測方式（wip）,Y,數位韌性、民生,人工檢核其他民生網站、寫 script 規模化,g0v slack #civil-defense,,,,
+3,9:46,,進良Thomas,實體,Y,藥學．要學：AI驅動的個人化精準學習,專業領域的教育方法創新台灣落地,CC BY-NC-SA,Y ,https://g0v.hackmd.io/8PYVkjW_RuSGFlIYJnGKoA?view,https://docs.google.com/presentation/d/1DbdkOsZXAbQevztzgF19RQxlMbn5wlP5JK0liTsfAlU/edit?usp=sharing,Y,專業領域的教育方法創新、LLM微調、藥學國考,好奇的人、願意一起討論整理資料的人、想要一起開發的人,g0v slack #aipharmastudyboost,,,,
+4,9:49,,Peter,實體,Y,summit 2024 ,g0v summit 2024 ,CC BY SA ,y ,https://g0v.hackmd.io/@summit2024/book/https%3A%2F%2Fg0v.hackmd.io%2FdttYgGq1SmqCCp4ZntffZw,https://docs.google.com/presentation/d/1Za5iS60zRP2hrNESLcP5lT2dAGV-X0ybybPTkcPumIw/edit?usp=sharing,Y,場務人員、議程助理、投稿～,場務人員、議程助理,g0v slack #summit-2024-bootstrap,,,,
+5,9:52,,宥伯=工友=unknow,實體,Y,資料治理與公私協力的可能性,年度開放資料更新、公私協力專案、持續投入,CC BY-NC-SA-ND,Y ,"簡介 & 共筆 https://docs.google.com/presentation/d/11_XsUYC94LMdhZlS7nOZwbmlUgP76MEp/edit?usp=sharing&ouid=106480865234997671288&rtpof=true&sd=true 
+共筆https://docs.google.com/document/d/1XvwPzErp951BAQLKv7A5yO0sB5XZhnrb1ucWWroQ9YQ/edit?usp=sharing
+",https://tech.ardswc.gov.tw/?lang=%2F,Y,"歷史影像平台
+農村水保署-公開資料
+農業科技研究院-研究成果",PM、研究者,"g0v slack @unknow
+頻道 #research  共筆",,https://www.youtube.com/@user-kc1pw5oy2p,,
+6,9:55,,Vanbart帕奇,實體,,該找誰談談psychmatch,建構心理資源搜尋平台,,Y,該找誰談談 Psychmatch - HackMD,https://docs.google.com/presentation/d/1qq_CTCULDj9LUvoP-J7YPSr_3zinICK3GoIyl6kDtMY/edit?usp=drive_link,Y,心理健康,有興趣的人來聊聊吧～,g0v slack @psychmatch_public,,,,
+7,9:58,,劉康慧教授助理與三位同學,實體,,關於黑客松活動挑戰的經驗分享與挑戰內容,開放創新的研究問卷,,,,填寫問卷前會發放知情同意書說明研究內容，問卷內容包含分享參與黑客松活動挑戰的動機與經驗,,,,,,,,
+8,10:01,,島島阿學,實體,,找夥伴與揪團功能,找夥伴與揪團功能終於出爐！邀請大家來測試！,"CC
+LGPL",Y,,https://docs.google.com/presentation/d/12fY5O0rfq7sCrVKo2AIElzprAHoD_7tr/edit#slide=id.g2be7f10a6e8_0_30,Y,自主學習、學習夥伴、徵求測試,測試者,g0v slack #edu-daodao,,,,
+9,10:04,,Allen,實體,Y,Wikidata ,Open Data Day 與 Wikidata,CC0,Y,https://hackmd.io/@wikidata-tw/H1q_IpzEu,https://slides.com/allenwang6212/wikidatag0v61st/,Y,資料彙整、不用寫程式、開放資料,整理資料,g0v slack #wikidatataiwan,,,,
+10,10:07,,YuTin,實體,,Public Code,code.gov.tw,MIT / ToDo,Y,https://www.canva.com/design/DAF-RnrVm48/-fh84vVVxluYWXPWAIdGtg/edit,https://github.com/mutix-co/codegov/,,,,,,,,
+11,10:10,,Moritz,實體,,GuanDOOM,Deliberate open-source omniscient map,CC-BY,,https://docs.google.com/document/d/1EeOM_Mi04UGRNd7MqYrvCsUEfN5VOTo-hH9CKPa2f9I/edit?usp=sharing,https://www.figma.com/file/5BZh0ZBYcNcQNmv86xITe1/Property-listing-website-concept-(Community)?type=design&node-id=0%3A1&mode=design&t=LF0RyG0rzShFbOax-1,Y,"mapping, Guandu, e-participation","webdevs, e-participation folks",g0v slack @mojoee,,,,
+12,10:13,,Jasmine,實體,,拉人更輕鬆,新手友善——g0v基礎建設改良,CC0,Y,,https://drive.google.com/file/d/18UpphP47mvH6mJptZhuPTKuEIrFyyO2a/view?usp=drivesdk,Y,基礎建設、新手友善、學生,對基礎建設有想法、有興趣的人,g0v slack @Yvonne,,,,
+13,10:16,,Bil,實體,Y,Cofacts 真的假的,Cofacts 真的假的,"MIT, 
+CC-BY-SA",y,https://cofacts.tw/hack,https://docs.google.com/presentation/d/1wT5Ili0pxQNBmGaILJjadFyNKY5rK3qfBw8iArfUPOo/edit#slide=id.g28caf866bb2_1_0,Y,程式開發、事實查核、AI,"會 Google 找資料的人
+會 NodeJS / ReactJS 的人",g0v slack #cofacts @mrorz @bil,,,,
+14,10:19,,Franki,實體,N,永續報告書分析 aka 企業捐款與合作分析,分析2022年的企業永續報告書，捐款跟社會共融面向的（資料已經都整理好了，欠人一起討論跟分析！）,CC-BY-NC,Y,https://hackmd.io/@FrankiCheung/SJ2GOXeT6,"https://docs.google.com/presentation/d/1PULDqUBgvHi_sqz2Us3S_5lrhz1M8nNdGbb56fC1MTw/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1zS_uPr32RJzreivHrWxaqJib7uLKPFYVMPi2BA6B-as/edit?usp=sharing",Y,永續報告書、數據分析,數據分析,g0v slack @Franki #企業捐款與合作分析,,,,
+15,10:22,,"救松團 chewei, Ronny",實體,Y,來救松,一起來救松,CC-BY,Y ,https://g0v.hackmd.io/0_V7AdIHScOscBHTb4wmQw?view,https://docs.google.com/presentation/d/10Or6t-f5wWC8cUcYCoWtHVo1zCa2XQLfthLyff1gYWc/edit,Y,"歡迎定期定額捐款支持社群雲端資源與舉辦黑客松, 一起來推展募款吧~ 💰",都很歡迎~,"g0v slack 
+#fundraising-救松團-募款執行
+g0v slack @chewei @Ronny",,,,
+,,,== 截止 ==,,,,,,,,,,,,,,,,
+候補,,,"Bobby, Paul",實體,,new safeID 換洩證號,找到熱血律師告官啦！！不用親跑更換身分證號，也能對內政部提告！團體訴訟是免費可以參加的嗎？,CC-BY-SA,Y,https://g0v.hackmd.io/yZd5nmZWRLqQ2R2kqvcNqg,https://forms.gle/ZmmsDaXBfwyHQEfQ6,Y,"個資隱私、反詐騙、低技術門檻
+data-privacy, anti-scam, low-tech","宜蘭縣民, 很不爽內政部洩露戶政資料的人, 會做長輩圖的人, 會寫作文的人, 會打字的人, 平面設計師, 前端開發者, 會下 prompt 生圖的人, 會創作短影音的人
+who can make taiwanese boomer meme, who can compose social media post(or msg), who can type in mandarin chinese or english, graphic desinger, front-end dev, who can generate image or video with AIGC tools, who can shot or make short video (like tiktok)","g0v slack #privacy
+or
+@paulpengtw",,,,
+"11:00【Code for Japan 「公民科技挑戰盃 U-22（Civictech Challenge Cup U-22）」獲獎團隊分享】
+每個 present 6min",,,,,,,,,,,,,,,,,,,
+順序,"發表時間
+Time",完成,"發表團隊
+Team","發表形式
+Form",錄影以 CC-BY 釋出?,"專案名稱
+Project Name",,"專案授權
+Project License ","投影片連結
+Slide Link",,"其他相關連結
+Other Links","專案三個關鍵字
+3 Keywords of Project",,"坑主聯絡方式
+Ways to Contact the Project Founder",,,,,"g0v tw hackathXXn — 中場短講 — 專案名稱
+Project Name ／ 發表團隊
+Team — XXX黑客松"
+1,11:00,,Code for Japan,實體 on-site,,Introduction: Civictech Challenge Cup U-22,,CC BY,,https://docs.google.com/presentation/d/18WuylEBx-OZsM6hs8hU-9QjbHXuVicMFmA1K9glUSKw/edit?usp=sharing,,"CfJ, Prototype Contest, Students",,,,,,,
+2,11:06,,ジェルホス,實體 on-site,,"專為移動垃圾箱和減少收集工作量而設計的路線追蹤車
+Line-Tracing Vehicle Designed to Move Trash Bins and Reduce Collection Effort        ",,CC BY,,https://docs.google.com/presentation/d/1DNpHiVyKT8YuQDY1lynXSqo2qMTTBZ9d/edit,,"Line-Trace, High school, IoT",,,,,,,
+3,11:12,,RiverPotter,實體 on-site,,"巴士延誤訊息 APP
+App Visualizing Bus Delay Information",,CC BY,,https://docs.google.com/presentation/d/1g1XLe7HHSLylbP17cNpr6uH-tcldOOkvQJb5t4Iddo0/edit,,"Bus, Transportation, App",,,,,,,
+4,11:18,,チーム虹色,實體 on-site,,"LGBTQ 可視化社群APP
+LGBTQ Community Visualization App (2021 finalists)",,CC BY,,https://docs.google.com/presentation/d/1Oe1HffE3jWqgwIvKIMIDLZkItd120oOUNz2R6oI7SNQ/edit?usp=drive_link,,"LGBTQ, Community, App",,,,,,,
+5,11:24,,Cheagle,實體 on-site,,"AI 講故事工具
+AI Storytelling Tool",,CC BY,,https://docs.google.com/presentation/d/1Igpn9ltDsJBg7Zgf6QMSXy1d-FgG_5N8vkm8p5T0RmE/edit,,"AI, Storytelling, Education",,,,,,,
+6,11:30,,H2O,實體 on-site,,"兒童安全上學路線地圖
+Map Showing Safe Routes to School for Children        ",,CC BY,,https://docs.google.com/presentation/d/1IzvtZMYYBjE41ijoEZVF5n3WDUBpWH6TuTWRKjyPggM/edit,,"Map, Kids, Safety",,,,,,,
+,,,,,,,,,,,,,,,,,,,
+"13:00 零時小學校 4th 專案孵化競賽決選日
+每個 present 12 min（6 min Demo + 6 min Q&A）",,,,,,,,,,,,,,,,,,,
+1,13:10,,,實體,,BrainMate,,,,,,,,,,,,,
+2,13:22,,,實體,,自學力 製學例 實驗教育資源整合平台,,,,,,,,,,,,,
+3,13:34,,,實體,,Rep0rter - g0v 虛擬記者 - 每日 g0v 大小事資訊推播,,,,,,,,,,,,,
+4,13:46,,,實體,Y,直覺物理（intuiPhysics）,,公眾領域,Y,,https://drive.google.com/file/d/1pmGTpY4kjvYGXh8Ansv9UtGqWFdFjY6c/view?usp=drivesdk,Y,物理直覺、物理動畫、物理與程式教育,中學物理教師、對物理教育有興趣的 SwiftUI 或 Web 前端工程師,g0v Slack @denkeni or denkenie@gmail.com,,,,
+5,13:58,,宏信,實體,Y,Linux Odyssey - 互動式終端機教學網站,,GPL v3,Y,,https://linuxodyssey.xyz,Y,,,g0v Slack linux-odyssey,,,,
+6,14:10,,Lazp,實體,,Dev-in.tw,,AGPL v3 CC-BY-NC-SA,Y,https://hackmd.io/@dev-in-tw,https://1drv.ms/p/s!ArIHXmHqar5Lund4BsKLxeQZu5Xc?e=xO0D1U,Y,開發者、子網域、自動化,前端、後端、客服人員、審核人員,"haco@lazco.dev
+support@lazco.dev",,,,
+休息時間 break time,,,,,,,,,,,,,,,,,,,
+7,14:40,,,實體,,民防下午茶 CD T-Time,,,,,,,,,,,,,
+8,14:52,,,實體,,智能協同：輔協智能障礙者門市服務之混合實境技能訓練系統,,,,,,,,,,,,,
+9,15:04,,Paul,實體,,nonprofit-helper 會務 E 化小幫手,,"AGPL v3, CC-BY-SA",Y,https://g0v.hackmd.io/@nonprofit-helper/nonprofit-helper-home,https://youtu.be/pJ943sP4ExI,Y,"公益組織, 賦能, 行政作業","非營利組織工作者, 非營利組織志工, 
+後端 或  想練習刻前端的人","g0v slack @paulpengtw or
+fb.com/paulpengtw or
+nonprofit-helper@googlegroups.com",,,,
+10,15:16,,,實體,,綠洲計畫LZGH－－引領偏鄉學子走入特殊選才,,,,,,,,,,,,,
+11,15:28,,,實體,,FlowPath｜探索學習的微光時刻,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+"17:00【 present project】 規則：
+每個 present 5min，可視 project 數量和剩餘時間調整",,,,,,,,,,,,,,,,,,,
+1,17:00,,irvin,實體,Y,"如果中共拖網漁船""意外損壞""台灣對外的所有海纜，3/8 當天還能買 pchome 嗎？",以 pchome 產品頁為例的人工檢測步驟與結果,CC0,Y,,https://g0v.hackmd.io/x4cR0BtxTf6eLw_6vaPY3A?both#pchome-產品頁-resources-檢測結果,,數位韌性、民生,"script, fullstack
+人工檢核員","@irvin
+g0v slack #civil-defense",,,,"g0v tw hackathXXn — 成果報告 — 如果中共拖網漁船""意外損壞""台灣對外的所有海纜，3/8 當天還能買 pchome 嗎？ ／ irvin — XXX黑客松"
+2,17:05,,Mark Chang,實體,,Breeze-7B,Open Source Traditional Chinese Language Model and Dataset for Taiwan,,,,https://drive.google.com/file/d/14BLtwsc3GPSG2gJ-yg7f1Nlew7TTyNyT/view?usp=sharing,,,,,,,,
+3,17:10,,Franki,實體,,永續報告書分析 aka 企業捐款與合作分析,分析2022年的企業永續報告書，捐款跟社會共融面向的（資料已經都整理好了，欠人一起討論跟分析！）,CC-BY-NC,Y,https://hackmd.io/@FrankiCheung/SJ2GOXeT6,,,,,,,,,
+4,17:15,,卓學長,實體,,防災任務行動指南,成為一個有動機、能行動、會擴散的數位指南,,,,https://whimsical.com/RKisgctnp6RWMBfWUSkV7E,,,,,,,,
+5,17:20,,pm5,實體,,g0v Summit 2024,2024 灑蜜開市,CC BY SA ,Y,https://g0v.hackmd.io/@summit2024/book/https%3A%2F%2Fg0v.hackmd.io%2FdttYgGq1SmqCCp4ZntffZw,2024 g0v Summit 20230302成果報告,Y,場務人員、議程助理、投稿～,場務人員、議程助理,g0v slack #summit-2024-bootstrap,,,,
+6,17:25,,robin,實體,,GuanDOOM,"Public participation, city planning map, cloud based web-app",cc-by,,https://guan-doom.vercel.app/,https://guan-doom.vercel.app/,,"open democracy, city planning, public participation",anyone who likes web-based map apps,"g0v slack @mojoee
+ ",,,,
+7,17:30,,沒人的話宥伯要,實體,,,,,,https://docs.google.com/presentation/d/1BNLnRTX1go4GnEceLJ-M0wW7VvxQpi_f/edit?usp=drive_link&ouid=106480865234997671288&rtpof=true&sd=true,,,,,,,,,
+8,17:35,,chewei,實體,Y,waytosafety,"Shelter Map & Open Data (Taiwan, Japan, Korea) 避難收容所資料勘誤",cc-by,Y,https://g0v.hackmd.io/@waytosafety/home,,Y,"Shelter dataset, Safety, GIS","GIS, map","@chewei
+g0v Slack #facing-the-ocean 
+g0v Slack #disaster-go",,,,
+9,17:40,,"chewei, ronny",實體,Y,來救松,一起來救松,cc-by,Y,https://g0v.hackmd.io/0_V7AdIHScOscBHTb4wmQw?both,,,,,,,,,
+10,17:45,,,,,,,,,,,,,,,,,,
+11,17:50,,"Bobby, Paul",實體,,new safeID 換洩證號,找到熱血律師告官啦！！不用親跑更換身分證號，也能對內政部提告！團體訴訟是免費可以參加的嗎？,CC-BY-SA,Y,https://g0v.hackmd.io/yZd5nmZWRLqQ2R2kqvcNqg,https://g0v.hackmd.io/@paulpengtw/S1owmvla6#/,Y,"個資隱私、反詐騙、低技術門檻
+data-privacy, anti-scam, low-tech","宜蘭縣民, 很不爽內政部洩露戶政資料的人, 會做長輩圖的人, 會寫作文的人, 會打字的人, 平面設計師, 前端開發者, 會下 prompt 生圖的人, 會創作短影音的人
+who can make taiwanese boomer meme, who can compose social media post(or msg), who can type in mandarin chinese or english, graphic desinger, front-end dev, who can generate image or video with AIGC tools, who can shot or make short video (like tiktok)","g0v slack #privacy
+or
+@paulpengtw",,,,
+12,17:55,,揪松團,實體,,,"歡迎每月定期定額捐款 ✨
+支持 g0v 社群與黑客松 💪
+歡迎大家填寫影響力問卷 ✍",,,,,,,,,,,,
