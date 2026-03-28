@@ -1,0 +1,118 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { readFileSync } from 'fs';
+import { join } from 'path';
+
+const allHackathons = JSON.parse(
+  readFileSync(join(process.cwd(), 'data', 'g0v-hackathons-list.json'), 'utf-8')
+);
+const eventSessions = JSON.parse(
+  readFileSync(join(process.cwd(), 'data', 'event-sessions.json'), 'utf-8')
+);
+const hackathonData = JSON.parse(
+  readFileSync(join(process.cwd(), 'data', 'g0v-hackathon-data.json'), 'utf-8')
+);
+
+const base = import.meta.env.BASE_URL;
+
+// Ronny 出現在幾場 g0v 大松
+const RONNY = ['ronny', 'ronnywang', '王向榮'];
+function hasRonny(entries: any[]) {
+  return entries.some(e => {
+    const n = (e.presenter || '').toLowerCase();
+    return RONNY.some(r => n.includes(r));
+  });
+}
+const g0vRonnyCount = Object.values(hackathonData as any).filter((h: any) =>
+  hasRonny(h.proposals || []) || hasRonny(h.lightning || []) || hasRonny(h.reports || [])
+).length;
+
+// g0v 大松最新場次
+const g0vLatest = allHackathons[allHackathons.length - 1];
+
+// 其他活動資訊
+const colorMap: Record<string, string> = {
+  indigo:  'border-indigo-200 bg-indigo-50 text-indigo-700',
+  emerald: 'border-emerald-200 bg-emerald-50 text-emerald-700',
+  rose:    'border-rose-200 bg-rose-50 text-rose-700',
+  purple:  'border-purple-200 bg-purple-50 text-purple-700',
+  orange:  'border-orange-200 bg-orange-50 text-orange-700',
+  teal:    'border-teal-200 bg-teal-50 text-teal-700',
+};
+const headerColorMap: Record<string, string> = {
+  indigo:  'text-indigo-600',
+  emerald: 'text-emerald-600',
+  rose:    'text-rose-600',
+  purple:  'text-purple-600',
+  orange:  'text-orange-600',
+  teal:    'text-teal-600',
+};
+
+const events = [
+  {
+    key: 'g0v-hackathon',
+    label: 'g0v 大松',
+    color: 'indigo',
+    description: '每兩個月舉辦一次，去中心化、任何人都可以提案的公民科技黑客松。2012 年起至今超過 70 場，是台灣最重要的公民科技社群活動。',
+    count: allHackathons.length,
+    latestDate: g0vLatest?.date,
+    latestName: g0vLatest?.name,
+    ronnyCount: g0vRonnyCount,
+  },
+  ...Object.entries(eventSessions).map(([key, ev]: any) => {
+    const sessions = ev.sessions || [];
+    const dates = sessions.map((s: any) => s.date).filter(Boolean).sort();
+    return {
+      key,
+      label: ev.label,
+      color: ev.color || 'teal',
+      description: ev.description || '',
+      count: sessions.length,
+      latestDate: dates[dates.length - 1] || null,
+      latestName: sessions.find((s: any) => s.date === dates[dates.length - 1])?.name || null,
+      ronnyCount: null, // 非 g0v 大松不統計
+    };
+  }),
+];
+---
+
+<BaseLayout title="黑客松 — Ronny 的開源回憶錄" description="Ronny 參與或主辦的各類黑客松與工作松">
+  <div class="mb-8">
+    <h1 class="text-3xl font-bold text-stone-900 mb-2">黑客松</h1>
+    <p class="text-stone-500">Ronny 參與或主辦的各類黑客松與工作松</p>
+  </div>
+
+  <div class="space-y-4">
+    {events.map(ev => {
+      const chipCls = colorMap[ev.color] || colorMap.indigo;
+      const headerCls = headerColorMap[ev.color] || headerColorMap.indigo;
+      return (
+        <a href={`${base}/events/${ev.key}`}
+           class="block border border-stone-200 rounded-xl p-5 bg-white hover:shadow-sm hover:border-stone-300 transition-all group">
+          <div class="flex items-start gap-4">
+            <div class="flex-1 min-w-0">
+              <div class="flex items-center gap-3 mb-1.5 flex-wrap">
+                <h2 class={`text-lg font-bold ${headerCls}`}>{ev.label}</h2>
+                <span class={`text-xs font-mono px-2 py-0.5 rounded border ${chipCls}`}>
+                  {ev.count} 場
+                </span>
+                {ev.ronnyCount !== null && ev.ronnyCount > 0 && (
+                  <span class="text-xs bg-amber-100 border border-amber-300 text-amber-800 px-2 py-0.5 rounded">
+                    Ronny 出現 {ev.ronnyCount} 場
+                  </span>
+                )}
+              </div>
+              <p class="text-sm text-stone-600 leading-relaxed line-clamp-2">{ev.description}</p>
+              {ev.latestDate && (
+                <p class="text-xs text-stone-400 mt-2">
+                  最近一場：{ev.latestDate}{ev.latestName ? `・${ev.latestName}` : ''}
+                </p>
+              )}
+            </div>
+            <span class="text-stone-300 group-hover:text-stone-500 text-lg shrink-0 mt-1">→</span>
+          </div>
+        </a>
+      );
+    })}
+  </div>
+</BaseLayout>
