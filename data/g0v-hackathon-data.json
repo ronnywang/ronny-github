@@ -12835,83 +12835,651 @@
     "num": 41,
     "date": "2020-10-24",
     "name": "八週年黑客松",
-    "proposals_count": 4,
-    "lightning_count": 0,
-    "reports_count": 0,
+    "proposals_count": 14,
+    "lightning_count": 5,
+    "reports_count": 6,
     "proposals": [
       {
-        "presenter": "食物（2 人）\ngrass",
-        "topic": "報到（3 人）\nael、stella",
-        "project": "報到（3 人）\nael、stella",
-        "license": "場務（2人）\nsean、ichieh",
+        "time": "9:49",
+        "presenter": "irvin",
+        "topic": "CC0 中文句庫 / 統計工具\nCommon Voice 語音庫",
+        "project": "CC0 中文句庫 / 統計工具\nCommon Voice 語音庫",
+        "slides": "https://github.com/irvin/cc0-sentences\nhttps://github.com/irvin/voice-text-tools",
+        "license": "CC0",
+        "brief": "中文句庫、錄音、語音辨識",
+        "manpower": "- 程式：寫 node.js script 進行統計與分析，比對教育部常用國字表；串接 github CI，commit 後自動跑統計數字更新\n\n- 打字：把各 cc0 來源文本（例如 #rand0m 聊天記錄、或樓上 cofact 的文字）拆成一句一句放進句庫",
+        "seq": 4
+      },
+      {
+        "time": "9:52",
+        "presenter": "小蟹",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "slides": "https://amis.moedict.tw/",
+        "license": "CC0 1.0",
+        "brief": "原住民族、阿美語、萌典",
+        "manpower": "對原住民有興趣的人、\b\n（新手超友善）用肉眼比對文字、\n前端工程師",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "心怡",
+        "topic": "無麩質案全網",
+        "project": "無麩質案全網",
+        "hackmd": "https://g0v.hackmd.io/YgaREhnPQn20PxtafWbjtg",
+        "slides": "https://docs.google.com/presentation/d/12gIBfm8JfxMdGMIAJbwKMVgVWzoS_Chn57w2XEoBMvY/edit",
+        "license": "CC 2.0",
+        "brief": "無麩質,食物,安全",
+        "manpower": "網頁設計,需要有人幫忙和其他機關聯絡",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "Claire",
+        "topic": "g0v Summit 2020 Code of Conduct 改善版提案",
+        "project": "g0v Summit 2020 Code of Conduct 改善版提案",
+        "hackmd": "https://g0v.hackmd.io/07qu0YNWROKbJCJRb-ee0A?both",
+        "license": "CC0",
+        "brief": "行為守則、g0v summit、社群文化",
+        "manpower": "任何對打造多元友善的社群空間感興趣的人",
+        "seq": 7
+      },
+      {
+        "time": "10:01",
+        "presenter": "Bess",
+        "topic": "g0v Summit 2020 進度報告！徵人！",
+        "project": "g0v Summit 2020 進度報告！徵人！",
+        "hackmd": "https://g0v.hackmd.io/@summit2020/B1lJi83wP",
+        "slides": "https://summit.g0v.tw/2020/",
+        "license": "CC by 4.0",
+        "brief": "雙年會,國際,在地連結",
+        "manpower": "場務組工人,買票的人,幫忙宣傳的人",
+        "seq": 8
+      },
+      {
+        "time": "10:04",
+        "presenter": "Isabel",
+        "topic": "開放國會行動方案草案意見徵集",
+        "project": "開放國會行動方案草案意見徵集",
+        "hackmd": "https://vtaiwan.tw/topic/openparliament#disc",
+        "slides": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=43874",
+        "license": "\bCC0",
+        "brief": "開放國會、數位、行動",
+        "manpower": "對未來的國會有想法的人",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "okcool",
+        "topic": "批踢踢不能亡",
+        "project": "批踢踢不能亡",
+        "slides": "https://docs.google.com/presentation/d/14jbs6s_2tQYN3kl6sCQsmMTGbiDPMGu-mABMqUXbsn4/edit?usp=sharing",
+        "brief": "批踢踢、社群、App",
+        "manpower": "對社群發展有興趣的人",
+        "seq": 10
+      },
+      {
+        "time": "10:10",
+        "presenter": "Giovanni （賈彬）",
+        "topic": "點滴濃度小幫手",
+        "project": "點滴濃度小幫手",
+        "hackmd": "https://g0v.hackmd.io/s5zHXaKUTEazpt4_9AuV-Q",
+        "slides": "https://bit.ly/3odlWIi",
+        "license": "程式 MIT",
+        "brief": "護理師、點滴、醫療現場",
+        "manpower": "UX / UI\n醫護背景人員",
+        "seq": 11
+      },
+      {
+        "time": "10:13",
+        "presenter": "allenlinli",
+        "topic": "多粉對談速配版",
+        "project": "多粉對談速配版",
+        "slides": "https://docs.google.com/presentation/d/1w9rXgT9FfLG0gAmKtiC9Fr_H-g5Rir5yAWi6r_B7WLs/edit?usp=sharing",
+        "license": "CC BY 4.0",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "比鄰/bil",
+        "topic": "Cofacts 真的假的",
+        "project": "Cofacts 真的假的",
+        "hackmd": "https://cofacts.org/hack",
+        "slides": "https://docs.google.com/presentation/u/0/d/1CQdls6_3OBhI-IeW9KUJBw5Q-Zv6hMGwuS7d-14nvNM/edit",
+        "license": "程式 MIT\n文字 CC0",
+        "brief": "crowd sourcing, fact-checking, chatbot",
+        "manpower": "Node.js, React.js engineers, data scientists, 願意回應網路訊息的人、chatbot愛好者、少女、喜歡上網的人、缺朋友，求加好友",
+        "seq": 13
+      },
+      {
+        "time": "10:19",
+        "presenter": "孟庭",
+        "topic": "CoTeach 教案資源共享平臺",
+        "project": "CoTeach 教案資源共享平臺",
+        "hackmd": "https://beta.hackfoldr.org/coteach",
+        "slides": "https://coteach.app",
+        "license": "程式 MIT",
+        "brief": "教育、協作、平臺",
+        "manpower": "體制內外教育工作者、前後端工程師、有協作專案經驗者、以及願意協助整理現有教案資源的妳和你<3（無技術需求）",
+        "seq": 14
+      },
+      {
+        "time": "10:22",
+        "presenter": "ael",
+        "topic": "Disfactory 農地工廠回報系統",
+        "project": "Disfactory 農地工廠回報系統",
+        "hackmd": "https://g0v.hackmd.io/@yukaii/Disfactory",
+        "slides": "https://about.disfactory.tw/",
+        "license": "程式 MIT\n文字 CC-BY 4.0",
+        "brief": "違章工廠、回報、地圖",
+        "manpower": "數位行銷、數據分析、任何人作為使用者來測試",
+        "seq": 15
+      },
+      {
+        "presenter": "clkao",
+        "topic": "iDystopia: 2030 數位身份大冒險",
+        "project": "iDystopia: 2030 數位身份大冒險",
+        "hackmd": "http://bit.ly/g0v-eid",
+        "slides": "https://idystopia.online",
+        "license": "程式 MIT\n文字 CC-BY",
+        "brief": "數位身份、遊戲、數位藝術展覽",
+        "manpower": "- hacker (front-end, security)\n- story-teller\n- installation curator",
         "seq": 1
       },
       {
-        "presenter": "與廠商訂食物",
+        "time": "莫急莫慌",
+        "presenter": "有排有機會",
+        "topic": "欸有沒有候補要上！",
+        "project": "欸有沒有候補要上！",
+        "seq": 2
+      }
+    ],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "14:30",
+        "presenter": "Naoko Takahashi Taymanov",
+        "topic": "Futuring Peace / UN DPPA Innovation Cell",
+        "project": "Futuring Peace / UN DPPA Innovation Cell",
+        "slides": "https://g0v.hackmd.io/@jothon/ByHNSXTww",
+        "brief": "UN, Peacebuilding, AI",
+        "manpower": "歡迎提出相關提案，可能會有合作機會",
+        "seq": 1
+      },
+      {
+        "time": "14:40",
+        "presenter": "tumi",
+        "topic": "綠屋頂學校",
+        "project": "綠屋頂學校",
+        "slides": "https://hackmd.io/@hsing1/S11Yq0FQw",
+        "brief": "綠屋頂園藝, 都市農業, 共享經濟",
         "seq": 2
       },
       {
-        "time": "大松活動timeline",
-        "presenter": "當日擺盤順序",
-        "topic": "隨時都要有人在",
-        "project": "隨時都要有人在",
-        "license": "場佈、撤場",
+        "time": "14:50",
+        "presenter": "ael",
+        "topic": "Beginner Guide to Civic Tech",
+        "project": "Beginner Guide to Civic Tech",
         "seq": 3
       },
       {
-        "time": "開場（9:40-9:50）\n\n三分鐘提案\n（9:50-11:00）",
-        "presenter": "早餐時段\n9:30 - 11:00",
+        "time": "15:00",
+        "presenter": "Sam",
+        "topic": "Looking for interviewees (Civic tech)",
+        "project": "Looking for interviewees (Civic tech)",
+        "slides": "https://docs.google.com/presentation/d/1N3L7n17C6EWdKD31vQfSfb_whmswF70tUEVwLhoppEY/edit?usp=sharing",
         "seq": 4
       }
     ],
-    "lightning": [],
-    "reports": []
+    "reports": [
+      {
+        "time": "17:00",
+        "presenter": "隕石 ＆ 白猴",
+        "topic": "包材交流line 機器人",
+        "project": "包材交流line 機器人",
+        "slides": "https://docs.google.com/presentation/d/1f8J8lDUDhYhuQ9pszwKbn2iK2jONwEAwgi1EaXTAaL8/edit",
+        "brief": "包材流通, 循環經濟",
+        "manpower": "line api 工程師",
+        "seq": 1
+      },
+      {
+        "time": "17:05",
+        "presenter": "bill",
+        "topic": "cc0 句庫",
+        "project": "cc0 句庫",
+        "slides": "https://github.com/mozilla/common-voice/pull/2920\nhttps://github.com/irvin/cc0-sentences/pull/2",
+        "license": "CC0",
+        "manpower": "能打字協助整理 #rand0m chatlog 的人",
+        "seq": 2
+      },
+      {
+        "time": "17:10",
+        "presenter": "clkao",
+        "topic": "iDystopia 2035 數位身份大冒險",
+        "project": "iDystopia 2035 數位身份大冒險",
+        "slides": "https://idystopia.online",
+        "license": "MIT / CC-BY",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "Lafin",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "slides": "https://amis.moedict.tw/",
+        "license": "CC0 1.0",
+        "brief": "原住民族、阿美語、萌典",
+        "manpower": "對原住民有興趣的人、\n（新手超友善）用肉眼比對文字、\n前端工程師",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "MrOrz",
+        "topic": "Cofacts 真的假的",
+        "project": "Cofacts 真的假的",
+        "hackmd": "https://cofacts.org/hack",
+        "slides": "https://docs.google.com/presentation/u/0/d/1CQdls6_3OBhI-IeW9KUJBw5Q-Zv6hMGwuS7d-14nvNM/edit",
+        "license": "程式 MIT\n文字 CC0",
+        "brief": "crowd sourcing, fact-checking, chatbot",
+        "manpower": "Node.js, React.js engineers, data scientists, 願意回應網路訊息的人、chatbot愛好者、少女、喜歡上網的人、缺朋友，求加好友",
+        "seq": 5
+      },
+      {
+        "time": "17:30",
+        "presenter": "allenlinli & Ronny",
+        "topic": "多粉對談速配版",
+        "project": "多粉對談速配版",
+        "slides": "https://better-taiwan-politicss.blogspot.com/2020/10/g0v-g0v-hackath.html",
+        "license": "CC by 4.0",
+        "brief": "理性討論、交友、時事議題",
+        "manpower": "測試者、UI/UX 設計師、",
+        "seq": 7
+      }
+    ]
   },
   "g0v-hackath42n": {
     "id": "g0v-hackath42n",
     "num": 42,
     "date": "2021-01-23",
     "name": "黑客松",
-    "proposals_count": 4,
-    "lightning_count": 0,
-    "reports_count": 1,
+    "proposals_count": 16,
+    "lightning_count": 7,
+    "reports_count": 13,
     "proposals": [
       {
-        "presenter": "食物（2 人）\ngrass",
-        "topic": "報到（2 - 3 人）\nstella、小蟹、筱翎",
-        "project": "報到（2 - 3 人）\nstella、小蟹、筱翎",
-        "license": "顧門（6 人）",
-        "brief": "錄影（1 人）\nmacpaul",
-        "manpower": "照相（1 人）\n月太",
+        "time": "9:40",
+        "presenter": "chihao",
+        "topic": "powered by g0v",
+        "project": "powered by g0v",
+        "hackmd": "https://g0v.hackmd.io/gndLL2RHQYOKnVRLBvEcJA",
+        "license": "cc0",
+        "brief": "g0v 力、基礎建設",
+        "manpower": "設計師",
         "seq": 1
       },
       {
-        "presenter": "與廠商訂食物",
+        "time": "9:43",
+        "presenter": "pei4",
+        "topic": "g0v新手村 Hello g0v",
+        "project": "g0v新手村 Hello g0v",
+        "slides": "https://drive.google.com/file/d/1c6OhDI8of92dw4b_APtMLQNxOf03EXCl/view?usp=sharing",
+        "brief": "基礎建設、新手入坑、hello world",
         "seq": 2
       },
       {
-        "time": "大松活動timeline",
-        "presenter": "當日擺盤順序",
-        "topic": "隨時都要有人在",
-        "project": "隨時都要有人在",
-        "license": "注意進出的人",
-        "brief": "可告知網路規格",
+        "time": "9:46",
+        "presenter": "Sandra",
+        "topic": "Disfactory 農地違章工廠回報",
+        "project": "Disfactory 農地違章工廠回報",
+        "hackmd": "https://g0v.hackmd.io/@yukaii/Disfactory",
+        "slides": "https://disfactory.tw/",
+        "license": "CC0 1.0",
+        "brief": "農地違章工廠、環團NGO、有點心飲料酒水的小聚",
+        "manpower": "使用者回饋、前端工程師",
         "seq": 3
       },
       {
-        "time": "三分鐘提案",
-        "presenter": "早餐時段\n9:30 - 11:00",
-        "manpower": "自我介紹拍攝",
+        "time": "9:49",
+        "presenter": "豆腐",
+        "topic": "PASSU-ME 快速履歷製造機",
+        "project": "PASSU-ME 快速履歷製造機",
+        "hackmd": "https://drive.google.com/file/d/1cV49fPEa89PyTJbAWhVoNyqx1Do4oCWP/view?usp=drivesdk",
+        "slides": "https://www.figma.com/file/Vp4nUvgrScLYgQERnUnIah/PASSU-ME?node-id=0%3A88",
+        "license": "CC0 1.0",
+        "brief": "快速生成履歷、學生、協助大眾更快速地入坑 (各種坑）",
+        "manpower": "UI/UX設計師、會架網站的人類、一點點寫算法的後端、人資專家、學生同類 (尤其特愛嘴108課綱的那種😏😏😏",
         "seq": 4
+      },
+      {
+        "time": "9:52",
+        "presenter": "tmonk",
+        "topic": "Taiwan ADIZ Alerts 臺灣防空識別區快訊",
+        "project": "Taiwan ADIZ Alerts 臺灣防空識別區快訊",
+        "hackmd": "https://g0v.hackmd.io/@tmonk/Bkff8k5qv/",
+        "slides": "https://docs.google.com/presentation/d/1YdlMIujrVrLdZ8fgmkpC-QCW2LBGocisiVRv0II9G1c/edit?usp=sharing",
+        "license": "CC0 1.0",
+        "brief": "共機擾台、資料視覺化快訊、爬蟲程式",
+        "manpower": "資料視覺化、懂軍機的人、懂日文的人、爬蟲、架網站",
+        "seq": 5
+      },
+      {
+        "time": "9:55",
+        "presenter": "SeanGau",
+        "topic": "Hello g0v",
+        "project": "Hello g0v",
+        "slides": "https://docs.google.com/presentation/d/1LnpRCqhlqtODkxd1vgL7oGCWpKJ3TGD3_gdwOtHnm-g/edit?usp=sharing",
+        "brief": "基礎建設、新手入坑、hello world",
+        "manpower": "UI/UX設計、前端工程師、想幫助新手入坑g0v的人",
+        "seq": 6
+      },
+      {
+        "time": "9:58",
+        "presenter": "Ronny",
+        "topic": "新國會大代誌",
+        "project": "新國會大代誌",
+        "hackmd": "https://g0v.hackmd.io/i3Ojc2WlRuqdOnH33Ll9FQ",
+        "slides": "https://docs.google.com/presentation/d/1RYYDAuO9pFGH3ELm-t51e-Fe0SRl9sV-sZSVfKT6Uyw/edit?usp=sharing",
+        "license": "BSD License",
+        "brief": "立法、立委、國會",
+        "manpower": "想復活國會大代誌，做立法流程視覺化",
+        "seq": 7
+      },
+      {
+        "time": "10:01",
+        "presenter": "小蟹",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "slides": "https://amis.moedict.tw/",
+        "license": "CC0 1.0",
+        "brief": "原住民族、阿美語、萌典",
+        "manpower": "（新手超友善）用肉眼比對文字、\n對原住民有興趣的人、\b\n前端工程師",
+        "seq": 8
+      },
+      {
+        "time": "10:04",
+        "presenter": "揪松團",
+        "topic": "Sch001",
+        "project": "Sch001",
+        "hackmd": "https://g0v.hackmd.io/@jothon/Sch001-2021",
+        "slides": "https://sch001.g0v.tw/power/",
+        "license": "v",
+        "brief": "資訊教育,自學,協作",
+        "manpower": "對教育專案和教育社群有興趣的人、想要推廣協作的人、想要一起編教材的人",
+        "seq": 9
+      },
+      {
+        "time": "10:07",
+        "presenter": "okcool",
+        "topic": "批踢踢不能亡",
+        "project": "批踢踢不能亡",
+        "slides": "https://docs.google.com/presentation/d/1EqPZAt2DMagy_SD80Vgn1iRUcvZ4OenR_IuQnx_NHWc/edit?usp=sharing",
+        "brief": "批踢踢、社群、App",
+        "manpower": "對虛擬社群發展有興趣的人",
+        "seq": 10
+      },
+      {
+        "time": "10:10",
+        "presenter": "Ofelia Chen",
+        "topic": "議見零時差",
+        "project": "議見零時差",
+        "slides": "https://drive.google.com/file/d/1Wr7KnZFidyCnKRC1nZ47aQlBYkJBG9Sl/view?usp=sharing",
+        "license": "CC BY-NC-SA",
+        "brief": "2022台北市議員選舉、台北市議會影片關鍵字搜尋、公民政治參與",
+        "manpower": "-徵很多志工，志工要把議員答辯逐字稿中的關鍵字圈選出來\n-徵搜尋bar演算法工程師",
+        "seq": 11
+      },
+      {
+        "time": "10:13",
+        "presenter": "Fly",
+        "topic": "生命、宇宙以及萬事萬物的終極答案？",
+        "project": "生命、宇宙以及萬事萬物的終極答案？",
+        "hackmd": "https://docs.google.com/document/d/1jvRjR7hN9FbsSOr9rv5QMhA5aDOcFlAlXyoFx0FYzEo/edit?usp=sharing",
+        "license": "CC0 1.0",
+        "brief": "衝動、接觸即興、HIIT",
+        "manpower": "生命力旺盛的人",
+        "seq": 12
+      },
+      {
+        "time": "10:16",
+        "presenter": "gavin",
+        "topic": "天空中棲架/數位式救災應用",
+        "project": "天空中棲架/數位式救災應用",
+        "hackmd": "https://www.facebook.com/groups/101397120502155",
+        "slides": "https://bit.ly/2Y7fGG8",
+        "license": "CC BY-SA 4.0/CC BY-NC-SA 4.0",
+        "seq": 13
+      },
+      {
+        "time": "10:19",
+        "presenter": "bil / MrOrz",
+        "topic": "Cofacts 真的假的",
+        "project": "Cofacts 真的假的",
+        "hackmd": "https://cofacts.tw/hack",
+        "slides": "https://cofacts.tw/",
+        "license": "MIT / CC BY-SA 4.0",
+        "brief": "crowd sourcing, fact-checking, chatbot",
+        "manpower": "Node.js, React.js engineers, data scientists, 願意回應網路訊息的人、chatbot愛好者、喜歡上網的人、缺朋友，求加好友",
+        "seq": 14
+      },
+      {
+        "time": "10:22",
+        "presenter": "eli",
+        "topic": "踏出同溫,中立資訊",
+        "project": "踏出同溫,中立資訊",
+        "hackmd": "https://docs.google.com/document/d/1G_oncGAQtPMUNEVuOLdMz8f_U6XXaTgasCjHeA56qM0/edit#",
+        "slides": "https://drive.google.com/open?id=19RQefmXoK9RmGkrk6iNwQuw62n12TR67",
+        "license": "MIT",
+        "brief": "偏頗資訊 立場分析 資訊攻擊",
+        "manpower": "對假消息 偏頗消息 資訊攻擊有興趣的人\n工程師：資訊爬蟲 關鍵字斷詞 文章語意分析 圖形辨識 UI/UX",
+        "seq": 15
+      },
+      {
+        "time": "10:25",
+        "presenter": "ckxpress",
+        "topic": "#decentralizehk - 去中心香港",
+        "project": "#decentralizehk - 去中心香港",
+        "slides": "https://docs.google.com/presentation/d/1n3ez1K24ZRWYmi_GjzkaOvVrGbg6p1WGWdpDJx_x19g/edit?usp=sharing",
+        "license": "GPL/CC-BY-SA",
+        "seq": 16
       }
     ],
-    "lightning": [],
+    "lightning": [
+      {
+        "time": "發表時間（自填）",
+        "presenter": "發表者",
+        "topic": "主題",
+        "project": "主題",
+        "brief": "三個關鍵字",
+        "manpower": "專案徵人",
+        "seq": 1
+      },
+      {
+        "time": "14:30",
+        "presenter": "吳柏蒼",
+        "topic": "42 主題分享",
+        "project": "42 主題分享",
+        "seq": 1
+      },
+      {
+        "time": "14:40",
+        "presenter": "吳柏蒼",
+        "topic": "42 音樂分享",
+        "project": "42 音樂分享",
+        "seq": 2
+      },
+      {
+        "time": "14:50",
+        "presenter": "楊家彥",
+        "topic": "社群、社會影響力地圖評估及專案反饋",
+        "project": "社群、社會影響力地圖評估及專案反饋",
+        "seq": 3
+      },
+      {
+        "time": "15:00",
+        "presenter": "彭松嶽",
+        "topic": "都柏林與波士頓的公民科技",
+        "project": "都柏林與波士頓的公民科技",
+        "seq": 4
+      },
+      {
+        "time": "15:10",
+        "presenter": "RSChiang",
+        "topic": "居家檢疫通知書（時間不會用完，可以跟人 share！）",
+        "project": "居家檢疫通知書（時間不會用完，可以跟人 share！）",
+        "seq": 5
+      },
+      {
+        "time": "15:20",
+        "presenter": "Sam",
+        "topic": "我研究 g0v 到底在做什麼",
+        "project": "我研究 g0v 到底在做什麼",
+        "hackmd": "https://docs.google.com/presentation/d/1TuNcT5lBl0E5MhSegy-qLJm_S9s-VmG08A3_kQ-YLEk/edit?usp=sharing",
+        "slides": "https://docs.google.com/presentation/d/1TuNcT5lBl0E5MhSegy-qLJm_S9s-VmG08A3_kQ-YLEk/edit?usp=sharing",
+        "seq": 6
+      }
+    ],
     "reports": [
       {
-        "time": "成果發表\n17:00- 18:00",
-        "presenter": "廠商回收",
-        "manpower": "成果發表拍攝",
+        "time": "17:05",
+        "presenter": "chewei",
+        "topic": "台灣未來日誌 / 預想行事曆",
+        "project": "台灣未來日誌 / 預想行事曆",
+        "hackmd": "https://g0v.hackpad.tw/%E9%A0%90%E6%83%B3%E8%A1%8C%E4%BA%8B%E6%9B%86-%E8%B3%87%E6%96%99%E8%92%90%E9%9B%86%E9%A0%81%E9%9D%A2-cjdeZ8orXk4",
+        "license": "cc-by",
+        "brief": "預測資料、資料庫、網站",
+        "manpower": "訂定預測內容資料結構欄位、database、前端",
+        "seq": 2
+      },
+      {
+        "time": "17:10",
+        "presenter": "MrOrz",
+        "topic": "Cofacts",
+        "project": "Cofacts",
+        "hackmd": "https://cofacts.tw/hack",
+        "slides": "https://cofacts.tw/",
+        "license": "MIT / CC BY-SA 4.0",
+        "brief": "crowd sourcing, fact-checking, chatbot",
+        "manpower": "Node.js, React.js engineers, data scientists, 願意回應網路訊息的人、chatbot愛好者、喜歡上網的人、缺朋友，求加好友",
+        "seq": 3
+      },
+      {
+        "time": "17:15",
+        "presenter": "Irvin",
+        "topic": "登山鴿子求援系統 SOS Pigeon\n\n（偷偷塞文字進來宣傳，遠端不連線）",
+        "project": "登山鴿子求援系統 SOS Pigeon\n\n（偷偷塞文字進來宣傳，遠端不連線）",
+        "hackmd": "https://g0v.hackmd.io/@irvin/sos_pigeon/edit",
+        "license": "CC BY 2.0",
+        "brief": "救援, 動物, 登山",
+        "manpower": "- 登山愛好\n- 養鴿 / 賽鴿訓練經驗者\n- 山難搜救經驗者",
+        "seq": 4
+      },
+      {
+        "time": "17:20",
+        "presenter": "豆腐",
+        "topic": "PASSU-ME 產品流程圖",
+        "project": "PASSU-ME 產品流程圖",
+        "slides": "https://whimsical.com/passu-me-7wWp1KfuV5e3DjV7FUnGFf\nhttps://terry-f-wang.medium.com",
+        "license": "CC0 1.0",
+        "brief": "快速生成履歷、學生、協助大眾更快速地入坑 (各種坑）",
+        "manpower": "UI/UX設計師、會架網站的人類、一點點寫算法的後端、人資專家、學生同類 (尤其特愛嘴108課綱的那種😏😏😏",
+        "seq": 5
+      },
+      {
+        "time": "17:25",
+        "presenter": "Ronny",
+        "topic": "國會大代誌穢土轉生中",
+        "project": "國會大代誌穢土轉生中",
+        "hackmd": "https://g0v.hackmd.io/i3Ojc2WlRuqdOnH33Ll9FQ",
+        "license": "前端: MIT License\n後端:BSD License",
+        "seq": 6
+      },
+      {
+        "time": "17:30",
+        "presenter": "tmonk",
+        "topic": "Taiwan ADIZ Alerts 臺灣防空識別區快訊",
+        "project": "Taiwan ADIZ Alerts 臺灣防空識別區快訊",
+        "hackmd": "https://g0v.hackmd.io/iGSe35vzSm6QhrkFnWSeYg",
+        "slides": "https://g0v.hackmd.io/@tmonk/SyxS27KJO",
+        "license": "CC0 1.0",
+        "brief": "共機擾台、資料視覺化快訊、爬蟲程式",
+        "manpower": "資料視覺化、懂軍機的人、懂日文的人、爬蟲、架網站",
+        "seq": 7
+      },
+      {
+        "time": "17:35",
+        "presenter": "Jothon",
+        "topic": "Sch001",
+        "project": "Sch001",
+        "hackmd": "https://g0v.hackmd.io/@jothon/Sch001-2021",
+        "slides": "https://sch001.g0v.tw/power/",
+        "license": "CC BY 4.0",
+        "brief": "資訊教育,自學,協作",
+        "manpower": "對教育專案和教育社群有興趣的人、想要推廣協作的人、想要一起編教材的人",
         "seq": 1
+      },
+      {
+        "time": "17:40",
+        "presenter": "小蟹",
+        "topic": "阿美語萌典",
+        "project": "阿美語萌典",
+        "slides": "https://amis.moedict.tw/",
+        "license": "CC0 1.0",
+        "brief": "原住民族、阿美語、萌典",
+        "manpower": "（新手超友善）用肉眼比對文字、\n對原住民有興趣的人、\b\n前端工程師",
+        "seq": 9
+      },
+      {
+        "time": "17:45",
+        "presenter": "Fly",
+        "topic": "workouts.gq",
+        "project": "workouts.gq",
+        "hackmd": "https://docs.google.com/document/d/1jvRjR7hN9FbsSOr9rv5QMhA5aDOcFlAlXyoFx0FYzEo/edit?usp=sharing",
+        "license": "CC0 1.0",
+        "brief": "衝動、接觸即興、HIIT",
+        "manpower": "生命力旺盛的人",
+        "seq": 10
+      },
+      {
+        "time": "17:50",
+        "presenter": "SeanGau",
+        "topic": "g0v.tw translate",
+        "project": "g0v.tw translate",
+        "slides": "https://docs.google.com/presentation/d/15rxYw9UOjgrPWEY-SbCIta5KP1avq6IdIVHs0-ToqEM/edit#slide=id.p",
+        "seq": 11
+      },
+      {
+        "time": "17:55",
+        "presenter": "以婕代替",
+        "topic": "議見零時差",
+        "project": "議見零時差",
+        "seq": 12
+      },
+      {
+        "time": "18:00",
+        "presenter": "ichieh",
+        "topic": "新版會後問卷填寫",
+        "project": "新版會後問卷填寫",
+        "hackmd": "https://g0v.hackmd.io/@jothon/H1PSVkInP",
+        "seq": 13
+      },
+      {
+        "time": "18:05",
+        "presenter": "fu",
+        "topic": "#decentralizehk 去中心香港",
+        "project": "#decentralizehk 去中心香港",
+        "slides": "https://hackmd.io/Mqmd9SRhQfCNrUEzwW7ZqA",
+        "license": "GPL/CC-BY-SA",
+        "brief": "香港、區塊鏈、去中心",
+        "manpower": "文案、社群運營、議政、PHP、JS、TypeScript、Go、React、Vue",
+        "seq": 14
       }
     ]
   },
