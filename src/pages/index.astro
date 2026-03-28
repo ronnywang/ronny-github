@@ -1,80 +1,176 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import RepoCard from '../components/RepoCard.astro';
-import { getAllStories } from '../lib/stories.js';
+import { getAllStories, getStoryBySlug } from '../lib/stories.js';
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 const stories = getAllStories();
-const featured = stories.filter(s => s.stars >= 5).slice(0, 6);
-const total = stories.length;
+const base = import.meta.env.BASE_URL;
 
 // 統計
-const totalStars = stories.reduce((s, r) => s + (r.stars || 0), 0);
-const years = stories.map(s => s.date?.slice(0, 4)).filter(Boolean);
-const yearRange = years.length ? `${Math.min(...years)} – ${Math.max(...years)}` : '';
-const topics = new Set(stories.flatMap(s => Array.isArray(s.topics) ? s.topics : []));
+const years = stories.map(s => s.date?.slice(0, 4)).filter(Boolean).map(Number);
+const yearMin = years.length ? Math.min(...years) : 2012;
+const yearMax = years.length ? Math.max(...years) : new Date().getFullYear();
+
+// g0v 大松 Ronny 出席數
+const hackathonData = JSON.parse(
+  readFileSync(join(process.cwd(), 'data', 'g0v-hackathon-data.json'), 'utf-8')
+);
+const RONNY = ['ronny', 'ronnywang', '王向榮'];
+function hasRonny(entries: any[]) {
+  return entries.some(e => RONNY.some(r => (e.presenter || '').toLowerCase().includes(r)));
+}
+const g0vRonnyCount = Object.values(hackathonData as any).filter((h: any) =>
+  hasRonny(h.proposals || []) || hasRonny(h.lightning || []) || hasRonny(h.reports || [])
+).length;
+
+// 手選代表作：起點、長期倡議、近作
+const FEATURED = [
+  {
+    slug: 'realprice',
+    era: '2012 · 起點',
+    eraColor: 'text-stone-500',
+    highlight: '第一次把政府資料爬下來，帶去第零次 g0v 黑客松',
+  },
+  {
+    slug: 'tw-campaign-finance',
+    era: '2014–2019 · 長期倡議',
+    eraColor: 'text-indigo-500',
+    highlight: '從爬 PDF 到推動修法，政治獻金透明化走了五年',
+  },
+  {
+    slug: 'openbudget',
+    era: '2025 · 近作',
+    eraColor: 'text-emerald-600',
+    highlight: '十三年後，從 PDF 打開台灣完整的預算世界',
+  },
+];
+const featuredStories = FEATURED.map(f => ({
+  ...f,
+  story: getStoryBySlug(f.slug),
+})).filter(f => f.story);
+
+// 其餘故事（不含代表作），最近 8 篇
+const featuredSlugs = new Set(FEATURED.map(f => f.slug));
+const otherStories = stories.filter(s => !featuredSlugs.has(s.slug)).slice(0, 8);
+
+// 主題探索（手選 4 條路徑）
+const themePaths = [
+  {
+    label: '立法院',
+    desc: '從爬取議事錄到 LawTrace 查修法歷程',
+    icon: '🏛️',
+    href: `${base}/topics#topic-legislature`,
+    color: 'border-indigo-200 hover:border-indigo-400',
+  },
+  {
+    label: '政治獻金',
+    desc: '掃描 PDF → 群眾標注 → 推動即時公開',
+    icon: '💰',
+    href: `${base}/topics#topic-politics`,
+    color: 'border-amber-200 hover:border-amber-400',
+  },
+  {
+    label: '新聞媒體',
+    desc: '新聞小幫手、newsdiff、鄉民看電視',
+    icon: '📺',
+    href: `${base}/topics#topic-news`,
+    color: 'border-rose-200 hover:border-rose-400',
+  },
+  {
+    label: '黑客松',
+    desc: 'g0v 大松、國會松、數位韌性松…',
+    icon: '🛠️',
+    href: `${base}/hackathons`,
+    color: 'border-emerald-200 hover:border-emerald-400',
+  },
+];
 ---
 
-<BaseLayout>
-  <!-- Hero -->
-  <section class="py-12 border-b border-stone-200 mb-10">
-    <h1 class="text-3xl font-bold text-stone-900 mb-3">Ronny 的開源回憶錄</h1>
-    <p class="text-stone-500 text-lg max-w-2xl mb-8">
-      十幾年來參與 <a href="https://g0v.tw" target="_blank" class="text-indigo-600 underline">g0v 公民科技</a>，
-      做了很多亂七八糟的開源工具。這裡收錄了每個專案背後的故事。
-    </p>
+<BaseLayout title="Ronny 的開源回憶錄" description="從 2012 年第一次 g0v 黑客松到現在，每個專案背後的故事">
 
-    {total > 0 ? (
-      <div class="flex flex-wrap gap-6 text-center">
-        <div class="bg-white border border-stone-200 rounded-xl px-6 py-4 min-w-[120px]">
-          <div class="text-3xl font-bold text-indigo-600">{total}</div>
-          <div class="text-sm text-stone-500 mt-1">篇故事</div>
-        </div>
-        <div class="bg-white border border-stone-200 rounded-xl px-6 py-4 min-w-[120px]">
-          <div class="text-3xl font-bold text-amber-500">{totalStars}</div>
-          <div class="text-sm text-stone-500 mt-1">GitHub Stars</div>
-        </div>
-        {yearRange && (
-          <div class="bg-white border border-stone-200 rounded-xl px-6 py-4 min-w-[120px]">
-            <div class="text-xl font-bold text-stone-700">{yearRange}</div>
-            <div class="text-sm text-stone-500 mt-1">年份跨度</div>
-          </div>
-        )}
-        <div class="bg-white border border-stone-200 rounded-xl px-6 py-4 min-w-[120px]">
-          <div class="text-3xl font-bold text-emerald-600">{topics.size}</div>
-          <div class="text-sm text-stone-500 mt-1">主題分類</div>
-        </div>
-      </div>
-    ) : (
-      <div class="bg-amber-50 border border-amber-200 rounded-xl p-6 max-w-xl">
-        <p class="text-amber-800 font-medium mb-2">尚未有故事</p>
-        <p class="text-amber-700 text-sm">請先執行資料收集和訪談腳本：</p>
-        <pre class="text-xs bg-amber-100 rounded p-3 mt-2">npm run fetch-repos
-npm run fetch-readmes
-npm run interview</pre>
-      </div>
-    )}
+  <!-- Hero -->
+  <section class="pt-8 pb-10 border-b border-stone-200 mb-10">
+    <p class="text-xs font-mono text-stone-400 uppercase tracking-widest mb-3">ronnywang · 王向榮</p>
+    <h1 class="text-4xl font-bold text-stone-900 mb-4 leading-tight">開源回憶錄</h1>
+    <p class="text-stone-600 text-lg max-w-2xl leading-relaxed mb-6">
+      2012 年底，帶著剛爬好的實價登錄資料去參加第一次
+      <a href="https://g0v.tw" target="_blank" class="text-indigo-600 hover:underline">g0v 黑客松</a>。
+      從此十幾年，做了很多「把政府資料挖出來、整理好、讓大家用」的工具。
+      這裡記錄了每個專案背後的故事——為什麼做、碰到什麼、後來怎麼了。
+    </p>
+    <div class="flex flex-wrap gap-x-6 gap-y-1 text-sm text-stone-500">
+      <span><span class="font-semibold text-stone-800">{stories.length}</span> 篇故事</span>
+      <span class="text-stone-300">·</span>
+      <span>參與 <span class="font-semibold text-stone-800">{g0vRonnyCount}</span> 場 g0v 大松</span>
+      <span class="text-stone-300">·</span>
+      <span><span class="font-semibold text-stone-800">{yearMin}–{yearMax}</span></span>
+    </div>
   </section>
 
-  <!-- Featured stories -->
-  {featured.length > 0 && (
-    <section class="mb-12">
-      <h2 class="text-xl font-bold text-stone-800 mb-5">精選故事</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-        {featured.map(s => <RepoCard story={s} />)}
-      </div>
-    </section>
-  )}
+  <!-- 代表作 -->
+  <section class="mb-12">
+    <h2 class="text-sm font-mono text-stone-400 uppercase tracking-widest mb-5">代表作</h2>
+    <div class="space-y-3">
+      {featuredStories.map(({ slug, era, eraColor, highlight, story }) => (
+        <a href={`${base}/repo/${slug}`}
+           class="flex gap-5 items-start border border-stone-200 rounded-xl p-5 bg-white hover:shadow-sm hover:border-stone-300 transition-all group">
+          <div class="w-28 shrink-0 pt-0.5">
+            <span class={`text-xs font-medium ${eraColor}`}>{era}</span>
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center gap-2 mb-1">
+              <code class="font-bold text-stone-900 group-hover:text-indigo-600 transition-colors">{slug}</code>
+              {story.title && story.title !== slug && (
+                <span class="text-stone-500 text-sm">— {story.title}</span>
+              )}
+            </div>
+            <p class="text-sm text-stone-500">{highlight}</p>
+          </div>
+          <span class="text-stone-300 group-hover:text-stone-500 shrink-0 mt-1">→</span>
+        </a>
+      ))}
+    </div>
+  </section>
 
-  <!-- Recent stories -->
-  {stories.length > 0 && (
-    <section>
-      <div class="flex items-center justify-between mb-5">
-        <h2 class="text-xl font-bold text-stone-800">最新故事</h2>
-        <a href={`${import.meta.env.BASE_URL}/timeline`} class="text-sm text-indigo-600 hover:underline">查看全部時間軸 →</a>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {stories.slice(0, 9).map(s => <RepoCard story={s} />)}
-      </div>
-    </section>
-  )}
+  <!-- 主題探索 -->
+  <section class="mb-12">
+    <h2 class="text-sm font-mono text-stone-400 uppercase tracking-widest mb-5">探索主題</h2>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+      {themePaths.map(t => (
+        <a href={t.href}
+           class={`border rounded-xl p-4 bg-white hover:shadow-sm transition-all group ${t.color}`}>
+          <div class="text-2xl mb-2">{t.icon}</div>
+          <div class="font-semibold text-stone-800 text-sm mb-1">{t.label}</div>
+          <div class="text-xs text-stone-400 leading-relaxed">{t.desc}</div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- 更多故事 -->
+  <section>
+    <div class="flex items-center justify-between mb-5">
+      <h2 class="text-sm font-mono text-stone-400 uppercase tracking-widest">更多故事</h2>
+      <a href={`${base}/timeline`} class="text-sm text-indigo-600 hover:underline">全部時間軸 →</a>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
+      {otherStories.map(s => (
+        <a href={`${base}/repo/${s.slug}`}
+           class="flex items-start gap-3 p-3 rounded-lg hover:bg-stone-100 transition-colors group">
+          <span class="text-xs text-stone-400 font-mono mt-0.5 w-10 shrink-0">{s.date?.slice(0, 4)}</span>
+          <div class="flex-1 min-w-0">
+            <span class="font-medium text-stone-800 group-hover:text-indigo-600 transition-colors text-sm">{s.slug}</span>
+            {s.title && s.title !== s.slug && (
+              <span class="text-stone-400 text-sm ml-1.5">{s.title}</span>
+            )}
+            {s.summary && (
+              <p class="text-xs text-stone-400 mt-0.5 line-clamp-1">{s.summary}</p>
+            )}
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
 </BaseLayout>
