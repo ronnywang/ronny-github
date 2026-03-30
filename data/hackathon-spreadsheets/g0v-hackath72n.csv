@@ -15,72 +15,89 @@ Recruitment (talents?)","坑主聯絡方式
 Project Lead Contact Info",youtube url: 專案報告 或是 預錄影片,youtube url: 成果報告,youtube title
 10:20-10:30 報到 Check-in,,,,,,,,,,,,,,,,,,
 ,早餐,,"早餐：
-．趙家燒餅＋晨酌咖啡美式
-．廣仔虱目魚丸 魚皮湯(有漿)＋司目魚水餃
-．素:清祺素食點心部
-飲料：公館手作_桑葚檸檬、康堤紅茶、輕烏龍",,,,,,,,,,,,,,,
+．趙家燒餅油條＋蛋
+．廣仔虱目魚丸（魚皮湯＋虱目魚水餃）
+飲料：
+．晨酌咖啡 美式
+．公館手作_康堤紅茶、輕烏龍",,,"Breakfast
+．Zhao’s Shaobing: Clay oven rolls with fried bread sticks (You-tiao) and egg.
+．Guang-Zai Milkfish Balls: Fish skin soup and milkfish dumplings.
+Drinks
+．Morning Pour Coffee (晨酌咖啡): Americano.
+．Gong Guan Handcrafted Tea: Kandy black tea and light oolong tea.",,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 "10:30-11:00 Event Introduction and Important Reminders 
 活動開場，並介紹 g0v 黑客松與公民科技社群、 g0v 行為守則提醒",,,,,,,,,,,,,,,,,,
-0,10:30,,揪松團 Jothon,in person 實體出席,Y,"活動介紹簡報
-Slide ",https://docs.google.com/presentation/d/1O5gVGzIOoPoBX8QF5vNmahaSQm4mL6I9T-pA7qy9hnE/edit?usp=sharing,,,,,,,,,,,g0v tw hackath72n — 提案 — https://docs.google.com/presentation/d/1O5gVGzIOoPoBX8QF5vNmahaSQm4mL6I9T-pA7qy9hnE/edit?usp=sharing ／ 揪松團 Jothon —  — 新源意碼大造化黑客松
-,,,,,,"介紹 AI 培力
-學習資源",https://g0v.hackmd.io/@jothon/ai,,,,,,,,,,,g0v tw hackath72n — 提案 — 
-,,,,,,"感謝本次合作單位：稚葉社創、好想工作室
-感謝本次大松之友贊助單位：開放政府國際交流團",,,,,,,,,,,, — 新源意碼大造化黑客松
+0,10:30,,揪松團 Jothon,in person 實體出席,Y,"活動介紹簡報 Slide
+https://docs.google.com/presentation/d/1O5gVGzIOoPoBX8QF5vNmahaSQm4mL6I9T-pA7qy9hnE/edit?usp=sharing ",,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／ 揪松團 Jothon —  — 新源意碼大造化黑客松
+,,,,,,"介紹 AI 培力學習資源
+https://g0v.hackmd.io/@jothon/ai",,,,,,,,,,,,g0v tw hackath72n — 提案 — 
+,,,,,,"感謝本次活動志工：https://g0v.hackmd.io/@jothon/g0v-hackath72n/https%3A%2F%2Fg0v.hackmd.io%2FmsOc-1-ZTnGCHJys5Z45Vg%3Fview
+感謝本次合作單位：好想工作室、稚葉社創
+感謝本次大松之友贊助單位：OGP 開放政府國際交流團隊",,,,,,,,,,,, — 新源意碼大造化黑客松
 11:00 Proposal Time【提案時間】每個 present 3mins，提案、徵人。,,,,,,,,,,,,,,,,,,
 ＊無法實體出席者，建議以預錄影片提案。並將提案影片連結填在欄位「O：youtube url 或是 預錄影片」,,,,,,,,,,,,,,,,,,
 1,11:00,,,,,,,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／  — 新源意碼大造化黑客松
 2,11:03,,chewei,in person 實體出席,Y,N,好連街 GDP _ Good District Path,介紹街區界定與道路分級構想,CC-by,https://g0v.hackmd.io/@chewei/GDP,,Y,"街區,道路分級,人本交通",歡迎參加並探討自己的街區轉型機會,"FB 社團 https://www.facebook.com/groups/474536628587982
 g0v Slack #好連街_gdp_good-district-path-生活路徑營造",,,g0v tw hackath72n — 提案 — 好連街 GDP _ Good District Path ／ chewei — 新源意碼大造化黑客松
-3,11:06,,,,,,,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／  — 新源意碼大造化黑客松
-4,11:09,,Peter ,in person 實體出席,Y,N,NewsAgora：及時議題討論與回應框架,結合 AI 的自動化 line bot 與 polis 實作,CC BY 4.0,https://g0v.hackmd.io/@bestian/ByWPGq7jZg,,,,,,,,g0v tw hackath72n — 提案 — NewsAgora：及時議題討論與回應框架 ／ Peter  — 新源意碼大造化黑客松
-5,11:12,,SeanGau,in person 實體出席,Y,N,OpenTransLive,開源即時翻譯框架,AGPL-3.0,,g0v/OpenTransLive,,AI、翻譯、基礎建設,,g0v Slack @SeanGau,,,g0v tw hackath72n — 提案 — OpenTransLive ／ SeanGau — 新源意碼大造化黑客松
-6,11:15,,"Dong, 揪松團",in person 實體出席,Y,N,Civic Tech Guide TW,建立公民科技及數位工具應用指南與支持網絡,CC BY 4.0,https://g0v.hackmd.io/@jothon/guide,"https://g0v.hackmd.io/@jothon/guide
-https://g0v.hackmd.io/@Dong/H1NKQWQLWl",Y,公民科技資料庫、專案指南、資料整合,,g0v Slack @Dong,,,"g0v tw hackath72n — 提案 — Civic Tech Guide TW ／ Dong, 揪松團 — 新源意碼大造化黑客松"
-7,11:18,,Ronny,in person 實體出席,Y,N,mastdon bridge bbs,過去的多中心連結現代的多中心,BSD,,,,,,,,,g0v tw hackath72n — 提案 — mastdon bridge bbs ／ Ronny — 新源意碼大造化黑客松
-8,11:21,,,,,,,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／  — 新源意碼大造化黑客松
+3,11:06,,SeanGau,in person 實體出席,Y,N,OpenTransLive,開源即時翻譯框架,AGPL-3.0,g0v/OpenTransLive,https://transcribe.g0v.tw/rt/unit-test-gitlab-hook-1774752228,,AI、翻譯、基礎建設,,g0v Slack @SeanGau,,,g0v tw hackath72n — 提案 — OpenTransLive ／ SeanGau — 新源意碼大造化黑客松
+4,11:09,,Peter ,in person 實體出席,Y,N,NewsAgora：及時議題討論與回應框架,結合 AI 的自動化 line bot 與 polis 實作,CC BY 4.0,https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/rkgJcFqfoZl,https://docs.google.com/presentation/d/1hWP3HdfLr9f56WOVvJEMfF3zXXgBFKY_qbGnrDehKTY/edit?usp=sharing,Y,AI、數位討論、意見徵集,"對於 LINE Bot 架設有心得的人
+利用 AI 結合實作的功能","g0v slack @peter, #vtaiwan",,,g0v tw hackath72n — 提案 — NewsAgora：及時議題討論與回應框架 ／ Peter  — 新源意碼大造化黑客松
+5,11:12,,,in person 實體出席,,,,,,,,,,,,,,g0v tw hackath72n — 提案 — OpenTransLive ／ SeanGau — 新源意碼大造化黑客松
+6,11:15,,"Dong, 揪松團",in person 實體出席,Y,N,Civic Tech Guide TW,建立公民科技及數位工具應用指南與支持網絡,CC BY 4.0,https://g0v.hackmd.io/@jothon/guide,https://g0v.hackmd.io/@Dong/H1NKQWQLWl,Y,公民科技資料庫、專案指南、資料整合,,"g0v Slack @Dong
+#g0v-database-專案清單-基礎建設清單",,,"g0v tw hackath72n — 提案 — Civic Tech Guide TW ／ Dong, 揪松團 — 新源意碼大造化黑客松"
+7,11:18,,Ronny,in person 實體出席,Y,N,mastdon bridge bbs,過去的多中心連結現代的多中心,BSD,https://g0v.hackmd.io/jrKbN2M1T0C1R22P2jxMzw,https://docs.google.com/presentation/d/11Dd5THihnRFZjQnNfcrzv0j3rewlJQlfAy6UZwfV_y0/edit?usp=sharing,,,,,,,g0v tw hackath72n — 提案 — mastdon bridge bbs ／ Ronny — 新源意碼大造化黑客松
+8,11:21,,Percy,in person 實體出席,Y,Y,HePai | 合拍,彌平音樂教育不平等的一小步,CC-BY-NC-SA,https://app.slack.com/client/T02G2SXKM/C09QQEHGYJU,https://docs.google.com/presentation/d/10mQZJDc0mtsVQmg7JBOy0ypIPY24Vewr/edit?slide=id.p1#slide=id.p1,,音樂、教育、即時偵錯,,,,,g0v tw hackath72n — 提案 — HePai | 合拍 ／ Percy — 新源意碼大造化黑客松
 9,11:24,,,,,,,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／  — 新源意碼大造化黑客松
 10,11:27,,,,,,,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／  — 新源意碼大造化黑客松
-11,11:30,,,,,,,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／  — 新源意碼大造化黑客松
-12,11:33,,,,,,,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／  — 新源意碼大造化黑客松
-13,11:36,,,,,,,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／  — 新源意碼大造化黑客松
-14,11:39,,,,,,,,,,,,,,,,,g0v tw hackath72n — 提案 —  ／  — 新源意碼大造化黑客松
+11,11:30,,Battie,in person 實體出席,Y,Y,技能導航：解決我們對『未知無能』的恐懼,現在的校園系統（如 NCKU Success）只記錄了學分，卻沒記錄「能力」。大學生往往處於「無意識的無能」，直到面臨求職的斷崖（The Hidden Cliff），才突然產生巨大的焦慮。這種「覺醒」通常來得太晚。,CC BY 4.0,https://hackmd.io/WzYECTG0RX2LqVUfkxafvw?view,https://www.canva.com/design/DAHFS12z65M/blWHv6pU7IX914BdW3FsWQ/view?utm_content=DAHFS12z65M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc6f8e15c41,Y,未來工作 (Future of Work) / 行為設計 / 終身學習,,,,,g0v tw hackath72n — 提案 — 技能導航：解決我們對『未知無能』的恐懼 ／ Battie — 新源意碼大造化黑客松
+12,11:33,,chihao,in person 實體出席,Y,N,FtO Seoul 2026,港台日韓公民科技協作網絡,CC BY 4.0,https://g0v.hackmd.io/@fto/book/,https://docs.google.com/presentation/d/1FSBTrqiuqngX_ptujUCImlyLAMGnb1CDg_ozrCbYH3o/edit?slide=id.g3d337913afc_0_285#slide=id.g3d337913afc_0_285,Y,,,,,,g0v tw hackath72n — 提案 — FtO Seoul 2026 ／ chihao — 新源意碼大造化黑客松
+13,11:36,,Mel & Peter,in person 實體出席,Y,N,JoinIN,Civic Tech / Participation UX,CC BY 4.0,,https://canva.link/k99tcz0v8z6ef0l,,"Conversational UX · Accessible Participation · Common Ground/ 
+對話式介面 · 降低參與門檻 · 共識",,"g0v slack @peter, #vtaiwan",,,g0v tw hackath72n — 提案 — JoinIN ／ Mel & Peter — 新源意碼大造化黑客松
+14,11:39,,OGP 開放政府夥伴關係 2025 臺灣國際交流小組,in person 實體出席,Y,N,如何從OGP到TOGP,去國際會議開會的啟發有機會落實回台灣長出新的專案嗎?,CC BY 4.0,,https://drive.google.com/file/d/1sH68-0bnoenDbTTFHoMVgkBt7m_pl9vL/view?usp=sharing,,OGP、新的公共對話、混亂中定錨,設計思考、專案執行、工程師??,g0v slack @urda,,,g0v tw hackath72n — 提案 — 如何從OGP到TOGP ／ OGP 開放政府夥伴關係 2025 臺灣國際交流小組 — 新源意碼大造化黑客松
 15,11:42,,chewei,in person 實體出席,Y,N,零時小學校專案孵化計畫 Sch001_NEST ,4/12 十組專案成果發表與論壇「AI 與公民科技」,CC-by,https://g0v.hackmd.io/@jothon/nest,,Y,"專案孵化,數位公民,AI","回饋「AI 與公民科技」相關想法, 瀏覽十個專案","g0v Slack #edu
 FB 社團 https://www.facebook.com/groups/240879797438433",,,g0v tw hackath72n — 提案 — 零時小學校專案孵化計畫 Sch001_NEST  ／ chewei — 新源意碼大造化黑客松
 ,,,== 截止 ==,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 12:00-16:30【自由分組實作】,,,,,,,,,,,,,,,,,,
-,午餐,,"．8818 炸雞 (炸雞多一點、PIZZA少一點)
-．七誠米粿 (招牌 + 炸雞
-．阿龍香腸熟肉 (拼盤)
-．素:長春健康素食",,,,,,,,,,,,,,,
-,下午點心,,"．(原水仙宮) 高麗菜盒子 韭菜盒子 豬肉饀餅
+,午餐,,"．8818炸雞：炸雞桶
+．PIZZA 海鮮＋什錦
+．阿龍香腸熟肉
+．清祺素食點心部",,"Lunch
+．8818 Pizza Restaurant: Fried chicken bucket.
+．Pizza: Seafood and deluxe (combination) flavors.
+．A-Long Sausage & Cooked Meats: (Traditional Tainan-style O-ren / deli plate).
+．Ching-Chi Vegetarian Dim Sum: Assorted vegetarian snacks and buns.",,,,,,,,,,,,,
+,下午點心,,"．Howard  炸薯條
 ．台灣番薯丸地瓜球
-．黑工號 (原味)",,,,,,,,,,,,,,,
+．黑工號 嫩仙草 (原味)",,"Afternoon Snacks
+．Taiwan Sweet Potato Balls: Fried sweet potato balls.
+．Hei-Gong-Hao Grass Jelly: Signature smooth grass jelly (original flavor).",,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 14:00-14:30【Project Tour 專案導覽團】,,,,,,,,,,,,,,,,,,
 ,,,"散步走走助消化
 帶你走訪今天的每一個專案",,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 15:00-15:30【Talk 短講】每個 talk 8mins,,,,,,,,,,,,,,,,,,
-1,15:00,,,,,,,,,,,,,,,,,g0v tw hackath72n — 短講 —  ／  — 新源意碼大造化黑客松
-2,15:08,,,,,,,,,,,,,,,,,g0v tw hackath72n — 短講 —  ／  — 新源意碼大造化黑客松
-3,15:16,,,,,,,,,,,,,,,,,g0v tw hackath72n — 短講 —  ／  — 新源意碼大造化黑客松
+1,15:00,,Peter,in person 實體出席,Y,,vtaiwan ,"ICANN 85, TWSIG, 以及網路韌性",CC BY 4.0,https://app.heptabase.com/p/whiteboard/75d5e154-3016-4906-8bcd-f5f0c5c50b7f,https://docs.google.com/presentation/d/1dd7AFpcJhWG-Aj7oOrC-bUji-_EeUCwc5qf5eaQKjGE/edit?usp=sharing,Y,"TWSIG, 網域",歡迎大家報名 ICANN 87 的 fellow! ,,,,"g0v tw hackath72n — 短講 — ICANN 85, TWSIG, 以及網路韌性 ／ Peter — 新源意碼大造化黑客松"
+2,15:08,,Mel,in person 實體出席,Y,,JoinIn,AcceciIble UX ,CC BY 4.0,https://canva.link/k99tcz0v8z6ef0l,,Y,Conversational UX · Accessible Participation · Common Ground/,,,,,g0v tw hackath72n — 短講 — JoinIn ／ Mel — 新源意碼大造化黑客松
+3,15:16,,A4,in person 實體出席,Y,,開源政策軌,"COSCUP 2026 開源政策軌徵稿囉！
+",CC BY 4.0,https://docs.google.com/presentation/d/1LXtb-1U6U8O10Rv-KLFVD0B47Rtpc6ypGrN1UpMmscI/edit?usp=sharing,https://docs.google.com/presentation/d/1LXtb-1U6U8O10Rv-KLFVD0B47Rtpc6ypGrN1UpMmscI/edit?usp=sharing,Y,對話式介面 · 降低參與門檻 · 共識,投稿的人,Slack @A4,,,"g0v tw hackath72n — 短講 — COSCUP 2026 開源政策軌徵稿囉！
+ ／ A4 — 新源意碼大造化黑客松"
 4,15:24,,,,,,,,,,,,,,,,,g0v tw hackath72n — 短講 —  ／  — 新源意碼大造化黑客松
 ,,,,,,,,,,,,,,,,,,
 16:30 Present project【成果報告】 每個 present 5mins，可視 project 數量和剩餘時間調整,,,,,,,,,,,,,,,,,,
 1,16:30,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
-2,16:35,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
-3,16:40,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
-4,16:45,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
+2,16:35,,SeanGau,in person 實體出席,Y,,g0v summit 2026,議程&官網 3/30 即將上線，早鳥票要結束了要買要快！,,,https://g0v.github.io/summit2026/,,"g0v, summit, 2026",,,,,g0v tw hackath72n — 成果報告 — g0v summit 2026 ／ SeanGau — 新源意碼大造化黑客松
+3,16:40,,Percy,in person 實體出席,Y,,文字顯示器,如何在 g0v 大松會場幫主辦單位節省一張紙,,,https://docs.google.com/presentation/d/1_4iSS0hwBSBincXdgdG9K4wadiwa1jGpd0PzcyqWFuc/edit?usp=sharing,,環保、電子桌牌、無聊時做的 Side Project,,Slack 謙(Percy Huang),,,g0v tw hackath72n — 成果報告 — 文字顯示器 ／ Percy — 新源意碼大造化黑客松
+4,16:45,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／ Peter — 新源意碼大造化黑客松
 5,16:50,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
-6,16:55,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
-7,17:00,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
-8,17:05,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
-9,17:10,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
-10,17:15,,,,,,,,,,,,,,,,,g0v tw hackath72n — 成果報告 —  ／  — 新源意碼大造化黑客松
-11,17:20,,揪松團,,,,零世代資金池公布,零世代資金池公布 + 請填寫影響力問卷,,,,Y,,,,,,g0v tw hackath72n — 成果報告 — 零世代資金池公布 ／ 揪松團 — 新源意碼大造化黑客松
+6,16:55,,"chewei, 揪松團",in person 實體出席,Y,,AI 與公民科技,COSCUP 議程徵稿,,https://g0v.hackmd.io/@jothon/ai/,,Y,"AI, 公民科技, 蒐集議程與想法",,,,,"g0v tw hackath72n — 成果報告 — AI 與公民科技 ／ chewei, 揪松團 — 新源意碼大造化黑客松"
+7,17:00,,Ronny,in person 實體出席,Y,,立委的 mastodon 帳號,立委的 mastodon 帳號,BSD,https://g0v.hackmd.io/jrKbN2M1T0C1R22P2jxMzw,https://docs.google.com/presentation/d/11Dd5THihnRFZjQnNfcrzv0j3rewlJQlfAy6UZwfV_y0/edit?usp=sharing,,,,,,,g0v tw hackath72n — 成果報告 — 立委的 mastodon 帳號 ／ Ronny — 新源意碼大造化黑客松
+8,17:05,,"台南大學問題分析與決策課程同學們, chewei",in person 實體出席,Y,,TPASS 探討,,,https://g0v.hackmd.io/@chewei/counter,,Y,TPASS,,,,,"g0v tw hackath72n — 成果報告 — TPASS 探討 ／ 台南大學問題分析與決策課程同學們, chewei — 新源意碼大造化黑客松"
+9,17:10,,Peter,in person 實體出席,Y,,,,,,https://docs.google.com/presentation/d/1hWP3HdfLr9f56WOVvJEMfF3zXXgBFKY_qbGnrDehKTY/edit?usp=sharing,,,,,,,#REF!
+10,17:15,,Battie,in person 實體出席,Y,Y,fovy：重塑人才經濟的策略卡牌遊戲,告別傳統履歷的單向投遞。用時間與精力的「投資與取捨」，協助人才釐清市場定位，同時為企業建立高精準度的篩選機制。,CC BY 4.0,https://hackmd.io/WzYECTG0RX2LqVUfkxafvw?both,https://www.canva.com/design/DAHFS12z65M/blWHv6pU7IX914BdW3FsWQ/view?utm_content=DAHFS12z65M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc6f8e15c41,,遊戲化媒合、機會成本、雙邊市場,開發人員,https://linktr.ee/chingweichen,,,g0v tw hackath72n — 成果報告 — fovy：重塑人才經濟的策略卡牌遊戲 ／ Battie — 新源意碼大造化黑客松
+11,17:20,,揪松團,,,,零世代資金池公布,零世代資金池公布 + 請填寫影響力問卷,,,https://qv.seangau.xyz/event/7a8dab34-abd1-4e24-9fa8-d5cb6bf414d7,Y,,,,,,g0v tw hackath72n — 成果報告 — 零世代資金池公布 ／ 揪松團 — 新源意碼大造化黑客松
 ,"✨ 填寫影響力問卷 ✍️
 g0v Participation Satisfaction 
 and Impact Survey",,,中文版 https://bit.ly/0123g0vsurvey,,,,,,,,,,,,,,

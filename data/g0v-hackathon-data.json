@@ -24171,10 +24171,15 @@
     "num": 72,
     "date": "2026-03-29",
     "name": "新源意碼大造化黑客松",
-    "proposals_count": 7,
-    "lightning_count": 0,
-    "reports_count": 1,
+    "proposals_count": 14,
+    "lightning_count": 3,
+    "reports_count": 10,
     "proposals": [
+      {
+        "time": "早餐",
+        "presenter": "早餐：\n．趙家燒餅油條＋蛋\n．廣仔虱目魚丸（魚皮湯＋虱目魚水餃）\n飲料：\n．晨酌咖啡 美式\n．公館手作_康堤紅茶、輕烏龍",
+        "seq": 1
+      },
       {
         "time": "10:30",
         "presenter": "揪松團 Jothon",
@@ -24194,23 +24199,32 @@
         "seq": 2
       },
       {
+        "time": "11:06",
+        "presenter": "SeanGau",
+        "form": "in person 實體出席",
+        "project": "OpenTransLive",
+        "topic": "開源即時翻譯框架",
+        "slides": "https://transcribe.g0v.tw/rt/unit-test-gitlab-hook-1774752228",
+        "license": "AGPL-3.0",
+        "brief": "AI、翻譯、基礎建設",
+        "seq": 3
+      },
+      {
         "time": "11:09",
         "presenter": "Peter",
         "form": "in person 實體出席",
         "project": "NewsAgora：及時議題討論與回應框架",
         "topic": "結合 AI 的自動化 line bot 與 polis 實作",
-        "hackmd": "https://g0v.hackmd.io/@bestian/ByWPGq7jZg",
+        "hackmd": "https://g0v.hackmd.io/@Pno233SAS8G5UfL5OvSRmA/rkgJcFqfoZl",
+        "slides": "https://docs.google.com/presentation/d/1hWP3HdfLr9f56WOVvJEMfF3zXXgBFKY_qbGnrDehKTY/edit?usp=sharing",
         "license": "CC BY 4.0",
+        "brief": "AI、數位討論、意見徵集",
+        "manpower": "對於 LINE Bot 架設有心得的人\n利用 AI 結合實作的功能",
         "seq": 4
       },
       {
         "time": "11:12",
-        "presenter": "SeanGau",
         "form": "in person 實體出席",
-        "project": "OpenTransLive",
-        "topic": "開源即時翻譯框架",
-        "license": "AGPL-3.0",
-        "brief": "AI、翻譯、基礎建設",
         "seq": 5
       },
       {
@@ -24220,7 +24234,7 @@
         "project": "Civic Tech Guide TW",
         "topic": "建立公民科技及數位工具應用指南與支持網絡",
         "hackmd": "https://g0v.hackmd.io/@jothon/guide",
-        "slides": "https://g0v.hackmd.io/@jothon/guide\nhttps://g0v.hackmd.io/@Dong/H1NKQWQLWl",
+        "slides": "https://g0v.hackmd.io/@Dong/H1NKQWQLWl",
         "license": "CC BY 4.0",
         "brief": "公民科技資料庫、專案指南、資料整合",
         "seq": 6
@@ -24231,8 +24245,68 @@
         "form": "in person 實體出席",
         "project": "mastdon bridge bbs",
         "topic": "過去的多中心連結現代的多中心",
+        "hackmd": "https://g0v.hackmd.io/jrKbN2M1T0C1R22P2jxMzw",
+        "slides": "https://docs.google.com/presentation/d/11Dd5THihnRFZjQnNfcrzv0j3rewlJQlfAy6UZwfV_y0/edit?usp=sharing",
         "license": "BSD",
         "seq": 7
+      },
+      {
+        "time": "11:21",
+        "presenter": "Percy",
+        "form": "in person 實體出席",
+        "project": "HePai | 合拍",
+        "topic": "彌平音樂教育不平等的一小步",
+        "hackmd": "https://app.slack.com/client/T02G2SXKM/C09QQEHGYJU",
+        "slides": "https://docs.google.com/presentation/d/10mQZJDc0mtsVQmg7JBOy0ypIPY24Vewr/edit?slide=id.p1#slide=id.p1",
+        "license": "CC-BY-NC-SA",
+        "brief": "音樂、教育、即時偵錯",
+        "seq": 8
+      },
+      {
+        "time": "11:30",
+        "presenter": "Battie",
+        "form": "in person 實體出席",
+        "project": "技能導航：解決我們對『未知無能』的恐懼",
+        "topic": "現在的校園系統（如 NCKU Success）只記錄了學分，卻沒記錄「能力」。大學生往往處於「無意識的無能」，直到面臨求職的斷崖（The Hidden Cliff），才突然產生巨大的焦慮。這種「覺醒」通常來得太晚。",
+        "hackmd": "https://hackmd.io/WzYECTG0RX2LqVUfkxafvw?view",
+        "slides": "https://www.canva.com/design/DAHFS12z65M/blWHv6pU7IX914BdW3FsWQ/view?utm_content=DAHFS12z65M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc6f8e15c41",
+        "license": "CC BY 4.0",
+        "brief": "未來工作 (Future of Work) / 行為設計 / 終身學習",
+        "seq": 11
+      },
+      {
+        "time": "11:33",
+        "presenter": "chihao",
+        "form": "in person 實體出席",
+        "project": "FtO Seoul 2026",
+        "topic": "港台日韓公民科技協作網絡",
+        "hackmd": "https://g0v.hackmd.io/@fto/book/",
+        "slides": "https://docs.google.com/presentation/d/1FSBTrqiuqngX_ptujUCImlyLAMGnb1CDg_ozrCbYH3o/edit?slide=id.g3d337913afc_0_285#slide=id.g3d337913afc_0_285",
+        "license": "CC BY 4.0",
+        "seq": 12
+      },
+      {
+        "time": "11:36",
+        "presenter": "Mel & Peter",
+        "form": "in person 實體出席",
+        "project": "JoinIN",
+        "topic": "Civic Tech / Participation UX",
+        "slides": "https://canva.link/k99tcz0v8z6ef0l",
+        "license": "CC BY 4.0",
+        "brief": "Conversational UX · Accessible Participation · Common Ground/ \n對話式介面 · 降低參與門檻 · 共識",
+        "seq": 13
+      },
+      {
+        "time": "11:39",
+        "presenter": "OGP 開放政府夥伴關係 2025 臺灣國際交流小組",
+        "form": "in person 實體出席",
+        "project": "如何從OGP到TOGP",
+        "topic": "去國際會議開會的啟發有機會落實回台灣長出新的專案嗎?",
+        "slides": "https://drive.google.com/file/d/1sH68-0bnoenDbTTFHoMVgkBt7m_pl9vL/view?usp=sharing",
+        "license": "CC BY 4.0",
+        "brief": "OGP、新的公共對話、混亂中定錨",
+        "manpower": "設計思考、專案執行、工程師??",
+        "seq": 14
       },
       {
         "time": "11:42",
@@ -24247,13 +24321,131 @@
         "seq": 15
       }
     ],
-    "lightning": [],
+    "lightning": [
+      {
+        "time": "15:00",
+        "presenter": "Peter",
+        "form": "in person 實體出席",
+        "project": "vtaiwan",
+        "topic": "ICANN 85, TWSIG, 以及網路韌性",
+        "hackmd": "https://app.heptabase.com/p/whiteboard/75d5e154-3016-4906-8bcd-f5f0c5c50b7f",
+        "slides": "https://docs.google.com/presentation/d/1dd7AFpcJhWG-Aj7oOrC-bUji-_EeUCwc5qf5eaQKjGE/edit?usp=sharing",
+        "license": "CC BY 4.0",
+        "brief": "TWSIG, 網域",
+        "manpower": "歡迎大家報名 ICANN 87 的 fellow!",
+        "seq": 1
+      },
+      {
+        "time": "15:08",
+        "presenter": "Mel",
+        "form": "in person 實體出席",
+        "project": "JoinIn",
+        "topic": "AcceciIble UX",
+        "hackmd": "https://canva.link/k99tcz0v8z6ef0l",
+        "license": "CC BY 4.0",
+        "brief": "Conversational UX · Accessible Participation · Common Ground/",
+        "seq": 2
+      },
+      {
+        "time": "15:16",
+        "presenter": "A4",
+        "form": "in person 實體出席",
+        "project": "開源政策軌",
+        "topic": "COSCUP 2026 開源政策軌徵稿囉！",
+        "hackmd": "https://docs.google.com/presentation/d/1LXtb-1U6U8O10Rv-KLFVD0B47Rtpc6ypGrN1UpMmscI/edit?usp=sharing",
+        "slides": "https://docs.google.com/presentation/d/1LXtb-1U6U8O10Rv-KLFVD0B47Rtpc6ypGrN1UpMmscI/edit?usp=sharing",
+        "license": "CC BY 4.0",
+        "brief": "對話式介面 · 降低參與門檻 · 共識",
+        "manpower": "投稿的人",
+        "seq": 3
+      }
+    ],
     "reports": [
+      {
+        "time": "午餐",
+        "presenter": "．8818炸雞：炸雞桶\n．PIZZA 海鮮＋什錦\n．阿龍香腸熟肉\n．清祺素食點心部",
+        "seq": 1
+      },
+      {
+        "time": "下午點心",
+        "presenter": "．Howard  炸薯條\n．台灣番薯丸地瓜球\n．黑工號 嫩仙草 (原味)",
+        "seq": 2
+      },
+      {
+        "time": "16:35",
+        "presenter": "SeanGau",
+        "form": "in person 實體出席",
+        "project": "g0v summit 2026",
+        "topic": "議程&官網 3/30 即將上線，早鳥票要結束了要買要快！",
+        "slides": "https://g0v.github.io/summit2026/",
+        "brief": "g0v, summit, 2026",
+        "seq": 2
+      },
+      {
+        "time": "16:40",
+        "presenter": "Percy",
+        "form": "in person 實體出席",
+        "project": "文字顯示器",
+        "topic": "如何在 g0v 大松會場幫主辦單位節省一張紙",
+        "slides": "https://docs.google.com/presentation/d/1_4iSS0hwBSBincXdgdG9K4wadiwa1jGpd0PzcyqWFuc/edit?usp=sharing",
+        "brief": "環保、電子桌牌、無聊時做的 Side Project",
+        "seq": 3
+      },
+      {
+        "time": "16:55",
+        "presenter": "chewei, 揪松團",
+        "form": "in person 實體出席",
+        "project": "AI 與公民科技",
+        "topic": "COSCUP 議程徵稿",
+        "hackmd": "https://g0v.hackmd.io/@jothon/ai/",
+        "brief": "AI, 公民科技, 蒐集議程與想法",
+        "seq": 6
+      },
+      {
+        "time": "17:00",
+        "presenter": "Ronny",
+        "form": "in person 實體出席",
+        "project": "立委的 mastodon 帳號",
+        "hackmd": "https://g0v.hackmd.io/jrKbN2M1T0C1R22P2jxMzw",
+        "slides": "https://docs.google.com/presentation/d/11Dd5THihnRFZjQnNfcrzv0j3rewlJQlfAy6UZwfV_y0/edit?usp=sharing",
+        "license": "BSD",
+        "seq": 7
+      },
+      {
+        "time": "17:05",
+        "presenter": "台南大學問題分析與決策課程同學們, chewei",
+        "form": "in person 實體出席",
+        "project": "TPASS 探討",
+        "hackmd": "https://g0v.hackmd.io/@chewei/counter",
+        "brief": "TPASS",
+        "seq": 8
+      },
+      {
+        "time": "17:10",
+        "presenter": "Peter",
+        "form": "in person 實體出席",
+        "slides": "https://docs.google.com/presentation/d/1hWP3HdfLr9f56WOVvJEMfF3zXXgBFKY_qbGnrDehKTY/edit?usp=sharing",
+        "seq": 9
+      },
+      {
+        "time": "17:15",
+        "presenter": "Battie",
+        "form": "in person 實體出席",
+        "project": "fovy：重塑人才經濟的策略卡牌遊戲",
+        "topic": "告別傳統履歷的單向投遞。用時間與精力的「投資與取捨」，協助人才釐清市場定位，同時為企業建立高精準度的篩選機制。",
+        "hackmd": "https://hackmd.io/WzYECTG0RX2LqVUfkxafvw?both",
+        "slides": "https://www.canva.com/design/DAHFS12z65M/blWHv6pU7IX914BdW3FsWQ/view?utm_content=DAHFS12z65M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc6f8e15c41",
+        "license": "CC BY 4.0",
+        "brief": "遊戲化媒合、機會成本、雙邊市場",
+        "manpower": "開發人員",
+        "seq": 10
+      },
       {
         "time": "17:20",
         "presenter": "揪松團",
         "project": "零世代資金池公布",
         "topic": "零世代資金池公布 + 請填寫影響力問卷",
+        "slides": "https://qv.seangau.xyz/event/7a8dab34-abd1-4e24-9fa8-d5cb6bf414d7",
         "seq": 11
       }
     ]
