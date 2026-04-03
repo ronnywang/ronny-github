@@ -57,4 +57,6 @@ Level 1 實作了，Level N 是個持續挑戰的目標。
 
 ---
 
+**現在可以玩**：[paddingleft.com/junk-encoder](https://www.paddingleft.com/junk-encoder/)
+
 **提案共筆**：[g0v HackMD](https://g0v.hackmd.io/6lNfj-VeQYCW9dvKqG0SGQ)

@@ -50,3 +50,5 @@ hackath47n 當天的成果：
 這個命名來自英國 mySociety 的 **SayIt** 工具——一個把議會逐字稿轉成對話式介面的平台，讓密密麻麻的議事記錄變得像聊天紀錄一樣可以閱讀。
 
 lysayit 的「ly」是立法院（Legislative Yuan），「sayit」是這個概念的直接致敬。
+
+**線上查詢**：[ronnywang.github.io/lysayit](https://ronnywang.github.io/lysayit)
