@@ -23,7 +23,7 @@ related:
 
 2014 年 3 月，太陽花學運爆發，g0v 社群也在裡面動員。
 
-現場的訊息、分工協調、資源調度，大量透過 hackpad 傳遞。那幾天湧進的台灣使用者太多，hackpad 的伺服器撐不住了——為了台灣，hackpad 官方緊急加開伺服器應急。
+現場的訊息、分工協調、資源調度，大量透過 hackpad 傳遞。那幾天湧進的台灣使用者太多，hackpad 的伺服器撐不住了——為了台灣，hackpad 官方緊急加開伺服器應急。（[iThome 報導](https://www.ithome.com.tw/news/86832)）
 
 但同年三月，Dropbox 把 hackpad 收購了。社群繼續用，只是多了一份不確定感。
 
@@ -33,7 +33,7 @@ related:
 
 大多數服務關閉時，使用者能做的就是下載資料、然後失去服務。但 hackpad 的原始碼是開放的——有人 fork 出來叫 whackpad，在 GitHub 上。
 
-距離關站還有四十天，**2017 年 6 月 10 日**，g0v 揪松團緊急召集了一場「**搶救 g0v Hackpad 松**」，在 Mozilla Space 辦了半天的 hackathon，集合社群一起討論對策：要備份到哪裡、要用什麼工具、哪些 workspace 優先處理。
+距離關站還有四十天，**2017 年 6 月 10 日**，g0v 揪松團緊急召集了一場「[**搶救 g0v Hackpad 松**](https://g0v-jothon.kktix.cc/events/hackpadthon)」，在 Mozilla Space 辦了半天的 hackathon，集合社群一起討論對策：要備份到哪裡、要用什麼工具、哪些 workspace 優先處理。
 
 Ronny 在那段時間動手：
 
