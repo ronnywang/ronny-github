@@ -101,6 +101,15 @@ export function groupByYear(stories) {
     const year = s.date ? s.date.slice(0, 4) : 'unknown';
     if (!map[year]) map[year] = [];
     map[year].push(s);
+
+    // 如果有跨年的 updated，在 updated 那年也加一張「大更新」卡片
+    if (s.updated) {
+      const updatedYear = s.updated.slice(0, 4);
+      if (updatedYear !== year) {
+        if (!map[updatedYear]) map[updatedYear] = [];
+        map[updatedYear].push({ ...s, isUpdate: true });
+      }
+    }
   }
   return Object.entries(map)
     .sort((a, b) => b[0].localeCompare(a[0]))

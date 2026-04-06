@@ -8,6 +8,7 @@ const yearRange = !startYear ? '' :
   (!endLabel || endLabel === startYear) ? startYear :
   `${startYear}–${endLabel}`;
 const topics = Array.isArray(story.topics) ? story.topics.slice(0, 3) : [];
+const isUpdate = story.isUpdate === true;
 ---
 
 <a href={`${base}/repo/${story.slug}`}
@@ -18,7 +19,10 @@ const topics = Array.isArray(story.topics) ? story.topics.slice(0, 3) : [];
         <h3 class={`font-mono font-semibold text-stone-900 group-hover:text-indigo-700 transition-colors truncate ${compact ? 'text-sm' : 'text-base'}`}>
           {story.slug}
         </h3>
-        {story.isFork && (
+        {isUpdate && (
+          <span class="text-xs px-1.5 py-0.5 bg-emerald-100 text-emerald-700 rounded shrink-0">大更新</span>
+        )}
+        {!isUpdate && story.isFork && (
           <span class="text-xs px-1.5 py-0.5 bg-stone-100 text-stone-500 rounded shrink-0">fork</span>
         )}
       </div>
