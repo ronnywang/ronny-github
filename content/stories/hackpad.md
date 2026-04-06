@@ -4,6 +4,7 @@ org: "openfunltd"
 title: "hackpad.tw：讓歷史文件繼續活著"
 date: "2017-04-01"
 updated: "2026-04-05"
+milestone: "2026-04-05"
 topics: ["hackpad", "g0v", "太陽花", "基礎建設", "middle2"]
 language: "PHP"
 isFork: false

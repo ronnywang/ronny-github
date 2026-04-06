@@ -102,12 +102,12 @@ export function groupByYear(stories) {
     if (!map[year]) map[year] = [];
     map[year].push(s);
 
-    // 如果有跨年的 updated，在 updated 那年也加一張「大更新」卡片
-    if (s.updated) {
-      const updatedYear = s.updated.slice(0, 4);
-      if (updatedYear !== year) {
-        if (!map[updatedYear]) map[updatedYear] = [];
-        map[updatedYear].push({ ...s, isUpdate: true });
+    // 如果有 milestone 欄位且跨年，在 milestone 那年加一張「大更新」卡片
+    if (s.milestone) {
+      const milestoneYear = s.milestone.slice(0, 4);
+      if (milestoneYear !== year) {
+        if (!map[milestoneYear]) map[milestoneYear] = [];
+        map[milestoneYear].push({ ...s, isUpdate: true });
       }
     }
   }
